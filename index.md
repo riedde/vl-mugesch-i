@@ -1,15 +1,15 @@
 <!--
-author: Ihr Name
-email: ihre.email@uni.de
-version: 1.0.0
+author: Dennis Ried
+email: dennis.ried@musikwiss.uni-halle.de
+version: 0.1.0
 language: de
-narrator: Deutsch Female
-comment: Musikgeschichte des 17./18. Jahrhunderts - Eine interaktive OER
+narrator: Deutsch Male
+comment: Europäische Musikgeschichte im 17. und 18. Jahrhundert (BA-Modul: Musikgeschichte I) - Eine interaktive OER
 link: https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 script: https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 -->
 
-# Musikgeschichte des 17./18. Jahrhunderts
+# Europäische Musikgeschichte im 17. und 18. Jahrhundert (BA-Modul: Musikgeschichte I)
 
 > Eine vernetzte Darstellung der musikalischen Entwicklungen vom späten 16. bis zum späten 18. Jahrhundert
 
