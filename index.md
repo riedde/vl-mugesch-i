@@ -38,9 +38,9 @@ Personen sind durchgehend verlinkt - klicken Sie auf Namen, um biografische Deta
 
 | Name | Lebensdaten | Hauptwirkungsort | Bedeutung |
 |------|-------------|------------------|-----------|
-| [Giovanni Gabrieli](personen/gabrieli_giovanni.md) | ca. 1557-1612 | Venedig | Mehrchörigkeit, Instrumentalmusik |
-| [Claudio Monteverdi](personen/monteverdi_claudio.md) | 1567-1643 | Mantua, Venedig | Übergang Renaissance/Barock, Oper |
-| [Heinrich Schütz](personen/schuetz_heinrich.md) | 1585-1672 | Dresden | Deutsche Barockmusik, geistliche Werke |
+| [Giovanni Gabrieli](http://localhost:8000/liascript/index.html?http://localhost:8000/personen/gabrieli_giovanni.md) | ca. 1557-1612 | Venedig | Mehrchörigkeit, Instrumentalmusik |
+| [Claudio Monteverdi](http://localhost:8000/liascript/index.html?http://localhost:8000/personen/monteverdi_claudio.md) | 1567-1643 | Mantua, Venedig | Übergang Renaissance/Barock, Oper |
+| [Heinrich Schütz](http://localhost:8000/liascript/index.html?http://localhost:8000/personen/schuetz_heinrich.md) | 1585-1672 | Dresden | Deutsche Barockmusik, geistliche Werke |
 
 ## Interaktive Elemente
 
