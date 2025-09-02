@@ -12,9 +12,9 @@ DateFormat: german-middle
 ---
 
 <!--
-@Vorlesungsplan
+@vorlesungsplan
 | Sitzung | Datum | Thema | Personen |
-|---------|--------|--------| ------- | 
+|:---------:|:--------|:--------|:-------| 
 | 1 | 22.10.2025 | Organisatorisches / Probleme der Musikgeschichtsschreibung | Sprache & Musik; Ein-, Vielstimmigkeit |
 | 2 | 29.10.2025 | Um das Jahr 1600 / Barock als Begriff | Gabrieli, Dufay, Josquin |
 | 3 | 05.11.2025 | Monodie / Entstehung der Oper / Seconda prattica | Monteverdi |
