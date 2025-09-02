@@ -1,0 +1,12 @@
+<!--
+author: Dennis Ried
+email: dennis.ried@musikwiss.uni-halle.de
+version: 1.0.0
+language: de
+narrator: Deutsch Female
+comment: Schulen (Mannheim/Berlin/Wien) (Sitzung 10)
+-->
+
+# Schulen (Mannheim/Berlin/Wien)
+
+...
