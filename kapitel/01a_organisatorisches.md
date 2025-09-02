@@ -6,8 +6,7 @@ language: de
 narrator: Deutsch Female
 comment: Organisatorisches (Sitzung 1)
 mode: Presentation
-import: http://localhost:8001/kapitel/VL_MuGesch-I_Sitzungstermine.md
-        https://raw.githubusercontent.com/LiaTemplates/citations/main/README.md
+import: https://raw.githubusercontent.com/LiaTemplates/citations/main/README.md
 -->
 
 # Organisatorisches
@@ -15,8 +14,6 @@ import: http://localhost:8001/kapitel/VL_MuGesch-I_Sitzungstermine.md
 * Dozent
 * Struktur der Vorlesung
 * Prüfungsmodalitäten
-
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vTwO19Yce1qNLz2SbNyJs0eJ3RcqHdnjjuODJ2pv0VugJLgbJ2lP07T7H1EZhZ-rdqU6LuFoOTCWGZ6&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Zur Person
 

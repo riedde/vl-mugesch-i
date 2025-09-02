@@ -1,15 +1,4 @@
----
-Author: Jun.-Prof. Dr. Dennis Ried
-Date: 2025-08-24
-DateFormat: german-middle
----
-# Musikgeschichte des 17. und 18. Jahrhunderts (Musikgeschichte I)
-**Veranstaltungsart:** Vorlesung
-**Semester:** WS 2025/26
-**Zeit:** Mi, 10:15–11:45 Uhr
-**Raum:** 471
-
----
+# Snippets
 
 <!--
 @vorlesungsplan
@@ -34,3 +23,5 @@ DateFormat: german-middle
 
 @end
 -->
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vTwO19Yce1qNLz2SbNyJs0eJ3RcqHdnjjuODJ2pv0VugJLgbJ2lP07T7H1EZhZ-rdqU6LuFoOTCWGZ6&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
