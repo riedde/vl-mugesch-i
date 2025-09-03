@@ -6,7 +6,10 @@ language: de
 narrator: Deutsch Female
 comment: Organisatorisches (Sitzung 1)
 mode: Presentation
+tags: orga
+logo: @icon
 import: https://raw.githubusercontent.com/LiaTemplates/citations/main/README.md
+import: https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/index.md
 -->
 
 # Organisatorisches
@@ -15,28 +18,38 @@ import: https://raw.githubusercontent.com/LiaTemplates/citations/main/README.md
 * Struktur der Vorlesung
 * Prüfungsmodalitäten
 
-## Zur Person
+## Dozent
 
-[timeline]
 * 2010-2017 : Germanistik B.A.
-  * Karlsruher Institut für Technologie (KIT)
+
+    * Karlsruher Institut für Technologie (KIT)
+
 * 2017-2019 : Musikwissenschaft B.A./M.A.
-  * Hochschule für Musik Karlsruhe
+
+    * Hochschule für Musik Karlsruhe
+
 * 2019-2021 : Wissenschaftlicher Mitarbeiter
-  * Max-Reger-Institut Karlsruhe
-  * Reger-Werkausgabe (Editor und Herausgeber)
+
+    * Max-Reger-Institut Karlsruhe
+
+    * Reger-Werkausgabe (Editor und Herausgeber)
+
 * 2021-2024 : Wissenschaftlicher Mitarbeiter
-  * Universität Paderborn
-  * Hans Werner Henze: Digitale Briefedition
-* 2023 : Promotion
-  * Dr. phil. an der Hochschule für Musik Karlsruhe
-* 2024 : Berufung
-  * Ruf (W1) der Martin-Luther-Universität Halle-Wittenberg
-* 2025- : Juniorprofessur
-  * Musikwissenschaft mit Schwerpunkt Musikedition und Digital Humanities
-  * Mitarbeiter Hallische Händelausgabe (_Hercules_)
+
+    * Universität Paderborn
+
+    * Hans Werner Henze: Digitale Briefedition
+
+* 2023: Promotion an der Hochschule für Musik Karlsruhe
+
+* 2024: Ruf (W1) der Martin-Luther-Universität Halle-Wittenberg
+
+* 2025-: Juniorprofessur für Musikwissenschaft mit Schwerpunkt _Musikedition und Digital Humanities_
+
+    * Mitarbeiter Hallische Händelausgabe (_Hercules_)
 
 **Sprechstunde:** 
+
 - Di, 14–15 Uhr 
 - Do, 11–12 Uhr
 
