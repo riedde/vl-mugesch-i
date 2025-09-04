@@ -9,6 +9,7 @@ mode: Presentation
 tags: orga
 import: https://raw.githubusercontent.com/LiaTemplates/citations/main/README.md
 import: https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/config.md
+import: ../config.md
 -->
 
 # Organisatorisches
@@ -30,51 +31,33 @@ import: https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/conf
 * 2019-2021 : Wissenschaftlicher Mitarbeiter
 
     * Max-Reger-Institut Karlsruhe
-
     * Reger-Werkausgabe (Editor und Herausgeber)
 
 * 2021-2024 : Wissenschaftlicher Mitarbeiter
 
     * Universität Paderborn
-
     * Hans Werner Henze: Digitale Briefedition
 
 * 2023: Promotion an der Hochschule für Musik Karlsruhe
-
 * 2024: Ruf (W1) der Martin-Luther-Universität Halle-Wittenberg
-
 * 2025-: Juniorprofessur für Musikwissenschaft mit Schwerpunkt _Musikedition und Digital Humanities_
 
-    * Mitarbeiter Hallische Händelausgabe (_Hercules_)
+    * Akademieprofessur der Akademie der Wissenschaften und der Literatur Mainz
+    * Mitarbeiter Hallische Händelausgabe (Edition des _Hercules_ HWV 60)
 
-**Sprechstunde:** 
+**Sprechstunde(n):** 
 
 - Di, 14–15 Uhr 
 - Do, 11–12 Uhr
 
+Nur nach vorheriger Anmeldung (in [Stud.IP](https://studip.uni-halle.de/index.php)), da nicht alle Sprechstunden stattfinden.
+
 ## Struktur der Vorlesung
 ### Vorlesungsplan
 
-| Sitzung | Datum | Thema |
-|:--------|:------|:------|
-| 1  | 22.10.2025 | Organisatorisches / Probleme der Musikgeschichtsschreibung |
-| 2  | 29.10.2025 | Um das Jahr 1600 / Barock als Begriff |
-| 3  | 05.11.2025 | Monodie / Entstehung der Oper / Seconda prattica |
-| 4  | 12.11.2025 | Oper im Barock / Verzierungspraxis um 1600 |
-| 5  | 19.11.2025 | Instrumentalmusik (Sonate, Suite, Concerto) |
-| 6  | 26.11.2025 | Ein Blick nach Italien |
-| 7  | 03.12.2025 | Ein Blick nach Frankreich / Die Kantate |
-| 8  | 10.12.2025 | Die Passion Christi |
-| 9  | 17.12.2025 | Klangrede, Schreibarten, Gattungslehre (Mattheson) |
-| -  | _Weihnachtspause_ | |
-| 10 | 08.01.2026 | Die Begriffe "Klassik" und "Schule" |
-| 11 | 15.01.2026 | Kammermusik in der Wiener Klassik |
-| 12 | 22.01.2026 | Oper und Singspiel |
-| 13 | 29.01.2026 | Zur Biographie und Symphonik Beethovens |
-| 14 | 05.02.2026 | Klavierlied / Charakterstücke |
-| -  | 11.02.2026 | Klausur |
+@config.vorlesungsplan
 
-### Selbsttest
+### Quiz und Reflexion
 
 Wer ist der Dozent der Vorlesung?
 
@@ -82,18 +65,17 @@ Wer ist der Dozent der Vorlesung?
 [(X)] Jun.-Prof. Dr. Dennis Ried
 [( )] Prof. Dr. Wolfgang Auhagen
 
+Wann finden die Sprechstunden statt?
+
+[( )] montags und mittwochs
+[(X)] dienstags und donnerstags
+[(X)] nur nach Anmeldung
+
 Wann findet die Klausur statt?
 
 [( )] 05.02.2026
 [(X)] 11.02.2026
 [( )] 18.02.2026
-
-An welchen Editionen hat der Dozent gearbeitet?
-
-[[X]] Hallische Händelausgabe
-[[X]] Reger-Werkausgabe
-[[ ]] Bach-Gesamtausgabe
-[[X]] Henze Briefedition
 
 ## Prüfungsmodalitäten
 
