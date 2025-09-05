@@ -90,7 +90,7 @@ import: ../config.md
 * stile espressivo 
 
   * Beispiel: Monteverdi, _Lamento d'Arianna_ (1608) !?[](https://www.youtube.com/watch?v=3iY1jBk50ok)
-  * Monteverdi, [_Oblivion Soave_](https://youtu.be/MGRQhiaLTI8?si=XTwuiz0cB57rTsoz&t=7927) aus der Oper _L'incoronatione die Poppea_ (Schlaflied der Arnalta)
+  * Monteverdi, [_Oblivion Soave_](https://youtu.be/MGRQhiaLTI8?si=XTwuiz0cB57rTsoz&t=7927 "Beginn der Arie bei 2:12:55") aus der Oper _L'incoronatione die Poppea_ (Schlaflied der Arnalta)
 
 !?[](https://www.youtube.com/watch?v=q1DE1dTdCNE)
 
