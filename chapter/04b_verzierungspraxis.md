@@ -5,6 +5,10 @@ version: 1.0.0
 language: de
 narrator: Deutsch Female
 comment: Verzierungspraxis um 1600 (Sitzung 4)
+import: https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/config.md
+        https://raw.githubusercontent.com/LiaTemplates/citations/main/README.md
+
+link: ../style.css
 -->
 
 # Verzierungspraxis um 1600

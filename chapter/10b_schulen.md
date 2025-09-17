@@ -5,6 +5,10 @@ version: 1.0.0
 language: de
 narrator: Deutsch Female
 comment: Schulen (Mannheim/Berlin/Wien) (Sitzung 10)
+import: https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/config.md
+        https://raw.githubusercontent.com/LiaTemplates/citations/main/README.md
+
+link: ../style.css
 -->
 
 # Schulen (Mannheim/Berlin/Wien)

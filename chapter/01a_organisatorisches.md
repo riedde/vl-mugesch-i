@@ -18,7 +18,7 @@ tags: orga
 import: https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/config.md
         https://raw.githubusercontent.com/LiaTemplates/citations/main/README.md
 
-link: https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/style.css
+link: ../style.css
 -->
 
 # Organisatorisches
