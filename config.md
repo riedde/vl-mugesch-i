@@ -16,7 +16,7 @@ comment:  Common metadata for all LiaScript courses in the folder
 @config.vorlesungsplan
 | Sitzung | Datum | Thema |
 |:--------|:------|:------|
-| 1  | 22.10.2025 | @config.link.course(Organisatorisches,01a_organisatorisches) / [Probleme der Musikgeschichtsschreibung](chapter/01b_musikgeschichtsschreibung.md) |
+| 1  | 22.10.2025 | @config.link.course(Organisatorisches,01a_organisatorisches) / @config.link.course(`Probleme der Musikgeschichtsschreibung`,01b_musikgeschichtsschreibung) |
 | 2  | 29.10.2025 | Um das Jahr 1600 / Barock als Begriff |
 | 3  | 05.11.2025 | Monodie / Entstehung der Oper / Seconda prattica |
 | 4  | 12.11.2025 | Oper im Barock / Verzierungspraxis um 1600 |
