@@ -8,8 +8,7 @@ comment: Organisatorisches (Sitzung 1)
 mode: Presentation
 tags: orga
 import: https://raw.githubusercontent.com/LiaTemplates/citations/main/README.md
-import: https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/config.md
-import: ../config.md
+        ../config.md
 -->
 
 # Organisatorisches
