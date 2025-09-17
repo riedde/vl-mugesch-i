@@ -6,8 +6,7 @@ language: de
 narrator: Deutsch Female
 comment: Probleme der Musikgeschichtsschreibung (Sitzung 1)
 import: https://raw.githubusercontent.com/LiaTemplates/citations/main/README.md
-import: https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/config.md?ref_type=heads
-import: ../config.md
+import: https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/config.md
 -->
 
 # Musikgeschichtschreibung
