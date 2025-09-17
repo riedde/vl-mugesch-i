@@ -9,7 +9,7 @@ mode: Presentation
 tags: orga
 import: https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/config.md
 import: https://raw.githubusercontent.com/LiaTemplates/citations/main/README.md
-import: ttps://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/style.css
+import: https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/style.css
 -->
 
 # Organisatorisches
