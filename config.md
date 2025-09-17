@@ -9,7 +9,7 @@ comment:  Common metadata for all LiaScript courses in the folder
 
 @config.term: `Wintersemester 2025/26`
 @config.university: `Martin-Luther-Universität Halle-Wittenberg`
-@config.link.course: [@0](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/kapitel/@1.md?ref_type=heads)
+@config.link.course: [@0](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/@1.md?ref_type=heads)
 @config.link.personen: [Zur Gesamtübersicht](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/data/personen.md?ref_type=heads)
 @config.link.werke: [Zur Gesamtübersicht](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/data/werke.md?ref_type=heads)
 
