@@ -50,7 +50,13 @@ h1.lia-h1 {
 .lia-quote {
   background: var(--main-mlu-color) !important;
   border-left-color: var(--main-accent-color) !important;
-  color: #FFFFFF !important
+  color: var(--main-accent-color) !important;
+  margin: 4% !important;
+}
+
+.lia-quote__text {
+  color: var(--main-accent-color) !important;
+  font-size: larger;
 }
 
 .lia-accordion {
