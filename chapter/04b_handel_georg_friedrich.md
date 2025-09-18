@@ -25,6 +25,52 @@ link: ../style.css
 
 - **Lebensstil:** Oberschicht der englischen Gesellschaft, hochgeschätzt am Hof, verehrt von der Aristokratie, geliebt von den Bürgern Londons
 
+## Händels Werke
+
+| HWV | Kategorie |
+|:----|:----------|
+| 1–42 | Opern |
+| 43–45, 218 | Bühnenmusik |
+| 46–48, 50–71 | Oratorien |
+| 49, 72–76 | Serenaten und Masques |
+| 77–177 | Kantaten |
+| 178–199 | Italienische Duette |
+| 200–201 | Italienische Trios |
+| 202–210, 269–277, 284–286 | Hymnen |
+| 211–217, 219–227 | Italienische Arien |
+| 226, 228 | Englische Lieder |
+| 229 | Deutsche Kirchenkantaten |
+| 230, 233, 234 | Italienische geistliche Kantaten |
+| 231, 232, 235–245, 269–274, 276, 277 | Lateinische Kirchenmusik |
+| 246–268 | Kirchenlieder |
+| 278–283 | Lobgesänge |
+| 287–311, 343 | Concerti |
+| 312–335 | Concerti grossi |
+| 336–345, 347–356, 413 | Orchesterwerke |
+| 357–379, 406–409, 412, 419–421 | Solosonaten |
+| 380–405 | Triosonaten |
+| 346, 410, 411, 414–418, 422–425 | Werke für Holzbläserensemble |
+| 426–612 | Klavierstücke |
+
+
+### Hallische Händelausgabe (HHA)
+
+- Kritische Gesamtausgabe
+- Erscheinung 1955–2031 (vsl.)
+- Unterteilt in 5 Serien
+
+  - Serie I ‒ Oratorien und große Kantaten (38 Bde., 29 erschienen)
+  - Serie II ‒ Opern (48 Bde., 35 erschienen)
+  - Serie III ‒ Kirchenmusik (15 Bde., 12 erschienen)
+  - Serie IV ‒ Instrumentalmusik (20 Bde., alle erschienen)
+  - Serie V ‒ Kleinere Gesangswerke (8 Bde., 5 erschienen)
+  - Supplemente \[Händel-Handbuch\] (5 Bde., 4 erschienen)
+
+
+> »Jeder Band enthält ein Vorwort, in dem über Entstehungsgeschichte und Überlieferung des Werkes berichtet wird und aufführungspraktische Fragen erörtert werden, sowie einen Kritischen Bericht. Die Ausgaben von Vokalwerken enthalten eine wörtliche deutsche und, wenn nötig, auch eine englische Übersetzung des Gesangstextes, die Bände der Serien I und II außerdem ein Faksimile des für die erste Aufführung gedruckten Librettos (seit 1991). Grundsätzlich werden Händels Intentionen so genau wie möglich in moderner Notenschrift wiedergegeben.«
+>
+> – Hallische Händelausgabe
+
 ## Händel als Unternehmer
 
 ### Gesellschaftliches Umfeld und Vorurteile
