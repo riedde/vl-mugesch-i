@@ -18,6 +18,10 @@ link: ../style.css
 * † 7. Februar (jul.) / 17. Februar 1652 (greg.) in Rom
 * italienischer Priester, Komponist und Tenorsänger
 
+![Gregorio Allegri, Portät](https://upload.wikimedia.org/wikipedia/commons/b/b2/Gregorio_Allegri.jpg)
+
+ (Francesco Faraone Aquila - Bibliothèque nationale de France, Gemeinfrei, [https://commons.wikimedia.org/w/index.php?curid=186667](https://commons.wikimedia.org/w/index.php?curid=186667))
+
 ## Historischer Kontext: Rom im 17. Jahrhundert
 
 ### Kirchenmusikalische Entwicklung
