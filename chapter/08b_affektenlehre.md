@@ -185,3 +185,7 @@ link: ../style.css
 - Begriff der Klangrede: Kulminationspunkt von Matthesons Empfehlungen.
 
 - Definition Klangrede: Tonsprache, die unter Berücksichtigung passend eingesetzter musikalischer Mittel in ihrem Affektgehalt und in ihrer Bedeutung, in ihrem Meinen, jedermann verständlich sei.
+
+## Heinrich Schütz
+
+Es gibt einen eigenen Kurs zu @config.link.course(Heinrich Schütz,schuetz_heinrich)
