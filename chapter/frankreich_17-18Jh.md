@@ -4,9 +4,8 @@ email: dennis.ried@musikwiss.uni-halle.de
 version: 1.0.0
 language: de
 narrator: Deutsch Female
-comment: Ein Blick nach Frankreich (Sitzung 7)
-import: https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/config.md
-link: ../style.css
+import: ../config.md
+tags: barock, kultur, frankreich, komponist
 -->
 
 # Ein Blick nach Frankreich

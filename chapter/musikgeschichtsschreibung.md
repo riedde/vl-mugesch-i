@@ -1,25 +1,17 @@
 <!--
 author: Dennis Ried
-
 email: dennis.ried@musikwiss.uni-halle.de
-
 version: 1.0.0
-
 language: de
-
 narrator: Deutsch Female
-
-comment: Probleme der Musikgeschichtsschreibung (Sitzung 1)
-
-import: https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/config.md
-        https://raw.githubusercontent.com/LiaTemplates/citations/main/README.md
-
-link: ../style.css
+import: ../config.md
 -->
 
 # Musikgeschichtschreibung
 
-> Geschichte ist wissenschaftlich gefasste Erinnerung. Musikgeschichte gibt es, seit es ein Interesse an vergangener Musik gibt, ein Bedürfnis nach wissenschaftlich abgesicherter Erinnerung an alte Musik; es erwachte im 18. Jh., im Zeitalter der Aufklärung. [^Keil, S. 15]
+> Geschichte ist wissenschaftlich gefasste Erinnerung. Musikgeschichte gibt es, seit es ein Interesse an vergangener Musik gibt, ein Bedürfnis nach wissenschaftlich abgesicherter Erinnerung an alte Musik; es erwachte im 18. Jh., im Zeitalter der Aufklärung.
+>
+> – Keil, S. 15
 
 ## Entstehung der Musikgeschichtschreibung
 

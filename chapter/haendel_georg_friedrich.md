@@ -4,18 +4,17 @@ email: dennis.ried@musikwiss.uni-halle.de
 version: 1.0.0
 language: de
 narrator: Deutsch Female
-comment: Oper im Barock (Sitzung 4)
-import: https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/config.md
-        https://raw.githubusercontent.com/LiaTemplates/citations/main/README.md
-
-link: ../style.css
+import: ../config.md
+tags: komponist, barock
 -->
 
 # Georg Friedrich Händel
 
+!['Portrait von Georg Friedrich Händel'](https://upload.wikimedia.org/wikipedia/commons/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg "Balthasar Denner zugeschrieben, https://commons.wikimedia.org/w/index.php?curid=6364709")
+
 - **Grunddaten:**
   
-  - George Friedrich Händel (Matrikel der MLU)
+  - George Friedrich Händel (Vgl. Matrikel der MLU)
   - 1685 in Halle(Saale) geboren
   - Hamburg
   - ca. 1706–1710 in Italien
@@ -24,6 +23,10 @@ link: ../style.css
   - 1759 in London verstorben
 
 - **Lebensstil:** Oberschicht der englischen Gesellschaft, hochgeschätzt am Hof, verehrt von der Aristokratie, geliebt von den Bürgern Londons
+
+------
+
+!['Uni Halle, Register der Matrikel 1693 -1744, H-P, 298r, Ausschnitt: obere Blatthälfte'](https://opendata.uni-halle.de//iiif-imgsrv/9a5b6554-515b-4033-bb22-8dce9f94b1e4/!0!36!74!74!3674743040303372375116726939389762576/137,121,2378,1109/full/0/default.jpg?download=true "Register der Matrikel 1693 -1744, H-P, 298r")
 
 ## Händels Werke
 

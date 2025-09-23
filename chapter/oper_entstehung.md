@@ -4,11 +4,8 @@ email: dennis.ried@musikwiss.uni-halle.de
 version: 1.0.0
 language: de
 narrator: Deutsch Female
-comment: Entstehung der Oper (Sitzung 3)
-import: https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/config.md
-        https://raw.githubusercontent.com/LiaTemplates/citations/main/README.md
-
-link: ../style.css
+import: ../config.md
+tags: oper, gattung, barock
 -->
 
 # Entstehung der Oper
@@ -185,3 +182,7 @@ Giovanni Battista Doni (1635) "Discorso sopra la perfettione delle melodie":
   * Größere Szenenkomplexe
   * Lyrischer Stil
   * Musikalisch beeindruckende Schönheit
+
+## Mehrstimmigkeit und Kirchenmusik
+
+Nur eines von vielen Beispiele zur Mehrstimmigkeit von der sich die Monodie abzugrenzen versucht findet sich bei @config.link.course(`Gregorio Allegri`,allegri_gregorio).

@@ -1,29 +1,18 @@
 <!--
 author: Dennis Ried
-
 email: dennis.ried@musikwiss.uni-halle.de
-
 version: 1.0.0
-
 language: de
-
 narrator: Deutsch Female
-
-comment: Organisatorisches (Sitzung 1)
-
+comment: Organisatorisches (2025)
 mode: Presentation
-
 tags: orga
-
-import: https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/config.md
-        https://raw.githubusercontent.com/LiaTemplates/citations/main/README.md
-
-link: ../style.css
+import: config.md        
 -->
 
 # Organisatorisches
 
-* Dozent
+* Dozent/Sprechstunde
 * Struktur der Vorlesung
 * Prüfungsmodalitäten
 
@@ -85,6 +74,16 @@ Wann findet die Klausur statt?
 [( )] 05.02.2026
 [(X)] 11.02.2026
 [( )] 18.02.2026
+
+### Übersichten
+
+**Personen:**
+
+@config.link.personen
+
+**Werke:**
+
+@config.link.werke
 
 ## Prüfungsmodalitäten
 

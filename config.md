@@ -9,6 +9,10 @@ icon: https://wcms.itz.uni-halle.de/download.php?down=57357&elem=3333420
 
 comment:  Common metadata for all LiaScript courses in the folder
 
+import: https://raw.githubusercontent.com/LiaTemplates/citations/main/README.md
+
+link: ./style.css
+
 @config.term: `Wintersemester 2025/26`
 @config.university: `Martin-Luther-Universität Halle-Wittenberg`
 @config.link.course: [@0](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/@1.md)
@@ -18,21 +22,21 @@ comment:  Common metadata for all LiaScript courses in the folder
 @config.vorlesungsplan
 | Sitzung | Datum | Thema |
 |:--------|:------|:------|
-| 1  | 22.10.2025 | @config.link.course(Organisatorisches,01a_organisatorisches) / @config.link.course(`Probleme der Musikgeschichtsschreibung`,01b_musikgeschichtsschreibung) |
-| 2  | 29.10.2025 | Um das Jahr 1600 / Barock als Begriff |
-| 3  | 05.11.2025 | Monodie / Entstehung der Oper / Seconda prattica |
-| 4  | 12.11.2025 | Oper im Barock / Verzierungspraxis um 1600 |
-| 5  | 19.11.2025 | Instrumentalmusik (Sonate, Suite, Concerto) |
-| 6  | 26.11.2025 | Ein Blick nach Italien |
-| 7  | 03.12.2025 | Ein Blick nach Frankreich / Die Kantate |
-| 8  | 10.12.2025 | Die Passion Christi |
-| 9  | 17.12.2025 | Klangrede, Schreibarten, Gattungslehre (Mattheson) |
+| 1  | 22.10.2025 | @config.link.course(Organisatorisches,organisatorisches) / @config.link.course(`Musikgeschichtsschreibung`,musikgeschichtsschreibung) |
+| 2  | 29.10.2025 | @config.link.course(`Um das Jahr 1600`,um1600) / @config.link.course(`Barock als Begriff`,barock_begriff) |
+| 3  | 05.11.2025 | @config.link.course(`Monodie`,03a_monodie) / @config.link.course(`Entstehung der Oper`,oper_entstehung) / @config.link.course(`Seconda prattica`,seconda_prattica) |
+| 4  | 12.11.2025 | @config.link.course(`Oper im Barock`,oper_barock) / @config.link.course(`Verzierungspraxis um 1600`,verzierungspraxis_um1600) |
+| 5  | 19.11.2025 | @config.link.course(`Instrumentalmusik (Sonate, Suite, Concerto)`,instrumentalmusik) / @config.link.course(`Unterschiedliche Stimmungen`,stimmung) |
+| 6  | 26.11.2025 | @config.link.course(`Ein Blick nach Frankreich`,frankreich_17-18Jh) |
+| 7  | 03.12.2025 | @config.link.course(`Antonio Vivaldi`,vivaldi_antonio) / @config.link.course(`Die Kantate`,kantate_barock) |
+| 8  | 10.12.2025 | @config.link.course(`Die Passion (Christi)`,passion_barock) |
+| 9  | 17.12.2025 | @config.link.course(`Klangrede, Schreibarten, Gattungslehre (Mattheson)`,klangrede_mattheson) |
 | -  | _Weihnachtspause_ | |
-| 10 | 08.01.2026 | Die Begriffe "Klassik" und "Schule" |
-| 11 | 15.01.2026 | Kammermusik in der Wiener Klassik |
-| 12 | 22.01.2026 | Oper und Singspiel |
-| 13 | 29.01.2026 | Zur Biographie und Symphonik Beethovens |
-| 14 | 05.02.2026 | Klavierlied / Charakterstücke |
+| 10 | 08.01.2026 | Die Begriffe @config.link.course(`"Klassik"`,klassik_begriff) und @config.link.course(`"Schule"`,schulen_mannheim_berlin) |
+| 11 | 15.01.2026 | @config.link.course(`Kammermusik in der Wiener Klassik`,kammermusik_klassik) |
+| 12 | 22.01.2026 | @config.link.course(`Oper und Singspiel`,oper_singspiel_klassik) |
+| 13 | 29.01.2026 | @config.link.course(`Zur Biographie und Symphonik Beethovens`,beethoven_ludwig_van) |
+| 14 | 05.02.2026 | @config.link.course(`Das Klavierlied`,klavierlied) / @config.link.course(`Charakterstücke`,Charakterstuecke) |
 | -  | 11.02.2026 | Klausur |
 @end
 

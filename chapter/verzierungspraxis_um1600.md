@@ -4,11 +4,8 @@ email: dennis.ried@musikwiss.uni-halle.de
 version: 1.0.0
 language: de
 narrator: Deutsch Female
-comment: Verzierungspraxis um 1600 (Sitzung 4)
-import: https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/config.md
-        https://raw.githubusercontent.com/LiaTemplates/citations/main/README.md
-
-link: ../style.css
+import: ../config.md
+tags: verzierung, 1600
 -->
 
 # Verzierungspraxis um 1600
