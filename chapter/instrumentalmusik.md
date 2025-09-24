@@ -83,7 +83,7 @@ Musiktheaters
 
 ### Stimmungsproblematik bei Tasteninstrumenten
 
-Es gibt einen eigenen Kurs zur @config.link.course(Stimmungsproblematik,05b_stimmung)
+Es gibt einen eigenen Kurs zur @config.link.course(Stimmungsproblematik,stimmung)
 
 ## Sweelinck & Froberger
 

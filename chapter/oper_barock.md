@@ -320,7 +320,7 @@ Die Oper des Barock durchlief vom 17. zum 18. Jahrhundert eine bedeutende Entwic
 
 #### Georg Friedrich Händel (1685–1759)
 
-Hierzu ist ein @config.link.course(eigener Kurs,04b_handel_georg_friedrich) verfügbar
+Hierzu ist ein @config.link.course(eigener Kurs,haendel_georg_friedrich) verfügbar
 
 ## Zeitzeugenberichte über Kastratensang
 

@@ -105,7 +105,7 @@ Curt Sachs, „Barockmusik“, 1919:
 - Verzierungs- und Variationskunst
 - Lebensstil und geistesgeschichtliche Grundlagen
 
-## Literaturverweise (Zusammenfassung)
+## Literaturhinweise (Zusammenfassung)
 
 - Rousseau, Dictionnaire de musique, 1768
 - Koch, Musikalisches Lexicon, 1865
