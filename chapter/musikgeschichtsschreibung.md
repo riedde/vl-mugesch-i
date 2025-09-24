@@ -47,7 +47,7 @@ import: ../config.md
 >
 > -- Keil 2024, S. 
 
-### Deutschland - Begründung der Musikwissenschaft
+### Deutschland - Anfänge der Musikwissenschaft
 
 * **Johann Nikolaus Forkel** (1749-1818)
 
@@ -63,15 +63,17 @@ import: ../config.md
 
   * Bedeutende Schüler:
 
-    - August Wilhelm und Friedrich Schlegel
+    - August Wilhelm Schlegel (1767–1845) Literaturhistoriker und -kritiker/Übersetzer/Alt-Philologe/Indologe
+    
+    - Friedrich Schlegel (1772–1829), Kulturphilosoph/Schriftsteller/Literatur- und Kunstkritiker/Historiker/Altphilologe
 
-    - Wilhelm Heinrich Wackenroder
+    - Wilhelm Heinrich Wackenroder (1773–1798), Dicher/Jurist
 
-    - Ludwig Tieck
+    - Ludwig Tieck (1773–1853), Schriftsteller
 
-    - Wilhelm von Humboldt
+    - Wilhelm von Humboldt (1767–1835), preußischer Gelehrter/Schriftsteller/Staatsmann
 
-  * Hauptwerke:
+  * Hauptwerke von Forkel:
 
     - _Über Johann Sebastian Bach's Leben, Kunst und Kunstwerke_ (Leipzig 1802)
 
@@ -80,18 +82,13 @@ import: ../config.md
 ### Unterschiedliche Perspektiven der Pioniere
 
 * **Rousseau**: Verteidigt moderne italienische Musik
-* **Burney**: Bewundert Zeitgenossen (Haydn)
+* **Burney**: Bewundert seine Zeitgenossen (Haydn)
 * **Forkel**: 
+
   - Sieht Gegenwart als Zeit des Verfalls
   - Kritisch gegenüber Gluck und Mozart
   - Seine retrospektive Haltung prägte deutsche Musikforschung
 
-```
-?[Welcher dieser Musikhistoriker gilt als Begründer der modernen Musikwissenschaft?]
-[( )] Charles Burney
-[(X)] Johann Nikolaus Forkel
-[( )] Jean-Jacques Rousseau
-```
 
 ## Entwicklung der Musikgeschichtsschreibung
 
@@ -101,18 +98,23 @@ import: ../config.md
 
   * Hugo Riemann (1849-1919)
   * Guido Adler (1855-1941)
+
 * **Ansatz:** Musikgeschichte als Stilgeschichte
 * **Begrifflichkeiten:**
 
   * Renaissance = 'Musik des durchimitierenden A-cappella-Stils'
   * Barock = 'Musik des Generalbasszeitalters'
+
 * Einfluss bis heute in Jazz- und Popularmusikforschung
 
-### Das "Organismus-Modell"
+### Geschichte als "Organismus"?
+
+* Das sog. „Organismus-Modell“
 
 * **Grundgedanke:** Stil/Epoche als biologischer Prozess
 
   * Beginn → Wachstum → Blüte → Alter → Tod
+
 * **Kritikpunkte:**
 
   * Biologische Metapher für Geistesgeschichte problematisch
@@ -133,7 +135,7 @@ import: ../config.md
 
    > "Eine Beethovensonate ist [...] keine musikgeschichtliche Tatsache, sondern eine musikalische, eine Angelegenheit des Jetzt, nicht der Geschichte."
    >
-   > -- Carl Dahlhaus, zit. n. Keil 2018
+   > -- Carl Dahlhaus, zit. n. Keil 2018, S. ?
 
 ### Geographische Entwicklung
 
@@ -164,8 +166,11 @@ import: ../config.md
 * Gattungsgeschichte
 * Rezeptionsgeschichte
 * Genderforschung
+* Digitale Musikwissenschaft
 
 ### Erzählweisen
+
+In früheren Generationen von Musikforschenden unterschied man in zwei Erzählweisen:
 
 1. **Schwache Erzählung:**
 
@@ -180,21 +185,32 @@ import: ../config.md
    * Vernachlässigung des Einzelnen
    * Idealtypische Beispiele
 
+Heute ist es weniger nötig die Erzählweise zu klassfizieren, da man sich heute – anders als in früheren Generationen – nicht mehr dafür rechtfertig muss sich für die eine oder andere Forschugnsperspektive zu entscheiden. Dazu kommt, dass das Narrativ heute auf vielfältige Weise ausgestaltet sein kann und sich nicht mehr (nur) auf einen langen zusammenhängenden Text beschränkt.
+
 ## Wiederholung
 
 **Wissensfrage**
 
 _Welche dieser Aussagen trifft zu?_
 
-[[ ]] Musikgeschichte verlief in Europa einheitlich
-[[X]] Italien war im Barock das führende Musikland
-[[X]] Die Stilgeschichte wurde von Riemann und Adler geprägt
-[[ ]] Musikgeschichtsschreibung war nie eine bürgerliche Angelegenheit
+[[ ]] Musikgeschichte verlief in Europa einheitlich.
+[[X]] Italien war im „Barock“ im Bereich Musik führend.
+[[X]] Die Stilgeschichte wurde von Riemann und Adler geprägt.
+[[ ]] Musikgeschichtsschreibung war nie eine bürgerliche Angelegenheit.
+
+**Welcher dieser Musikhistoriker gilt als Begründer der modernen Musikwissenschaft?**
+
+[[ ]] Charles Burney
+[[x]] Johann Nikolaus Forkel
+[[ ]] Jean-Jacques Rousseau
+[[ ]] Hugo Riemann
 
 **Argumentationsaufgabe**
 
 _Erläutern Sie den Begriff „Schwache Erzählung“ in Abgrenzung zur „Starken Erzählung“._
 
-## Literatur
+## Übersichten
 
-[^Keil] Werner Keil: Musikgeschichte im Überblick, Paderborn ^3^2018
+* **Literatur**
+
+  * Werner Keil: Musikgeschichte im Überblick, Paderborn ^3^2018
