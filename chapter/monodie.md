@@ -11,10 +11,10 @@ tags: barock, gattung, vokalmusik
 # Monodie
 
 > Monodie [griech. μονωδια "Einzelgesang", "Sologesang"], in der griechischen Antike der wohl meist von einem Instrument (Aulos, Kithara, Lyra) unterstützte Sologesang.
-> [...]
-> In Rückbesinnung und als Wiederbelebung der antiken Musik, [...] entstand gegen Ende des 16. Jahrhunderts in Italien die Monogie genannte neue Art des instrumental begleiteten Sologesangs.
+> \[...\]
+> In Rückbesinnung und als Wiederbelebung der antiken Musik, \[...\] entstand gegen Ende des 16. Jahrhunderts in Italien die Monogie genannte neue Art des instrumental begleiteten Sologesangs.
 >
-> -- Riemann Musik Lexikon, hg. v. Wolfgang Ruf, Mainz ^13^2012, S. 391
+> – Riemann Musik Lexikon, hg. v. Wolfgang Ruf, Mainz ^13^2012, S. 391
 
 ## Definition und Ursprung
 * **Monodia** (Giovanni Battista Doni, 1635):
@@ -41,7 +41,7 @@ tags: barock, gattung, vokalmusik
     * 1597 oder 1598 Aufführung im Palazzo di Bardi
     * Gemeinschaftswerk
 
-      * Ottavio Rinuccini (Lebensdaten), Dichter
+      * Ottavio Rinuccini (1563–1621), Dichter
       * Jacopo Peri (1561–1631), Musiker
       * Giulio Caccini (1545–1618), Musiker
     

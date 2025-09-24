@@ -8,16 +8,16 @@ import: ../config.md
 tags: komponist, kultur, italien, rom, vokalmusik
 -->
 
-# Miserere mei, Allegri
+# Miserere mei von Allegri
 
 * Gregorio Allegri
 * \*1582 in Rom
 * † 7. Februar (jul.) / 17. Februar 1652 (greg.) in Rom
 * italienischer Priester, Komponist und Tenorsänger
 
-![Gregorio Allegri, Portät](https://upload.wikimedia.org/wikipedia/commons/b/b2/Gregorio_Allegri.jpg)
+![Gregorio Allegri, Porträt](https://upload.wikimedia.org/wikipedia/commons/b/b2/Gregorio_Allegri.jpg)
 
- (Francesco Faraone Aquila - Bibliothèque nationale de France, Gemeinfrei, [https://commons.wikimedia.org/w/index.php?curid=186667](https://commons.wikimedia.org/w/index.php?curid=186667))
+(Francesco Faraone Aquila - Bibliothèque nationale de France, Gemeinfrei, [https://commons.wikimedia.org/w/index.php?curid=186667](https://commons.wikimedia.org/w/index.php?curid=186667))
 
 ## Historischer Kontext: Rom im 17. Jahrhundert
 
@@ -31,9 +31,10 @@ tags: komponist, kultur, italien, rom, vokalmusik
   * Beispiel: Abbatini - Messen für bis zu 48 Stimmen
   * Aufführungspraxis: Sänger auf Gerüsten im Petersdom
 
-* Bezeichnung: 'Römischer Prunkstil'
+* Bezeichnung: ,Römischer Prunkstil‘
 
 ### Opernentwicklung in Rom
+
 * Zwiespältige Haltung der Kirche
 * Förderung durch Klerus und Kardinäle
 * Besonderheiten:
@@ -54,7 +55,7 @@ tags: komponist, kultur, italien, rom, vokalmusik
 * Besetzung: Neun Stimmen in zwei Chören
 * Aufführungskontext:
 
-  * Einmal jährlich am Karfreitag
+  * *Einmal* jährlich am Karfreitag
   * Petersdom
   * Anwesenheit des Papstes
   * Aufführung durch päpstliche Kapelle
@@ -72,9 +73,6 @@ tags: komponist, kultur, italien, rom, vokalmusik
 ----
 
 !['Allegri, Miserere Mei, Seite 2'](../images/Allegri-MiserereMeiDeus_2.png)
-
-----
-
 !['Allegri, Miserere Mei, Seite 3'](../images/Allegri-MiserereMeiDeus_3.png)
 
 ----
@@ -91,45 +89,55 @@ tags: komponist, kultur, italien, rom, vokalmusik
 
 ### Historische Rezeption
 
-#### Mozart
-* Erlebnis als Knabe in Rom
-* Legendäre Nachschrift aus dem Gedächtnis
-* Nachweis für seine Begabung
+* Wolfgang Amadé Mozart
+  
+  * Erlebnis als Knabe in Rom
+  * Legendäre Nachschrift aus dem Gedächtnis
+  * Nachweis für seine Begabung
 
-#### Charles Burney
-* Erste Notenausgabe (Ende 18. Jh.)
-* Trotz kirchlichen Verbots
+* Charles Burney
+  
+  * Erste Notenausgabe (Ende 18. Jh.)
+  * Trotz kirchlichen Verbots
 
-#### Johann Friedrich Reichardt
-* Deutscher Nachdruck
-* Kritische Bemerkung:
+* Johann Friedrich Reichardt
 
-  * Nimbus weniger durch musikalische Qualität
-  * Bedeutung des Zeremoniells
+  * Deutscher Nachdruck
+  * Kritische Bemerkung:
 
-#### Felix Mendelssohn Bartholdy (1831)
-* Alter: 22 Jahre
-* Dokumentation in Briefen an:
+    * Nimbus weniger durch musikalische Qualität
+    * Bedeutung des Zeremoniells
 
-  * Eltern
-  * Kompositionslehrer Carl Friedrich Zelter
+* Felix Mendelssohn Bartholdy (1831)
+  
+  * Alter: 22 Jahre
+  * Dokumentation in Briefen an:
 
-* Beschreibung der Zeremonie:
+    * Eltern
+    * Kompositionslehrer Carl Friedrich Zelter
 
-  * Lange Bußgebete
-  * Einstimmiger Psalmengesang
-  * Löschen aller Kerzen
-  * Kniefall von Papst und Klerus
-  * Stummes Vaterunser
-  * Miserere von der Kuppel
+  * Beschreibung der Zeremonie:
 
-* Zitat: "[D]as thut ganz herrlich, und man fühlt recht innerlich die Gewalt der Musik, die ist es eigentlich, die die große Wirkung macht."
-* Ebenfalls Niederschrift nach einmaligem Hören
+    * Lange Bußgebete
+    * Einstimmiger Psalmengesang
+    * Löschen aller Kerzen
+    * Kniefall von Papst und Klerus
+    * Stummes Vaterunser
+    * Miserere von der Kuppel
 
-#### Wilhelm Heinse
-* Erlebnis 1782/83 in Rom
-* Erwähnung im Roman "Hildegard von Hohenthal" (1795)
-* Brief an Fritz Jacobi (16. März 1782):
+  * > [D]as thut ganz herrlich, und man fühlt recht innerlich die Gewalt der Musik, die ist es eigentlich, die die große Wirkung macht.
+    >
+    > – Felix Mendelssohn Bartholdy
+  
+  * Ebenfalls Niederschrift nach einmaligem Hören
 
-  * Zitat: "Vorgestern hört ich [...] den Engelsgesang des Miserere zum erstenmal in der Sixtinischen Kapelle; das entzückendste was ein menschlich Wesen durchschauern kann, die reinste Harmonie, die [...] nach ewig frischer unsterblicher Existenz seufzt."
+* Wilhelm Heinse
+  
+  * Erlebnis 1782/83 in Rom
+  * Erwähnung im Roman "Hildegard von Hohenthal" (1795)
+  * Brief an Fritz Jacobi (16. März 1782):
+
+  > Vorgestern hört ich \[...\] den Engelsgesang des Miserere zum erstenmal in der Sixtinischen Kapelle; das entzückendste was ein menschlich Wesen durchschauern kann, die reinste Harmonie, die \[...\] nach ewig frischer unsterblicher Existenz seufzt.
+  >
+  > – Wilhelm Heinse
 
