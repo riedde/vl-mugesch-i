@@ -84,7 +84,7 @@ Dies sind nur exemplarische Beispiele, die Vielfalt ist um einiges größer! Zud
 
 ### Beispiel 1: Die Toccata
 
-* Eröffnung der Oper
+* Eröffnung der Oper [Youtube](https://www.youtube.com/watch?v=mjpFi9bn1do)
 * Bläserbestimmte, fanfarenartige Struktur
 * Musikalisch: ausgebreiteter Durdreiklang
 * Gilt als Urbild aller späteren Opernouvertüren
@@ -99,6 +99,7 @@ Dies sind nur exemplarische Beispiele, die Vielfalt ist um einiges größer! Zud
   * Dreimalige Unterbrechung im Verlauf
 
 * Funktion: Einführung in die 'favola' von Orpheus
+* [Youtube](https://www.youtube.com/watch?v=NIr_SWt_NzY)
 
 ### Dramatischer Höhepunkt: Orpheus und Charon
 
@@ -106,7 +107,7 @@ Szene aus dem dritten Akt in vier Abschnitten:
 
 1. La Speranza verlässt Orpheus
 2. Charontes Auftritt:
-
+   
    * Basspartie
    * Begleitung durch Regal (tragbare Orgel mit Zungenregistern)
 
@@ -116,7 +117,7 @@ Szene aus dem dritten Akt in vier Abschnitten:
    * Fünfstimmig
 
 4. Orpheus' Beschwörung:
-  
+   
    * Berühmte Arie "Possente spirto e formidabil nume"
    * Lautmalerische Violinen
    * Sechzehntel- und Zweiunddreißigstel-Ornamente
@@ -216,22 +217,25 @@ Giovanni Battista Doni (1635) "Discorso sopra la perfettione delle melodie":
   * Erste Strophenlieder
   * Dacapo-Arien
 
-### Zwei Venezianische Meister
 
-#### Francesco Cavalli
-* Schüler Monteverdis
-* Stilmerkmale:
-  
-  * Knapper Stil
-  * Ausgeprägte Arien
-  * Duette an dramatischen Höhepunkten
+### Cavalli & Cesti
 
-#### Marc Antonio Cesti (1623-1669)
-* Wirkungsorte:
+* Francesco Cavalli
   
-  * Venedig
-  * Wien
-  * Florenz
+  * Schüler Monteverdis
+  * Stilmerkmale:
+    
+    * Knapper Stil
+    * Ausgeprägte Arien
+    * Duette an dramatischen Höhepunkten
+
+* Marc Antonio Cesti (1623-1669)
+
+  * Wirkungsorte:
+  
+    * Venedig
+    * Wien
+    * Florenz
 
 * Bedeutung:
   
@@ -246,3 +250,10 @@ Giovanni Battista Doni (1635) "Discorso sopra la perfettione delle melodie":
 ## Mehrstimmigkeit und Kirchenmusik
 
 Nur eines von vielen Beispiele zur Mehrstimmigkeit von der sich die Monodie abzugrenzen versucht findet sich bei @config.link.course(`Gregorio Allegri`,allegri_gregorio).
+
+@config.preview.course(allegri_gregorio)
+
+[preview-lia](https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/allegri_gregorio.md?ref_type=heads)
+
+<preview-lia src="https://raw.githubusercontent.com/liaScript/docs/master/README.md">
+    </preview-lia>
