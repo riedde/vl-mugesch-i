@@ -13,6 +13,10 @@ import: https://raw.githubusercontent.com/LiaTemplates/citations/main/README.md
 
 link: ./style.css
 
+link:     https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap
+
+font:     Source Sans 3
+
 @config.term: `Wintersemester 2025/26`
 @config.university: `Martin-Luther-Universität Halle-Wittenberg`
 @config.link.course: [@0](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/@1.md)
