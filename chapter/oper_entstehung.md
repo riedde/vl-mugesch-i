@@ -251,4 +251,4 @@ Giovanni Battista Doni (1635) "Discorso sopra la perfettione delle melodie":
 
 Nur eines von vielen Beispiele zur Mehrstimmigkeit von der sich die Monodie abzugrenzen versucht findet sich bei @config.link.course(`Gregorio Allegri`,allegri_gregorio).
 
-@config.preview.course(allegri_gregorio)
+<preview-lia src="https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/allegri_gregorio.md"> </preview-lia>
