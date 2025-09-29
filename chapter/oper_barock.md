@@ -12,7 +12,7 @@ tags: oper, gattung, barock
 
 ## Einführung
 
-Die Oper des Barock durchlief vom 17. zum 18. Jahrhundert eine bedeutende Entwicklung von einem multimediales Spektakel hin zu einer stilisierten Kunstform mit klaren dramatischen Strukturen. Diese Transformation wurde maßgeblich durch venezianische und neapolitanische Zentren geprägt.
+Die Oper durchlief vom 17. zum 18. Jahrhundert eine bedeutende Entwicklung von einem multimedialen Spektakel hin zu einer stilisierten Kunstform mit klaren dramatischen Strukturen. Diese Transformation wurde maßgeblich durch intellektuelle Zentren venezianischein Venedig und Neapel geprägt.
 
 ## Venezianische Oper des 17. Jahrhunderts
 
@@ -32,7 +32,7 @@ Die Oper des Barock durchlief vom 17. zum 18. Jahrhundert eine bedeutende Entwic
 
   - Mehr Varieté als Drama
 
-  - Liebte Einlagen und Unterbrechungen
+  - Einlagen und Unterbrechungen waren erwünscht
 
   - Wenig Bezug zur dargestellten Opernhandlung
 
@@ -46,6 +46,15 @@ Die Oper des Barock durchlief vom 17. zum 18. Jahrhundert eine bedeutende Entwic
 
 - **Entwicklung:** Beginn des Opernlebens in Neapel
 
+------
+
+- Pietro **Alessandro** Gaspare **Scarlatti**
+  
+  - \*1660 auf Sizilien; †1725 in Neapel
+  - Vater von Giuseppe **Domenico Scarlatti** (*1685, Neapel; †1757, Madrid)
+
+  !['Porträt des Alessandro Scarlatti (1660-1725), italienischer Komponist'](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Alessandro_Scarlatti.jpg/500px-Alessandro_Scarlatti.jpg "Porträt des Alessandro Scarlatti (1660-1725), italienischer Komponist, Bild: wikimedia.") !['Portrait of Domenico Scarlatti (1685-1757)'](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Retrato_de_Domenico_Scarlatti.jpg/500px-Retrato_de_Domenico_Scarlatti.jpg "Portrait of Domenico Scarlatti (1685-1757)")
+
 ## Reformbemühungen nach 1700
 
 ### Ziele der Reform
@@ -58,9 +67,9 @@ Die Oper des Barock durchlief vom 17. zum 18. Jahrhundert eine bedeutende Entwic
 
   - Verbesserung der Libretti
 
-- **Sprachliche und dramatische Verbesserungen**
+- Sprachliche und dramatische Verbesserungen
 
-- **Stilisierung der Opernform**
+- Stilisierung der Opernform
 
 ## Bedeutende Librettisten und Metastasios Einfluss
 
@@ -68,7 +77,9 @@ Die Oper des Barock durchlief vom 17. zum 18. Jahrhundert eine bedeutende Entwic
 
 - **Apostolo Zeno (1668–1750):** Kaiserlicher Hofdichter zu Wien, Vorantreiber sprachlicher Reformen
 
-- **Pietro Metastasio (1698–1782):** 
+- **Pietro Metastasio (1698–1782):**
+  
+  - Pietro Antonio Domenico Bonaventura Trapassi
 
   - Nachfolger Zenos als kaiserlicher Hofdichter
 
@@ -76,7 +87,11 @@ Die Oper des Barock durchlief vom 17. zum 18. Jahrhundert eine bedeutende Entwic
 
   - 63 Opernlibretti verfasst
 
-### Vertonungen seiner Werke
+-------
+
+!['Bild von Apostolo Zeno'](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Azeno.jpg/500px-Azeno.jpg "Apostolo Zeno, Bild: wikimedia") !['Gedenkmünze für Pietro Metastasio'](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Johann_nepomuk_wirt%2C_pietro_metastasio%2C_1782.JPG/500px-Johann_nepomuk_wirt%2C_pietro_metastasio%2C_1782.JPG "Gedenkmünze für Pietro Metastasio, Bild: wikimedia")
+
+### Vertonungen der Werke Metastasios
 
 - **Jedes Libretto:** Mehrfach vertont
 

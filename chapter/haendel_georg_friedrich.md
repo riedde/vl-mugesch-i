@@ -10,13 +10,13 @@ tags: komponist, barock
 
 # Georg Friedrich Händel
 
-!['Portrait von Georg Friedrich Händel'](https://upload.wikimedia.org/wikipedia/commons/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg "Balthasar Denner zugeschrieben, https://commons.wikimedia.org/w/index.php?curid=6364709")
+!['Portrait von Georg Friedrich Händel'](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg/250px-George_Frideric_Handel_by_Balthasar_Denner.jpg "Balthasar Denner zugeschrieben, https://commons.wikimedia.org/w/index.php?curid=6364709")
 
 - **Grunddaten:**
   
   - George Friedrich Händel (Vgl. Matrikel der MLU)
   - 1685 in Halle(Saale) geboren
-  - Hamburg
+  - 1703 Hamburg
   - ca. 1706–1710 in Italien
   - 1710 Hannover und Ankunft in London als freier Künstler
   - Am 8. Mai 1719, königliches Patent, Unternehmen als *Royal Academy of Music* geführt, königliche Unterstützung £1000/Jahr

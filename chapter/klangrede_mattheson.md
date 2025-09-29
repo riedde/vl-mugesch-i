@@ -247,6 +247,6 @@ tags: theorie, barock
 
 ### Zusammenfassung: Leitgattungen und Zielsetzungen
 - **Leitgattungen des 17. und 18. Jahrhunderts:** Rezitativ, Arie und Oper (Vokalmusik)
-- **Hauptsächliche Zielsetzung:** Darstellung von Seelenzuständen, Menschendarstellung mit den Mitteln der „seconda pratica"
+- **Hauptsächliche Zielsetzung:** Darstellung von Seelenzuständen, Menschendarstellung mit den Mitteln der „seconda prattica"
 - **Madrigalische Schreibart:** „Rede" als Herrin des Tonsatzes, unmittelbares, individuelles Eingehen auf die Seelenlage der handelnden Person
 - **Umfassende Repräsentation:** Nicht allein nachdrückliche und eindringliche Textvertonung, sondern bestimmten Menschen durch Musik und in Verbindung mit Musik repräsentieren (seine Rede, seine Gestik, seine Seelenlage)

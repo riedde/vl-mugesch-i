@@ -107,23 +107,36 @@ import: ../config.md
 
 * Einfluss bis heute in Jazz- und Popularmusikforschung
 
-### Geschichte als "Organismus"?
+### Zeitliche Einteilung
 
-* Das sog. „Organismus-Modell“
+> Eines der wichigsten Probleme der Menschheit, das zugleich mit ihrer Entstehung aufgetaucht ist, besteht darin, die irdische Zeit zu beherrschen. Kalender haben es ermöglicht, das Alltagsleben zu organisieren, darum sind sie fast immer mit dem Lauf der Natur verknüpft, mit zwei wichtigen Bezugspunkten, nämlich Sonne und Mond. Doch Kalender definieren eine in Zyklen und Jahren bemessene Zeit und sind völlig ungeeignet, längere Zeiträume zu erfassen. [...]
+>
+> Um sie [die Zeit] zu organisieren, hat man verschiedene Ausdrücke benutzt: Man hat von „Zeitaltern", „Epochen" und „Zyklen" gesprochen. Doch der Begriff „Periode" scheint mir am besten geeignet zu sein. „Periode" kommt vom griechischen *periodos* und bezeichnet einen kreisförmigen Weg. Zwischen dem 14. und 18. Jahrhundert nahm dieser Ausdruck die Bedeutung „Zeitraum" oder „Zeitalter" an.
+>
+> – Jaques Le Goff: Geschichte ohne Epochen?, S. 11f.
 
-* **Grundgedanke:** Stil/Epoche als biologischer Prozess
+- Einteilung der Zeit in „Abschnitte“ unentbehrlich
+  
+  - unabhängig von der Perspektive (Gesellschaft, Wissen, Lehre, Kunst)
+  - zum Berichten / zum Unterrichten
 
-  * Beginn → Wachstum → Blüte → Alter → Tod
+- Unterteilung
+  
+  - ist chronologischer Vorgang
+  - vermittelt Vorstellung von einem Übergang, Wendepunkt, oder einer Abkehr von der Gesellschaft und den Werten der vorangegangenen "Epoche"
 
-* **Kritikpunkte:**
+> Oft wird versucht, „Perioden" und „Jahrhunderte" miteinander zu assoziieren. Der französische Ausdruck „siècle" (Jahrhundert) im Sinn einer „hundertjährigen Periode", die theoretisch mit einem auf „00" endenden Jahr beginnt, kam erst im 16. Jahrhundert auf. Davor bezeichnete das lateinische Wort saeculum entweder die alltägliche Welt („im Jahrhundert leben") oder eine relativ kurze, ungenau umrissene Periode, die den Namen einer großen, ihr Glanz verleihenden Persönlichkeit trug: zum Beispiel das „Jahrhundert des Perikles", das „Jahrhundert Cäsars" usw. Der Begriff des Jahrhunderts hat seine Mängel, weil ein mit „00" endendes Jahr selten ein Jahr ist, das im Leben der Gesellschaft auch einen Bruch bedeutet. Darum hat man suggeriert beziehungsweise fest behauptet, dass dieses oder jenes Jahrhundert eigentlich vor oder nach dem Stichjahr anfing und länger als einhundert Jahre gedauert oder umgekehrt früher aufgehört hat: So begann das 18. Jahrhundert für die Historiker erst 1715 und das 20. Jahrhundert erst 1914. Trotz solcher Unzulänglichkeiten wurde das Jahrhundert zu einem unentbehrlichen chronologischen Werkzeug, nicht nur für Historiker, sondern auch für alle anderen, die sich für die Vergangenheit interessieren.
+>
+> – Le Goff: Geschichte ohne Epochen?, S. 13f.
 
-  * Biologische Metapher für Geistesgeschichte problematisch
-  * Fehlendes objektives Kriterium für Stil/Epoche
-  * Nicht alle Komponisten/Werke passen ins Schema
+### Herausforderung der Einteilung
 
-### Besondere Herausforderungen
+> Probleme entstehen für die Musikgeschichtsschreibung an den Schnittpunkten
+großer Epochen; die Geschichtswissenschaft spricht hier von ›Schwellenzeiten‹
+>
+> -- Keil 2018, S. 18
 
-1. **Schwellenzeiten** (nach Carl Dahlhaus):
+1. *Schwellenzeiten*
 
    * 1430 (Ende Mittelalter)
    * 1600 (Beginn Neuzeit)
@@ -131,13 +144,15 @@ import: ../config.md
    * 1800 (Romantik/"Sattelzeit")
    * 1910 (Atonale Musik)
 
-2. **Ästhetische Präsenz**
+Weitere (wichtige) Ereignisse: 1492 Entdeckung Amerikas, 1517 Thesenanschlag Luthers, 1789ff. Französische Revolution usw.
 
-   > "Eine Beethovensonate ist [...] keine musikgeschichtliche Tatsache, sondern eine musikalische, eine Angelegenheit des Jetzt, nicht der Geschichte."
+2. *Ästhetische Präsenz*
+
+   > Mein Umgang mit vergangener Musik, ob ich sie aus dem Radio oder von CD höre, ihr im Konzert begegne oder sie selbst spiele oder singe, ist Teil meiner Gegenwart. Eine Beethovensonate ist, wie der Musikforscher Carl Dahlhaus einmal formuliert hat, keine musikgeschichtliche Tatsache, sondern eine musikalische, eine Angelegenheit des Jetzt, nicht der Geschichte.
    >
-   > -- Carl Dahlhaus, zit. n. Keil 2018, S. ?
+   > -- Keil 2018, S. 18
 
-### Geographische Entwicklung
+### Geographische Perspektive
 
 **Führende Musiknationen:**
 
@@ -185,7 +200,7 @@ In früheren Generationen von Musikforschenden unterschied man in zwei Erzählwe
    * Vernachlässigung des Einzelnen
    * Idealtypische Beispiele
 
-Heute ist es weniger nötig die Erzählweise zu klassfizieren, da man sich heute – anders als in früheren Generationen – nicht mehr dafür rechtfertig muss sich für die eine oder andere Forschugnsperspektive zu entscheiden. Dazu kommt, dass das Narrativ heute auf vielfältige Weise ausgestaltet sein kann und sich nicht mehr (nur) auf einen langen zusammenhängenden Text beschränkt.
+Heute ist es weniger nötig die Erzählweise zu typisieren, da man sich heute – anders als in früheren Generationen – nicht mehr dafür rechtfertig muss sich für die eine oder andere Forschugnsperspektive zu entscheiden. Dazu kommt, dass das Narrativ heute auf vielfältige Weise ausgestaltet sein kann und sich nicht mehr (nur) auf einen langen zusammenhängenden Text beschränkt. Ferner sind die Begriffe "stark" und "schwach" wertend und spiegeln in erster Linie die Haltung früherer Forschergenerationen wider – sie machen die Ergebnisse aber nicht "besser" oder "schlechter".
 
 ## Wiederholung
 
@@ -207,7 +222,7 @@ _Welche dieser Aussagen trifft zu?_
 
 **Argumentationsaufgabe**
 
-_Erläutern Sie den Begriff „Schwache Erzählung“ in Abgrenzung zur „Starken Erzählung“._
+_Nennen Sie zwei moderne Forschungsansätze der (historischen) Musikwissenschaft und erläutern Sie diese anhand von Beispielen._
 
 ## Übersichten
 

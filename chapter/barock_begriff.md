@@ -36,6 +36,9 @@ Auch noch im 19. Jahrhundert:
 ## Übertragung auf andere Künste
 
 - Im 18. Jahrhundert auch auf bildende Kunst und Architektur bezogen
+  
+  - In dieser Zeit entsteht auch der Begriff "Renaissance"
+
 - Bedeutungswandel: Von abwertender Bezeichnung zur Epochenbezeichnung
 - Kunsthistoriker Heinrich Wölfflin prägte den Begriff als Epochenbezeichnung
 
@@ -50,10 +53,10 @@ Auch noch im 19. Jahrhundert:
 | Renaissance       | Barock         |
 | :---------------- | :------------- |
 | das Lineare       | das Malerische |
-| Fläche			| Tiefe          |
+| Fläche			      | Tiefe          |
 | Geschlossene Form	| Offene Form    |
-| Vielheit		    | Einheit        |
-| Klarheit		    | Unklarheit     |
+| Vielheit		      | Einheit        |
+| Klarheit		      | Unklarheit     |
 
 ### Übertragung auf die Musik
 
@@ -107,6 +110,7 @@ Curt Sachs, „Barockmusik“, 1919:
 - Neue Harmonik und Rhythmik
 - Verzierungs- und Variationskunst
 - Lebensstil und geistesgeschichtliche Grundlagen
+
 
 ## Literatur (Zusammenfassung)
 

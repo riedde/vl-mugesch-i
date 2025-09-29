@@ -83,15 +83,19 @@ tags: barock, gattung, vokalmusik
 
 * stile speciale recitativo 
 
-  * Beispiel: Prolog von Peris _L'Euridice_ (1600) !?[](https://www.youtube.com/watch?v=6Z1i4aYgmyc)
+  * Beispiel: Prolog von Peris _L'Euridice_ (1600)
+    
+    !?[](https://www.youtube.com/watch?v=6Z1i4aYgmyc)
 
 * stile espressivo 
 
   * Beispiel: Monteverdi, _Lamento d'Arianna_ (1608) !?[](https://www.youtube.com/watch?v=3iY1jBk50ok)
   * Monteverdi, [_Oblivion Soave_](https://youtu.be/MGRQhiaLTI8?si=XTwuiz0cB57rTsoz&t=7927 "Beginn der Arie bei 2:12:55") aus der Oper _L'incoronatione die Poppea_ (Schlaflied der Arnalta)
 
-!?[](https://www.youtube.com/watch?v=q1DE1dTdCNE)
+    !?[](https://www.youtube.com/watch?v=q1DE1dTdCNE)
 
 * stile concitato
 
-  * Beispiel: Monteverdi, _Combattimento di Tancredi et Clorinda_ (1624) !?[](https://www.youtube.com/watch?v=AT_Ktsg86gs) 
+  * Beispiel: Monteverdi, _Combattimento di Tancredi et Clorinda_ (1624)
+    
+    !?[](https://www.youtube.com/watch?v=AT_Ktsg86gs) 

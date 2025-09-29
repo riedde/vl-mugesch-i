@@ -30,7 +30,7 @@ tags: oper, gattung, barock
 ### Entstehungskontext
 
 * Komponiert 1607 als 'favola in musica'
-* Gedruckt 1609
+* Gedruckt 1609 in Venedig (Exemplar in der Biblioteca Estense Universitaria, Modena, [MUS.D.249](http://bibliotecaestense.beniculturali.it/info/img/mus/i-mo-beu-mus.d.249.html))
 * Auftragswerk für die Prinzen von Mantua (Francesco und Ferdinando Gonzaga)
 * Erste "echte" Oper im heutigen Sinne
 
@@ -65,13 +65,21 @@ Dies sind nur exemplarische Beispiele, die Vielfalt ist um einiges größer! Zud
 
 * [Cembalo](https://mimo-international.com/MIMO/doc/IFD/OAI_ULEI_M0000075) (unterschiedliche Ausführungen)
   
-  * [1 Manual](https://mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0161920) !['Cembalo mit einem Manual'](https://mimo-international.com/mimo/image.ashx?q=https://mimo-international.com/media/CM/IMAGE/CMIM000030821.jpg&w=250)
+  * [1 Manual](https://mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0161920)
+    
+    !['Cembalo mit einem Manual'](https://mimo-international.com/mimo/image.ashx?q=https://mimo-international.com/media/CM/IMAGE/CMIM000030821.jpg&w=250)
   
-  * [2 Manuale](https://mimo-international.com/MIMO/doc/IFD/OAI_RMAH_106173_NL) !['Cembalo mit zwei Manualen'](https://mimo-international.com/mimo/image.ashx?q=https://mimo-international.com/media/KMKG-MRAH/IMAGE/0553_1.jpg&w=250)    
+  * [2 Manuale](https://mimo-international.com/MIMO/doc/IFD/OAI_RMAH_106173_NL)
+    
+    !['Cembalo mit zwei Manualen'](https://mimo-international.com/mimo/image.ashx?q=https://mimo-international.com/media/KMKG-MRAH/IMAGE/0553_1.jpg&w=250)    
   
-  * [3 Manuale](https://mimo-international.com/MIMO/doc/IFD/MINIM_UK_UEDIN_4304) !['Cembalo mit drei Manualen'](https://mimo-international.com/mimo/image.ashx?q=http://www.mimo-international.com/media/MINIM/UEDIN/IMAGE/0035502c-0001.jpg&w=250)
+  * [3 Manuale](https://mimo-international.com/MIMO/doc/IFD/MINIM_UK_UEDIN_4304)
+    
+    !['Cembalo mit drei Manualen'](https://mimo-international.com/mimo/image.ashx?q=http://www.mimo-international.com/media/MINIM/UEDIN/IMAGE/0035502c-0001.jpg&w=250)
 
-* [Chitarrone](https://mimo-international.com/MIMO/doc/IFD/OAI_ULEI_M0000510) !['Chitarrone'](https://mimo-international.com/mimo/image.ashx?q=http://www.mimo-international.com/media/ULEI/IMAGE/0512.jpg&w=250)
+* [Chitarrone](https://mimo-international.com/MIMO/doc/IFD/OAI_ULEI_M0000510)
+  
+  !['Chitarrone'](https://mimo-international.com/mimo/image.ashx?q=http://www.mimo-international.com/media/ULEI/IMAGE/0512.jpg&w=250)
 
 ### Musikalische Struktur
 
@@ -142,7 +150,7 @@ Szene aus dem dritten Akt in vier Abschnitten:
 
 ### Theoretische Einordnung
 
-Giovanni Battista Doni (1635) "Discorso sopra la perfettione delle melodie":
+Giovanni Battista Doni (1635) *Discorso sopra la perfettione delle melodie*:
 
 * Drei Arten der Monodie:
   
@@ -165,15 +173,18 @@ Giovanni Battista Doni (1635) "Discorso sopra la perfettione delle melodie":
 
 ### Monteverdis Selbstverständnis
 
+*Weitere Informationen zur @config.link.course(`seconda prattica`,seconda_prattica)*
+
+
 * Vorwort zum fünften Madrigalbuch (1605):
   
-  * Verteidigung gegen Giovanni Artusi
-  * Einführung des Begriffes "seconda prattica"
+  * Verteidigung gegen Giovanni Maria Artusi
+  * Einführung des Begriffes *"seconda prattica"*
 
 * Stilistische Differenzierung:
   
-  * Prima prattica: alter, polyphoner Stil
-  * Seconda prattica: neuer, tendenziell homophoner Stil
+  * *Prima prattica:* alter, polyphoner Stil
+  * *Seconda prattica:* neuer, tendenziell homophoner Stil
 
 ## Venezianische Oper
 

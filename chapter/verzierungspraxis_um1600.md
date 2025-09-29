@@ -19,7 +19,7 @@ tags: verzierung, 1600
 
   * Luzzasco Luzzaschi
   * Giulio Caccini
-  * Monteverdi (ab 6. Madrigalbuch)
+  * Claudio Monteverdi (ab 6. Madrigalbuch)
 
 ## Das Madrigal als Gattung
 
@@ -35,10 +35,12 @@ tags: verzierung, 1600
     * Flexible Kombination von Sieben- und Elfsilbern
 
 ### Beispiel: Madrigal von Gabriello Chiabrera
+
+!['Portrait von Gabriello Chiabrera'](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ottavio_Leoni%2C_Gabriello_Chiabrera%2C_1625%2C_NGA_159736.jpg/250px-Ottavio_Leoni%2C_Gabriello_Chiabrera%2C_1625%2C_NGA_159736.jpg "Gabriello Chiabrera, Bild: wikimedia")
 * Besonderheiten:
 
   * Durchgehend Siebensilber
-  * Reimschema: a7 a7 b7 b7 c7 c7 d7 d7e7e7
+  * Reimschema: a7 a7 b7 b7 c7 c7 d7 d7 e7 e7
   * Wiederholung der letzten drei Verse
 
 * Gattungsbezeichnung: "Canzonetta"
