@@ -12,93 +12,133 @@ tags: barock, konzert, komponist
 
 - Antonio Lucio Vivaldi
 
-- *4. März 1678 in Venedig
+- \*4. März 1678 in Venedig
 
 - †27. oder 28. Juli 1741 in Wien
 
 - Komponist und Geiger (laut MGG!)
 
+----
+!['Antonio Vivaldi (1725)'](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Vivaldi_La_Cave.jpg/250px-Vivaldi_La_Cave.jpg "Antonio Vivaldi (Kupferstich von François Morellon la Cave; 1725), Bild: wikimedia")
+
 ## Leben bis zur Priesterweihe
 
 ### Familiäre Herkunft & Vater Giovanni Battista
 
-- Antonio Vivaldi: erstes von neun Kindern aus der Ehe zwischen Giovanni Battista (Giambattista) Vivaldi (1655–1736) und Camilla Callicchio (1655–1728), Schneiderstochter aus Venedig; Eheschließung 11. Juni 1676.
+- **Antonio Vivaldi**
+  
+  - erstes von neun Kindern aus der Ehe zwischen Giovanni Battista (Giambattista) Vivaldi (1655–1736) und Camilla Callicchio (1655–1728), Schneiderstochter aus Venedig
+  - Eheschließung 1676
 
-- Giovanni Battista Vivaldi: Sohn eines Schneiders und Hausbesitzers aus Brescia; 1665 Übersiedlung nach Venedig mit verwitweter Mutter und älterem Bruder.
+- **Giovanni Battista Vivaldi**
+  
+  - Sohn eines Schneiders und Hausbesitzers aus Brescia
+  - 1665 Übersiedlung nach Venedig mit verwitweter Mutter und älterem Bruder
 
-- Berufliche Entwicklung des Vaters: Ausbildung und anfängliche Tätigkeit als Barbier → Wechsel in den Musikerberuf (erstmals dokumentiert 1678).
+- Berufliche Entwicklung des Vaters
+  
+  - Ausbildung und anfängliche Tätigkeit als Barbier
+  - -> Wechsel in den Musikerberuf (erstmals dokumentiert 1678)
 
-- 23\. April 1685: Anstellung als Violinist an S. Marco; gleichzeitig Gründungsmitglied der venezianischen Musikergenossenschaft Sovvegno di Santa Cecilia.
+- 23\. April 1685
+  
+  - Anstellung als Violinist an @config.link.course(`S. Marco`,um1600,#14) <!-- Link checken!-->
+  - gleichzeitig Gründungsmitglied der venezianischen Musikergenossenschaft Sovvegno di Santa Cecilia
 
-- Weitere Tätigkeiten: Cappella Ducale (noch 1729 bezeugt); gelegentliche Mitwirkung in Theaterorchestern von S. Giovanni Grisostomo (1689) und S. Angelo (1710).
+- Weitere Tätigkeiten
+  
+  - *Cappella Ducale* (noch 1729 bezeugt)
+  - gelegentliche Mitwirkung in Theaterorchestern von S. Giovanni Grisostomo (1689) und S. Angelo (1710)
 
-- 22\. Juli 1689: Wahl zum Instrumentallehrer (»Maestro di strumenti«) am Ospedale dei Mendicanti.
+- 22\. Juli 1689: Wahl zum Instrumentallehrer (»Maestro di strumenti«) am Ospedale dei Mendicanti
 
 ### Geistliche Ausbildung (1693–1703)
 
-- Dokumentarische Überlieferung setzt erst Sommer 1693 ein; bezieht sich nahezu ausschließlich auf Priesterlaufbahn.
+Eine dokumentarische Überlieferung ist erst ab dem Sommer 1693 nachweisbar und belegt fast ausschließlich Vivaldis Ausbildung und Laufbahn als Priester.
 
 - Stufenweise Weihen:
 
   - 18\./19. Sept. 1693: Tonsur und erste niedere Weihe (Ostiar)
   - 21\. Sept. 1694: Lektor
   - 25\. Dez. 1695: Exorzist
-  - 21\. Sept. 1696: Akolyth
+  - 21\. Sept. 1696: Akolyth \[i.e. Kerzenträger/Messdiener\]
   - 4\. April 1699: Subdiakon (erste höhere Weihe)
   - 18\. Sept. 1700: Diakon
   - 23\. März 1703: Priester
 
-- Form der Ausbildung: nicht als Zögling eines Priesterseminars, sondern als ›Lehre‹ an Pfarrkirchen (wechselweise S. Geminiano und S. Giovanni in Oleo).
+Form der Ausbildung: Vivaldiu wurde nicht als Zögling eines Priesterseminars ausgebildet, sondern erhielt seine ›Lehre‹ an Pfarrkirchen (wechselweise [S. Geminiano](https://de.wikipedia.org/wiki/San_Geminiano_(Venedig)) und [S. Giovanni in Oleo](https://de.wikipedia.org/wiki/San_Giovanni_in_Oleo)).
 
 ### Frühe Hinweise auf Musikalität
 
-- Bis Abschluss der Priesterausbildung nur vereinzelte Belege für musikalische Beschäftigung.
+- Bis zum Abschluss der Priesterausbildung nur vereinzelte Belege für eine musikalische Beschäftigung Vivaldis
 
-- Weihnachten 1696: »Pré Vivaldi« als Violinist unter Aushilfen an S. Marco (Spesen-Übersicht 28. Febr. 1697) → kann nur der 18-jährige Akolyth Antonio gewesen sein.
+- Für Weihnachten 1696 ist unter Aushilfen an S. Marco ein *»Pré Vivaldi«* als Violinist aufgeführt (Spesen-Übersicht, 28. Febr. 1697) -> der 18-jährige Akolyth Antonio Vivaldi
 
-- 16\. Dez. 1701: Bericht aus Turin über Zusammensein mit Giovanni Battista Vivaldi »detto il Rosino« und dessen Sohn, der ebenfalls »virtuosisimo nel stesso stromento« sei (M. Talbot 1995, S. 527).
+- 16\. Dez. 1701: Bericht aus Turin über Zusammensein mit Giovanni Battista Vivaldi »detto il Rosino« (*genannt Rosino*) und dessen Sohn, der ebenfalls »virtuosisimo nel stesso stromento« (*virtuos auf dem gleichen Instrument*) sei.[^Talbot1995](Michael Talbot: The Sacred Vocal Music of Antonio Vivaldi, Florenz 1995 \[=*Quaderni vivaldiani*, Bd. 8\], S. 527)
 
 ### Musikalische Ausbildung & Vater-Sohn-Beziehung
 
-- Vater Giovanni Battista: allgemein als erster und maßgeblicher musikalischer Lehrer angesehen; frühe Heranführung an Violinspiel und später Vermittlung der Grundlagen des Kompositionshandwerks.
+- Vater Giovanni Battista
+  
+  - allgemein als erster und maßgeblicher musikalischer Lehrer angesehen
+  - frühe Heranführung an Violinspiel und später Vermittlung der Grundlagen des Kompositionshandwerks
 
-- Lebenslange Bedeutung des Vaters: nicht nur dominante Autorität in Kindheit/Jugend, sondern auch wichtige Rolle als Berater und Helfer im späteren Musikerleben; Status als bevorzugter ›persönlicher‹ Kopist des Komponisten-Sohnes über Jahrzehnte (P. Everett 1990, S. 34ff.).
+- Lebenslange Bedeutung des Vaters
+  
+  - nicht nur dominante Autorität in Kindheit/Jugend, sondern auch wichtige Rolle als Berater und Helfer im späteren Musikerleben
+  - Status als bevorzugter ›persönlicher‹ Kopist des Komponisten-Sohnes über Jahrzehnte.[^Everett1990](P. Everett 1990, S. 34ff.)
 
 - Keine Belege für Schülerschaft bei anderen namhaften Musikern Venedigs um 1700.
 
-- Mögliche auswärtige Studien: auffallend lange Zeitspanne zwischen Diakon- und Priesterweihe (1700–1703) legt musikalische Studien außerhalb Venedigs nahe, aber nicht belegbar.
+- Mögliche auswärtige Studien
+  
+  - auffallend lange Zeitspanne zwischen Diakon- und Priesterweihe (1700–1703) legt musikalische Studien außerhalb Venedigs nahe, aber nicht belegbar
 
-- Turin-Verbindung: erwähnter Aufenthalt von Vater und Sohn → mögliche Verbindung zur Geiger-Familie Somis, namentlich Lorenzo Francesco Somis (1662–1736) (M. Talbot 1995, S. 49).
+- Turin-Verbindung
+  
+  - erwähnter Aufenthalt von Vater und Sohn
+  - → mögliche Verbindung zur Geiger-Familie Somis, namentlich Lorenzo Francesco Somis (1662–1736).[^Talbot1995](Michael Talbot: The Sacred Vocal Music of Antonio Vivaldi, Florenz 1995 \[=*Quaderni vivaldiani*, Bd. 8\], S. 49)
 
 ### Motivation & Intentionen
 
-- Unklare Frage: mit welchen persönlichen Intentionen Vivaldi sich gleichzeitig auf geistlichen Beruf und Musikerlaufbahn vorbereitete.
+- Unklare bleibt mit welchen persönlichen Intentionen sich Antonio Vivaldi (gleichzeitig) auf geistlichen Beruf und Musikerlaufbahn vorbereitete.
 
 - Wahrscheinliche Erklärung:
 
   - Priesterwürde und Titel (Don) eher um gesellschaftlicher Geltung willen angestrebt
-  - wahre Absichten auf Musikerberuf gerichtet (möglicherweise vom planenden Vater so angelegt).
+  - wahre Absichten auf Musikerberuf gerichtet (möglicherweise vom planenden Vater so angelegt)
 
 ## Leben nach der Priesterweihe
+
+![Santa Maria della Pieta, Venedig](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Santa_Maria_della_Pieta.JPG/960px-Santa_Maria_della_Pieta.JPG "Santa Maria della Pieta, Kirche in Venedig, Bild: wikimedia")
+
 ### Anstellung am Ospedale della Pietà
 
-- September 1703: Verpflichtung als maestro di violino an das Ospedale della Pietà (eines der vier berühmten ospedali grandi Venedigs für Musikausbildung und -pflege).
+![Ospedale della Pietà](https://upload.wikimedia.org/wikipedia/commons/c/c4/Ospedale_della_Piet%C3%A0.jpg "Ospedale della Pietà (historische Zeichnung), Bild: wikimedia") ![Ospedale della Pietà](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Chiesa_della_Piet%C3%A0%2C_Venice_001.jpg/960px-Chiesa_della_Piet%C3%A0%2C_Venice_001.jpg "Ospedale della Pietà (heute), Bild: wikimedia")
 
-- Institutioneller Rahmen: Einrichtung der Stelle wenige Wochen zuvor durch die governatori der congregazione (Leitungsgremium der Pietà) beschlossen.
+
+- September 1703: Verpflichtung als *maestro di violino* an das *Ospedale della Pietà* (eines der vier berühmten *ospedali grandi* Venedigs für Musikausbildung und -pflege).
+
+- Institutioneller Rahmen: Einrichtung der Stelle wenige Wochen zuvor durch die *governatori* der *congregazione* (Leitungsgremium der *Pietà*) beschlossen.
 
 - Lebenslange Verbindung: Beginn einer dauerhaften Beziehung zum Institut trotz zeitweiliger längerer Unterbrechungen und deutlicher Veränderungen in Art und Charakter des Dienstverhältnisses.
 
-- Beschäftigungsmodalitäten an der Pietà
+- Beschäftigungsmodalitäten an der *Pietà*
 
-  - Kein Dauerverhältnis: maestro-Stellen mussten jährlich durch Abstimmung der Governatori erneuert werden; negatives Votum möglich aufgrund von Vorbehalten gegenüber Lehrkraft oder anstaltsbedingte Belange.
+  - Kein Dauerverhältnis: *maestro*-Stellen mussten jährlich durch Abstimmung der *Governatori* erneuert werden; negatives Votum möglich aufgrund von Vorbehalten gegenüber Lehrkraft oder anstaltsbedingte Belange.
 
   - Teilzeit-Charakter: Lehraufgabe hatte nicht Umfang einer ›Vollzeit‹-Stelle, sondern wurde als einer von mehreren Arbeitsbereichen wahrgenommen.
 
 - Priesterliche Verpflichtungen (1703–1706)
 
-  - September 1703 bis August 1705 und September 1705 bis November 1706: Benefiziat als Kaplan (mansionario) an der Kirche Santa Maria della Pietà mit täglicher Messeverpflichtung.
+  - September 1703 bis August 1705 und September 1705 bis November 1706: Benefiziat als Kaplan (*mansionario*) an der Kirche *Santa Maria della Pietà* mit täglicher Messeverpflichtung.
 
-  - Beendigung des Priesteramtes: Brief vom 16. Nov. 1737 an Marchese Guido Bentivoglio → Rechtfertigung gegenüber Vorwürfen Kardinal Ruffos wegen Nichtwahrnehmung priesterlicher Pflichten; Aufgabe des Messelesens vermutlich Herbst 1706.
+  - Beendigung des Priesteramtes:
+    
+    - Brief vom 16. Nov. 1737 an Marchese Guido Bentivoglio
+      
+      → Rechtfertigung gegenüber Vorwürfen Kardinal Ruffos wegen Nichtwahrnehmung priesterlicher Pflichten
+    - Aufgabe des Messelesens vermutlich im Herbst 1706
 
 ### Frühe Kompositionstätigkeit & Druckveröffentlichungen
 
@@ -114,15 +154,15 @@ tags: barock, konzert, komponist
 
 - Ausstattung des Orchesters: Versorgung der Solospielerinnen und des zunehmend berühmten Pietà-Orchesters mit eigenen Sonaten und Konzerten.
 
-- Quartettsonate C-Dur RV 779: Autograph verzeichnet vier namentliche Pietà-Musikerinnen, die per Dokument vom 5. Juni 1707 als figlie privilegiate eingestuft wurden → Entstehung um diese Zeit wahrscheinlich.
+- Quartettsonate C-Dur RV 779: Autograph verzeichnet vier namentliche Pietà-Musikerinnen, die per Dokument vom 5. Juni 1707 als *figlie privilegiate* eingestuft wurden → Entstehung um diese Zeit wahrscheinlich.
 
-- Offizielle Anerkennung: Bezeichnung »Maestro de' Concerti« in Verbindung mit Vivaldi erscheint in Pietà-Protokollbüchern (notatori) erstmals Mai 1716.
+- Offizielle Anerkennung: Bezeichnung »Maestro de' Concerti« in Verbindung mit Vivaldi erscheint in Pietà-Protokollbüchern (*notatori*) erstmals Mai 1716.
 
 ### Beginn der Opernkarriere (ab 1713)
 
 - 17\. Mai 1713: Debüt als Opernkomponist mit Ottone in villa in Vicenza (nicht in Venedig).
 
-- Impresario-Tätigkeit: Einführung in die venezianische Opernszene als Impresario vor eigener Oper in Venedig.
+- Impresario-Tätigkeit: Einführung in die venezianische Opernszene als Impresario vor der Aufführung einer eigenen Oper in Venedig.
 
 - 20\. Jan. 1714: Libretto-Widmung (»dedica«) einer Karnevalsoper des Teatro S. Angelo → Nachweis als Impresario dieses Opernhauses; Beginn der Tätigkeit wahrscheinlich bereits Herbstspielzeit 1713.
 
@@ -144,7 +184,7 @@ tags: barock, konzert, komponist
 
 ### Amtsantritt & höfische Position
 
-- Erstes Jahresdrittel 1718: Vivaldi (40 Jahre alt) verlässt Venedig zu unbestimmtem Zeitpunkt; Antritt des Amtes »Maestro di Cappella da Camera« beim Prinzen Philipp von Hessen-Darmstadt (1671–1736).
+- Erstes Jahresdrittel 1718: Vivaldi (40 Jahre alt) verlässt Venedig; Antritt des Amtes »Maestro di Cappella da Camera« beim Prinzen Philipp von Hessen-Darmstadt (1671–1736).
 
 - Prinz Philipp: jüngerer Bruder des Landgrafen Ernst Ludwig von Hessen-Darmstadt; seit 1714 kaiserlicher Gouverneur des 1707 an Österreich gefallenen Herzogtums Mantua.
 
@@ -164,7 +204,7 @@ tags: barock, konzert, komponist
 
 - Beleglage: weniger durch Werkzahlen als durch aufschlussreiche Einzelbeobachtungen dokumentiert.
 
-- Op. 8-Konzerte: mehrere der 1725 veröffentlichten Konzerte (RV 210, 332, La tempesta di mare RV 253, La caccia RV 362) entstanden wahrscheinlich in Mantuaner Jahren; Drucksammlung vermutlich nicht später als 1720 zusammengestellt (P. Everett 1996).
+- Konzerte (Op. 8): mehrere der 1725 veröffentlichten Konzerte (RV 210, 332, *La tempesta di mare* RV 253, *La caccia* RV 362) entstanden wahrscheinlich in Mantuaner Jahren; Drucksammlung vermutlich nicht später als 1720 zusammengestellt.[^Everett1996](P. Everett 1996)
 
 - Externe Aufträge: Konzerte und Instrumentalwerke auch für zahlende Auftraggeber von außerhalb komponiert.
 
@@ -174,9 +214,10 @@ tags: barock, konzert, komponist
 
 - Umfassende Opernpraxis: Komposition und Aufführung eigener Opern sowie zeitweise Ausübung der Impresariogeschäfte am Teatro Arciducale → erheblicher finanzieller Zugewinn.
 
-- 24\. April 1718: Einstand als Opernkomponist in Mantua mit erfolgreicher Wiederaufführung von Armida al Campo d'Egitto.
+- 24\. April 1718: Einstand als Opernkomponist in Mantua mit erfolgreicher Wiederaufführung von *Armida al Campo d'Egitto*.
 
 - Neue Opern für Mantua:
+  
   - Karneval 1719: Teuzzone und Tito Manlio
   - Karneval 1720: La Candace
   - Weitere Produktionen: Pasticci
@@ -193,7 +234,7 @@ tags: barock, konzert, komponist
 
 - Anlass Landestrauer: Tod der Kaiserin-Mutter Eleonora Magdalena († 19. Jan. 1720) → Landestrauer für alle Hofhaltungen des Reiches angeordnet.
 
-- Zweites Empfehlungsschreiben: Prinz Philipp erteilt seinem Kammerkapellmeister »la licenza di portarsi a Venezia sua Patria, a motivo d'incombere à qualche lui domestico interesse« (C. Gallico 1980, S. 80); Rückkehr je nach Wunsch des Prinzen.
+- Zweites Empfehlungsschreiben: Prinz Philipp erteilt seinem Kammerkapellmeister »la licenza di portarsi a Venezia sua Patria, a motivo d'incombere à qualche lui domestico interesse«[^Gallico1080](C. Gallico 1980, S. 80); Rückkehr je nach Wunsch des Prinzen.
 
 - Faktische Beendigung: Vivaldi nimmt nach temporärer Freistellung seinen Dienst als Kammerkapellmeister nicht wieder auf; keine förmliche Entlassung.
 
@@ -203,9 +244,9 @@ tags: barock, konzert, komponist
 
 - Gelegentliche Aufträge: Erfüllung von Kompositionsaufträgen für den Mantuaner Hof auch nach Weggang.
 
-- 31\. Juli 1726: Aufführung einer Serenata a quattro voci (RV 692) zur Feier des Prinzen-Geburtstags im Palazzo della Favorita.
+- 31\. Juli 1726: Aufführung einer *Serenata a quattro voci* (RV 692) zur Feier des Prinzen-Geburtstags im *Palazzo della Favorita*.
 
-- Karneval 1732: Uraufführung der Oper Semiramide im Teatro Arciducale (neben Wiederaufführung des Farnace); wahrscheinlich erneute Wahrnehmung von Impresariogeschäften.
+- Karneval 1732: Uraufführung der Oper *Semiramide* im Teatro *Arciducale* (neben Wiederaufführung des Farnace); wahrscheinlich erneute Wahrnehmung von Impresariogeschäften.
 
 ## In Venedig und auf Reisen (1720–1731)
 
@@ -215,35 +256,35 @@ tags: barock, konzert, komponist
 
 - Keine festeren Anbindungen: Unklarheit, ob es auf irgendeiner Ebene zu dauerhaften Verpflichtungen gekommen ist.
 
-- Theaterkrise: bis Herbst 1725 nur eine einzige Oper in Venedig (La Verità in Cimento, Herbst 1720 S. Angelo) und Beteiligung an einem Pasticcio (Filippo Re di Macedonia, Karneval 1721); 1722 völlig ›opernloses‹ Jahr.
+- Theaterkrise: bis Herbst 1725 nur eine einzige Oper in Venedig (*La Verità in Cimento*, Herbst 1720 S. Angelo) und Beteiligung an einem Pasticcio (*Filippo Re di Macedonia*, Karneval 1721); 1722 völlig ›opernloses‹ Jahr.
 
-- Möglicher Reputationsschaden: Frage, ob B. Marcellos Satire Il teatro alla moda dem Ruf des »Prete rosso« in der venezianischen Theaterszene geschadet hatte.
+- Möglicher Reputationsschaden: Frage, ob B. Marcellos Satire *Il teatro alla moda* dem Ruf des »Prete rosso« (*Roter Priester*) in der venezianischen Theaterszene geschadet hatte.
 
 ### Erneuerung der Pietà-Beziehungen (ab 1723)
 
-- Vermutliche Bemühungen: Wahrscheinlich versuchte Vivaldi bald nach Rückkehr nach Venedig Erneuerung der Beziehungen zum Ospedale della Pietà.
+- Vermutliche Bemühungen: Wahrscheinlich versuchte Vivaldi bald nach Rückkehr nach Venedig Erneuerung der Beziehungen zum *Ospedale della Pietà*.
 
 - Fehlende Dokumente: bis Sommer 1723 keine einschlägigen Belege → scheint für negativen Ausgang der Bemühungen zu sprechen; Dienste wie Konzertlieferung nicht gänzlich auszuschließen.
 
-- Neuregelung 2. Juli 1723: Governatori-Beschluss mit deutlich unterschiedener Regelung → Verpflichtung zur monatlichen Lieferung von zwei Konzerten (unabhängig von Anwesenheit in Venedig).
+- Neuregelung 2. Juli 1723: *Governatori*-Beschluss mit deutlich unterschiedener Regelung → Verpflichtung zur monatlichen Lieferung von zwei Konzerten (unabhängig von Anwesenheit in Venedig).
 
 - Aufgaben bei Anwesenheit: persönliche Leitung von mindestens drei oder vier Proben zu jedem Konzert.
 
 - Honorar: eine Zechine pro Konzert = etwa 85 Dukaten Jahreseinnahme.
 
-- Belegte Lieferungen: Kassenbücher der Pietà dokumentieren für vier Jahre (Aug. 1725 bis Aug. 1729) Lieferung von 72 Konzerten durch Vivaldi.
+- Belegte Lieferungen: Kassenbücher der *Pietà* dokumentieren für vier Jahre (Aug. 1725 bis Aug. 1729) Lieferung von 72 Konzerten durch Vivaldi.
 
-- Veränderte Stellung: nicht mehr fest verpflichteter Maestro (jährliche Erneuerung durch Congregazione) → Status eines freien Mitarbeiters.
+- Veränderte Stellung: nicht mehr fest verpflichteter *Maestro* (jährliche Erneuerung durch *Congregazione*) → Status eines freien Mitarbeiters.
 
 ### Diversifizierte Einkommensquellen
 
-- Mehrgleisige Strategie: Wiederbeschäftigung an der Pietà nur eines von mehreren Zielen zur Sicherung einträglicher Tätigkeitsfelder und hinreichender Existenzgrundlage.
+- Mehrgleisige Strategie: Wiederbeschäftigung an der *Pietà* nur eines von mehreren Zielen zur Sicherung einträglicher Tätigkeitsfelder und hinreichender Existenzgrundlage.
 
 - Haupteinnahmequellen: Operngeschäft, Honorare für lukrative Kompositionsaufträge, Verkauf von Konzerten auf dem freien Markt.
 
 ### Rom-Erfolge als Basis der Reetablierung (1723–1724)
 
-- Bedeutung für Reetablierung: Erfolge in Karnevalsspielzeiten 1723 und 1724 am Teatro Capranica Rom wichtig für Operngeschäft und Zuführung neuer Abnehmerkreise.
+- Bedeutung für Reetablierung: Erfolge in Karnevalsspielzeiten 1723 und 1724 am *Teatro Capranica* in Rom wichtig für Operngeschäft und Zuführung neuer Abnehmerkreise.
 
 - Römische Opern 1723–1724:
 
@@ -251,15 +292,23 @@ tags: barock, konzert, komponist
   - La Virtù trionfante (nur 2. Akt) (1724)
   - Il Giustino (1724)
 
-- Frühere Rom-Beteiligung: bereits Karneval 1720 Mitwirkung an Pasticcio-Oper Tito Manlio für Teatro della Pace (3. Akt = RV 778).
+- Frühere Rom-Beteiligung: bereits Karneval 1720 Mitwirkung an Pasticcio-Oper *Tito Manlio* für *Teatro della Pace* (3. Akt = RV 778).
 
-- Erstes persönliches Auftreten: wahrscheinlich mit Uraufführung Ercole sul Termodonte im Jan. 1723.
+- Erstes persönliches Auftreten: wahrscheinlich mit Uraufführung *Ercole sul Termodonte* im Jan. 1723.
 
-- Dritter Rom-Aufenthalt: Vivaldis Briefaussage vom 16. Nov. 1737 »sono stato tre carnevali a fare Opera in Roma« (A. Cavicchi 1967, S. 66) → dritter Aufenthalt wahrscheinlich nach 1723 und 1724, eventuell 1725; aber 1725 als anno santo keine Theateraufführungen in Rom → Fragen bleiben offen.
+- Dritter Rom-Aufenthalt
+  
+  - Vivaldis Briefaussage vom 16. Nov. 1737 »sono stato tre carnevali a fare Opera in Roma« (*Ich war drei Karnevale lang in Rom, um Oper zu machen*)[^Cavicchi1967](A. Cavicchi 1967, S. 66)
+  
+    → dritter Aufenthalt wahrscheinlich nach 1723 und 1724, eventuell 1725;
+  
+  aber 1725 als anno santo keine Theateraufführungen in Rom
+    
+    → Fragen bleiben offen
 
 ### Zeitgenössische Rezeption in Rom
 
-- J. J. Quantz-Zeugnis: bei Rom-Aufenthalt zweite Jahreshälfte 1724 lernte er den »noch ganz unbekannte[n] sogenannte[n] Lombardische[n] Geschmack« kennen, »welchen kurz vorher Vivaldi durch eine seiner Opern in Rom eingeführet, und die Einwohner dergestalt dadurch eingenommen hatte, daß sie fast nichts hören mochten, was diesem Geschmacke nicht ähnlich war« (Fr. Wilh. Marpurg 1754/55, S. 223).
+- J. J. Quantz-Zeugnis: bei Rom-Aufenthalt zweite Jahreshälfte 1724 lernte er den »noch ganz unbekannte\[n\] sogenannte\[n\] Lombardische\[n\] Geschmack« kennen, »welchen kurz vorher Vivaldi durch eine seiner Opern in Rom eingeführet, und die Einwohner dergestalt dadurch eingenommen hatte, daß sie fast nichts hören mochten, was diesem Geschmacke nicht ähnlich war«.[Marpurg 1754](Fr. Wilh. Marpurg 1754/55, S. 223)
 
 - Identifikation: von Quantz erwähnte Oper muss Il Giustino gewesen sein.
 
@@ -267,11 +316,13 @@ tags: barock, konzert, komponist
 
 - Empfehlung durch A. Marcello: Komponisten-Kollege und venezianische Nobile richtete am 15. Okt. 1722 Empfehlungsbrief an Fürstin Maria Livia Spinola Borghese in Rom.
 
-- Päpstliche Auftritte: zweimal Spiel in Privatgemächern des Papstes (wahrscheinlich Innozenz XIII., † 7. März 1724); Empfang von »quante grazie« (Briefe vom 16. und 23. Nov. 1737; A. Cavicchi 1967, S. 66 und 70).
+- Päpstliche Auftritte: zweimal Spiel in Privatgemächern des Papstes (wahrscheinlich Innozenz XIII., † 7. März 1724); Empfang von »quante grazie« (Briefe vom 16. und 23. Nov. 1737[^Cavicchi1967](A. Cavicchi 1967, S. 66 und 70)).
 
-- Kardinal Pietro Ottoboni: wichtigste Bezugsperson in römischer Aristokratie; Residenz Palazzo della Cancelleria als Zentrum des römischen Musiklebens; aus Venedig stammender Kirchenfürst, Mäzen A. Corellis, Patron des Teatro Capranica.
+- Kardinal Pietro Ottoboni: wichtigste Bezugsperson in römischer Aristokratie; Residenz Palazzo della Cancelleria als Zentrum des römischen Musiklebens; aus Venedig stammender Kirchenfürst, Mäzen @config.link.course(`A. Corellis`,instrumentalmusik,#15), Patron des *Teatro Capranica*.
 
 - Ottobonis Musikaliensammlung: 24 heute in Manchester befindliche handschriftliche Stimmensätze Vivaldischer Konzerte (um Mitte 1720er Jahre für Hauskapelle des Kardinals); Repräsentationshandschrift mit 12 Violinsonaten (GB-MP MS 624.1 Vw 81).
+
+*Hinweis:* Informationen zu den [RISM-Sigla](https://rism.info/de/community/sigla.html).
 
 ### Französische Gesandtschaft in Venedig (ab 1725)
 
@@ -283,9 +334,9 @@ tags: barock, konzert, komponist
 
 ### Rückkehr ins venezianische Operngeschäft (ab 1725)
 
-- Neue Phase ab Herbst 1725: nach nahezu fünf Jahren ohne neue Oper in Venedig Beginn neuer Zusammenarbeit mit Teatro S. Angelo.
+- Neue Phase ab Herbst 1725: nach nahezu fünf Jahren ohne neue Oper in Venedig Beginn neuer Zusammenarbeit mit *Teatro S. Angelo*.
 
-- Einleitung durch Pasticci: L'inganno trionfante in amore (Herbst 1725); Cunegonda (29. Jan. 1726).
+- Einleitung durch Pasticci: *L'inganno trionfante in amore* (Herbst 1725); Cunegonda (29. Jan. 1726).
 
 - Fünf neue Opern bis Karneval 1728:
 
@@ -341,7 +392,7 @@ tags: barock, konzert, komponist
 
 - Wichtigste Orientierungspunkte: für 1730er Jahre werden durch Opernproduktionen gesetzt.
 
-- Karneval 1732: je eine neue Oper für Mantua (Semiramide, um 26. Dez. 1731) und zur Einweihung des Teatro Filarmonico in Verona (La Fida Ninfa, 6. Jan. 1732).
+- Karneval 1732: je eine neue Oper für Mantua (*Semiramide*, um 26. Dez. 1731) und zur Einweihung des Teatro Filarmonico in Verona (La Fida Ninfa, 6. Jan. 1732).
 
 - Produktionspause: bis Spätherbst 1733 kam keine neue Oper heraus.
 
@@ -359,7 +410,7 @@ tags: barock, konzert, komponist
 
 - Verlust der Zugkraft: Frage, ob Bühnenwerke in Zeiten eines sich wandelnden Operngeschmacks ihre Zugkraft verloren hatten.
 
-- Anpassungsversuche: Vivaldi reicherte Neubearbeitung seiner Dorilla in Tempe mit Arien der neuen Operngrößen J. A. Hasse und G. Giacomelli an → dahingehende Vermutungen indirekt naheliegend.
+- Anpassungsversuche: Vivaldi reicherte Neubearbeitung seiner *Dorilla in Tempe* mit Arien der neuen Operngrößen Johann Adolph Hasse (1699–1783) und Geminiano Giacomelli (1962–1740) an (naheliegende Vermutung).
 
 ### Erneute Zusammenarbeit mit S. Angelo (1738)
 
@@ -371,7 +422,7 @@ tags: barock, konzert, komponist
   - Armida al campo d'Egitto (12. Febr. 1738) als Wiederaufführung
   - Rosmira (RV 731; 27. Jan. 1738) als arrangiertes Pasticcio
 
-- Pasticcio-Charakter: Rosmira enthielt Musik von mindestens sieben verschiedenen Komponisten (darunter Joh. A. Hasse, G. Fr. Händel, G. B. Pergolesi).
+- Pasticcio-Charakter: *Rosmira* enthielt Musik von mindestens sieben verschiedenen Komponisten (darunter Johann Adolph Hasse, Georg Friedrich Händel, Giovanni Battista Pergolesi).
 
 ### Ferrara-Projekte & Enttäuschungen (ab 1736)
 
@@ -404,3 +455,9 @@ tags: barock, konzert, komponist
 - Sterbedokumente: Verstorbene nicht unter Berufsbezeichnung Musiker oder Komponist verzeichnet, sondern allein mit Angabe »weltl. Priester« → deutet darauf hin, dass man um eigentliche Profession und den in ihr erlangten Ruf dieses weltlichen Priesters in seiner letzten Umgebung gar nicht wusste.
 
 - Todesnachricht: spätestens am 26. Aug. hatte Todesnachricht Venedig erreicht.
+
+
+## Literatur
+
+- P. Ryom: Verzeichnis der Werke A. Vivaldis \[RV\] . Kleine Ausgabe, Leipzig ^2^1979
+- P. Ryom: Répértoire des Œuvres d’A. Vivaldi. Les Compositions instrumentales, Kopenhagen 1986

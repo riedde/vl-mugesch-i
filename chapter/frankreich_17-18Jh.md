@@ -14,19 +14,25 @@ tags: barock, kultur, frankreich, komponist
 
 ### Überblick & Zielsetzung
 
-- Frankreich bietet im 17. und 18. Jahrhundert zentrale Impulse für Musiktheorie und Musikästhetik; exemplarische Figuren: Johannes Kepler (Deutschland, als Ausgangspunkt), René Descartes, Marin Mersenne, Jean-Philippe Rameau. 
+- Frankreich bietet im 17. und 18. Jahrhundert zentrale Impulse für Musiktheorie und Musikästhetik
+- exemplarische Figuren:
+
+  - Johannes Kepler (1571–1630), Astronom/Physiker/Naturphilosoph (Deutschland, als Ausgangspunkt)
+  - René Descartes (1596–1650), Philosoph/Mathematiker
+  - Marin Mersenne (1588–1648), Theologe/Mathematiker/Musiktheoretiker
+  - Jean-Philippe Rameau (1683–1764), Komponist, virtuoser Cembalist/Organist/Musiktheoretiker
 
 ### Mittelalterliche Tradition & Keplers Ansatz
 
-- Mittelalterliche Musiktheorie war pythagoreisch geprägt (musica mundana: Zusammenhang Musik–Kosmos). 
+- Mittelalterliche Musiktheorie war pythagoreisch geprägt (*musica mundana*: Zusammenhang Musik–Kosmos). 
 
-- Johannes Kepler (1571–1630) verband kopernikanisches Weltbild und Musiktheorie in Harmonice mundi libri V (1619). 
+- Johannes Kepler (1571–1630) verband kopernikanisches Weltbild und Musiktheorie in *Harmonice mundi libri V* (1619).
 
-- Innovativ: geometrische statt rein arithmetische Proportionen ermöglichen Einbezug irrationaler/transzendenter Zahlen (√2, π). 
+- Innovativ: geometrische statt rein arithmetische Proportionen ermöglichen Einbezug irrationaler/transzendenter Zahlen ($\sqrt{2}$, π)
 
 - Methodisches Modell: gedachte gekrümmte Saite als Kreis + eingeschriebene regelmäßige Vielecke (Dreieck, Viereck, Fünfeck, Sechseck etc.) markieren konsonante Saitenteilungspunkte. 
 
-- Aus dem Fünfeck: Saitenteilungen 4/5, 3/5, 2/5, 1/5 → große Terz, große Sexte, Oktave + große Terz, Doppeloktave + große Terz; Wohlklangbezug zum Goldenen Schnitt (Diagonalschnittpunkt). 
+- Aus dem Fünfeck: Saitenteilungen $\frac{4}{5}$, $\frac{3}{5}$, $\frac{2}{5}$, $\frac{1}{5}$ → große Terz, große Sexte, Oktave + große Terz, Doppeloktave + große Terz; Wohlklangbezug zum Goldenen Schnitt (Diagonalschnittpunkt). 
 
 - Kulmination: Planetenmusik/Sphärenharmonie; Tabellen zur musikalischen Relation von Planeten an bestimmten Tagen; Zitat: »nichts anderes als eine fortwährende mehrstimmige Musik«; »der Mensch [...] entdeckt«. 
 
@@ -111,6 +117,10 @@ einer neuartigen Harmonielehre musikalisch-handwerkliche Praxis mit wissenschaft
 
 - Produktion: 27 ordres, 240 Sätze, Druck zwischen 1713–1730 in vier Büchern (pièces de clavecin). 
 
+---
+
+!['F. Couperin. Organiste de la Chapelle du Roy'](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Fran%C3%A7ois_Couperin.jpg/250px-Fran%C3%A7ois_Couperin.jpg "F. Couperin. Organiste de la Chapelle du Roy, Bild: wikimedia")
+
 ### Programmatische Transformation & Charakterstücke
 
 - Allmählicher Ersatz reiner Tänze durch programmatische Titel: Personen, Verhaltensweisen, Natur- und Klangphänomene → Charakterstücke (deskriptiv, delikat). 
@@ -149,6 +159,11 @@ einer neuartigen Harmonielehre musikalisch-handwerkliche Praxis mit wissenschaft
 - Karriere: Tänzer → königliche Gunst → führende Rolle → Einführung der französischen Ouvertüre im Hofballett. 
 
 - 1672: Monopol auf Bühnenwerke; nahezu jährliche Produktion von Tragédies en musique. 
+
+---
+
+!['Porträt von Jean-Baptiste Lully (1632-1687)'](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Paul_Mignard_-_Jean-Baptiste_Lully.jpg/250px-Paul_Mignard_-_Jean-Baptiste_Lully.jpg " Porträt von Jean-Baptiste Lully (1632-1687), Bild: wikimedia")
+
 ### Ballet de cour (seit 1581)
 
 - Hofballett als zentrale Repräsentationsform; Beteiligung der höfischen Gesellschaft (inkl. Auftritte des jungen Ludwigs XIV.). 
@@ -200,6 +215,13 @@ einer neuartigen Harmonielehre musikalisch-handwerkliche Praxis mit wissenschaft
 - Rezeption: Trauerchor für Castor (chromatisches Melos, Passus duriusculus, f-Moll) → populär; Aufführung bei Rameaus Beerdigung (1764). 
 
 ## Gambenmusik
+
+Artikel zur [Viola da gamba](https://web.archive.org/web/20251002143944/https://www.simpk.de/fileadmin/user_upload_sim/Dokumente/Museum/Sammlung/Fuehrungsblaetter_DE/FB_09_Gambe_DE_pre.pdf)
+
+!['Viola da Gamba'](https://mimo-international.com/mimo/image.ashx?q=https://mimo-international.com/media/CM/IMAGE/CMIM000014278.jpg "Basse de viole (Sechs Saiten), 18. Jahrhundert, Frankreich, [weitere Details](https://mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0161384)")
+
+ 
+
 ### Marin Marais (1656–1728)
 
 - Schüler Sainte-Colombes; Freund Lullys; Hofkarriere unter Ludwig XIV. und Ludwig XV.; Kapellmeister des Orchesters der Académie Royale de Musique. 

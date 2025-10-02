@@ -8,7 +8,11 @@ import: ../config.md
 tags: gattung, barock
 -->
 
-# Instrumentalmusik (Sonate, Suite, Concerto)
+# Instrumentalmusik
+
+- Sonate
+- Suite
+- Concerto
 
 ## Wozu Instrumentalmusik?
 
@@ -30,28 +34,33 @@ Musiktheaters
 
 - Beispiele für Verwendung
 
-  - Johann Sebastian Bach
+  - Johann Sebastian Bach (1685–1750)
     
-    - für die Ausbildung, (WTK, Orgel-Büchlein)
+    - für die Ausbildung, (WTK BWV 846–869, Orgel-Büchlein BWV 599–644)
 
-    - für Dilletantenkreise (Ital. Konzert, Goldberg-Variationen)
+    - für Dilletantenkreise (Ital. Konzert BWV 971, Goldberg-Variationen BWV 988)
   
   - Georg Philipp Telemann (1681–1767) für den Druck
 
   - Christoph Graupner (1683–1760), weitestgehend Verzicht (Hofmusiker)
 
-## Instrumentalmusik und Ihre Funktion (bei Händel)
+## Instrumentalmusik und Ihre Funktion
+
+*Am Beispiel von Georg Friedrich Händel*
 
 - Tastenmusik zum Großteil aus Halle/Hamburg (bis 1706)
-- »Unterrichtsmaterial« (Lebensunterhalt verdienen)
-- gilt für fast alle 30 Suiten, Einige Einzelstücke
-- Indizien: Virtuose Werke für eigene Auftritte
+  
+  - »Unterrichtsmaterial« (Lebensunterhalt verdienen)
+  - gilt für fast alle 30 Suiten, einige Einzelstücke
+  - Indizien: Virtuose Werke für eigene Auftritte
+
 - In London revidiert Händel viele der frühen Werke
+
 - Eigene Edition (Klaviersuiten, 1720), »keine« Werke nur für den Druck komponiert
 
-  - »Broterwerb«, Halle/Hamburg freiberuflich, London als Klavierlehrer am Hof
+- »Broterwerb«, Halle/Hamburg freiberuflich, London als Klavierlehrer am Hof
 
-- Wesentlicher Teil anspruchsvoller TM ist verloren (Improvisationen)
+- Wesentlicher Teil anspruchsvoller Tastenmusik ist verloren (Improvisationen)
 
 ## Entwicklung der Instrumentalmusik
 
@@ -89,20 +98,17 @@ Es gibt einen eigenen Kurs zur @config.link.course(Stimmungsproblematik,stimmung
 
 Es gibt eigene Kurse zu @config.link.course(Sweelinck,sweelinck_jan_pieterszoon) und @config.link.course(Froberger,froberger_johann_jakob)
 
-## Die Suite
-
-<!-- hier fehlt noch Inhalt -->
-
 ## Die Sonate
 
-### Begriffe
-- Sonata und Canzona
-- Sonata und Sinfonia
-- Sonata und Concerto
-- Sonata und Suite bzw. Partita
-- Sonata und freie Formen (Toccata, Ricercar, Capriccio, Fantasie)
+- Begriffe[^Schmid-Beste2006](Thomas Schmidt-Beste: Die  Sonate. Geschichte – Formen – Ästhetik, Kassel 2006)
+  
+  - Sonata und Canzona, S. 12ff.
+  - Sonata und Sinfonia, S. 17ff.
+  - Sonata und Concerto, S. 19ff.
+  - Sonata und Suite bzw. Partita, S. 20ff.
+  - Sonata und freie Formen (Toccata, Ricercar, Capriccio, Fantasie), S. 23ff.
 
-**Definition:** Schmid-Beste, S. 10-11
+  **Definitionen und Überblick:**[^Schmid-Beste2006], S. 25–29
 
 ### Sonate vs. Canzona
 - Canzona zunächst Vokalstück, ab Ende 16. Jhd. überwiegend instrumental (»Conzona da/per sonar«)
@@ -122,11 +128,59 @@ Es gibt eigene Kurse zu @config.link.course(Sweelinck,sweelinck_jan_pieterszoon)
   - Suite
 
 ### Sonate vs. Suite/Partita
-Schmidt-Beste, S. 20–23
+- "suitte" oder "suytte" ("Folge"/"Abfolge") aus dem Französichen
+- Sammlung aus Tanzsätzen
+- Die Sätze sind mit der Tanzart/dem -typus betitelt:
+  
+  - Corrente/Courante
+  - Gagliarda/Galliarde
+  - Allemande
+  - Sarabande
+  - Gigue
 
-### Zusammenfassung 
-Schmidt-Beste, S. 25–29
+- Rahmenbedingungen: Tanzbar, periodische Anlage, Wiederholungen, gleiche Tonart
+- Ende 17. Jhd.: standardisierte Abfolge (Allemande–Courante–Sarabande, später mit Gigue)
+- Begriff *Sonata* finden in der Mitte des 17. Jahrhunderts auch hier Anwendung
 
+- *Sonate* ist hier ein Sammelbegriff für Instrumentalmusk mit klein besetztem Ensemble
+- *Partita* wird im 18. Jhd. auch synonym für "Suite für Tasteninstrument" verwendet (Bezug zu Tanz schwindet)
+
+### Zusammenfassung (Überblick)
+
+- Sonate:
+  
+  - kleines Enseble, ab 1730 auch Tasteninstrument
+  - 17\. Jhd., freie Satzfolge; 18. Jhd. mehrsätzig, festes Schema
+  - fugiert oder homophon
+
+- Canzona
+  
+  - eher mittelgroßes Ensemble
+  - zwei- und dreiteilige Abschnitte
+  - polyphon ggf. fugiert
+
+- Sinfonia
+  
+  - variables Ensemblestück (größeres Ensebmle erst ab Mitte 18. Jhd.)
+  - 17\. Jhd., freie Satzfolge; 18. Jhd. mehrsätzig, festes Schema
+  - Satztypen variabel
+
+- Sinfonia (als Einleitung)
+  
+  - kurz, einsätzig (bis ca. 1700)
+  - homophon
+
+- Suite
+  
+  - Tanzfolge
+  - eher homophon, Beschränkung durch Satztypus bedingt
+
+- Concerto
+  
+  - variables Ensemblestück (instrumental/vokal)
+  - Im 18. Jhd. zunehmend Solo-Tutti-Wechsel, hinwendung zur  Ritornellform
+
+*Weitere Begriffe sind bei [^Schmid-Beste2006](Thomas Schmidt-Beste: Die  Sonate. Geschichte – Formen – Ästhetik, Kassel 2006, S. 25–29) erläutert.*
 
 ## Arcangelo Corelli (1653–1713)
 
@@ -152,11 +206,11 @@ Schmidt-Beste, S. 25–29
 
 #### Entwicklung der Triosonate um 1620
 
-- Gattungsentwicklung: kristallisierten sich zwei Typen der Triosonate heraus: sonata da camera und sonata da chiesa.
+- Gattungsentwicklung: kristallisierten sich zwei Typen der Triosonate heraus: *sonata da camera* und *sonata da chiesa*.
 
-- Sonata da camera: gehörte in die ›Kammer‹, was heißen soll, an einen Hof – mithin höfische Musik.
+- **Sonata da camera**: gehörte in die ›Kammer‹, was heißen soll, an einen Hof – mithin höfische Musik.
 
-- Sonata da chiesa: die Kirchensonate wurde im Gottesdienst gespielt.
+- **Sonata da chiesa**: die Kirchensonate wurde im Gottesdienst gespielt.
 
 - Erste Belege: beide Begriffe fallen erstmals 1637 in einer Sonatensammlung von Tarquinio Merula.
 
@@ -174,7 +228,7 @@ Schmidt-Beste, S. 25–29
 
 #### Mäzenatentum & Lebensbedingungen
 
-- Maestro di Musica: des Kardinals Benedetto Panfili, in dessen Palazzo er mehrere Zimmer bewohnte.
+- *Maestro di Musica*: des Kardinals Benedetto Panfili, in dessen Palazzo er mehrere Zimmer bewohnte.
 
 - Förderung: gefördert von einem Neffen des Papstes, dem bereits mit 22 Jahren zum Kardinal aufgerückten Pietro Ottoboni.
 
@@ -186,71 +240,81 @@ Schmidt-Beste, S. 25–29
 
 - Opera 1–4: Triosonaten (1681–1694)
   
-  - Besetzung & Entstehung: opera 1–4 enthalten jeweils zwölf Triosonaten, entstanden zwischen 1681 und 1694.
+  - Besetzung & Entstehung: Opera 1–4 enthalten jeweils zwölf Triosonaten, entstanden zwischen 1681 und 1694.
 
 - Op. 5: Violinsonaten (1700)
 
-  - Besetzungsreduktion: op. 5 enthält zwölf Violinsonaten, erschienen 1700.
+  - Besetzungsreduktion: Op. 5 enthält zwölf Violinsonaten, erschienen 1700.
   
   - Instrumentierung: Besetzung ist auf eine einzelne Violine plus Basso continuo reduziert.
 
 - Op. 6: Concerti grossi (posthum 1714)
 
-  - Besetzungserweiterung: in op. 6 erweiterte Corelli die Besetzung zum Ensemble.
+  - **Besetzungserweiterung:** In op. 6 erweiterte Corelli die Besetzung zum Ensemble.
   
-  - Gattungsbezeichnung: diese zwölf Werke nannte er Concerti grossi.
+  - **Gattungsbezeichnung:** Diese zwölf Werke nannte er Concerti grossi.
   
-  - Posthume Veröffentlichung: erschienen ein Jahr nach seinem Tod in Amsterdam.
+  - **Posthume Veröffentlichung:** Erschienen ein Jahr nach seinem Tod in Amsterdam.
   
-  - Vollständiger Titel: Concerti Grossi con duoi Violini e Violoncello di Concertino obligati e duoi altri Violini, Viola e Basso di Concerto Grosso ad arbitrio, che si potranno radoppiare.
+  - **Vollständiger Titel:** *Concerti Grossi con duoi Violini e Violoncello di Concertino obligati e duoi altri Violini, Viola e Basso di Concerto Grosso ad arbitrio, che si potranno radoppiare* [^de](›Concerti grossi mit zwei obligaten konzertierenden Violinen und Violoncello und zwei weiteren Violinen, Viola und Bass als Concerto grosso nach Belieben, die auch verdoppelt werden können‹).
   
-  - Deutsche Übersetzung: ›Concerti grossi mit zwei obligaten konzertierenden Violinen und Violoncello und zwei weiteren Violinen, Viola und Bass als Concerto grosso nach Belieben, die auch verdoppelt werden können‹.
-  
-  - Ensemblekonzeption: einem vierstimmigen Streichorchester (dem ›Concerto grosso‹) tritt eine Sologruppe aus zwei Violinen und Violoncello, das sogenannte ›Concertino‹, gegenüber.
+  - *Ensemblekonzeption:* einem vierstimmigen Streichorchester (dem ›Concerto grosso‹) tritt eine Sologruppe aus zwei Violinen und Violoncello, das sogenannte ›Concertino‹, gegenüber.
 
 ### Sonatentypologie
 
 #### Sonata da chiesa (Kirchensonate)
 
-- Grundprinzip: freie Komposition, die nicht an Tanzmodelle gebunden ist.
+- Grundprinzip: freie Komposition, die nicht an Tanzmodelle gebunden ist
 
-- Formaler Aufbau: viersätzig, Satzfolge ist langsam – schnell – langsam – schnell.
+- Formaler Aufbau: viersätzig, Satzfolge ist *langsam* – *schnell* – *langsam* – *schnell*
 
-##### Detaillierte Satzcharakteristik
+---
 
-- Erster Satz: langsamer, meist geradtaktiger und homophoner Satz, oft mit festlich wirkendem punktierten Rhythmus.
+**Detaillierte Satzcharakteristik**
 
-- Häufiger Halbschluss: Beginn endet oft auf Halbschluss.
+- Erster Satz
+  
+  - langsamer, meist geradtaktiger und homophoner Satz, oft mit festlich wirkendem punktierten Rhythmus
+  - Häufiger Halbschluss: Beginn endet oft auf Halbschluss
 
-- Zweiter Satz: schneller, fugenartiger Satz, fast immer monothematisch.
+- Zweiter Satz
+  
+  - schneller, fugenartiger Satz, fast immer monothematisch
 
-- Dritter Satz: langsamer Satz, steht in der jeweils parallelen Dur- oder Molltonart, ist ungeradtaktig, homophon und einer Sarabande ähnlich.
+- Dritter Satz
+  
+  - langsamer Satz, steht in der jeweils parallelen Dur- oder Molltonart
+  - ist ungeradtaktig, homophon und einer Sarabande ähnlich
 
-- Vierter Satz: schneller Schlusssatz, steht fast immer im Dreiermetrum, ist oft fugiert und tänzerisch angelegt.
+- Vierter Satz
+  
+  - schneller Schlusssatz, steht fast immer im Dreiermetrum
+  - ist oft fugiert und tänzerisch angelegt
 
-- Weniger standardisiert: dritter/vierter Satz weniger standardisiert (vierter oft schneller).
-
-- Affektkontrast: Finale häufig in leichterem Tonfall als Kontrast zum Beginn.
+- Zudem:
+  
+  - dritter/vierter Satz weniger standardisiert (vierter oft schneller)
+  - Affektkontrast: Finale häufig in leichterem Tonfall als Kontrast zum Beginn
 
 #### Sonata da camera (Kammersonate)
 
-- Grundcharakter: im Grunde eine Suite als Folge von Instrumentalsätzen.
+- Grundcharakter: im Grunde eine Suite als Folge von Instrumentalsätzen
 
 - Tanzmodell: Tanz ist hier Modell, aber nicht das Ziel!
 
-- Satzanzahl: bestehen in der Regel aus vier bis sieben Tanzsätzen.
+- Satzanzahl: bestehen in der Regel aus vier bis sieben Tanzsätzen
 
-- Spätere Bezeichnungen: wurden später, in anderen Besetzungen, auch Suiten oder Partiten genannt.
+- Spätere Bezeichnungen: wurden später, in anderen Besetzungen, auch Suiten oder Partiten genannt
 
 #### Mischformen & Aufführungspraxis
 
-- Stilmischung: Corelli hat sowohl Sonaten des Kammertypus wie Sonaten des Kirchentypus komponiert und beide Arten auch miteinander vermischt.
+- **Stilmischung:** Corelli hat sowohl Sonaten des Kammertypus wie Sonaten des Kirchentypus komponiert und beide Arten auch miteinander vermischt.
 
-- Zusätzliche Sätze: häufig mischte Corelli unter die vier Sätze einer Sonata da chiesa einen zusätzlichen fünften im Stile der Kammersonaten-Sätze.
+- **Zusätzliche Sätze:** Häufig mischte Corelli unter die vier Sätze einer Sonata da chiesa einen zusätzlichen fünften im Stile der Kammersonaten-Sätze.
 
-- Formale Struktur: alle Sonatensätze sind überdies zweiteilig, beide Teile werden wiederholt.
+- **Formale Struktur:** Alle Sonatensätze sind überdies zweiteilig, beide Teile werden wiederholt.
 
-- Improvisierte Verzierungen: Solisten brachten bei den Wiederholungen mehr oder minder viele freie Verzierungen und improvisierte Varianten an.
+- **Improvisierte Verzierungen:** Solisten brachten bei den Wiederholungen mehr oder minder viele freie Verzierungen und improvisierte Varianten an.
 
 
 ## Das Concerto
@@ -262,9 +326,9 @@ Schmidt-Beste, S. 25–29
   - Werkgattung: Klavierkonzert
   - Veranstaltung: Sinfoniekonzert
 
-- Im Englischen/Französichen »concerto« (Werk) und »concert« (Aufführung)
+- Im Englischen/Französichen *»concerto«* (Werk) und *»concert«* (Aufführung)
 - Leipzig im 18. Jhd. (keine Residenzstadt, keine Hauptstadt)
-- Telemann gründet nach Immatrikulation ein Collegium Musicum (1701)
+- Georg Philipp Telemann gründet nach Immatrikulation ein Collegium Musicum (1701)
 - Johann Friedrich Fasch gündet 1708 ein zweites Collegium Musicum
 - Aus diesen Collegien entwickelte sich 1743 das »Große Concert«
 - Ensembles vor 1770 nennen sich nicht Orchester, d.h.
@@ -274,7 +338,9 @@ Schmidt-Beste, S. 25–29
   - Man hörte das »Große Konzert« (Ensemble) spielen
   - Aufgeführt wurde möglicherweise tatsächlich ein »Konzert« (Werk)
 
-(Vgl. Küster, Konrad: Das Konzert, Kassel 1993, S. 13)
+---
+
+(Vgl. auch Küster, Konrad: Das Konzert, Kassel 1993, S. 13)
 
 ### Grundlagen
 
@@ -292,7 +358,7 @@ Schmidt-Beste, S. 25–29
 
   - Giovanni Gabrieli Werke seines Onkels Andrea Gabrieli als »Concerti«
 
-### Herkunft des Wortes
+### Wortherkunft
 - Ende der Renaissance
 
   - concertare (ital.): »etwas verabreden«, »etwas aufeinander abstimmen«
@@ -314,6 +380,8 @@ Schmidt-Beste, S. 25–29
 
 **Beispiel:** *O magnum mysterium* aus *Concerti* (1587) von Giovanni Gabrieli
 
+!?[Giovanni Gabrieli: O Magnum Mysterium](https://www.youtube.com/watch?v=QkvF0Gj7mxI "Giovanni Gabrieli: O Magnum Mysterium, Sofia Vokalensemble - Bengt Ollén")
+
 ### Historische Entwicklung
 - Sprachliche Wurzeln unklar bis widersprüchlich
 - Frühgeschichte des Instrumentalkonzerts
@@ -330,11 +398,15 @@ Schmidt-Beste, S. 25–29
       
       - enthalten eine *Sonata pian e forte* (für zwei vierstimmige Chöre)
       - *sonare* hier *klingen* (hier im instrumentalen Sinn)
-      - *Sonata pian e forte* ist eine *Symphonia*; *Symphoniae, die sich prinzipiell ähnlich verhalten wie „Concerti“
+      - *Sonata pian e forte* ist eine *Symphonia*
+
+---
+
+!?[Giovanni Gabrieli: Sonata pian e forte](https://www.youtube.com/watch?v=QXRITlQBitc "Giovanni Gabrieli - Sonata pian' e forte (1597), His Majesties Sagbutts and Cornetts conducted by Peter Bassano")
 
 ### Das Solokonzert
 - musikalisch geschlossene Form mit einem Solisten
-- Aspekt gehlt noch in der ersten Hälfte des 17 Jhd.
+- Aspekt gehlt noch in der ersten Hälfte des 17. Jhd.
 - Rondoformen, Berühpunkte mit der Fuge
 - Ritonrellkonzertsatz
 
@@ -349,13 +421,13 @@ Schmidt-Beste, S. 25–29
     - im Vergleich zu concertino
     - nicht alle Konzerte mit mehr als zwei Solisten sind Concerti grossi
     
-      - (Vivaldi, u. a., z. T. auch Bach: »Gruppenkonzert«)
+      - (Vivaldi, u. a., z. T. auch bei J. S. Bach: »Gruppenkonzert«)
     
-    - Begriff: Verwendung im 19. Jhd. auch für Serenaden und Divertimenti von Mozart
+    - Begriff: Verwendung im 19. Jhd. auch für Serenaden und Divertimenti von W. A. Mozart
 
 ### Weitere Konzertebegriffe
 
-- Johann Joachim Quantz
+- Johann Joachim Quantz (1697–1773)
 
  - Konzerte für einen Solisten und Orchester -> Kammerkonzert
  
@@ -364,15 +436,15 @@ Schmidt-Beste, S. 25–29
  - Kammerkonzert (MuWi): (barocke) Werke, in denen das Orchester »fehlt«
  
    - d. h. Soloinstrumente und Generalbaß
-   - Bsp. bei Vivaldi und J. S. Bach (bspw. Brandenburgisches Konzert Nr. 6)
+   - Bsp. bei A. Vivaldi und J. S. Bach (bspw. Brandenburgisches Konzert Nr. 6)
 
-  - In Frankreich, mitte 18. Jhd., Symphonie conertante (Art Gruppenkonzert)
+  - In Frankreich, mitte 18. Jhd., Symphonie conertante (eine Art Gruppenkonzert)
 
 ### Barocke Ritornellkonzertform
 
-- »Formmodell für den Konzert-›Hauptsatz‹ der Barockzeit« (Küster, S. 23)
+- »Formmodell für den Konzert-›Hauptsatz‹ der Barockzeit«
 
-  - basiert auf Forschung Wilhelm Fischers
+  - basiert auf Forschung Wilhelm Fischers[^Küster1993](Konrad Küster: Das Konzert, Kassel 1993, S. 23)
 
 - Vergleich
 
@@ -387,13 +459,14 @@ Schmidt-Beste, S. 25–29
   
   - daher keine realer Umbruch von Ritornellkonzert zu Sonatenkonzert!
 
-- »Als barocke Ritornellkonzertform beschreibt man in der Regel die Form der beiden Außensätze eines dreisätzigen Werks.« (Küster, S. 25)
+> »Als barocke Ritornellkonzertform beschreibt man in der Regel die Form der beiden Außensätze eines dreisätzigen Werks.«[^Küster1993](Konrad Küster: Das Konzert, Kassel 1993, S. 25)
+
 - die Elemente Tutti und Solo alternieren
 - Tutti eröffnet und beschließt den Satz
 
   - Dimension wird durch den Solisten erweitert
 
-- -> bis jetzt noch nichts Konzerthaftes!
+  *-> bis jetzt noch nichts Konzerthaftes!*
 
   - Tritt ebenso in Tanzmusik auf
 
@@ -405,17 +478,21 @@ Schmidt-Beste, S. 25–29
 
 - Refrain und Strophe
 
-  - »ritorno« (ital. »Rückkehr«)
-  - »ritornello« (ital. »kleine Rückkehr«)
-  - »refringere« (aus dem Lat. abgeleitet »Wiederholungsvers«/»Kehrreim«)
+  - *»ritorno«* (ital. »Rückkehr«)
+  - *»ritornello«* (ital. »kleine Rückkehr«)
+  - *»refringere«* (aus dem Lat. abgeleitet »Wiederholungsvers«/»Kehrreim«)
 
-- Episode
+- Episode (von griech. *»epeisódion«*, ἐπεισόδιον)
+  
+  - bedeutet im Griechischen ["von außen dazukommend"](https://www.dwds.de/wb/Episode)
+  - ist ein Einschub zwischen zwei Chorgesänge in der griech. Tragödie
 
-  - »epeisódion« ist die Musik zwischen Chorgesängen i. d. griech. Tragödie
 
+- Soli
+  
+  - Raum für Solistisches und Improvisation
 
-- Soli: Raum für Solistisches und Improvisation
 - Bewegungsraum begrenzt
 - Entwicklung hin zur Modulation
-- harmonische Variabilität wesentl. Unterschied zur Ritornelltechnik im 17. Jhd.
+- harmonische Variabilität ist wesentl. Unterschied zur Ritornelltechnik im 17. Jhd.
 - harmonische Versetzbarkeit des Ritornells ist entscheidende Entwicklung im 18. Jhd.
