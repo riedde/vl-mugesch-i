@@ -42,7 +42,7 @@ tags: barock, konzert, komponist
 
 - 23\. April 1685
   
-  - Anstellung als Violinist an @config.link.course(`S. Marco`,um1600,#14) <!-- Link checken!-->
+  - Anstellung als Violinist an S. Marco
   - gleichzeitig Gründungsmitglied der venezianischen Musikergenossenschaft Sovvegno di Santa Cecilia
 
 - Weitere Tätigkeiten
@@ -318,7 +318,7 @@ Form der Ausbildung: Vivaldiu wurde nicht als Zögling eines Priesterseminars au
 
 - Päpstliche Auftritte: zweimal Spiel in Privatgemächern des Papstes (wahrscheinlich Innozenz XIII., † 7. März 1724); Empfang von »quante grazie« (Briefe vom 16. und 23. Nov. 1737[^Cavicchi1967](A. Cavicchi 1967, S. 66 und 70)).
 
-- Kardinal Pietro Ottoboni: wichtigste Bezugsperson in römischer Aristokratie; Residenz Palazzo della Cancelleria als Zentrum des römischen Musiklebens; aus Venedig stammender Kirchenfürst, Mäzen @config.link.course(`A. Corellis`,instrumentalmusik,#15), Patron des *Teatro Capranica*.
+- Kardinal Pietro Ottoboni: wichtigste Bezugsperson in römischer Aristokratie; Residenz Palazzo della Cancelleria als Zentrum des römischen Musiklebens; aus Venedig stammender Kirchenfürst, Mäzen A. Corellis, Patron des *Teatro Capranica*.
 
 - Ottobonis Musikaliensammlung: 24 heute in Manchester befindliche handschriftliche Stimmensätze Vivaldischer Konzerte (um Mitte 1720er Jahre für Hauskapelle des Kardinals); Repräsentationshandschrift mit 12 Violinsonaten (GB-MP MS 624.1 Vw 81).
 

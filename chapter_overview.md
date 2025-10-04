@@ -17,8 +17,8 @@
 | 06_vivaldi_antonio.md | x | xxx | _ | _ |
 | 07a_frankreich.md | x | xxx | _ | _ |
 | 07b_kantate.md | _ | ___ | _ | _ |
-| 08_passion.md | x | x__ | _ | _ |
-| 09_klangrede.md | x | xx_ | _ | _ |
+| 08_passion.md | x | xx_ | _ | _ |
+| 09_klangrede.md | x | xxx | _ | _ |
 | Weihnachtspause | - | --- | - | - |
 | 10a_klassik.md | _ | ___ | _ | _ |
 | 10b_schulen.md | _ | ___ | _ | _ |

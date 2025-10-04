@@ -10,9 +10,7 @@ tags: barock, kultur, frankreich, komponist
 
 # Ein Blick nach Frankreich
 
-## Von Kepler zu Descartes
-
-### Überblick & Zielsetzung
+## Theorie und Kontext
 
 - Frankreich bietet im 17. und 18. Jahrhundert zentrale Impulse für Musiktheorie und Musikästhetik
 - exemplarische Figuren:
@@ -24,98 +22,206 @@ tags: barock, kultur, frankreich, komponist
 
 ### Mittelalterliche Tradition & Keplers Ansatz
 
-- Mittelalterliche Musiktheorie war pythagoreisch geprägt (*musica mundana*: Zusammenhang Musik–Kosmos). 
+- Mittelalterliche Musiktheorie war pythagoreisch geprägt (*musica mundana*). 
 
-- Johannes Kepler (1571–1630) verband kopernikanisches Weltbild und Musiktheorie in *Harmonice mundi libri V* (1619).
+- Johannes Kepler (1571–1630) verband kopernikanisches Weltbild[^1] und Musiktheorie in *Harmonice mundi libri V*[^2] (1619).
 
 - Innovativ: geometrische statt rein arithmetische Proportionen ermöglichen Einbezug irrationaler/transzendenter Zahlen ($\sqrt{2}$, π)
 
 - Methodisches Modell: gedachte gekrümmte Saite als Kreis + eingeschriebene regelmäßige Vielecke (Dreieck, Viereck, Fünfeck, Sechseck etc.) markieren konsonante Saitenteilungspunkte. 
 
-- Aus dem Fünfeck: Saitenteilungen $\frac{4}{5}$, $\frac{3}{5}$, $\frac{2}{5}$, $\frac{1}{5}$ → große Terz, große Sexte, Oktave + große Terz, Doppeloktave + große Terz; Wohlklangbezug zum Goldenen Schnitt (Diagonalschnittpunkt). 
+- Aus dem Fünfeck: Saitenteilungen $\frac{4}{5}$, $\frac{3}{5}$, $\frac{2}{5}$, $\frac{1}{5}$ → große Terz, große Sexte, Oktave + große Terz, Doppeloktave + große Terz; Wohlklangbezug zum [Goldenen Schnitt](https://de.wikipedia.org/wiki/Goldener_Schnitt). 
 
-- Kulmination: Planetenmusik/Sphärenharmonie; Tabellen zur musikalischen Relation von Planeten an bestimmten Tagen; Zitat: »nichts anderes als eine fortwährende mehrstimmige Musik«; »der Mensch [...] entdeckt«. 
+- Kulmination: Planetenmusik bzw. Sphärenharmonie; Tabellen zur musikalischen Relation von Planeten an bestimmten Tagen;
+  
+  > »nichts anderes als eine fortwährende mehrstimmige Musik«
+  >
+  > – Johannes Kepler, *Harmonice mundi*, hg. u. übers. v. M. Caspar, München 1939, S. 315
 
-### René Descartes: Empirische Wende & Affektenbezug
+---
 
-- René Descartes (1596–1650) beseitigt spekulativen Überbau, fokussiert musikalische Phänomene und Hörerempfindung (Musicae compendium, 1618). 
+![Johannes Keppler, Ölgemälde](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Jean_Keppler.jpg/250px-Jean_Keppler.jpg "Johannes Keppler, Ölgemälde 1620, Inschrift: IOANNIS KEPPLERI, Mathematici Caesarei, hanc imaginem ARGENTORATENSI BIBLIOTHECAE consecrat MATTHIAS BERNEGGERUS Kal. Ianuar. Anno Chr M.DC.XXVII, Bild: wikimedia")
 
-- Begriff delectatio (›Ergötzung‹): Sinnesgenuss setzt proportionierte Klarheit voraus; Zweck des Tones: »erfreuen und in uns verschiedene Gemütszustände hervorzurufen.« 
+[^2]: Boetius (um 500 n. Chr.), *De institutione musica libri V*
+  
+  In den "Fünf Bücher\[n\] über die Musik" unterteilt Boethius die Musik in drei Bereiche:
+  
+  1. *musica mundana*, die Musik des Weltalls (Sphärenharmonie)
+  2. *musica humana*, die Menschliche (Zusammenhang von Seele und Körper)
+  3. *musica instrumentalis*, die auf Instrumenten gespielt werden kann
 
-- Rhythmuslehre: fassbar vor allem Zweier- und Dreierproportionen; Periodizität durch Wiederholung gleich großer Teile; Betonung (Metrumsakzent) strukturiert Wahrnehmung. 
+[^1]: Das heliozentrische Weltbild, auch kopernikanisches Weltbild genannt.
+  
+  Diese Weltansicht beruht auf dem Konzept, dass die Sonne das Zentrum des Universums ist und die Erde sich folglich um die Sonne dreht.
+  
+  Herkunft: altgriechisch ἥλιος *helios* (‚Sonne‘) und κέντρον *kentron* (,Zentrum‘)
 
-- Periodenstruktur: Gruppierungen (4, 8, 16 Takte) → erleichtern Verstehen; frühe Beschreibung regelmäßiger Perioden/Phrasen anhand von Tanzmusik. 
+### René Descartes
 
-### Les passions de l’âme (1649) & Affektenlehre
+!['Porträt von René Descartes (1596-1650)'](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg/250px-Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg "Portrait of the French philosopher and mathematician René Descartes (1596-1650), Bild: wikimedia")
 
-- Les passions de l’âme: rationale Theorie der Affekte; Problem: Dualismus Körper (res extensa) vs. Seele (res cogitans). 
+#### Empirische Wende & Affektenbezug
 
-- Lösung: Theorie der »esprits animaux« (Lebensgeister) als »eine Art Luft« in Nerven und Blut; sehr kleine schnelle Körper, durch Herzwärme verdünnt. 
+- beseitigt spekulativen Überbau, fokussiert musikalische Phänomene und Hörerempfindung (*Musicae compendium*, 1618[^1])
 
-- Psychosomatik bis ins 19. Jh.: Lebensgeister vermitteln Affekte (Beispiel Zorn: Beleidigung, Alkohol, wilde Tanzmusik → gleiche physio-psychische Reaktion). 
+- Begriff *delectatio* (›Ergötzung‹)
+  
+  - Sinnesgenuss setzt proportionierte Klarheit voraus
+  - Zweck des Tones: »erfreuen und in uns verschiedene Gemütszustände hervorzurufen.«[^1]
 
-- Mechanismus: Lebensgeister stimulieren Muskeln (Körper) und affizieren Seele (Sitz: Zirbeldrüse); Redewendung »das Blut gerät in Wallung« verweist auf dieses Modell. 
+- Rhythmuslehre
+  
+  - Proportionen dienen der leichteren Erfassung, d.h. besseren Wahrnehmung (Gehör)
+    
+    - Zweier- und Dreierproportionen
+    - Wiederholung gleich großer Teile
+    - Betonung (Metrumsakzent) erzeugt Struktur
 
-- Musikalische Umsetzung: empirische Beobachtung → Auswahl ›richtiger‹ musikalischer Mittel; Ausbildung eines Repertoires musikalischer Symbole/Codes (17./18. Jh.). 
+- Periodenstruktur
+  
+  - Gruppierungen (4, 8, 16 Takte, i. e. Vielfache der Zahl 2) -> erleichtern Verstehen
+  - frühe Beschreibung regelmäßiger Perioden/Phrasen (Beobachtungen bei Tanzmusik)
 
-- Affekt-Einheit: Ein Satz/Arie soll einen Affekt rein darstellen (stile d’une teneur: Konstanz von Tonart, Tempo, Motivik, Spielfiguren). 
+
+[^1]: René Descartes: *Musicae Compendium. Leitfaden der Musik*, hg. v. J. Brockt, Darmstadt 1978. (Zitat, S. 3).
+
+#### Les passions de l’âme (1649) & Affektenlehre
+
+Bei der *Les passions de l’âme* handelt es sich um den Versucht einer rationalen Theorie der Affekte.
+
+- Problem: Dualismus Körper (*res extensa*) vs. Seele (*res cogitans*)
+
+- Lösung: Theorie der *»esprits animaux«* (Lebensgeister) als *»eine Art Luft«* in Nerven und Blut; sehr kleine schnelle Körper, durch Herzwärme verdünnt
+
+- Psychosomatik bis ins 19. Jh.: Lebensgeister vermitteln Affekte (Beispiel Zorn: Beleidigung, Alkohol, wilde Tanzmusik -> gleiche physio-psychische Reaktion)
+
+- Mechanismus: Lebensgeister stimulieren Muskeln (Körper) und affizieren Seele; Redewendung *»das Blut gerät in Wallung«*
+
+- Musikalische Umsetzung
+  
+  - empirische Beobachtung → Auswahl ›richtiger‹ musikalischer Mittel
+  - Ausbildung eines Repertoires musikalischer Symbole/Codes (17./18. Jh.)
+
+- Affekt-Einheit: Ein Satz/Arie soll einen Affekt rein darstellen (*stile d’une teneur*: Konstanz von Tonart, Tempo, Motivik, Spielfiguren)
 
 ### Marin Mersenne: Empirie & Akustik
 
-- Marin Mersenne (1588–1648), Mathematiker/Theologe (Minoritenpater), Korrespondenz mit Descartes. 
+- Marin Mersenne (1588–1648)
+  
+  - Mathematiker/Theologe (Minoritenpater)
+  - Korrespondenz mit Descartes. 
 
-- Harmonie universelle (Paris 1636): Gesamtdarstellung musikalisch-akustischen Wissens mittels empirischer Experimente. 
+- Harmonie universelle (Paris 1636): Gesamtdarstellung musikalisch-akustischen Wissens mittels empirischer Experimente 
 
-- Beiträge: Beschreibung der Obertöne; Ton als Schwingung; Frequenzberechnungen für Instrumente (Violine bis Orgel) in Tabellen. 
+- Beiträge
+  
+  - Beschreibung der Obertöne
+  - Ton als Schwingung
+  - Frequenzberechnungen für Instrumente (Violine bis Orgel) in Tabellen
 
-- Militärische Beobachtung: Schall-Laufzeit & Frequenzmessung anhand Kanonenschuss + Pulsschlag (La Rochelle 1628). 
+- Militärische Beobachtung: Schall-Laufzeit & Frequenzmessung anhand Kanonenschuss + Pulsschlag.[^1]
 
-- Sichtbarmachung von Schwingungen: Riesensaite (13 Ellen) erlaubt Abzählung einzelner Schwingungen (»akustisches Mikroskop«); Frühform Wahrnehmung von Sinusschwingungen. 
+- Sichtbarmachung von Schwingungen
+  
+  - Riesensaite (13 Ellen) erlaubt Abzählung einzelner Schwingungen (»akustisches Mikroskop«)
+  - Frühform der Wahrnehmung von Sinusschwingungen. 
+
+---
+
+![Porträt von Marin Mersenne](https://upload.wikimedia.org/wikipedia/commons/9/98/Marin_Mersenne.jpeg "Marin Mersenne, 1588–1648, Bild: wikimedia")
+
+[^1]: Mersenne war Teil der Truppen des Kardinal Richelieu bei der Schlacht gegen die Hugenotten in La Rochelle (1628). Er soll nach dem Abschuss der Kanonen (Mündungsfeuer) seine Pulsschläge gezählt haben. Durch die Diskrepanz von Optischem und aktustischem Ereignis versuchte er die Schalllaufzeit zu berechnen. Er übertrug die Erkenntnisse auf periodische Ereignisse (Schwingungen) und [neu!] versuchte diese Sichtbar und Zählbar zu machen.
+  
+  Vgl. auch F. Kittler, *Wie der Sound von heute vor 300 Jahren entstand*, in: *Weltbürgertum und Globalisierung*, hg. v. N. Bolz / F. Kittler / R. Zons, München 2000.
 
 ### Jean-Philippe Rameau (Theoretiker)
 
-- Jean-Philippe Rameau (1683–1764) verbindet musikalische Praxis und wissenschaftliche Prinzipien. 
+- Jean-Philippe Rameau (1683–1764) verbindet musikalische Praxis und wissenschaftliche Prinzipien
 
-- Traité de l’harmonie (Paris 1722): Fundierung moderner Kadenzharmonik auf Obertonreihe, Definition von Akkordumkehrung. 
+- *Traité de l’harmonie* (Paris 1722): Fundierung moderner Kadenzharmonik auf Obertonreihe, Definition von Akkordumkehrung. 
 
-- Begriffssystem: Tonika (vollkommener Akkord), Subdominante, Dominante (fordern charakteristische Dissonanzen: z. B. sixte ajoutée, kleine Septime). 
+- Begriffssystem:
+  
+  - Tonika (vollkommener Akkord)
+  - Subdominante, Dominante (fordern charakteristische Dissonanzen: z. B. sixte ajoutée, kleine Septime). 
 
-einer neuartigen Harmonielehre musikalisch-handwerkliche Praxis mit wissenschaft-
-## Charakter der Debatten (Querelles)
+---
 
-- Öffentlich ausgetragene ästhetische Streitkultur (Streitschriften, Polemiken, Tagespresse) prägt Frankreich: ›Querelles‹. 
+![Jean-Philippe Rameau (1683–1764), French composer and music theorist of the Baroque era](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Attribu%C3%A9_%C3%A0_Joseph_Aved%2C_Portrait_de_Jean-Philippe_Rameau_%28vers_1728%29_-_001.jpg/250px-Attribu%C3%A9_%C3%A0_Joseph_Aved%2C_Portrait_de_Jean-Philippe_Rameau_%28vers_1728%29_-_001.jpg " Jean-Philippe Rameau (1683–1764), French composer and music theorist of the Baroque era, Bild: wikimedia")
+
+## Die Debatten (Querelles)
+
+> Bei den sogenannten *Querelles* handelt es sich um eine öffentlich ausgetragene ästhetische Streitkultur (Streitschriften, Polemiken, Tagespresse) in Frankreich.
+
+---
+
+**Querele**, die
+
+* *Grammatik* Substantiv (Femininum) · Genitiv Singular: **Querele** · Nominativ Plural: **Querelen**
+* *Wortbildung*  mit ›Querele‹ als Letztglied: Personalquerele
+* *Herkunft* zu **querēla** (lat.), **querella** (lat.) ‘Klage, Wehklage, Beschwerde’ < **querī** (lat.) ‘(weh)klagen, sich beschweren, vor Gericht klagen’, vgl. **querelle** (frz.) ‘gerichtliche Klage, Streit, Zank’
+
+**Etymologie**
+
+ **Querele** f. älter auch **Querel** und **Querelle**, ‘Beschwerde, Unstimmigkeit, Plänkelei’. Das seit dem 17. Jh. bezeugte, doch wenig populäre Substantiv ist teils eine Entlehnung aus lat. *querēla*, *querella* ‘Klage, Wehklage, Beschwerde’ (zu lat. *querī* ‘(weh)klagen, sich beschweren, vor Gericht klagen’), teils Übernahme von darauf beruhendem frz. *querelle* ‘gerichtliche Klage, Streit, Zank’. Der im 19. Jh. nur selten gebrauchte Ausdruck gewinnt neuerdings wieder an Verbreitung, doch wird dabei die Schreibweise mit -ll- aufgegeben. 
+
+„Querele“, bereitgestellt durch das Digitale Wörterbuch der deutschen Sprache, [https://www.dwds.de/wb/Querele](https://www.dwds.de/wb/Querele), abgerufen am 04.10.2025. 
 
 ### Vier Haupt-Querellen (chronologisch)
 
-- Querelle entre les anciens et les modernes (ab 1674): Vergleich Antike vs. Moderne; Anlass: Lullys Alceste (antiker Stoff) → Diskussion Ebenbürtigkeit mit antikem Drama (Euripides) → Ausweitung auf andere Künste/Philosophie. 
+- *Querelle entre les anciens et les modernes* (ab 1674)
+  
+  - Vergleich Antike vs. Moderne
+  - Anlass: Lullys Alceste (antiker Stoff)
+    
+    -> Diskussion Ebenbürtigkeit mit antikem Drama (Euripides)
+    -> Ausweitung auf andere Künste/Philosophie
 
-- Zweite Querelle (frühes 18. Jh.): Französische vs. italienische Musik; nationale Autonomie (gloire, grandeur); Frankreich verweigert Aufnahme italienischer Einflüsse. 
+- Zweite Querelle (frühes 18. Jh.)
+  
+  - Französische vs. italienische Musik
+  - nationale Autonomie (gloire, grandeur)
+  - Frankreich verweigert Aufnahme italienischer Einflüsse
 
-- Dritte Querelle (ca. 20 Jahre): Anhänger Lully vs. Anhänger Rameau (Lullisten vs. Rameauneurs); Streit um Erbe der französischen Oper; Fokusverschiebung vom rezitativischen Zentrum (Lully) zu Arien und musikalischen Nummern (Rameau). 
+- Dritte Querelle (ca. 20 Jahre)
+  
+  - Anhänger Lully vs. Anhänger Rameau (Lullisten vs. Rameauneurs)
+  - Streit um Erbe der französischen Oper
+  - Fokusverschiebung vom rezitativischen Zentrum (Lully) zu Arien und musikalischen Nummern (Rameau)
 
-- Querelle des bouffons (1752/53, Buffonistenstreit): Konservativ (klassische französische Oper, Rameau) vs. progressiv (Rousseau, italienische opera buffa); Frage nach Existenz einer eigenständigen französischen Musik; internationale Rezeption (besonders in Deutschland). 
+- *Querelle des bouffons* (1752/53, Buffonistenstreit)
+  
+  - Konservativ (klassische französische Oper, Rameau) vs. progressiv (Rousseau, italienische opera buffa)
+  - Frage nach Existenz einer eigenständigen französischen Musik
+  - internationale Rezeption (besonders in Deutschland)
 
 ### Instrumental- und Tastenmusik-Entwicklung (Kontext)
 
-- Um 1600: Laute als Modeinstrument; Übertragungen von Ballet-de-cour-Stücken → lautenspezifischer pseudo-polyphoner Satz (Arpeggien, Akkordbrechungen). 
+- Um 1600 war die Laute das Modeinstrument; Übertragungen von Ballet-de-cour-Stücken -> lautenspezifischer pseudo-polyphoner Satz (Arpeggien, Akkordbrechungen)
 
-- Beliebte Form: Suite (vergleichbar italienischer Sonata da camera). 
+- Beliebte Form: Suite (vergleichbar italienischer Sonata da camera)
 
-- 2\. Hälfte 17. Jh.: Bedeutungsverlust der Laute zugunsten des Cembalos (clavecin). 
+- 2\. Hälfte 17. Jh.: Bedeutungsverlust der Laute zugunsten des Cembalos (clavecin)
 
-- Cembalo-Suiten übernehmen Elemente der Lautenmusik (Préludes non mesurés: ohne Taktstriche, improvisatorischer Charakter). 
+- Cembalo-Suiten übernehmen Elemente der Lautenmusik (Préludes non mesurés: ohne Taktstriche, improvisatorischer Charakter)
 
-- 18\. Jh.: Verschwinden des Préludes aus Tanzsammlungen für Cembalo. 
+- 18\. Jh.: Verschwinden des Préludes aus Tanzsammlungen für Cembalo
 
-- Frühe bedeutende Clavecinisten: Louis Couperin, Jacques Champion de Chambonnières. 
+- Frühe bedeutende Clavecinisten: Louis Couperin, Jacques Champion de Chambonnières 
 
 ## François Couperin „le grand“
 
-- François Couperin (»le grand«), Neffe von Louis Couperin; Lebenszentrum Paris; Hoforganist Ludwigs XIV. 
+- François Couperin (»le grand«)
+  
+  -  \*1668 in Paris, †1733 in Paris
+  - Neffe von Louis Couperin
+  - Lebenszentrum Paris
+  - Hoforganist Ludwigs XIV
 
-- Vermittelte Corellis Triosonaten nach Frankreich; entwickelte eigene Cembalowerke (ordres) als freie Tanzsatz-Sammlungen. 
+- vermittelte Corellis Triosonaten nach Frankreich
+- entwickelte eigene Cembalowerke (ordres) als freie Tanzsatz-Sammlungen
 
-- Produktion: 27 ordres, 240 Sätze, Druck zwischen 1713–1730 in vier Büchern (pièces de clavecin). 
+- Cembalowerke (*ordres*): 27 ordres (mit insg. 240 Sätzen), Druck zwischen 1713–1730 in vier Büchern (*pièces de clavecin*). 
 
 ---
 
@@ -123,9 +229,21 @@ einer neuartigen Harmonielehre musikalisch-handwerkliche Praxis mit wissenschaft
 
 ### Programmatische Transformation & Charakterstücke
 
-- Allmählicher Ersatz reiner Tänze durch programmatische Titel: Personen, Verhaltensweisen, Natur- und Klangphänomene → Charakterstücke (deskriptiv, delikat). 
+- Allmählicher Ersatz reiner Tänze durch programmatische Titel
+  
+  - Personen, Verhaltensweisen
+  - Natur- und Klangphänomene
+    -> Charakterstücke (deskriptiv, delikat)
 
-- Beispiel 13. ordre (Buch 3): Les Folies françoises ou les Dominos – chaconne-artige Folge (Thema + 11 Variationen) in h-Moll; jedem Satz zugeordnet: Affekt + Farbe (Maskenkostüme »Dominos« des venezianischen Karnevals als Referenz). 
+- Bereits 1. *ordre* (18 Tanzsätze) enthält programmatische Überschriften (*Allemande l’Auguste* = Porträt Ludwigs XIV. ~ Augustus)
+
+- Beispiel 13. *ordre* (Buch 3)
+  
+  - *Les Folies françoises ou les Dominos* [^Noten]-> chaconne-artige Folge (Thema + 11 Variationen) in h-Moll
+  - jedem Satz sind Affekt + Farbe zugeordnet
+  - (mit Dominos könnten die venezianischen Maskenkostüme assoziiert sein)
+    !?[Couperin: Les Folies Francaises Ou Les Dominos for Piano](https://www.youtube.com/watch?v=Xssz4zRARt0 "Francois Couperin: Les Folies Francaises Ou Les Dominos for Piano, Cziffra György [Klavier]")
+    !?[Couperin: Les Folies Francaises Ou Les Dominos for Piano](https://www.youtube.com/watch?v=7W2HCCAxUfA "Francois Couperin: Les Folies Francaises Ou Les Dominos for Piano, Huguette Dreyfus? [Cembalo]")
 
 - Affekt-Farb-Zuordnung (Auswahl vollständig erhalten):
 
@@ -137,28 +255,22 @@ einer neuartigen Harmonielehre musikalisch-handwerkliche Praxis mit wissenschaft
   - Abschluss ›Tobsucht‹ (Schwarz)
   - 8\. Variation Sondertitel: »Die alten Liebhaber und vertrockneten Kassierer unter Purpur und welken Blättern« 
 
-- Musikalische Affektanpassung mittels Tempo-, Takt-, Rhythmus-, Oktavlagen-Variation etc. → exemplarische Demonstration cartesianischer Affektenlehre. 
+- Musikalische Affektanpassung mittels Tempo-, Takt-, Rhythmus-, Oktavlagen-Variation etc. → exemplarische Demonstration cartesianischer Affektenlehre
 
-### Frühphase & Weitere Beispiele
-
-- Bereits 1. ordre (18 Tanzsätze) enthält programmatische Überschriften (Allemande l’Auguste = Porträt Ludwigs XIV. ~ Augustus). 
-
-- Hörbeispiel: Passacaille der 8. ordre (2. Buch 1717) – langsamer Tanz (Passacaglia/Passacaille: Variationen über ostinaten 4–8-taktigen Bass) → hier als Rondo mit 8 variierenden Couplets gestaltet. 
-
-
-### Kontext & Skepsis gegenüber Italien
-
-- Sonderweg des französischen Musiktheaters: Verzögerte Rezeption italienischer Oper durch grundsätzliche Skepsis gegenüber italienischen Neuerungen. 
+[^Noten]: Erstausgabe (Paris: Chez l'Auteur, Boivin, 1722) auf IMSLP verfügbar https://imslp.org/wiki/Pi%C3%A8ces_de_clavecin%2C_Livre_3_(Couperin%2C_Fran%C3%A7ois)
+ 
 
 ## Jean Baptiste Lully
 
 - Giovanni Battista Lulli war Florentiner (1632–1687)
 
-- 1652 Inspektor der königlichen Instrumentalmusik; französisierte Namensform: Jean Baptiste Lully. 
+- 1652 Inspektor der königlichen Instrumentalmusik; französisierte Namensform: Jean Baptiste Lully
 
-- Karriere: Tänzer → königliche Gunst → führende Rolle → Einführung der französischen Ouvertüre im Hofballett. 
+- Karriere: Tänzer → königliche Gunst → führende Rolle
+  
+  → Einführung der französischen Ouvertüre im Hofballett
 
-- 1672: Monopol auf Bühnenwerke; nahezu jährliche Produktion von Tragédies en musique. 
+- 1672: Monopol auf Bühnenwerke; nahezu jährliche Produktion von Tragédies en musique
 
 ---
 
@@ -166,53 +278,80 @@ einer neuartigen Harmonielehre musikalisch-handwerkliche Praxis mit wissenschaft
 
 ### Ballet de cour (seit 1581)
 
-- Hofballett als zentrale Repräsentationsform; Beteiligung der höfischen Gesellschaft (inkl. Auftritte des jungen Ludwigs XIV.). 
+- Hofballett als zentrale Repräsentationsform; Beteiligung der höfischen Gesellschaft (inkl. Auftritte des jungen Ludwigs XIV.)
 
-- Pädagogik: Körperrhetorik, Gestik, Mimik → exercises de galanterie (Einübung höfischer Galanterie). 
+- Pädagogik: Körperrhetorik, Gestik, Mimik → *exercises de galanterie* (Einübung höfischer Galanterie)
 
-- Bildungsziele: bienséance (Schicklichkeit), tempérance (Mäßigung); funktionale Einheit von Musik & Tanz zur seelisch-körperlichen Harmonie. 
+- Bildungsziele: bienséance (Schicklichkeit), tempérance (Mäßigung); funktionale Einheit von Musik & Tanz zur seelisch-körperlichen Harmonie
 
-- Aufführungsrahmen: Prunkvolle Szenerien (Versailles, Gärten, Säle); exotische Tiere (Elefanten, Kamele). 
+- Aufführungsrahmen: Prunkvolle Szenerien (Versailles, Gärten, Säle); exotische Tiere (Elefanten, Kamele)
 
-- Italienische Oper erst nach Jahrzehnten (modifiziert, mit Tanzeinlagen) integrierbar. 
+- Italienische Oper erst nach Jahrzehnten (modifiziert, mit Tanzeinlagen) integrierbar
 
 ### Tragédie en musique
 
 - Tragédie lyrique seit 19. Jh.
 
-- Synthese: Ballet de cour + französisches Sprechtheater. 
+- Synthese: *Ballet de cour* + französisches Sprechtheater
 
-- Dramafokus: Vorrang des gesprochenen/dramatischen Gehalts; Musik unterstützt le merveilleux (›das Wunderbare‹). 
+- Dramafokus
+  
+  - Vorrang des gesprochenen/dramatischen Gehalts
+  - Musik unterstützt *le merveilleux* (›das Wunderbare‹)
 
-- Formvielfalt: Rezitativ, Lied, Ensemble, Chor, Orchesterstück, Tanz, Pantomime; Mischung tragischer/komischer, hoher/niederer Stilebenen. 
+- Formvielfalt
+  
+  - Rezitativ, Lied, Ensemble, Chor, Orchesterstück, Tanz, Pantomime
+  - Mischung tragischer/komischer, hoher/niederer Stilebenen
 
-- Rezitativstil: Anpassung an Sprachduktus des Französischen; keine italienischen Arienformen; Kastraten abgelehnt → weniger Virtuosenkult, stärker schauspielerischer Fokus. 
+- Rezitativstil
+  
+  - Anpassung an Sprachduktus des Französischen
+  - keine italienischen Arienformen
+  - Kastraten abgelehnt → weniger Virtuosenkult, stärker schauspielerischer Fokus 
 
 ### Lullys Werk & Rezeption
 
-- Zwölf Tragédies en musique (prächtig inszeniert), beinahe ein Jahrhundert im Repertoire; nationale Identitätsstiftung. 
+- Zwölf Tragédies en musique (prächtig inszeniert), beinahe ein Jahrhundert im Repertoire -> nationale Identitätsstiftung
 
-- Alceste (1674, mit Philippe Quinault) → Auslöser der Querelle entre les anciens et les modernes. 
+- *Alceste* (1674, mit Philippe Quinault) → Auslöser der *Querelle entre les anciens et les modernes*
 
-- Armida (1686, Quinault/Lully) → Verarbeitung eines Stoffes aus Tassos Kreuzritter-Epos; exemplarische, hochexpressive Sprachvertonung (Rezitativ) als kanonisches Modell. 
+- *Armida* (1686, Quinault/Lully)
+  
+  -> Verarbeitung eines Stoffes aus Tassos Kreuzritter-Epos
+  
+  - exemplarische, hochexpressive Sprachvertonung (Rezitativ) als kanonisches Modell
 
 ## Übergang von Theorie zur Opernpraxis
 
-- Jean-Philippe Rameau: erste Tragédie en musique Hippolyte et Aricide (1733, Alter 50) → Polarisierung Publikum: Lullisten vs. Rameauneurs. 
+- Sonderweg des französischen Musiktheaters: Verzögerte Rezeption italienischer Oper durch grundsätzliche Skepsis gegenüber italienischen Neuerungen
 
-- Ziel: Umsetzung ›wissenschaftlicher‹ (akustisch begründeter) Theorien auf Harmonik und Affektgestaltung. 
+- Jean-Philippe Rameau
+  
+  - erste *Tragédie en musique* *Hippolyte et Aricide* (1733, Alter 50)
+  
+  -> Polarisierung Publikum: Lullisten vs. Rameauneurs
 
-- Stilmerkmale: reichere Instrumentation; größere harmonische Komplexität als bei Lully; Weiterentwicklung der Ouvertüre; vielfältige Ensembleformen (Duett, Terzett, Quartett) in 11 Opern. 
+- Ziel: Umsetzung ›wissenschaftlicher‹ (akustisch begründeter) Theorien auf Harmonik und Affektgestaltung
+
+- Stilmerkmale
+  
+  - reichere Instrumentation
+  - größere harmonische Komplexität als bei Lully
+  - Weiterentwicklung der Ouvertüre
+  - vielfältige Ensembleformen (Duett, Terzett, Quartett) in 11 Opern
 
 ### Castor et Pollux (1737/Rev. 1754)
 
-- Sujet: Brüder (antikes Sparta) lieben dieselbe Frau; dramatische Konstellation mit Unterweltszene (4. Akt) und Apotheose (Aufnahme in den Olymp). 
+- Sujet: Brüder (antikes Sparta) lieben dieselbe Frau; dramatische Konstellation mit Unterweltszene (4. Akt) und Apotheose (Aufnahme in den Olymp)
 
-- 1754-Revision während Buffonistenstreit: Rameaus Opernstil als französischer Nationalstil gegen italienische Einflüsse positioniert. 
+- 1754-Revision während Buffonistenstreit: Rameaus Opernstil als französischer Nationalstil gegen italienische Einflüsse positioniert
 
-- Strukturhinweis: Prolog (später 2. Akt-Beginn). 
+- Strukturhinweis: Prolog (später 2. Akt-Beginn)
 
-- Rezeption: Trauerchor für Castor (chromatisches Melos, Passus duriusculus, f-Moll) → populär; Aufführung bei Rameaus Beerdigung (1764). 
+- Rezeption: [Trauerchor für Castor](https://youtu.be/tZqO3_0FJDw?si=Y_jxFlKS4VFl25tN&t=1602) (chromatisches Melos, Passus duriusculus, f-Moll) → populär; Aufführung bei Rameaus Beerdigung (1764)
+  
+  !?['Jean-Philippe Rameau: Castor et Pollux, Hervé Niquet, Le Concert Spirituel'](https://www.youtube.com/watch?v=tZqO3_0FJDw "Jean-Philippe Rameau: Castor et Pollux, Hervé Niquet, Le Concert Spirituel")
 
 ## Gambenmusik
 
@@ -222,24 +361,28 @@ Artikel zur [Viola da gamba](https://web.archive.org/web/20251002143944/https://
 
  
 
-### Marin Marais (1656–1728)
+### Marin Marais
 
-- Schüler Sainte-Colombes; Freund Lullys; Hofkarriere unter Ludwig XIV. und Ludwig XV.; Kapellmeister des Orchesters der Académie Royale de Musique. 
+- *1656 in Paris; †1728 in Paris
+- Schüler des Monsieur de Sainte-Colombes (*um 1600; †1690–1700)
+- Freund Lullys
+- Hofkarriere unter Ludwig XIV. und Ludwig XV.
+- Kapellmeister des Orchesters der Académie Royale de Musique
 
-- Werk: 5 Bücher (1686–1725) mit insgesamt 550 Stücken für 1–3 Gamben. 
+- 5 Bücher (1686–1725) mit insgesamt 550 Stücken für 1–3 Gamben
+  
+  - Nähe zu Couperin: programmatische Tendenzen; mögliches Übernehmen der Idee charakterisierender Titel
+  - *Le Tableau de l’operation de la Taille*: musikalisch-deskriptive ›Vertonung‹ einer Blasenstein-Operation; Notentext-Anmerkungen markieren Zittern, Schnitt, Steinentfernung, Schmerzen, Schreie
+  - Verbindung drastisch-programmatischer Inhalte mit virtuoser Gambentechnik scheint das zeitgenössisches Publikum angesprochen zu haben 
 
-### Programmatische Stücke & Beispielhafte Extremdarstellung
+- Marais’ erklärtes Ziel
 
-- Nähe zu Couperin: programmatische Tendenzen; mögliches Übernehmen der Idee charakterisierender Titel. 
+  - Resistenz gegen italienischen Einfluss
+  - Empfehlung an Schüler, »Sonaten« zu meiden (als italienisch konnotierte Form) 
 
-- Le Tableau de l’operation de la Taille: musikalisch-deskriptive ›Vertonung‹ einer Blasenstein-Operation; Notentext-Anmerkungen markieren Zittern, Schnitt, Steinentfernung, Schmerzen, Schreie. 
-
-- Wirkung: Verbindung drastisch-programmatischer Effekte und virtuoser Gambentechnik adressiert zeitgenössisches Publikum. 
-
-### Stilpolitik & Virtuosität
-
-- Marais’ erklärtes Ziel: Resistenz gegen italienischen Einfluss; Empfehlung an Schüler, »Sonaten« zu meiden (als italienisch konnotierte Form). 
-
-- Sonnerie de Sainte Geneviève du Mont de Paris (1723): berühmtestes Werk; Imitation Glockengeläute mit Violine, Gambe, Basso continuo; Passacaglia-Prinzip (ostinater Bass) → Variationen steigender Komplexität. 
-
-- Harmonik: d-Moll, keine Tonartenwechsel → bewusster Kontrast zu italienischen Modulationen, Chromatik, Tonartenvielfalt.
+- *Sonnerie de Sainte Geneviève du Mont de Paris* (1723)
+  
+  - berühmtestes Werk
+  - Imitation Glockengeläute mit Violine, Gambe, Basso continuo
+  - Passacaglia-Prinzip (ostinater Bass) → Variationen steigender Komplexität
+  - Harmonik: d-Moll, keine Tonartenwechsel → bewusster Kontrast zu italienischen Modulationen, Chromatik, Tonartenvielfalt
