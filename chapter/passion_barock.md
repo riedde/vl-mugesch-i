@@ -275,10 +275,14 @@ Heinrich Schütz: _Matthäus-Passion_ SWV 479, "Barrabam!"
 - Teil I
 
   - 29 Sätze (NBA-Zählung)
+  - Handlung: Jesus kündigt seine Kreuzigung an -> Gefangennahme Jesu
 
 - Teil II
 
   - 39 (NBA-Zählung)
+  - Handlung: Gerichtsprozess -> Anweisung Pilatus' das Grab zu bewachen
+
+??[Text Matthäus-Passion](../data/bach_matthaeuspassion-text.html)
 
 
 #### Musikalische Formen
