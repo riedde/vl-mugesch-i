@@ -378,3 +378,32 @@ tags: theorie, barock
   - Choralsätze für Kirchenlieder (melismatischer Stil)
   - Arien und Rezitative (madrigalischer Stil)
   - Ritornelle und Sinfonien (Instrumentalstil) = "zusammengestoppeltes Wesen", kaum mehr etwas mit Kantate im eigentlichen Sinne gemein
+
+## Quiz und Reflexion
+Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+
+**Welche drei Hauptarten musikalischer Schreibart unterschied Mattheson in seinem "Vollkommenen Capellmeister"?**
+
+[[ ]] Vokalstil, Instrumentalstil, Tanzstil
+[[ ]] Alter Stil, Neuer Stil, Gemischter Stil
+[[X]] Kirchenstil, Theatralstil, Kammerstil
+[[ ]] Opernstil, Konzertstil, Sonatenstil
+
+**Was charakterisiert den Begriff des Madrigalstils bei Mattheson?**
+
+[[ ]] Die Musik steht hierarchisch über dem Wort
+[[X]] Text- und affektbezogenes Komponieren der "seconda prattica"
+[[X]] Verwendung in Oper, Oratorium, Passion, Kantate
+[[ ]] Ausschließlich mehrstimmig-polyphon ohne Generalbass
+
+**Wie ist bei Mattheson die Instrumentalmusik als "Klang-Rede" definiert?**
+
+[[X]] Instrumentalmusik ist "Vokalmusik ohne Text"
+[[ ]] Reine Instrumentalmusik ist ohne rhetorische Elemente
+[[X]] Die Melodie ist hauptsächlicher Träger des Affekts und Garant der emotionalen Wirkung
+[[X]] Jeder Gattung der Instrumentalmusik wird ein eigener Affekt zugeschrieben
+
+**Erläutern Sie das Grundkonzept der "Klang-Rede" nach Mattheson. Skizzieren Sie seine Bedeutung für das Verständnis von Instrumentalmusik im frühen 18. Jahrhundert.**
+
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 2 Seiten beantworten können.*
+

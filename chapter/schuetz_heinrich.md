@@ -158,3 +158,32 @@ tags: komponist, barock, instrumentalmusik, vokalmusik
 - Aufführung: brachte ihn 1864 in einem Konzert der Wiener Singakademie zur Aufführung.
 
 - Historische Bedeutung: mit dieser Aufführung eines 214 Jahre alten Chorsatzes in einem Wiener Konzert begann die Wiederentdeckung von Heinrich Schütz im späten 19. Jahrhundert.
+
+## Quiz und Reflexion
+Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+
+**Was charakterisiert Schütz' Ausbildung?**
+
+[[X]] Studium bei Giovanni Gabrieli in Venedig (1609-1612)
+[[X]] Studium der neuen Monodie und Begegnung mit Monteverdi
+[[ ]] Ausschließlich in Deutschland ausgebildet ohne italienische Einflüsse
+[[X]] Studium der Vokalpolyphonie in Paris (Notre Dame)
+
+**Was kennzeichnet Schütz' historische Bedeutung aus?**
+
+[[ ]] Reine Übernahme italienischer Stilmittel ohne deutsche Eigenarten
+[[X]] Verbindung italienischer Errungenschaften mit deutscher Tradition
+[[ ]] bringt deutsche Kompositionstechniken nach Italien.
+[[X]] Synthese aus mehrchörigem Stil und monodischem, expressivem Sologesang
+
+**Welche deutsche Oper komponierte Schütz (1627), die heute als verloren gilt?**
+
+[[ ]] Almira
+[[X]] Dafne
+[[ ]] Orfeo
+[[ ]] Rinaldo
+
+**Analysieren Sie Schütz' Rolle als Vermittler zwischen italienischer und deutscher Musiktradition. Erläutern Sie dabei, wie er die neuen italienischen Kompositionstechniken mit der deutschen Sprache und Tradition verband.**
+
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa einer halben bis ganzen Seite beantworten können.*
+

@@ -246,3 +246,32 @@ tags: komponist, barock
 # Literatur
 
 - Hans Joachim Marx: Art. *Händel, Georg Friedrich*, WÜRDIGUNG, 1. Persönlichkeit und gesellschaftliche Stellung, in: MGG Online, hrsg. von Laurenz Lütteken, New York/Kassel/Stuttgart 2016ff., zuerst veröffentlicht 2002, online veröffentlicht 2016, [https://www.mgg-online.com/mgg/stable/594976](https://www.mgg-online.com/mgg/stable/594976)
+
+## Quiz und Reflexion
+Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+
+**Was charakterisiert Händels außergewöhnlichen wirtschaftlichen Erfolg als freier Künstler?**
+
+[[X]] £17.000 Stammkapital für seine *Royal Academy of Music*
+[[X]] Vermögen von £20.000 bei der Bank of England (heute über 7 Millionen Euro)
+[[ ]] Hauptsächlich durch Anstellungen an Höfen finanziert
+[[ ]] Spendete viel Geld für wohltätige Zwecke
+
+**Welche Faktoren führten zu Händels Wendung vom Opern- zum Oratorienkomponisten in den 1730er Jahren?**
+
+[[ ]] Oratorienaufführungen brachten mehr Geld ein
+[[X]] Sprachbarriere des Italienischen und politische Vorbehalte gegen Händel
+[[ ]] Religiöse Bekehrung und Ablehnung weltlicher Musik
+[[X]] Gesundheitliche Krise 1737 (Schlaganfall) und Publikumswandel
+
+**Was kennzeichnet Händels Kompositionspraxis und Werkverständnis?**
+
+[[ ]] Strenge Werkautonomie ohne nachträgliche Änderungen
+[[X]] Nie endgültiges Kunstwerk, Fokus auf perfekte Aufführung
+[[X]] Ungenierte Verwendung von Material anderer Komponisten
+[[X]] *Elaboratio* (Ausarbeitung) wichtiger als *Inventio* (Erfindung)
+
+**Stellen Sie Händels Position als erfolgreicher Musikunternehmer im 18. Jahrhundert in groben Zügen dar. Wie unterschied sich sein Lebensstil von dem traditionellen Bild des armen Musikers und welche gesellschaftlichen Faktoren ermöglichten seinen Erfolg?**
+
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 1-2 Seiten beantworten können.*
+

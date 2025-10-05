@@ -114,3 +114,23 @@ tags: verzierung, 1600
   * Verzierungen als Normalfall
   * Unverzierter Vortrag musste explizit angegeben werden
 
+## Quiz und Reflexion
+Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+
+**Welche Verzierungsarten und Vortragshinweise werden in der Praxis um 1600 unterschieden?**
+
+[[X]] Trillo und Gruppo
+[[ ]] Denominatione
+[[X]] Sprezzatura
+[[X]] Esclamazione
+
+**Was kennzeichnet die "Sprezzatura" als besonderen Vortragsstil?**
+
+[[ ]] Strenge Beachtung des Taktmaßes ohne rhythmische Freiheiten
+[[X]] in Tönen erzählend (ohne Zeitmaß)
+[[ ]] Beachtung ausnotierter Vierzierungen
+[[X]] Rhythmisch-metrisch freier Textvortrag
+
+**Erläutern Sie eine Verzierungsart (Trillo, Gruppo, Esclamazione, Sprezzatura) der Aufführungspraxis um 1600. Wie veränderte sich dadurch das Verhältnis zwischen komponiertem Notentext und praktischer Ausführung?**
+
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa einer halben bis ganzen Seite beantworten können.*

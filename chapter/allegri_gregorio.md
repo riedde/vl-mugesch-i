@@ -63,7 +63,10 @@ tags: komponist, kultur, italien, rom, vokalmusik
 * Besonderheit: Verbreitungsverbot durch Kirche
 
 ### Musikalische Struktur
-* Vertonung des 51. Psalms
+* Vertonung des [51. Psalms](https://www.die-bibel.de/bibel/VUL/PSA.50)
+  
+  -> [Psalmi iuxta Hebr. 50](www.die-bibel.de/bibel/VUL/PSA.50) in der *Biblia Sacra Vulgata*[^info]
+
 * Aufführungsform:
 
   * Wechsel zwischen zwei Chören
@@ -86,6 +89,10 @@ tags: komponist, kultur, italien, rom, vokalmusik
 ----
 
 !?[Allegri | Miserere mei | King's College, Cambridge](https://www.youtube.com/watch?v=IX1zicNRLmY)
+
+[^info]: *Psalmi iuxta Hebraicum translati* = "Psalmen übersetzt nach dem Hebräischen".
+  
+  Die Vulgata ist eine [lateinische Bibel](https://www.lateinlex.de/?call=Puc&permalink=Vulg). Das lateinische Wort *"vulgatus"* bedeutet "alltäglich"/"gemein"/"öffentlich" im Sinne von "volkstümlich"/"im Volk bekannt".
 
 ### Historische Rezeption
 
