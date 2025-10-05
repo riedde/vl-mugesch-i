@@ -99,3 +99,38 @@ tags: barock, gattung, vokalmusik
   * Beispiel: Monteverdi, _Combattimento di Tancredi et Clorinda_ (1624)
     
     !?[](https://www.youtube.com/watch?v=AT_Ktsg86gs) 
+
+## Quiz und Reflexion
+Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+
+**Was charakterisiert die Monodie als neue Kompositionsart um 1600?**
+
+[[X]] Akkordisch gestützter Sologesang mit Generalbassbegleitung
+[[ ]] Mehrstimmige Chorkomposition im Palestrinastil
+[[X]] Entstanden aus humanistischen Bestrebungen zur Wiederbelebung antiker Musik
+[[X]] Fokus auf Textverständlichkeit und Ausdruck
+
+**Welche Werke gelten als frühe Beispiele der monodischen Komposition?**
+
+[[X]] _La Dafne_ (1597/98) von Peri/Rinuccini/Caccini
+[[ ]] _Missa Papae Marcelli_ (ca. 1562) von Palestrina
+[[X]] _L'Euridice_ (1600) von Peri/Rinuccini
+[[X]] _Le nuove musiche_ (1601) von Giulio Caccini
+
+**Welche Stile kommen in Giovanni Battista Donis Beschreibung des "stile monodico" (1640) vor?**
+
+[[X]] stile narrativo (erzählender Stil)
+[[X]] stile espressivo (ausdrucksvoller Stil)
+[[X]] stile concitato (erregter Stil)
+[[ ]] stile antiquo (alter Stil)
+
+**Was war die Motivation der Florentiner Camerata für die Entwicklung der Monodie?**
+
+[[ ]] Vereinfachung der Komposition für ungeübte Musiker
+[[X]] Kritik an der vorherrschenden Polyphonie, die dem antiken Ideal nicht entsprach
+[[X]] Streben nach besserer Textverständlichkeit
+[[ ]] Befreiung der Musik aus dem Einfluss der Kirche
+
+**Erläutern Sie kurz die Entwicklung der Monodie von den theoretischen Überlegungen der Florentiner Camerata bis zu den verschiedenen Ausprägungen des "stile monodico" (Doni). Nennen Sie jeweils ein oder mehrere Beispiele.**
+
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von ca. 2 Seiten beantworten können.* 

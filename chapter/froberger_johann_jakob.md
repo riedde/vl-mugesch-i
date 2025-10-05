@@ -98,3 +98,28 @@ Zur nachfolgenden Werkanalyse vgl. [^Keil2018](Werner Keil: Musikgeschichte im �
 
   - Tempo-Bezeichnung: ausdrücklich vermerkt Froberger in der Überschrift, dass das Stück langsam zu spielen sei
   - Metrische Freiheit: »lentement \[...\] sans observer aucune mesure«[^de](langsam [...] ohne irgendwelche Maßnahmen [i.e., das Taktmaß] zu beachten) zu spielen sei
+
+## Quiz und Reflexion
+Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+
+**Was charakterisiert Johann Jakob Frobergers musikgeschichtliche Bedeutung?**
+
+[[X]] Erster Komponist, der sich ganz auf Tasteninstrumente spezialisierte
+[[X]] Schüler Frescobaldis
+[[ ]] Begründer der italienischen Oper
+[[X]] Wiener Hoforganist mit hochexpressivem, freiem Kompositionsstil
+
+**Welche französischen Stilelemente übernahm Froberger in seine Cembalowerke?**
+
+[[X]] Style brisé (gebrochener Stil) mit gebrochenen Akkorden und Arpeggio-Motiven
+[[X]] Inégalement und Überpunktierung bei der Aufführung
+[[ ]] Strenge Beachtung des Taktmaßes ohne rhythmische Abweichungen
+[[X]] Tempo rubato und improvisierte Verzierungen
+
+**Was kennzeichnet Frobergers "Tombeau sur la mort de Monsieur Blancheroche"?**
+
+[[X]] Programmatisches Trauerstück auf den Tod eines Freundes
+[[ ]] Fröhliches Tanzstück im französischen Stil
+[[X]] Aufführungsanweisung "lentement sans observer aucune mesure"
+[[X]] Beispiel für den "gebrochenen" Cembalostil
+

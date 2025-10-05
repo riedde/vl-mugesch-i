@@ -174,3 +174,38 @@ In der Diskussion um die *seconda prattica* geht es nicht um die Frage "Vokalpol
   * Opernrezitative
 
 * Tradition reicht bis ins Mittelalter zurück
+
+## Quiz und Reflexion
+Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+
+**Was kritisierte Giulio Caccini am kontrapunktischen Stil seiner Zeit?**
+
+[[X]] Der Kontrapunkt verhindert die Textverständlichkeit
+[[ ]] Die Musik ist zu einfach und langweilig
+[[X]] Silben werden verlängert oder verkürzt, um dem Kontrapunkt zu genügen
+[[ ]] Claudio Monteverdis handwerkliches Können
+
+**Welche Hauptkritikpunkte äußerte Artusi gegen Monteverdis Madrigale?**
+
+[[X]] Unkonventionelle Dissonanzbehandlung (z.B. unvorbereitete Septimen)
+[[X]] Moduswechsel innerhalb einer Komposition
+[[ ]] Zu geringe Verwendung der Imitationstechnik
+[[ ]] Fehlende rhythmische Komplexität
+
+**Was besagt die Kernthese von Giulio Cesare Monteverdis "Dichiaratione"?**
+
+[[ ]] "harmonia sia padrona del oratione" (Die Harmonie ist Herrin der Rede)
+[[ ]] Melodie und Harmonie sollen gleichberechtigt sein
+[[X]] "l'oratione sia padrona del armonia e non serva" (Die Rede ist Herrin der Harmonie, nicht Dienerin)
+[[ ]] Der Rhythmus bestimmt Text und Harmonie
+
+**Welche Komponisten werden der "seconda prattica" zugeordnet?**
+
+[[X]] Cipriano de Rore
+[[ ]] Adrian Willaert
+[[X]] Luca Marenzio
+[[ ]] Gioseffo Zarlino
+
+**Erläutern Sie die Artusi-Monteverdi-Kontroverse als zentralen Konflikt zwischen prima und seconda prattica. Gehen Sie dabei auf die unterschiedlichen theoretischen Modelle (Zarlino/Artusi vs. Monteverdi) ein und zeigen Sie auf, wie sich die seconda prattica von einer reinen Stilfrage zu einer grundsätzlichen Neubestimmung des Text-Musik-Verhältnisses entwickelte.**
+
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von 2–3 Seiten beantworten können.*

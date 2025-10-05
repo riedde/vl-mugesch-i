@@ -496,3 +496,56 @@ Es gibt eigene Kurse zu @config.link.course(Sweelinck,sweelinck_jan_pieterszoon)
 - Entwicklung hin zur Modulation
 - harmonische Variabilität ist wesentl. Unterschied zur Ritornelltechnik im 17. Jhd.
 - harmonische Versetzbarkeit des Ritornells ist entscheidende Entwicklung im 18. Jhd.
+
+## Quiz und Reflexion
+Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+
+**Was charakterisiert die verschiedenen Verwendungszwecke von Instrumentalmusik im 17./18. Jahrhundert?**
+
+[[X]] Ergänzung von Vokalmusik und Ballettmusiken
+[[X]] Unterhaltung in der Kammer (Kammermusik) und Collegium musicum
+[[ ]] Ausschließlich für den liturgischen Gebrauch in Kirchen
+[[X]] Pädagogische Zwecke für Dilettanten und Berufsmusiker
+
+**Welche Merkmale treffen auf die Sonata da chiesa zu?**
+
+[[X]] viersätzig mit Satzfolge langsam-schnell-langsam-schnell
+[[ ]] im Grunde eine Suite als Folge von Tanzsätzen
+[[ ]] ausschließlich einsätzig und homophon
+[[X]] freie Komposition, nicht an Tanzmodelle gebunden
+
+**Was kennzeichnet Arcangelo Corellis Bedeutung für die Sonatentradition?**
+
+[[X]] Modell, das Zeitgenossen als mustergültig annahmen
+[[ ]] Erfinder der ersten Instrumentalmusik überhaupt
+[[X]] Sechzehn Werksammlungen, jede aus zwölf Sonaten bestehend
+[[ ]] Komponierte ausschließlich Triosonaten
+
+**Welche unterschiedlichen Bedeutungen hatte der Begriff "concertare" in der Renaissance?**
+
+[[X]] "etwas verabreden", "etwas aufeinander abstimmen" (ital.)
+[[X]] Wettkampf-Charakter, "miteinander scharmützeln" (lat.)
+[[ ]] Das Aufführen von musikalischen Werken vor einem hohen Adligen
+[[X]] Mehrere Ensembleteile musizieren gleichberechtigt nebeneinander
+
+**Was charakterisiert die barocke Ritornellkonzertform?**
+
+[[X]] Alternierung der Elemente *Tutti* und *Solo*
+[[ ]] *Tutti* eröffnet den Satz, muss ihn aber nicht beschließen
+[[ ]] homophone Satzweise ohne Solopassagen
+[[X]] Harmonische Versetzbarkeit des Ritornells als entscheidende Entwicklung
+
+**Welche Instrumente und Besetzungen prägten die Entwicklung der Instrumentalmusik?**
+
+[[X]] Tasteninstrumente: Orgel, Cembalo, Clavichord, Spinett
+[[ ]] Pianoforte waren bereits im 17. Jahrhundert weit verbreitet
+[[X]] Triosonaten mit charakteristischer Besetzung (zwei Oberstimmen + Basso continuo)
+[[ ]] Kammerchor für die Abendunterhaltung am Hofe
+
+**Suchen Sie sich einen der folgenden Begriffe aus und erläutern Sie die Unterschiede zur Sonate: Sinfonia, Suite, Concerto. Beschreiben Sie charakteristische Merkmale der Sonate und der von Ihnen gewählten Gattung (17./18. Jhd.).**
+
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 2-3 Seiten beantworten können.*
+
+**Skizzieren Sie die Entwicklung des Concerto-Begriffs von Giovanni Gabrielis "Concerti" (1587) bis zur barocken Ritornellkonzertform. Welche Rolle spielte dabei der Wandel von "concertare" als gleichberechtigtem Zusammenspiel zu solistischem Wetteifer?**
+
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 2/3-4 Seiten beantworten können.*

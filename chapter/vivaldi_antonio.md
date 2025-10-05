@@ -461,3 +461,33 @@ Form der Ausbildung: Vivaldiu wurde nicht als Zögling eines Priesterseminars au
 
 - P. Ryom: Verzeichnis der Werke A. Vivaldis \[RV\] . Kleine Ausgabe, Leipzig ^2^1979
 - P. Ryom: Répértoire des Œuvres d’A. Vivaldi. Les Compositions instrumentales, Kopenhagen 1986
+
+
+## Quiz und Reflexion
+Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+
+**Welche Rolle spielte das *Ospedale della Pietà* in Vivaldis beruflicher Laufbahn?**
+
+[[ ]] Es war nur eine kurze Episode von wenigen Jahren in seiner Jugend
+[[X]] Es war eine lebenslange Verbindung trotz zeitweiliger Unterbrechungen
+[[X]] Hier komponierte er instrumentale Musik für einen renommierten Mädchenchor
+[[ ]] Er war dort ausschließlich als Priester tätig
+
+**Was charakterisiert Vivaldis Zeit als Kammerkapellmeister in Mantua (1718-1720)?**
+
+[[ ]] Die Konzentration ausschließlich auf Opernkomposition
+[[X]] Eine Gattungsverschiebung hin zur Solokantate bei gleichzeitigem Wegfall der Kirchenmusik
+[[ ]] Eine strikt auf Mantua begrenzte Tätigkeit ohne auswärtige Verpflichtungen
+[[X]] Große Reisefreiheit für externe Projekte bei fürstlicher Protektion
+
+**Welche Faktoren prägten Vivaldis letzte Lebensjahre ab den 1730ern?**
+
+[[X]] Anzeichen eines Geschmackswandels, der seine Opern weniger attraktiv machte
+[[ ]] Eine kontinuierliche Steigerung seines Erfolgs bis zum Tod
+[[X]] Keine Druckveröffentlichungen mehr (nach 1729)
+[[X]] Wiederkehrende Enttäuschungen bei Projekten, besonders in Ferrara
+
+
+**Worum handelt es sich beim *Ospedale della Pietà* und welche Bedeutung hat dieser Ort für Vivaldi (als Priester ~und~ als Künstler).**
+
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von ca. 1 Seiten beantworten können.*

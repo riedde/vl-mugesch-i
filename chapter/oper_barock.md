@@ -356,3 +356,43 @@ Hierzu ist ein @config.link.course(eigener Kurs,haendel_georg_friedrich) verfüg
 - **Film *Farinelli, il castrato* (1994):** Regisseur Gérard Corbiau, Vermittlung der Atmosphäre der Neapolitanischen Oper, Thematisierung der erotischen Faszination der Kastraten, technische Innovation durch Mischen der Klangspektren eines Countertenors und Soprans (Studios des Pariser IRCAM) für überzeugende Suggestion einer ›echten‹ Kastratenstimme
 
 - **Historische Aufnahmen:** Alessandro Moreschi (1858–1922), letzter Kastrat aus der päpstlichen Kapelle, erhaltene Schallplattenaufnahmen (technisch und musikalisch unzulänglich)
+
+## Quiz und Reflexion
+Zeit sich zu erinnern! Hier sind vier Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und zwei Verständnisfragen. Solche Fragen sollten nun beantworten werden können.
+
+**Was charakterisiert die venezianische Oper des 17. Jahrhunderts im Gegensatz zur späteren neapolitanischen Reform?**
+
+[[X]] Art multimediales Spektakel, mehr Varieté als Drama
+[[ ]] Einlagen und Unterbrechungen waren verboten
+[[ ]] Strenge Beachtung der drei aristotelischen Einheiten
+[[X]] Wenig Bezug zur dargestellten Opernhandlung
+
+**Welche Merkmale kennzeichnen Pietro Metastasios Opernlibretti?**
+
+[[ ]] Er war der einzige Opernlibrettist in Wien
+[[X]] Jedes Libretto mehrfach vertont
+[[X]] Stark typisierte Figuren ohne innere Wandlung
+[[ ]] Bevorzugung zeitgenössischer Stoffe anstelle antiker Themen
+
+**Was charakterisiert die Struktur der metastasianischen Opern im Allgemeinen?**
+
+[[X]] Drei Akte mit jeweils 10-15 Szenen
+[[ ]] Durchkomponierte Struktur ohne klare Nummernabfolge
+[[X]] Dacapo-Arien als Abgangsarien am Szenenende
+[[X]] Rezitativo secco für die dramatische Handlung
+
+**Welche Aspekte prägten die Tradition der Kastraten in der Barockoper?**
+
+[[X]] Kastration vor der Geschlechtsreife zur Erhaltung der hohen Knabenstimme
+[[X]] Höchstbezahlte Solisten, verdienten mehr als Komponisten und Kapellmeister
+[[X]] Stimmumfang und -kraft übertrafen normale Sänger
+[[ ]] Ausschließlich für weibliche Rollen in der Oper eingesetzt
+
+**Charakterisieren Sie metastasianische Oper (z. B. Stoff, Ablauf, Personal) anhand eines Beispiels.**
+
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa einer Seite beantworten können.*
+
+**Skizzieren Sie die gesellschaftliche und künstlerische Bedeutung der Kastraten in der Barockoper. Gehen Sie bei Bedarf auch auf die medizinischen, sozialen und ästhetischen Aspekte dieser Tradition ein.**
+
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 1-2 Seiten beantworten können.*
+

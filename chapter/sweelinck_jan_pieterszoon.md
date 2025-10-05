@@ -95,3 +95,33 @@ tags: komponist
   - Historische Nachwirkung
     
     - Späte Rezeption: ein später Nachfahre dieses sweelinckschen Werkes ist die berühmte Chromatische Fantasie von Johann Sebastian Bach.
+
+
+## Quiz und Reflexion
+Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+
+**Was charakterisiert Sweelincks Position in der Musikgeschichte?**
+
+[[X]] war in Amsterdam 40 Jahre lang Organist (an der selben Kirche)
+[[X]] Bezeichnung als "deutscher Organistenmacher" im 18. Jahrhundert
+[[ ]] Begründer der italienischen Madrigaltradition
+[[X]] Begründer der norddeutschen Orgel- und Klaviertradition
+
+**Welche kompositionstechnischen Merkmale kennzeichnen Sweelincks Fantasien?**
+
+[[X]] Thematische Transformation in verschiedenen Notenwerten und Umkehrung
+[[X]] Wechsel von thematisch geprägten und themenfreien Passagen
+[[ ]] Imitierende Themeneinsätze auf harmonischen Nebenstufen
+[[ ]] Ausschließlich homophone Satzweise ohne kontrapunktische Behandlung
+
+**Was macht Sweelincks "Fantasia chromatica" zu einer besonderen Ausnahme?**
+
+[[X]] Verwendung von Chromatik trotz Stimmungsproblematik bei Tasteninstrumenten
+[[ ]] Erstes Werk, das auf Orgel und Cembalo gespielt werden kann
+[[X]] Test für Organisten
+[[X]] Vorläufer von Bachs Chromatischer Fantasie
+
+**Skizzieren Sie Sweelincks pädagogische Bedeutung und seinen Einfluss auf die norddeutsche Orgeltradition. Nennen Sie bedeutende Schüler*innen.**
+
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa einer halben bis ganzen Seite beantworten können.*
+

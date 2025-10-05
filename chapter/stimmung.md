@@ -159,3 +159,31 @@ tags: stimmung, technologie
     * Mittels enharmonischer Verwechslung modulieren
 
     * Alle Tonarten sind gleichermaßen verwendbar
+
+## Quiz und Reflexion
+Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+
+**Welche grundlegenden Probleme ergeben sich bei der pythagoreischen Stimmung?**
+
+[[X]] Zwölf übereinandergeschichtete Quinten ergeben nicht genau sieben Oktaven (Pythagoreisches Komma)
+[[X]] Reine Quinten liefern keine angenehm klingenden Terzen
+[[ ]] Oktaven sind nicht rein stimmbar
+[[X]] Terzen klingen verstimmt und galten im Mittelalter als dissonant
+
+**Was charakterisiert die mitteltönige Temperatur als Kompromisslösung?**
+
+[[X]] Vier Quinten werden etwas zu eng gestimmt, um reine große Terzen zu erhalten
+[[X]] Begünstigte Tonarten um C-Dur herum mit rein gestimmten Terzen
+[[ ]] Alle Tonarten klingen gleich rein
+[[X]] "Wolfsquinte" zwischen schwarzen Tasten macht entfernte Tonarten unbrauchbar
+
+**Welche Vorteile bietet die wohltemperierte (gleichstufige) Stimmung?**
+
+[[X]] Zwölf genau gleichgroße Halbtöne ergeben eine Oktave
+[[X]] Erlaubt Modulation durch enharmonische Verwechslung
+[[X]] Alle Tonarten sind gleichermaßen verwendbar
+[[ ]] Reine Terzen in allen Tonarten
+
+**Bschreiben Sie die wesentlichen Unterschiede zwischen zwei der folgenden Stimmungssysteme: "pythagoreischen Stimmung", "mitteltönige Stimmung"m "wohltemperierte Stimmung". Gehen Sie dabei auf praktischen und ästhetischen Überlegungen ein, die für bzw. gegen das Stimmungssystem sprechen.**
+
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa einer Seite beantworten können.*

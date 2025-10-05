@@ -261,3 +261,38 @@ Giovanni Battista Doni (1635) *Discorso sopra la perfettione delle melodie*:
 ## Mehrstimmigkeit und Kirchenmusik
 
 Nur eines von vielen Beispiele zur Mehrstimmigkeit von der sich die Monodie abzugrenzen versucht findet sich bei @config.link.course(`Gregorio Allegri`,allegri_gregorio).
+
+## Quiz und Reflexion
+Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+
+**Welche Merkmale kennzeichnen Monteverdis "L'Orfeo" (1607) als wegweisende frühe Oper?**
+
+[[X]] Großes Orchester mit spezifischen Instrumentenzuordnungen (z.B. Harfe für Orfeo)
+[[ ]] Ausschließlich einstimmige Monodie ohne orchestrale Einlagen
+[[X]] Kombination von neuem monodischen Stil mit herkömmlicher mehrstimmiger Satztechnik
+[[X]] Vielfältige musikalische Formen (begleiteter Sologesang, Chöre, Tanzsätze)
+
+**Was charakterisiert die Entwicklung der venezianischen Oper ab 1637?**
+
+[[X]] Erstes öffentliches Opernhaus Europas wird eröffnet
+[[X]] Kommerzialisierung durch Finanzierung über Eintrittsgelder
+[[ ]] Verwendung großer Chöre und Orchester
+[[X]] Entwicklung eines Starkults um beliebte Solisten
+
+**Welche drei Arten der Monodie unterschied Giovanni Battista Doni (1635)?**
+
+[[X]] Stile rezitativo
+[[X]] Stile rappresentativo
+[[ ]] Stile antiquo
+[[X]] Stile espressivo
+
+**Welche frühen Opern gelten als Meilensteine der Gattungsentwicklung?**
+
+[[X]] Peri/Rinuccini: "L'Euridice" (1600)
+[[X]] Monteverdi/Striggio: "L'Orfeo" (1607)
+[[ ]] Palestrina: "Missa Papae Marcelli" (1562)
+[[X]] Monteverdi: "L'incoronazione di Poppea" (1642)
+
+**Erläutern Sie die Monodie. Gehen Sie dabei auf die drei Arten der Monodie (nach Doni) ein. Wählen Sie passende Beispiele für Ihre Erläuterungen.**
+
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von 2-3 Seite beantworten können.*

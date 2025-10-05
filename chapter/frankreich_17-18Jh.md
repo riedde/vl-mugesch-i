@@ -386,3 +386,49 @@ Artikel zur [Viola da gamba](https://web.archive.org/web/20251002143944/https://
   - Imitation Glockengeläute mit Violine, Gambe, Basso continuo
   - Passacaglia-Prinzip (ostinater Bass) → Variationen steigender Komplexität
   - Harmonik: d-Moll, keine Tonartenwechsel → bewusster Kontrast zu italienischen Modulationen, Chromatik, Tonartenvielfalt
+
+## Quiz und Reflexion
+Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+
+**Welche theoretischen Neuerungen brachte René Descartes in die Musiktheorie ein?**
+
+[[X]] Empirische Wende mit Fokus auf Hörerempfindung statt spekulativem Überbau
+[[X]] Begriff der *"delectatio"* (Ergötzung) als Zweck der Musik
+[[ ]] Rückkehr zur mittelalterlichen *"musica mundana"*
+[[ ]] Grundlage für franzöische Militärmusik
+
+**Was charakterisiert Jean-Philippe Rameaus musiktheoretische Beiträge?**
+
+[[X]] Fundierung der Kadenzharmonik auf der Obertonreihe
+[[ ]] Integration der Affektenlehre in die französische Oper des 18. Jhds.
+[[X]] Begriffssystem: Tonika, Subdominante, Dominante
+[[ ]] Ablehnung aller italienischen Harmonik-Prinzipien
+
+**Welche der vier französischen "Querellen" behandelten folgende Themen?**
+
+[[ ]] Erste Querelle: Monodie vs. Polyphonie
+[[X]] Dritte Querelle: Lullisten vs. Rameauneurs
+[[X]] Querelle entre les anciens et les modernes: Vergleich Antike vs. Moderne
+[[X]] Querelle des bouffons: französische Oper vs. italienische opera buffa
+
+**Was kennzeichnet Lullys "Tragédie en musique"?**
+
+[[X]] Synthese von *Ballet de cour* und französischem Sprechtheater
+[[ ]] Übernahme italienischer Arienformen und Kastratengesang
+[[X]] Anpassung des Rezitativstils an den französischen Sprachduktus
+[[X]] Vorrang des dramatischen Gehalts mit Musik als Unterstützung des "merveilleux"
+
+**Welche programmatischen Innovationen entwickelten französische Komponisten?**
+
+[[X]] Couperin: Charakterstücke mit Affekt-Farb-Zuordnungen ("Les Folies françoises")
+[[X]] Marais: Deskriptive Gambenmusik ("Le Tableau de l'operation de la Taille")
+[[ ]] Rameau: Reine Instrumentalmusik ohne programmatische Bezüge
+[[X]] Allmähliche Verwendung programmatischer Titel für reine Tänzsätze
+
+**Erläutern Sie die Bedeutung der französischen "Querelles" für die Entwicklung einer eigenständigen französischen Musikästhetik. Gehen Sie dabei auf mindestens zwei verschiedene Querellen ein.**
+
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 2 Seiten beantworten können.*
+
+**Skizzieren Sie René Descartes' Beitrag zur Wende von spekulativer zu empirischer Musiktheorie. Welche Rolle spielte dabei seine Affektenlehre?**
+
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa einer Seite beantworten können.*

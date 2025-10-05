@@ -141,3 +141,38 @@ tags: komponist, kultur, italien, rom, vokalmusik
   >
   > – Wilhelm Heinse
 
+## Quiz und Reflexion
+Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+
+**Welche besonderen Umstände prägten die Aufführung von Allegris Miserere?**
+
+[[X]] Aufführung nur einmal jährlich am Karfreitag im Petersdom
+[[ ]] Täglich gesungenes Werk in allen römischen Kirchen
+[[X]] Verbreitungsverbot durch die Kirche
+[[X]] Anwesenheit des Papstes bei der Aufführung
+
+**Was kennzeichnet den 'Römischen Prunkstil' des 17. Jahrhunderts?**
+
+[[X]] Weiterführung des Palestrinastils mit konservativer Haltung
+[[ ]] Vollständige Übernahme der neuen Monodie aus Florenz
+[[X]] Steigerung der Stimmenzahl (bis zu 48 Stimmen)
+[[X]] Zunehmend homophoner Tonsatz
+
+**Welche Persönlichkeiten sind mit der Rezeption von Allegris Miserere verbunden?**
+
+[[X]] Wolfgang Amadé Mozart - legendäre Nachschrift aus dem Gedächtnis als Knabe
+[[X]] Felix Mendelssohn Bartholdy - Dokumentation der Zeremonie in Briefen (1831)
+[[ ]] Johann Sebastian Bach - Bearbeitung für protestantischen Gottesdienst
+[[X]] Charles Burney - erste Notenausgabe trotz kirchlichen Verbots
+
+**Was sind charakteristische Merkmale der römischen Opernentwicklung im 17. Jahrhundert?**
+
+[[ ]] Führende Rolle von Frauen als Sängerinnen auf der Bühne
+[[X]] Frauenverbot auf der Bühne bis ins frühe 19. Jahrhundert
+[[X]] Übernahme der Frauenrollen durch Kastraten
+[[X]] Förderung durch Klerus und Kardinäle trotz zwiespältiger Kirchenhaltung
+
+**Skizzieren Sie wie die Musikkultur in Rom durch Bischöfe und Kardinäle gefördert wurde und gehen Sie dabei auf die bilaterale Haltung des Klerus ein (Römischer Prunkstil vs. Monodie/Oper).**
+
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von ca. 1 Seite beantworten können*
+

@@ -124,4 +124,39 @@ Curt Sachs, „Barockmusik“, 1919:
 - Braun, Die Musik des 17. Jahrhunderts, 1981
 - Dahlhaus, Die Musik des 18. Jahrhunderts, 1984
 
+## Quiz und Reflexion
+Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+
+**Wie entwickelte sich die Bedeutung des Begriffs "Barock" historisch?**
+
+[[X]] Ursprünglich portugiesisch/spanisch für "unregelmäßige Perlen"
+[[X]] Im 16./17. Jahrhundert abwertend als "Verrücktes, Verkehrtes, Falsches"
+[[ ]] Von Anfang an als positive Epochenbezeichnung verwendet
+[[X]] Erst ab dem frühen 18. Jahrhundert als Stilbegriff etabliert
+
+**Welche Begriffspaare stellte Heinrich Wölfflin in seinen "Kunstgeschichtlichen Grundbegriffe" (1915) gegenüber?**
+
+[[X]] das Lineare vs. das Malerische
+[[ ]] das Klassische vs. das Romantische
+[[ ]] Polyphonie vs. Homophonie
+[[X]] Vielheit vs. Einheit
+
+**Wie beurteilten Musiktheoretiker des 18. und 19. Jahrhunderts die "barocke" Musik?**
+
+[[X]] Jean-Jacques Rousseau: "Harmonie ist konfus, überladen mit Modulationen"
+[[ ]] Als vorbildliche, klassische Musiksprache
+[[X]] Heinrich Christoph Koch: "verworrene Überladung mit heterogenen Einzelnheiten"
+[[X]] Kritik an "unmäßigem Gebrauch der Dissonanzen"
+
+**Was kennzeichnet die musikhistorische Epochenschwelle um 1600?**
+
+[[X]] Einführung des Generalbasses
+[[X]] Entstehung der Monodie (Sologesang mit Generalbassbegleitung)
+[[ ]] Vollständige Ablösung der Mehrstimmigkeit
+[[X]] Neue Harmonik und Verzierungskunst
+
+**Skizzieren Sie die Problematik der Begriffsbildung "Barockmusik" von den (abwertenden) Anfängen bis zur heutigen Epochenbezeichnung. Gehen Sie dabei auf die Kritik an den Analogiebildungen zwischen bildender Kunst und Musik ein (Wölfflin, Sachs).**
+
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von 1–2 Seiten beantworten können.*
+
 

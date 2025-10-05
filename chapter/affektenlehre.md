@@ -186,3 +186,38 @@ tags: kompositionsweise
 ## Heinrich Schütz
 
 Es gibt einen eigenen Kurs zu @config.link.course(Heinrich Schütz,schuetz_heinrich)
+
+## Quiz und Reflexion
+Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+
+**Welche beiden Hauptfunktionen erfüllt die Affektenlehre in der Musik des 17. und 18. Jahrhunderts?**
+
+[[X]] ›affectus exprimere‹ (Gefühle ausdrücken): Darstellung von Affekten
+[[ ]] ›musica speculativa‹: theoretische Durchdringung der Musik
+[[X]] ›affectus movere‹ (Gefühle bewegen): Auslösung von Affekten bei den Zuhörern
+[[ ]] ›ars combinatoria‹: mathematische Kombinationslehre
+
+**Was charakterisiert den Passus duriusculus als musikalische Figur?**
+
+[[ ]] Eine Folge aufwärts führender Ganztonschritte
+[[X]] Eine Folge abwärts führender Halbtonschritte, besonders im Bass
+[[ ]] Rhythmische Verschiebungen zwischen den Stimmen
+[[X]] Eine schmerzlich wirkende harmonische Wendung durch Chromatik
+
+**Welche Zuordnungen zwischen Intervallen und Affekten entwickelte bereits der Renaissance-Theoretiker Zarlino?**
+
+[[X]] Große Terz und große Sexte: Freude
+[[X]] Kleine Terz und kleine Sexte: Trauer
+[[ ]] Quarte und Quinte: Melancholie
+[[ ]] Septimen und Nonen: Ekstase
+
+**Was versteht Johann Mattheson unter dem Begriff der "Klangrede"?**
+
+[[ ]] Eine rein instrumentale Kompositionsweise ohne Textbezug
+[[ ]] Die Übertragung gregorianischer Gesänge in die Volkssprache
+[[X]] Eine Tonsprache, die durch passend eingesetzte musikalische Mittel jedermann verständlich ist
+[[X]] Die Verbindung von musikalischen Mitteln mit rhetorischen Prinzipien im protestantischen Raum
+
+**Erläutern Sie die Entwicklung und Bedeutung der musikalischen Figurenlehre im 17. und 18. Jahrhundert. Gehen Sie dabei auf die Verbindung zur Rhetorik, wichtige Theoretiker und die heutige Forschungsposition ein.**
+
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von 1–2 Seiten beantworten können.*
