@@ -275,3 +275,45 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 
 *Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 1-2 Seiten beantworten können.*
 
+## Übersichten
+
+Alles auf einen Blick.
+
+* **Literatur**
+
+  * Deutsch, O. E.: *{%TITEL%}*, {%ORT%} 1955
+  * Keil, Werner: *Musikgeschichte im Überblick*, Paderborn ³2018
+  * Marx, Hans Joachim: Art. *Händel, Georg Friedrich*, in: MGG Online, {%ORT%} {%JAHR%}
+
+* **Personen**
+
+  * Burney, Charles ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musikhistoriker
+  * Corelli, Arcangelo ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - wichtigster Lehrer Händels in Italien
+  * Cuzzoni, Francesca ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Primadonna (£ 2000 jährlich)
+  * Duke of Cumberland ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Widmungsträger des Oratoriums Judas Maccabäus
+  * Farinelli ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Gesangsschüler Porporas
+  * Grimaldi, Nicolò (Nicolini) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Kastrat
+  * Händel, Georg Friedrich (1685–1759) - Komponist und Musikunternehmer
+  * Keyser, Reinhold ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Leiter der Gänsemarkt-Oper Hamburg
+  * Kinnoull, Earl of ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Freund Händels
+  * Mattheson, Johann (1681–1764) - Musikschriftsteller und Freund Händels
+  * Porpora ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Konkurrent mit Gesangsschüler Farinelli
+  * Senesino ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Kastrat (£ 2000 jährlich)
+  * Smith, John Christopher jun. ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Schüler Händels
+  * Stuart, Charles Edward (Bonnie Prince Charly) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Anführer des Schottischen Aufstands
+  * Wich, Cyril ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Schüler Händels in Hamburg
+
+@config.link.personen
+
+* **Werke**
+  
+  * Händel, Georg Friedrich: *Almira* (um 1703/1705) - deutsche Oper aus Hamburg
+  * Händel, Georg Friedrich: *Athalia* ({%ENTSTEHUNGSJAHR%}) - Oratorium eigens für Oxford komponiert
+  * Händel, Georg Friedrich: *Giulio Cesare in Egitto* (1723) - berühmteste Oper der Royal Academy
+  * Händel, Georg Friedrich: *Israel in Egypt* ({%ENTSTEHUNGSJAHR%}) - Oratorium ausschließlich auf Bibeltext
+  * Händel, Georg Friedrich: *Judas Maccabäus* ({%ENTSTEHUNGSJAHR%}) - Huldigungsoratorium für Duke of Cumberland
+  * Händel, Georg Friedrich: *Rinaldo* (1710) - erste Londoner Oper mit spektakulärem Erfolg
+  * Händel, Georg Friedrich: *The Messiah* (1741) - berühmtestes Oratorium mit Hallelujah-Chor
+
+@config.link.werke
+

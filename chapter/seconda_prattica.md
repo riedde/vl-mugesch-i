@@ -209,3 +209,42 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 **Erläutern Sie die Artusi-Monteverdi-Kontroverse als zentralen Konflikt zwischen prima und seconda prattica. Gehen Sie dabei auf die unterschiedlichen theoretischen Modelle (Zarlino/Artusi vs. Monteverdi) ein und zeigen Sie auf, wie sich die seconda prattica von einer reinen Stilfrage zu einer grundsätzlichen Neubestimmung des Text-Musik-Verhältnisses entwickelte.**
 
 *Sie sollten diese Aufgabe mit einem zusammenhängenden Text von 2–3 Seiten beantworten können.*
+
+## Übersichten
+
+Alles auf einen Blick.
+
+* **Literatur**
+
+  * Artusi, Giovanni Maria: *L'Artusi Ovvero delle Imperfettioni della moderna musica*, {%ORT%} 1600
+  * Caccini, Giulio: *Le Nuove Musiche*, {%ORT%} {%JAHR%}
+  * Monteverdi, Claudio: *Vorrede zum 5. Madrigalbuch*, {%ORT%} 1605
+  * Monteverdi, Giulio Cesare: *Dichiaratione* in *Scherzi musicali a tre voci*, {%ORT%} 1607
+  * Platon: *Politeia*, {%ORT%} {%JAHR%} - Bezug in G.C. Monteverdis Dichiaratione
+  * Zarlino, Gioseffo: *Istitutioni harmoniche*, {%ORT%} 1558
+
+* **Personen**
+
+  * Artusi, Giovanni Maria ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Schüler Zarlinos, Kritiker Monteverdis
+  * Caccini, Giulio Romano (1551–1618) - Komponist, Sänger, Gesangslehrer
+  * Luzzaschi, Luzzasco (1545–1607) - Komponist der seconda prattica
+  * Marenzio, Luca (1553/1554–1599) - Komponist der seconda prattica
+  * Monteverdi, Claudio ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Hauptvertreter der seconda prattica
+  * Monteverdi, Giulio Cesare ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Bruder Claudios, Verfasser der Dichiaratione
+  * Ockeghem, Johannes (ca. 1410–1497) - Vertreter der prima prattica
+  * Peri, Jacopo (1561–1633) - Komponist der seconda prattica
+  * Platon ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - antiker Philosoph
+  * Rore, Cipriano de (1515/16–1565) - Beginn der seconda prattica
+  * Wert, Giaches de (1535–1596) - franko-flämischer Komponist der seconda prattica
+  * Willaert, Adrian (ca. 1490–1562) - Vertreter der prima prattica
+  * Zarlino, Gioseffo (1517–1590) - Theoretiker der prima prattica
+
+@config.link.personen
+
+* **Werke**
+  
+  * Monteverdi, Claudio: *Cruda Amarilli* - Madrigal, von Artusi kritisiert
+  * Monteverdi, Claudio: *4. Madrigalbuch* (1603)
+  * Monteverdi, Claudio: *5. Madrigalbuch* (1605) - mit Vorrede zur seconda prattica
+
+@config.link.werke

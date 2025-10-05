@@ -396,3 +396,53 @@ Zeit sich zu erinnern! Hier sind vier Wissensfragen (Multiple-Choice, 1-3 Antwor
 
 *Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 1-2 Seiten beantworten können.*
 
+## Übersichten
+
+Alles auf einen Blick.
+
+* **Literatur**
+
+  * Keine spezifischen Literaturangaben genannt
+
+* **Personen**
+
+  * Bordoni, Faustina ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - italienische Sängerin, Ehefrau von Hasse
+  * Burney, Charles ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musikhistoriker, besuchte Farinelli
+  * Caffarelli ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Kastrat, Schüler Porporas
+  * Casanova ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - besuchte Farinelli
+  * Cesti, Marc Antonio (1623–1669) - Komponist, Verbreitung der venezianischen Oper
+  * Corbiau, Gérard ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Regisseur des Films "Farinelli, il castrato" (1994)
+  * Farinelli (Carlo Broschi) (1705–1782) - berühmtester Kastrat des 18. Jahrhunderts
+  * Ferdinand VI. ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - spanischer König
+  * Gluck, Christoph Willibald ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - besuchte Farinelli
+  * Händel, Georg Friedrich (1685–1759) - Konkurrenz zu Porpora in England
+  * Hasse, Johann Adolf (1699–1783) - bedeutender Komponist der metastasianischen Oper
+  * Haydn, Joseph ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Schüler Porporas in den 1750er Jahren
+  * Heinse, Wilhelm (1743–1803) - Zeitzeugenberichte über Kastratensang
+  * Joseph II. ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Kaiser, besuchte Farinelli
+  * Karl III. ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - spanischer König, entließ Farinelli 1759
+  * Metastasio, Pietro (1698–1782) - bedeutendster Opernlibrettist, Freund Farinellis
+  * Moreschi, Alessandro (1858–1922) - letzter Kastrat aus der päpstlichen Kapelle
+  * Mozart, Wolfgang Amadé ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - besuchte Farinelli
+  * Pacchiarotti, Gasparo ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Kastrat, von Heinse erlebt
+  * Philipp V. ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - spanischer König, Dienstherr Farinellis
+  * Porpora, Nicola (1686–1768) - Komponist und Gesangslehrer der berühmtesten Kastraten
+  * Porporino ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Kastrat, Schüler Porporas
+  * Pozzi, Anna ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Sopranistin, von Heinse erlebt
+  * Scarlatti, Alessandro (1659–1725) - zentrale Figur der älteren Neapolitanischen Oper
+  * Scarlatti, Domenico (1685–1757) - Sohn von Alessandro Scarlatti
+  * Tasso, Torquato ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Dichter von "La Gerusalemme liberata"
+  * Zeno, Apostolo (1668–1750) - kaiserlicher Hofdichter zu Wien
+
+@config.link.personen
+
+* **Werke**
+  
+  * Metastasio, Pietro: *Alessandro nell'Indie* - über 60 Vertonungen
+  * Metastasio, Pietro: *Artaserse* - über 60 Vertonungen
+  * Metastasio, Pietro: *Demofoonte* - über 60 Vertonungen
+  * Metastasio, Pietro: *Didone abbandonata* - über 60 Vertonungen
+  * Tasso, Torquato: *La Gerusalemme liberata* - Vorlage für beliebte Opernstoffe
+
+@config.link.werke
+

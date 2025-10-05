@@ -134,3 +134,32 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 **Erläutern Sie eine Verzierungsart (Trillo, Gruppo, Esclamazione, Sprezzatura) der Aufführungspraxis um 1600. Wie veränderte sich dadurch das Verhältnis zwischen komponiertem Notentext und praktischer Ausführung?**
 
 *Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa einer halben bis ganzen Seite beantworten können.*
+
+## Übersichten
+
+### Literatur
+
+* Caccini, Giulio: _Le nuove musiche_ (1602)
+* {%AUTOR%}: {%TITEL%} zu Verzierungslehre ({%JAHR%})
+
+### Personen
+
+* Caccini, Giulio (1551–1618)
+* Chiabrera, Gabriello ({%GEBURTSJAHR%}–{%TODESJAHR%}) - Dichter
+* Luzzaschi, Luzzasco ({%GEBURTSJAHR%}–{%TODESJAHR%})
+* Monteverdi, Claudio (1567–1643)
+
+@config.link.personen
+
+### Werke
+
+* Canzonetta (Gattungsbezeichnung für bestimmte Madrigalformen)
+* Esclamazione (Verzierungsart: Ausruf mit Intervallsprung)
+* Gruppo (Verzierungsart: Triller mit oberer Nebennote)
+* Madrigal (literarische und musikalische Form)
+* _Madrigali per cantare e sonare_ (Luzzaschi, 1601)
+* Sprezzatura (rhythmisch-metrisch freier Textvortrag)
+* Trillo (Verzierungsart: accelerierende Tonwiederholung)
+* _Versi liberi_ (freie Reimordnung in der Dichtung)
+
+@config.link.werke

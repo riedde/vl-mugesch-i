@@ -125,3 +125,27 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 
 *Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa einer halben bis ganzen Seite beantworten können.*
 
+## Übersichten
+
+### Literatur
+
+* {%AUTOR%}: {%TITEL%} ({%JAHR%})
+* {%AUTOR%}: {%TITEL%} ({%JAHR%})
+
+### Personen
+
+* Ruckers-Dynastie (Instrumentenbauerdynastie, Antwerpen)
+* Scheidt, Samuel ({%GEBURTSJAHR%}–{%TODESJAHR%}) - Schüler von Sweelinck
+* Sweelinck, Jan Pieterszoon (1562–1621) - niederländischer Komponist und Organist
+
+@config.link.personen
+
+### Werke
+
+* Fantasien (Sweelinck) - umfangreiche Werke mit thematischer Bearbeitung
+* _Fantasia chromatica_ (Sweelinck) - berühmte Ausnahme mit chromatischem Thema
+* Psalmvertonungen (Sweelinck) - Sammlungen auf französische Texte
+* Toccaten (Sweelinck) - spielerische Stücke ohne ausgeprägte Themen
+
+@config.link.werke
+

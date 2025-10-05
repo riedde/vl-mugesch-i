@@ -187,3 +187,23 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 **Bschreiben Sie die wesentlichen Unterschiede zwischen zwei der folgenden Stimmungssysteme: "pythagoreischen Stimmung", "mitteltönige Stimmung"m "wohltemperierte Stimmung". Gehen Sie dabei auf praktischen und ästhetischen Überlegungen ein, die für bzw. gegen das Stimmungssystem sprechen.**
 
 *Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa einer Seite beantworten können.*
+
+## Übersichten
+
+Alles auf einen Blick.
+
+* **Literatur**
+
+  * Keine spezifischen Literaturangaben genannt
+
+* **Personen**
+
+  * Keine spezifischen Personen genannt
+
+@config.link.personen
+
+* **Werke**
+  
+  * Keine spezifischen Werke genannt - nur musik-theoretische Prinzipien
+
+@config.link.werke

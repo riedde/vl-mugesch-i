@@ -187,3 +187,40 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 
 *Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa einer halben bis ganzen Seite beantworten können.*
 
+## Übersichten
+
+Alles auf einen Blick.
+
+* **Literatur**
+
+  * Bibel: *2. Samuel 18, 33* - Textgrundlage für "Fili mi Absalon"
+  * Bibel: *Apostelgeschichte 26, 14* - Textgrundlage für "Saul, warum verfolgst du mich?"
+  * Opitz, Martin: *{%TITEL%}* - Libretto für Dafne (1627)
+  * Winterfeld, Carl von: *Johannes Gabrieli und sein Zeitalter*, {%ORT%} 1832
+
+* **Personen**
+
+  * Absalon ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Sohn König Davids
+  * Brahms, Johannes ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Wiederentdecker von Schütz (Aufführung 1864)
+  * David ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - König, Vater Absalons
+  * Gabrieli, Giovanni ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Lehrer von Schütz in Venedig
+  * Georg I. ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Kurfürst von Sachsen
+  * Monteverdi, Claudio ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Nachfolger Gabrielis, Begegnung mit Schütz
+  * Moritz von Hessen ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Landgraf, förderte Schütz
+  * Opitz, Martin ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Librettist der ersten deutschen Oper Dafne
+  * Paulus (urspr. Saulus) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Apostel, Bekehrung auf dem Weg nach Damaskus
+  * Schütz, Heinrich (1585–1672) - geboren in Köstritz, Thüringen
+  * Winterfeld, Carl von ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musikforscher, Renaissance-Studien
+
+@config.link.personen
+
+* **Werke**
+  
+  * Schütz, Heinrich: *Dafne* (1627) - erste deutsche Oper (verloren)
+  * Schütz, Heinrich: *Fili mi Absalon* - aus Symphoniae sacrae, Klage König Davids
+  * Schütz, Heinrich: *Il primo libro de Madrigali* ({%ENTSTEHUNGSJAHR%}) - fünfstimmige italienische Madrigale
+  * Schütz, Heinrich: *Saul, warum verfolgst du mich?* - aus Symphoniae sacrae III (1650)
+  * Schütz, Heinrich: *Symphoniae sacrae* ({%ENTSTEHUNGSJAHR%}) - ein- bis dreistimmige lateinische Motetten
+
+@config.link.werke
+

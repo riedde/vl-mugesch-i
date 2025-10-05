@@ -549,3 +549,54 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 **Skizzieren Sie die Entwicklung des Concerto-Begriffs von Giovanni Gabrielis "Concerti" (1587) bis zur barocken Ritornellkonzertform. Welche Rolle spielte dabei der Wandel von "concertare" als gleichberechtigtem Zusammenspiel zu solistischem Wetteifer?**
 
 *Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 2/3-4 Seiten beantworten können.*
+
+## Übersichten
+
+Alles auf einen Blick.
+
+* **Literatur**
+
+  * Fischer, Wilhelm: *{%TITEL%}*, {%ORT%} {%JAHR%} - Forschung zur Ritornellkonzertform
+  * Küster, Konrad: *Das Konzert*, Kassel 1993
+  * Merula, Tarquinio: *{%TITEL%}*, {%ORT%} 1637 - erste Belege für sonata da camera/da chiesa
+  * Schmidt-Beste, Thomas: *Die Sonate. Geschichte – Formen – Ästhetik*, Kassel 2006
+
+* **Personen**
+
+  * Bach, Johann Sebastian (1685–1750) - Beispiele für pädagogische Instrumentalmusik
+  * Boccaccio, Giovanni (1313–1375) - frühe Verwendung von "concertare"
+  * Buxtehude ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Traditionsträger der Fantasie
+  * Christine von Schweden ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Widmungsträgerin von Corellis op. 1
+  * Corelli, Arcangelo (1653–1713) - "Begründer" der Gattung Sonate
+  * Fasch, Johann Friedrich ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - gründete 1708 Collegium Musicum
+  * Gabrieli, Andrea ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Onkel von Giovanni Gabrieli
+  * Gabrieli, Giovanni ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Concerti (1587), Sacrae Symphoniae (1597)
+  * Graupner, Christoph (1683–1760) - Hofmusiker mit Verzicht auf Instrumentalmusik
+  * Händel, Georg Friedrich (1685–1759) - Beispiel für Funktion der Instrumentalmusik
+  * Merula, Tarquinio ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - erste Begriffe sonata da camera/da chiesa
+  * Muffat ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Traditionsträger der Fantasie
+  * Ottoboni, Pietro ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Neffe des Papstes, Förderer Corellis
+  * Panfili, Benedetto ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Kardinal, Corellis Maestro di Musica
+  * Praetorius, Michael ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Syntagma musicum (1619)
+  * Quantz, Johann Joachim (1697–1773) - Konzertbegriffe
+  * Telemann, Georg Philipp (1681–1767) - gründete 1701 Collegium Musicum, Instrumentalmusik für den Druck
+  * Vivaldi, Antonio ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Solo-Konzerte auch als Sinfonia bezeichnet
+
+@config.link.personen
+
+* **Werke**
+  
+  * Bach, Johann Sebastian: *Wohltemperiertes Klavier* BWV 846–869 - für die Ausbildung
+  * Bach, Johann Sebastian: *Orgel-Büchlein* BWV 599–644 - für die Ausbildung
+  * Bach, Johann Sebastian: *Italienisches Konzert* BWV 971 - für Dilettantenkreise
+  * Bach, Johann Sebastian: *Goldberg-Variationen* BWV 988 - für Dilettantenkreise
+  * Bach, Johann Sebastian: *Brandenburgisches Konzert Nr. 6* - Kammerkonzert ohne Orchester
+  * Corelli, Arcangelo: *Opera 1–4* (1681–1694) - Triosonaten
+  * Corelli, Arcangelo: *Op. 5* (1700) - Violinsonaten
+  * Corelli, Arcangelo: *Op. 6* (posthum 1714) - Concerti grossi
+  * Gabrieli, Giovanni: *Concerti* (1587) - primär vokale Ensemblemusik
+  * Gabrieli, Giovanni: *Sacrae Symphoniae* (1597) - mit Sonata pian e forte
+  * Gabrieli, Giovanni: *Sonata pian e forte* - für zwei vierstimmige Chöre
+  * Telemann, Georg Philipp: *1. Flötenfantasie* - Beispiel für phantastischen Stil
+
+@config.link.werke

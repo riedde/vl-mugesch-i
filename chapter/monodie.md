@@ -133,4 +133,46 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 
 **Erläutern Sie kurz die Entwicklung der Monodie von den theoretischen Überlegungen der Florentiner Camerata bis zu den verschiedenen Ausprägungen des "stile monodico" (Doni). Nennen Sie jeweils ein oder mehrere Beispiele.**
 
-*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von ca. 2 Seiten beantworten können.* 
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von ca. 2 Seiten beantworten können.*
+
+## Übersichten
+
+Alles auf einen Blick.
+
+* **Literatur**
+
+  * Caccini, Giulio: *Le nuove musiche*, {%ORT%} 1602
+  * Doni, Giovanni Battista: *{%TITEL%}*, {%ORT%} 1635 - Begriff "Monodia"
+  * Doni, Giovanni Battista: *{%TITEL%}*, {%ORT%} 1640 - Spielarten des "stile monodico"
+  * Peri, Jacopo: *Le musiche sopra L'Euridice*, {%ORT%} 1601
+  * Riemann Musik Lexikon, hg. v. Wolfgang Ruf, Mainz ¹³201
+
+* **Personen**
+
+  * Bardi, Giovanni ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Graf, Florentiner Camerata (1570er/1580er)
+  * Caccini, Giulio (1545–1618) - Musiker, Mitarbeiter an La Dafne
+  * Corsi, Iacopo ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Graf, Florentiner Camerata (1570er/1580er)
+  * Doni, Giovanni Battista ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Theoretiker des "stile monodico"
+  * Galilei, Vincenzo ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - erste monodische Versuche
+  * Heinrich IV. ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - französischer König
+  * Maria von Medici ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Braut bei der Hochzeit 1600
+  * Monteverdi, Claudio ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Komponist von Lamento d'Arianna und anderen Beispielen
+  * Orliński, Jakub Józef ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Interpret von Amarilli mia bella
+  * Peri, Jacopo (1561–1631) - Musiker, Mitarbeiter an La Dafne und L'Euridice
+  * Rinuccini, Ottavio (1563–1621) - Dichter, Librettist von La Dafne und L'Euridice
+  * Ruf, Wolfgang ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Herausgeber des Riemann Musik Lexikons
+
+@config.link.personen
+
+* **Werke**
+  
+  * Caccini, Giulio: *Amarilli mia bella* - aus Le nuove musiche (1601)
+  * Caccini, Giulio: *L'Euridice* (1602) - Vertonung des Rinuccini-Librettos
+  * Monteverdi, Claudio: *Combattimento di Tancredi et Clorinda* (1624) - Beispiel für stile concitato
+  * Monteverdi, Claudio: *Lamento d'Arianna* (1608) - Beispiel für stile espressivo
+  * Monteverdi, Claudio: *Oblivion Soave* - aus L'incoronatione di Poppea (Schlaflied der Arnalta)
+  * Peri, Jacopo: *La Dafne* (1597/98) - möglicherweise erste Oper, nur Libretto erhalten
+  * Peri, Jacopo: *L'Euridice* (1600) - Vertonung zur Hochzeit Maria von Medici mit Heinrich IV.
+  * Rinuccini, Ottavio: *L'Euridice* (1600) - Libretto für Peri und Caccini
+
+@config.link.werke 

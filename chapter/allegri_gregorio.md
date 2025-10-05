@@ -183,3 +183,30 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 
 *Sie sollten diese Aufgabe mit einem zusammenhängenden Text von ca. 1 Seite beantworten können*
 
+## Übersichten
+
+Alles auf einen Blick.
+
+* **Literatur**
+
+  * Keine spezifischen Literaturangaben genannt
+
+* **Personen**
+
+  * Abbatini ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Komponist von Messen für bis zu 48 Stimmen
+  * Allegri, Gregorio (1582–1652) - italienischer Priester, Komponist und Tenorsänger
+  * Burney, Charles ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - erste Notenausgabe Ende 18. Jh.
+  * Heinse, Wilhelm ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Erlebnis 1782/83 in Rom
+  * Mendelssohn Bartholdy, Felix (1809–1847) - Dokumentation der Zeremonie in Briefen (1831)
+  * Mozart, Wolfgang Amadé (1756–1791) - legendäre Nachschrift aus dem Gedächtnis als Knabe
+  * Reichardt, Johann Friedrich ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - deutscher Nachdruck
+  * Zelter, Carl Friedrich ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Kompositionslehrer Mendelssohns
+
+@config.link.personen
+
+* **Werke**
+  
+  * Allegri, Gregorio: Miserere mei (1637) - Vertonung des 51. Psalms für neun Stimmen in zwei Chören
+
+@config.link.werke
+

@@ -407,3 +407,51 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 
 *Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 2 Seiten beantworten können.*
 
+## Übersichten
+
+Alles auf einen Blick.
+
+* **Literatur**
+
+  * Brossard ({%VORNAME%}): *{%TITEL%}*, {%ORT%} {%JAHR%} - übersetzt von Walther
+  * Hammerschmidt, Andreas: *{%TITEL%}*, {%ORT%} {%JAHR%} - Motetten als Beispiel für Motettenstil
+  * Kircher, Athanasius: *Musurgia Universalis*, Rom 1650
+  * Lasso, Orlando di: *{%TITEL%}*, {%ORT%} {%JAHR%} - Motetten als Vorbilder
+  * Mattheson, Johann: *Critica Musica*, Hamburg 1722/23
+  * Mattheson, Johann: *Vollkommener Capellmeister*, {%ORT%} {%JAHR%}
+  * Neumeister, Erdmann: *Geistliche Cantaten statt einer Kirchen-Music*, {%ORT%} 1704
+  * Scacchi, Marco: *{%TITEL%}*, {%ORT%} {%JAHR%} - Stillehre der späten 1640er Jahre
+  * Walther ({%VORNAME%}): *{%TITEL%}*, {%ORT%} {%JAHR%} - Übersetzung von Brossard
+
+* **Personen**
+
+  * Bach, Carl Philipp Emanuel ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Traditionsträger der Fantasie
+  * Bokemeyer, Heinrich ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Wolfenbütteler Kantor, Kontrahent Matthesons
+  * Brossard ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Lexikograf
+  * Buxtehude ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Traditionsträger der Fantasie
+  * Corelli, Arcangelo ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Vorbild für Instrumentalstil in der Kammer
+  * Froberger, Johann Jakob ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Schüler Frescobaldis, Vertreter der Fantasie
+  * Haid, Johann Jacob ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Kupferstecher des Mattheson-Porträts 1746
+  * Hammerschmidt, Andreas (1611–1675) - Zeitgenosse von Heinrich Schütz
+  * Händel, Georg Friedrich ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Beispiel für Almira-Analyse
+  * Kircher, Athanasius (1602–1680) - Jesuit und Universalgelehrter
+  * Lasso, Orlando di ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Komponist von Motetten-Vorbildern
+  * Mattheson, Johann (1681–1764) - Opernsänger, Komponist, Musiktheoretiker
+  * Mozart, Wolfgang Amadeus ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Traditionsträger der Fantasie
+  * Muffat ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Traditionsträger der Fantasie
+  * Neumeister, Erdmann ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Textdichter, Reform der Kirchenkantate
+  * Quinault, Philippe ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Librettist von Händels Almira
+  * Scacchi, Marco (um 1605–1662) - Grundlage für Kirchers Stillehre
+  * Telemann, Georg Philipp ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - 1. Flötenfantasie als Beispiel
+  * Wahl, Johann Salomon ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Vorlage für Mattheson-Porträt
+  * Walther ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Übersetzer von Brossard
+
+@config.link.personen
+
+* **Werke**
+  
+  * Händel, Georg Friedrich: *Almira* (1705) - Beispiel für madrigalischen und dramatischen Stil
+  * Telemann, Georg Philipp: *1. Flötenfantasie* - praktisches Beispiel für phantastischen Stil
+
+@config.link.werke
+

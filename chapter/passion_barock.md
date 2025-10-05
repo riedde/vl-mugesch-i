@@ -298,3 +298,47 @@ Heinrich Schütz: _Matthäus-Passion_ SWV 479, "Barrabam!"
   - freie Chöre
 
 #### Einzelbeispiele
+
+## Übersichten
+
+Alles auf einen Blick.
+
+* **Literatur**
+
+  * Bach, Carl Philipp Emanuel: *{%TITEL%}* - verwendete Bachs Matthäus-Passion für eigene Passion
+  * Bibel (LU17, EUE): *Evangelien nach Matthäus, Markus, Lukas, Johannes* - Textgrundlagen
+  * Bugenhagen, Johannes: *{%TITEL%}* - Verlesung des Begräbnisses Jesu
+  * Picander (Christian Friedrich Henrici): *{%TITEL%}* - Dichter der Matthäus-Passion
+
+* **Personen**
+
+  * Bach, Carl Philipp Emanuel ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - verwendete Bachs Matthäus-Passion
+  * Bach, Johann Sebastian (1685–1750) - Komponist der Matthäus- und Johannes-Passion
+  * Bugenhagen, Johannes ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Verlesung des Begräbnisses Jesu in der Liturgie
+  * Gallus ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Komponist der Motette "Ecce quomodo moritur iustus"
+  * Jesus Christus ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - zentrale Figur der Passionsgeschichte
+  * Josef von Arimathia ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - biblische Figur
+  * Judas Ischariot ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Verräter Jesu
+  * Keiser, Reinhart ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Komponist einer Markuspassion (1726)
+  * Maria Magdalena ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - biblische Figur
+  * Mendelssohn Bartholdy, Felix (1809–1847) - erste Gesamtaufführung nach Bachs Tod (1829)
+  * Nichelmann, Christoph ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - möglicher Adressat
+  * Picander (Christian Friedrich Henrici) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Dichter der Matthäus-Passion
+  * Pilatus, Pontius ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - römischer Statthalter
+  * Schütz, Heinrich ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Komponist der Matthäus-Passion SWV 479
+  * Stölzel ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Komponist von "Ein Lämmlein geht und trägt die Schuld" (1734)
+
+@config.link.personen
+
+* **Werke**
+  
+  * Bach, Johann Sebastian: *Johannes-Passion* BWV 245 - mehrere Fassungen
+  * Bach, Johann Sebastian: *Markus-Passion* - Fragment
+  * Bach, Johann Sebastian: *Matthäus-Passion* BWV 244 - doppelchörig, Erst- und Neufassung
+  * Gallus ({%VORNAME%}): *Ecce quomodo moritur iustus* - Motette in der Karfreitagsliturgie
+  * Keiser, Reinhart: *Markuspassion* (1726) - aufgeführt in Leipzig
+  * Schütz, Heinrich: *Matthäus-Passion* SWV 479 - syllabische Vertonung
+  * Stölzel ({%VORNAME%}): *Ein Lämmlein geht und trägt die Schuld* (1734)
+  * Unbekannter Komponist: *Lukaspassion* (1730) - aufgeführt in Leipzig
+
+@config.link.werke

@@ -226,6 +226,50 @@ _Nennen Sie zwei moderne Forschungsansätze der (historischen) Musikwissenschaft
 
 ## Übersichten
 
+Alles auf einen Blick.
+
+* **Literatur**
+
+  * Burney, Charles: *General History of Music from the Earliest Ages to the Present Period*, {%ORT%} 1776-1789
+  * Burney, Charles: *Tagebuch seiner musikalischen Reisen*, {%ORT%} 1773 (dt.)
+  * d'Alembert, Jean Le Rond: *Encyclopédie*, {%ORT%} seit 1751 (Herausgeber mit Diderot)
+  * Diderot, Denis: *Encyclopédie*, {%ORT%} seit 1751 (Herausgeber mit d'Alembert)
+  * Forkel, Johann Nikolaus: *Allgemeine Geschichte der Musik*, {%ORT%} 1788/1801
+  * Forkel, Johann Nikolaus: *Über Johann Sebastian Bach's Leben, Kunst und Kunstwerke*, Leipzig 1802
+  * Keil, Werner: *Musikgeschichte im Überblick*, Paderborn ³2018
+  * Le Goff, Jacques: *Geschichte ohne Epochen?*, Darmstadt 2016
+  * Rousseau, Jean-Jacques: *Dictionnaire de musique*, Paris 1768
+
+* **Personen**
+
+  * Adler, Guido (1855–1941) - Vertreter der Stilgeschichte
+  * Bach, Johann Christian ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - von Burney zu den größten Komponisten gezählt
+  * Burney, Charles (1726–1814) - englischer Musikhistoriker, Forschungsreisen
+  * d'Alembert, Jean Le Rond ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Herausgeber der Encyclopédie
+  * Dahlhaus, Carl ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musikforscher ("ästhetische Präsenz")
+  * Diderot, Denis ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Herausgeber der Encyclopédie
+  * Forkel, Johann Nikolaus (1749–1818) - Begründer der modernen Musikwissenschaft
+  * Gluck, Christoph Willibald ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - von Forkel kritisch beurteilt
+  * Haydn, Joseph ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - von Burney zu den größten Komponisten gezählt
+  * Humboldt, Wilhelm von (1767–1835) - Schüler Forkels
+  * Mozart, Wolfgang Amadé ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - von Forkel kritisch beurteilt
+  * Riemann, Hugo (1849–1919) - Vertreter der Stilgeschichte
+  * Rousseau, Jean-Jacques (1712–1778) - Hauptbeiträger der Musikartikel in der Encyclopédie
+  * Schlegel, August Wilhelm (1767–1845) - Schüler Forkels
+  * Schlegel, Friedrich (1772–1829) - Schüler Forkels
+  * Tieck, Ludwig (1773–1853) - Schüler Forkels
+  * Wackenroder, Wilhelm Heinrich (1773–1798) - Schüler Forkels
+
+@config.link.personen
+
+* **Werke**
+  
+  * Keine spezifischen Musikwerke genannt - nur musikhistorische Schriften (siehe Literatur)
+
+@config.link.werke
+
+## Übersichten
+
 * **Literatur**
 
   * Werner Keil: Musikgeschichte im Überblick, Paderborn ^3^2018

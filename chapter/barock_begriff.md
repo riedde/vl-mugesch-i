@@ -159,4 +159,41 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 
 *Sie sollten diese Aufgabe mit einem zusammenhängenden Text von 1–2 Seiten beantworten können.*
 
+## Übersichten
+
+Alles auf einen Blick.
+
+* **Literatur**
+
+  * Braun, Werner: *Die Musik des 17. Jahrhunderts*, Laaber 1981
+  * Bukofzer, Manfred: *Music in the Baroque Era*, {%ORT%} 1943
+  * Dahlhaus, Carl: *Die Musik des 18. Jahrhunderts*, Laaber 1984
+  * Haas, Robert: *Die Musik des Barock*, Potsdam 1934
+  * Koch, Heinrich Christoph: *Musikalisches Lexicon*, {%ORT%} 1865
+  * Lang, Paul Henry: *Music in Western Civilization*, {%ORT%} 1941
+  * Rousseau, Jean-Jacques: *Dictionnaire de musique*, Paris 1768
+  * Sachs, Curt: *Barockmusik*, {%ORT%} 1919
+  * Wölfflin, Heinrich: *Renaissance und Barock*, {%ORT%} 1888
+  * Wölfflin, Heinrich: *Kunstgeschichtliche Grundbegriffe*, {%ORT%} 1915
+
+* **Personen**
+
+  * Braun, Werner ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musikwissenschaftler
+  * Bukofzer, Manfred ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musikwissenschaftler
+  * Dahlhaus, Carl ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musikwissenschaftler
+  * Haas, Robert ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musikwissenschaftler
+  * Koch, Heinrich Christoph ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musiktheoretiker
+  * Lang, Paul Henry ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musikwissenschaftler
+  * Rousseau, Jean-Jacques (1712–1778) - Philosoph und Musiktheoretiker
+  * Sachs, Curt ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musikwissenschaftler
+  * Wölfflin, Heinrich ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Kunsthistoriker
+
+@config.link.personen
+
+* **Werke**
+  
+  * Keine spezifischen Musikwerke genannt - nur theoretische Schriften (siehe Literatur)
+
+@config.link.werke
+
 

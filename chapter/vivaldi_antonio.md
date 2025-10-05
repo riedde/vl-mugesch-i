@@ -491,3 +491,95 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 **Worum handelt es sich beim *Ospedale della Pietà* und welche Bedeutung hat dieser Ort für Vivaldi (als Priester ~und~ als Künstler).**
 
 *Sie sollten diese Aufgabe mit einem zusammenhängenden Text von ca. 1 Seiten beantworten können.*
+
+## Übersichten
+
+### Literatur
+
+* Cavicchi, A.: {%TITEL%} (1967)
+* Everett, P.: {%TITEL%} (1990)
+* Everett, P.: {%TITEL%} (1996)
+* Gallico, C.: {%TITEL%} (1980)
+* Heller, K.: {%TITEL%} (1991)
+* Marpurg, Friedrich Wilhelm: {%TITEL%} (1754/55)
+* Ryom, Peter: _Répértoire des Œuvres d'A. Vivaldi. Les Compositions instrumentales_ (Kopenhagen 1986)
+* Ryom, Peter: _Verzeichnis der Werke A. Vivaldis [RV]. Kleine Ausgabe_ (Leipzig 1979)
+* Talbot, Michael: _The Sacred Vocal Music of Antonio Vivaldi_ (Florenz 1995)
+* Talbot, Michael: {%TITEL%} (2003)
+
+### Personen
+
+* Anna Maria Luisa dei Medici, Kurfürstin ({%GEBURTSJAHR%}–{%TODESJAHR%})
+* Antonio Ulrich von Sachsen-Meiningen, Prinz (1687–1763)
+* Bentivoglio d'Aragona, Guido, Marchese ({%GEBURTSJAHR%}–{%TODESJAHR%})
+* Callicchio, Camilla (1655–1728) - Vivaldis Mutter
+* Corelli, Arcangelo ({%GEBURTSJAHR%}–{%TODESJAHR%})
+* Eleonora Magdalena, Kaiserin-Mutter ({%GEBURTSJAHR%}–†1720)
+* Ernst Ludwig von Hessen-Darmstadt, Landgraf ({%GEBURTSJAHR%}–{%TODESJAHR%})
+* Friedrich IV. von Dänemark und Norwegen, König (reg. 1699–1730)
+* Giacomelli, Geminiano (1962–1740)
+* Giovanni Battista Vivaldi (1655–1736) - Vivaldis Vater
+* Hasse, Johann Adolph (1699–1783)
+* Händel, Georg Friedrich ({%GEBURTSJAHR%}–{%TODESJAHR%})
+* Innozenz XIII., Papst ({%GEBURTSJAHR%}–†1724)
+* Languet de Gergy, Jacques-Vincent ({%GEBURTSJAHR%}–{%TODESJAHR%}) - französischer Botschafter
+* Marcello, Alessandro ({%GEBURTSJAHR%}–{%TODESJAHR%})
+* Marcello, Benedetto ({%GEBURTSJAHR%}–{%TODESJAHR%})
+* Morzin, Wenzel von, Graf ({%GEBURTSJAHR%}–{%TODESJAHR%})
+* Ottoboni, Pietro, Kardinal ({%GEBURTSJAHR%}–{%TODESJAHR%})
+* Pergolesi, Giovanni Battista ({%GEBURTSJAHR%}–{%TODESJAHR%})
+* Philipp von Hessen-Darmstadt, Prinz (1671–1736)
+* Quantz, Johann Joachim ({%GEBURTSJAHR%}–{%TODESJAHR%})
+* Ristori, Giovanni Alberto ({%GEBURTSJAHR%}–{%TODESJAHR%})
+* Ruffo, Kardinal ({%GEBURTSJAHR%}–{%TODESJAHR%})
+* Santurini, Francesco ({%GEBURTSJAHR%}–†1719)
+* Somis, Lorenzo Francesco (1662–1736)
+* Spinola Borghese, Maria Livia, Fürstin ({%GEBURTSJAHR%}–{%TODESJAHR%})
+* Vivaldi, Antonio Lucio (1678–1741) - Komponist und Geiger
+
+@config.link.personen
+
+### Werke
+
+* _Armida al Campo d'Egitto_ (Vivaldi) - Oper
+* _Arsilda Regina di Ponto_ (Vivaldi, 1716) - Oper
+* _La Candace_ (Vivaldi, 1720) - Oper
+* _La Cetra_, Op. 9 (Vivaldi, 1727) - zwölf Violinkonzerte
+* _Il Cimento dell'armonia e dell'inventione_, Op. 8 (Vivaldi, 1725) - zwölf Violinkonzerte mit _Le quattro stagioni_
+* _La Costanza trionfante_ (Vivaldi) - Oper
+* _Cunegonda_ (Vivaldi, 1726) - Pasticcio
+* _Dorilla in Tempe_ (Vivaldi, 1726/1734) - Oper
+* _Ercole sul Termodonte_ (Vivaldi, 1723) - Oper
+* _Farnace_ (Vivaldi, 1727) - Oper
+* _La Feda tradita e vendicata_ (Vivaldi, 1726) - Oper
+* _La Fida Ninfa_ (Vivaldi, 1732) - Oper
+* _Filippo Re di Macedonia_ (Vivaldi, 1721) - Pasticcio
+* _Il Giustino_ (Vivaldi, 1724) - Oper
+* _L'Incoronazione di Dario_ (Vivaldi, 1717) - Oper
+* _L'inganno trionfante in amore_ (Vivaldi, 1725) - Pasticcio
+* _Motezuma_ (Vivaldi, 1733) - Oper
+* _Nerone fatto Cesare_ (Vivaldi, 1715) - Pasticcio
+* _L'Olimpiade_ (Vivaldi, 1734) - Oper
+* _L'oracolo in Messenia_ (Vivaldi, 1737) - Oper
+* _Orlando_ (Vivaldi, 1727) - Oper
+* _Orlando finto pazzo_ (Vivaldi, 1714) - Oper
+* _Orlando furioso_ (Ristori/Vivaldi, 1714) - Neubearbeitung
+* _Ottone in villa_ (Vivaldi, 1713) - Oper
+* Op. 1 (Vivaldi, 1705) - zwölf Triosonaten
+* Op. 2 (Vivaldi, 1709) - zwölf Solosonaten für Violine
+* Op. 10-12 (Vivaldi, 1729) - Konzertsammlungen
+* _Le quattro stagioni_ (Vivaldi) - vier Violinkonzerte aus Op. 8
+* Quartettsonate C-Dur RV 779 (Vivaldi, 1707)
+* _Rosilena ed Oronta_ (Vivaldi, 1728) - Oper
+* _Rosmira_ RV 731 (Vivaldi, 1738) - Pasticcio
+* _Scanderbeg_ (Vivaldi, 1718) - Oper
+* _Semiramide_ (Vivaldi, 1731) - Oper
+* _Serenata a quattro voci_ RV 692 (Vivaldi, 1726)
+* _La tempesta di mare_ RV 253 (Vivaldi) - Konzert
+* _Teuzzone_ (Vivaldi, 1719) - Oper
+* _Tieteberga_ (Vivaldi) - Oper
+* _Tito Manlio_ (Vivaldi, 1719/1720) - Oper/Pasticcio
+* _La Verità in Cimento_ (Vivaldi, 1720) - Oper
+* _La Virtù trionfante_ (Vivaldi, 1724) - Oper
+
+@config.link.werke

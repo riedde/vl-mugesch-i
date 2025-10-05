@@ -221,3 +221,33 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 **Erläutern Sie die Entwicklung und Bedeutung der musikalischen Figurenlehre im 17. und 18. Jahrhundert. Gehen Sie dabei auf die Verbindung zur Rhetorik, wichtige Theoretiker und die heutige Forschungsposition ein.**
 
 *Sie sollten diese Aufgabe mit einem zusammenhängenden Text von 1–2 Seiten beantworten können.*
+
+## Übersichten
+
+Alles auf einen Blick.
+
+* **Literatur**
+
+  * Bernhard, Christoph: *Tractatus compositionis augmentatus*, {%ORT%} 1648/49
+  * Kircher, Athanasius: *Musurgia universalis*, {%ORT%} 1650
+  * Mattheson, Johann: *Vollkommener Kapellmeister*, {%ORT%} 1739
+  * Schweitzer, Albert: *{%TITEL%}* (Bachbuch), {%ORT%} 1905
+
+* **Personen**
+
+  * Bernhard, Christoph ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Schüler von Heinrich Schütz
+  * Kircher, Athanasius ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Jesuitenpater in Rom
+  * Kretzschmar, Hermann ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musikwissenschaftler
+  * Mattheson, Johann ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Hamburger Musikschriftsteller
+  * Schering, Arnold ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musikwissenschaftler
+  * Schütz, Heinrich ({%GEBURTSJAHR%}–{%STERBEJAHR%})
+  * Schweitzer, Albert ({%GEBURTSJAHR%}–{%STERBEJAHR%})
+  * Zarlino, Gioseffo ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Renaissance-Theoretiker
+
+@config.link.personen
+
+* **Werke**
+  
+  * Keine spezifischen Musikwerke genannt - nur theoretische Schriften (siehe Literatur)
+
+@config.link.werke

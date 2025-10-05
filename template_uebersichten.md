@@ -1,19 +1,21 @@
 ## Übersichten
 
+Alles auf einen Blick.
+
 * **Literatur**
 
-  * Autor(en): *Titel*, Ort Jahr
+  * {Nachname}, {Vorname}: *{Titel}*, {Ort} {Jahr}
 
 * **Personen**
 
-  * Person1
+  * {Nachname}, {Vorname} ({Geburtsjahr}–{Sterbejahr})
   * Person2
 
 @config.link.personen
 
 * **Werke**
   
-  * Werk1
+  * {Künstlernachname}, {Künstlervorname}: {Werktitel} ({Entstehungszeitraum})
   * Werk2
 
 @config.link.werke

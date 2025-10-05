@@ -296,3 +296,42 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 **Erläutern Sie die Monodie. Gehen Sie dabei auf die drei Arten der Monodie (nach Doni) ein. Wählen Sie passende Beispiele für Ihre Erläuterungen.**
 
 *Sie sollten diese Aufgabe mit einem zusammenhängenden Text von 2-3 Seite beantworten können.*
+
+## Übersichten
+
+Alles auf einen Blick.
+
+* **Literatur**
+
+  * Doni, Giovanni Battista: *Discorso sopra la perfettione delle melodie*, {%ORT%} 1635
+
+* **Personen**
+
+  * Artusi, Giovanni Maria ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Kritiker Monteverdis
+  * Caccini, Giulio ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Komponist von L'Euridice (1602)
+  * Cavalieri, Emilio de' ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Komponist von Rappresentatione di anima et di corpo
+  * Cavalli, Francesco ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Schüler Monteverdis
+  * Cesti, Marc Antonio (1623–1669) - Komponist, Wirkung in Venedig, Wien, Florenz
+  * Corsi, Iacopo ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Mitarbeiter an La Dafne
+  * Doni, Giovanni Battista ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Theoretiker der drei Arten der Monodie
+  * Ferdinando Gonzaga ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Prinz von Mantua, Auftraggeber
+  * Francesco Gonzaga ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Prinz von Mantua, Auftraggeber
+  * Gabrieli, Giovanni ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Vorgänger Monteverdis am San Marco-Dom
+  * Monteverdi, Claudio ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Komponist von L'Orfeo und späteren Opern
+  * Peri, Jacopo ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Komponist von L'Euridice (1600)
+  * Rinuccini, Ottavio ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Librettist
+  * Striggio, Alessandro jun. ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Librettist von L'Orfeo
+
+@config.link.personen
+
+* **Werke**
+  
+  * Caccini, Giulio: *L'Euridice* (1602) - Vertonung des Rinuccini-Librettos
+  * Cavalieri, Emilio de': *Rappresentatione di anima et di corpo* (1600)
+  * Monteverdi, Claudio: *Il Ritorno d'Ulisse in patria* (1640) - späte venezianische Oper
+  * Monteverdi, Claudio: *L'incoronazione di Poppea* (1642) - späte venezianische Oper
+  * Monteverdi, Claudio: *L'Orfeo* (1607) - erste "echte" Oper im heutigen Sinne
+  * Peri, Jacopo: *La Dafne* (1598) - erste Oper (verschollen)
+  * Peri, Jacopo: *L'Euridice* (1600) - Vertonung des Rinuccini-Librettos
+
+@config.link.werke

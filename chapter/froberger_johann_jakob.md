@@ -123,3 +123,25 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 [[X]] Aufführungsanweisung "lentement sans observer aucune mesure"
 [[X]] Beispiel für den "gebrochenen" Cembalostil
 
+## Übersichten
+
+Alles auf einen Blick.
+
+* **Literatur**
+
+  * Keil, Werner: *Musikgeschichte im Überblick*, Paderborn ³2018
+
+* **Personen**
+
+  * Blancheroche, Monsieur ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Freund Frobergers
+  * Frescobaldi, Girolamo (1583–1643) - italienischer Organist an San Pietro in Rom
+  * Froberger, Johann Jakob (1616–1667) - Stuttgarter, Wiener Hoforganist, Schüler Frescobaldis
+
+@config.link.personen
+
+* **Werke**
+  
+  * Froberger, Johann Jakob: *Tombeau sur la mort de Monsieur Blancheroche* (FbWV 632) - programmatisches Trauerstück
+
+@config.link.werke
+
