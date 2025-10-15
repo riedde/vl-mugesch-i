@@ -12,7 +12,7 @@ tags: passion, gattung, barock
 
 ## Evangelientexte
 
-> Jeder, der vier Evangelien enthält eine Darstellung der Passionsgeschichte (LEidensgeschichte) Jesu Christi. Diese sind jedoch unterschiedlich lang und setzten unterschiedliche Schwerpunkte.
+> Jeder, der vier Evangelien enthält eine Darstellung der Passionsgeschichte (Leidensgeschichte) Jesu Christi. Diese sind jedoch unterschiedlich lang und setzten unterschiedliche Schwerpunkte.
 
 ### Matthäus, Kap. 26–27
 
@@ -202,7 +202,7 @@ Heinrich Schütz: _Matthäus-Passion_ SWV 479, "Barrabam!"
 | :----- | :----- | :------- |
 | 1724 | JSB: Johannespassion I | N |
 | 1725 | JSB: Johannespassion II | Th |
-| 1726 | Reinhart Keiser: Markuspassion | N |
+| 1726 | Reinhard Keiser: Markuspassion | N |
 | 1727 | JSB: Matthäuspassion (Frühfassung) | Th | 
 | 1728 | ??? | N |
 | 1729 | JSB: Matthäuspassion (Frühfassung) | Th |
@@ -319,7 +319,7 @@ Alles auf einen Blick.
   * Jesus Christus ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - zentrale Figur der Passionsgeschichte
   * Josef von Arimathia ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - biblische Figur
   * Judas Ischariot ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Verräter Jesu
-  * Keiser, Reinhart ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Komponist einer Markuspassion (1726)
+  * Keiser, Reinhard ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Komponist einer Markuspassion (1726)
   * Maria Magdalena ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - biblische Figur
   * Mendelssohn Bartholdy, Felix (1809–1847) - erste Gesamtaufführung nach Bachs Tod (1829)
   * Nichelmann, Christoph ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - möglicher Adressat
@@ -336,7 +336,7 @@ Alles auf einen Blick.
   * Bach, Johann Sebastian: *Markus-Passion* - Fragment
   * Bach, Johann Sebastian: *Matthäus-Passion* BWV 244 - doppelchörig, Erst- und Neufassung
   * Gallus ({%VORNAME%}): *Ecce quomodo moritur iustus* - Motette in der Karfreitagsliturgie
-  * Keiser, Reinhart: *Markuspassion* (1726) - aufgeführt in Leipzig
+  * Keiser, Reinhard: *Markuspassion* (1726) - aufgeführt in Leipzig
   * Schütz, Heinrich: *Matthäus-Passion* SWV 479 - syllabische Vertonung
   * Stölzel ({%VORNAME%}): *Ein Lämmlein geht und trägt die Schuld* (1734)
   * Unbekannter Komponist: *Lukaspassion* (1730) - aufgeführt in Leipzig
