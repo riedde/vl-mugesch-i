@@ -194,10 +194,10 @@ tags: theorie, barock
 
 ### Madrigalstil
 
-#### Konstitutive Elemente und Seconda prattica
+#### Konstitutive Elemente und Seconda pratica
 
 - **Textliche Grundlage:** Madrigalische Textformen im weitesten Sinne als konstitutiv
-- **Kompositorisches Prinzip:** Text- und affektbezogenes Komponieren der "seconda prattica"
+- **Kompositorisches Prinzip:** Text- und affektbezogenes Komponieren der "seconda pratica"
 - **Kernsatz (S. 80):** "In den Madrigalen, die Worte Herren und keine Knechte sind, d. i. man müsse darin mehr auf den Inhalt des Wort-Verstandes, und der Affecten, als auf das künstliche Klang-Gewebe der Noten sehen"
 - **Historische Entwicklung:** Ältere Art = mehrstimmig-polyphon ausgearbeitet, Neuere Art = generalbassbegleiteter Sologesang (Opern, Oratorien, Kantaten etc.)
 
@@ -392,7 +392,7 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 **Was charakterisiert den Begriff des Madrigalstils bei Mattheson?**
 
 [[ ]] Die Musik steht hierarchisch über dem Wort
-[[X]] Text- und affektbezogenes Komponieren der "seconda prattica"
+[[X]] Text- und affektbezogenes Komponieren der "seconda pratica"
 [[X]] Verwendung in Oper, Oratorium, Passion, Kantate
 [[ ]] Ausschließlich mehrstimmig-polyphon ohne Generalbass
 

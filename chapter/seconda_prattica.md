@@ -8,7 +8,7 @@ import: ../config.md
 tags: kompositionsweise
 -->
 
-# Prima und Seconda Prattica
+# Prima und Seconda Pratica
 
 Allgemein: Lockerung der Kontrapunktnormen und neuartiger Konsonanz- und Dissonanzgebrauch. 
 
@@ -87,7 +87,7 @@ Zitat aus "Le Nuove Musiche":
 * 1603: 4. Madrigalbuch
 * 1605: Vorrede zum 5. Madrigalbuch
 
-  * Ankündigung einer Abhandlung über "seconda prattica"
+  * Ankündigung einer Abhandlung über "seconda pratica"
   * Neue Betrachtungsweise von Konsonanzen und Dissonanzen
 
 ## Theoretische Grundlagen
@@ -96,7 +96,7 @@ Zitat aus "Le Nuove Musiche":
 * Kernthese: *"l'oratione sia padrona del armonia e non serva"*
 
   * *(Die Rede ist Herrin der Harmonie, nicht Dienerin)*
-  * eigentliche Zielsetzung der *seconda prattica*
+  * eigentliche Zielsetzung der *seconda pratica*
 
 * Begriffsbestimmungen:
 
@@ -138,19 +138,19 @@ Giulio Cesare Monteverdi stellt durch Zitate aus Platons *Politeia* einen Bezug 
          +----------+  +---------+
   ```
 
-In der Diskussion um die *seconda prattica* geht es nicht um die Frage "Vokalpolyphonie oder Monodie" bzw. "Einstimmigkeit oder Mehrstimmigkeit". Im Fokus steht eine bestimmte *Einstellung gegenüber der Textvorlage* und kann bei der Komposition eines polyphonen Madrigals ebenso Anwendung finden wie bei der Komposition eines Opernrezitatvs.
+In der Diskussion um die *seconda pratica* geht es nicht um die Frage "Vokalpolyphonie oder Monodie" bzw. "Einstimmigkeit oder Mehrstimmigkeit". Im Fokus steht eine bestimmte *Einstellung gegenüber der Textvorlage* und kann bei der Komposition eines polyphonen Madrigals ebenso Anwendung finden wie bei der Komposition eines Opernrezitatvs.
 
 ## Historische Einordnung
 
-### Traditionen der "seconda prattica"
+### Traditionen der "seconda pratica"
 * Zurückverfolgung ins 15. Jahrhundert
-* Prima prattica:
+* Prima pratica:
 
   * Johannes Ockeghem (ca. 1410-1497)
   * Adrian Willaert (ca. 1490-1562)
   * Theoretische Vollendung: Gioseffo Zarlino (1517–1590)
 
-### Seconda prattica
+### Seconda pratica
 * Beginn: Divino Cyprian Rore (1515/16-1565)
 * Weitere Vertreter:
 
@@ -161,8 +161,8 @@ In der Diskussion um die *seconda prattica* geht es nicht um die Frage "Vokalpol
   * Jacopo Peri (\*1561, Rom; †1633, Florenz)
 
 ### Fazit
-* *prima prattica* / *seconda prattica* ≠ *stile antico* / *stile moderno*
-* *seconda prattica*
+* *prima pratica* / *seconda pratica* ≠ *stile antico* / *stile moderno*
+* *seconda pratica*
   
   * -> textbezogene Dissonanzbehandlung
   * -> ein Aspekt des *stile moderno*
@@ -199,14 +199,14 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 [[X]] "l'oratione sia padrona del armonia e non serva" (Die Rede ist Herrin der Harmonie, nicht Dienerin)
 [[ ]] Der Rhythmus bestimmt Text und Harmonie
 
-**Welche Komponisten werden der "seconda prattica" zugeordnet?**
+**Welche Komponisten werden der "seconda pratica" zugeordnet?**
 
 [[X]] Cipriano de Rore
 [[ ]] Adrian Willaert
 [[X]] Luca Marenzio
 [[ ]] Gioseffo Zarlino
 
-**Erläutern Sie die Artusi-Monteverdi-Kontroverse als zentralen Konflikt zwischen prima und seconda prattica. Gehen Sie dabei auf die unterschiedlichen theoretischen Modelle (Zarlino/Artusi vs. Monteverdi) ein und zeigen Sie auf, wie sich die seconda prattica von einer reinen Stilfrage zu einer grundsätzlichen Neubestimmung des Text-Musik-Verhältnisses entwickelte.**
+**Erläutern Sie die Artusi-Monteverdi-Kontroverse als zentralen Konflikt zwischen prima und seconda pratica. Gehen Sie dabei auf die unterschiedlichen theoretischen Modelle (Zarlino/Artusi vs. Monteverdi) ein und zeigen Sie auf, wie sich die seconda pratica von einer reinen Stilfrage zu einer grundsätzlichen Neubestimmung des Text-Musik-Verhältnisses entwickelte.**
 
 *Sie sollten diese Aufgabe mit einem zusammenhängenden Text von 2–3 Seiten beantworten können.*
 
@@ -227,17 +227,17 @@ Alles auf einen Blick.
 
   * Artusi, Giovanni Maria ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Schüler Zarlinos, Kritiker Monteverdis
   * Caccini, Giulio Romano (1551–1618) - Komponist, Sänger, Gesangslehrer
-  * Luzzaschi, Luzzasco (1545–1607) - Komponist der seconda prattica
-  * Marenzio, Luca (1553/1554–1599) - Komponist der seconda prattica
-  * Monteverdi, Claudio ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Hauptvertreter der seconda prattica
+  * Luzzaschi, Luzzasco (1545–1607) - Komponist der seconda pratica
+  * Marenzio, Luca (1553/1554–1599) - Komponist der seconda pratica
+  * Monteverdi, Claudio ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Hauptvertreter der seconda pratica
   * Monteverdi, Giulio Cesare ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Bruder Claudios, Verfasser der Dichiaratione
-  * Ockeghem, Johannes (ca. 1410–1497) - Vertreter der prima prattica
-  * Peri, Jacopo (1561–1633) - Komponist der seconda prattica
+  * Ockeghem, Johannes (ca. 1410–1497) - Vertreter der prima pratica
+  * Peri, Jacopo (1561–1633) - Komponist der seconda pratica
   * Platon ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - antiker Philosoph
-  * Rore, Cipriano de (1515/16–1565) - Beginn der seconda prattica
-  * Wert, Giaches de (1535–1596) - franko-flämischer Komponist der seconda prattica
-  * Willaert, Adrian (ca. 1490–1562) - Vertreter der prima prattica
-  * Zarlino, Gioseffo (1517–1590) - Theoretiker der prima prattica
+  * Rore, Cipriano de (1515/16–1565) - Beginn der seconda pratica
+  * Wert, Giaches de (1535–1596) - franko-flämischer Komponist der seconda pratica
+  * Willaert, Adrian (ca. 1490–1562) - Vertreter der prima pratica
+  * Zarlino, Gioseffo (1517–1590) - Theoretiker der prima pratica
 
 @config.link.personen
 
@@ -245,6 +245,6 @@ Alles auf einen Blick.
   
   * Monteverdi, Claudio: *Cruda Amarilli* - Madrigal, von Artusi kritisiert
   * Monteverdi, Claudio: *4. Madrigalbuch* (1603)
-  * Monteverdi, Claudio: *5. Madrigalbuch* (1605) - mit Vorrede zur seconda prattica
+  * Monteverdi, Claudio: *5. Madrigalbuch* (1605) - mit Vorrede zur seconda pratica
 
 @config.link.werke

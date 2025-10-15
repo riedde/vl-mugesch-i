@@ -173,18 +173,18 @@ Giovanni Battista Doni (1635) *Discorso sopra la perfettione delle melodie*:
 
 ### Monteverdis Selbstverständnis
 
-*Weitere Informationen zur @config.link.course(`seconda prattica`,seconda_prattica)*
+*Weitere Informationen zur @config.link.course(`seconda pratica`,seconda_pratica)*
 
 
 * Vorwort zum fünften Madrigalbuch (1605):
   
   * Verteidigung gegen Giovanni Maria Artusi
-  * Einführung des Begriffes *"seconda prattica"*
+  * Einführung des Begriffes *"seconda pratica"*
 
 * Stilistische Differenzierung:
   
-  * *Prima prattica:* alter, polyphoner Stil
-  * *Seconda prattica:* neuer, tendenziell homophoner Stil
+  * *Prima pratica:* alter, polyphoner Stil
+  * *Seconda pratica:* neuer, tendenziell homophoner Stil
 
 ## Venezianische Oper
 
