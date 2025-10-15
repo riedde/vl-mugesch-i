@@ -174,6 +174,13 @@ Heinrich Schütz: _Matthäus-Passion_ SWV 479, "Barrabam!"
   * Markus-Passion, Fragment
   * Lukas-Passion?
 
+
+---
+
+Einen Überblick über Johann Sebastian Bachs Zeit und Werk bietet das [Bach-Kalendarium](https://jsbach.de/kalendarium)
+
+---
+
 ### Karfreitagsliturgie
   
 **Karfreitagsvesper** in Leipzig 1724 (nach der seit 1721 üblichen Ordnung), Hauptkirche St. Nikolai
