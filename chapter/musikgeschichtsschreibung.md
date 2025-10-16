@@ -202,6 +202,38 @@ In früheren Generationen von Musikforschenden unterschied man in zwei Erzählwe
 
 Heute ist es weniger nötig die Erzählweise zu typisieren, da man sich heute – anders als in früheren Generationen – nicht mehr dafür rechtfertig muss sich für die eine oder andere Forschugnsperspektive zu entscheiden. Dazu kommt, dass das Narrativ heute auf vielfältige Weise ausgestaltet sein kann und sich nicht mehr (nur) auf einen langen zusammenhängenden Text beschränkt. Ferner sind die Begriffe "stark" und "schwach" wertend und spiegeln in erster Linie die Haltung früherer Forschergenerationen wider – sie machen die Ergebnisse aber nicht "besser" oder "schlechter".
 
+### Zeitrechnung
+
+* Julianischer Kalender
+
+  * 45 v. Chr. von Julius Caesar eingeführt
+  * Berechnugnsfehler bereits nach 128 Jahren relevant
+
+* Gregorianischer Kalender
+
+  * 1582 von Papst Gregor XIII. eingeführt
+  * verbesserte Regelung für Schaltjahre
+  * Berechnugnsfehler erst nach >3.200 Jahren relevant
+  * Umstellung: 4\. Oktober 1582 (Donnerstag, jul.), 15. Oktober 1582 (Freitag, greg.)
+  * Differenz heute: 13 Tage
+  * Übernahme des Kalenders (vgl. [Wikipedia](https://de.wikipedia.org/w/index.php?title=Gregorianischer_Kalender&oldid=257687238#%C3%9Cbernahme_des_gregorianischen_Kalenders))
+
+* Wann ist Neujahr?
+
+  * Venedig, 01. März, bis 1797
+  * Florenz/Pisa, 25. März, bis 1749
+  * Schottland bis 1600
+  * England/Irland vom 13. Jhd. bis 1752
+
+---
+
+Beispiel: G. F. Händels Geburtstag 
+---
+
+* 23\. Feb. 1684 (jul., in England, zeitgenössische Darstellungen)
+* 23\. Feb. 1685 (jul., außerhalb England)
+* 5\. März 1685 (greg.)
+
 ## Wiederholung
 
 **Wissensfrage**
