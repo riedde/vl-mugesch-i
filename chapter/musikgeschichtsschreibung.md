@@ -254,7 +254,7 @@ _Welche dieser Aussagen trifft zu?_
 
 **Argumentationsaufgabe**
 
-_Nennen Sie zwei moderne Forschungsansätze der (historischen) Musikwissenschaft und erläutern Sie diese anhand von Beispielen._
+_Nennen Sie zwei moderne Forschungsansätze der (historischen) Musikwissenschaft und erläutern Sie diese anhand von je 1--2 Beispielen._
 
 ## Übersichten
 
@@ -268,7 +268,7 @@ Alles auf einen Blick.
   * Diderot, Denis: *Encyclopédie*, {%ORT%} seit 1751 (Herausgeber mit d'Alembert)
   * Forkel, Johann Nikolaus: *Allgemeine Geschichte der Musik*, {%ORT%} 1788/1801
   * Forkel, Johann Nikolaus: *Über Johann Sebastian Bach's Leben, Kunst und Kunstwerke*, Leipzig 1802
-  * Keil, Werner: *Musikgeschichte im Überblick*, Paderborn ³2018
+  * Keil, Werner: *Musikgeschichte im Überblick*, Paderborn ^3^2018
   * Le Goff, Jacques: *Geschichte ohne Epochen?*, Darmstadt 2016
   * Rousseau, Jean-Jacques: *Dictionnaire de musique*, Paris 1768
 
@@ -299,9 +299,3 @@ Alles auf einen Blick.
   * Keine spezifischen Musikwerke genannt - nur musikhistorische Schriften (siehe Literatur)
 
 @config.link.werke
-
-## Übersichten
-
-* **Literatur**
-
-  * Werner Keil: Musikgeschichte im Überblick, Paderborn ^3^2018
