@@ -7,7 +7,8 @@ narrator: Deutsch Female
 comment: Organisatorisches (2025)
 mode: Presentation
 tags: orga
-import: config.md        
+import: ./config.md
+link: ./style.css
 -->
 
 # Organisatorisches
