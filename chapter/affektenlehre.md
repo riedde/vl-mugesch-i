@@ -228,7 +228,7 @@ Alles auf einen Blick.
 
 * **Quellen**
 
-  * Bernhard, Christoph: *Tractatus compositionis augmentatus* (1648/49), hrsg. von Joseph Müller-Blattau, Kassel ⁶2017.
+  * Bernhard, Christoph: *Tractatus compositionis augmentatus* (1648/49), hrsg. als *Die Kompositionslehre Heinrich Schützens in der Fassung seines Schülers Christoph Bernhard* von Joseph Müller-Blattau, Kassel ⁶2017.
   * Kircher, Athanasius: *Musurgia universalis*, Rom 1650.
   * Mattheson, Johann: *Der vollkommene Kapellmeister*, Hamburg 1739.
 
