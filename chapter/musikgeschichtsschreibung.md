@@ -134,8 +134,7 @@ font:     Source Sans 3
 
 ### Herausforderung der Einteilung
 
-> Probleme entstehen für die Musikgeschichtsschreibung an den Schnittpunkten
-großer Epochen; die Geschichtswissenschaft spricht hier von ›Schwellenzeiten‹
+> Probleme entstehen für die Musikgeschichtsschreibung an den Schnittpunkten großer Epochen; die Geschichtswissenschaft spricht hier von ›Schwellenzeiten‹
 >
 > -- Keil 2018, S. 18
 
