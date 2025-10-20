@@ -18,27 +18,27 @@ import: config.md
 
 ## Dozent
 
-* 2010-2017 : Germanistik B.A.
+* 2010–2017 : Germanistik B.A.
 
     * Karlsruher Institut für Technologie (KIT)
 
-* 2017-2019 : Musikwissenschaft B.A./M.A.
+* 2017–2019 : Musikwissenschaft B.A./M.A.
 
     * Hochschule für Musik Karlsruhe
 
-* 2019-2021 : Wissenschaftlicher Mitarbeiter
+* 2019–2021 : Wissenschaftlicher Mitarbeiter
 
     * Max-Reger-Institut Karlsruhe
     * Reger-Werkausgabe (Editor und Herausgeber)
 
-* 2021-2024 : Wissenschaftlicher Mitarbeiter
+* 2021–2024 : Wissenschaftlicher Mitarbeiter
 
     * Universität Paderborn
     * Hans Werner Henze: Digitale Briefedition
 
 * 2023: Promotion an der Hochschule für Musik Karlsruhe
 * 2024: Ruf (W1) der Martin-Luther-Universität Halle-Wittenberg
-* 2025-: Juniorprofessur für Musikwissenschaft mit Schwerpunkt _Musikedition und Digital Humanities_
+* 2025–: Juniorprofessur für Musikwissenschaft mit Schwerpunkt _Musikedition und Digital Humanities_
 
     * Akademieprofessur der Akademie der Wissenschaften und der Literatur Mainz
     * Mitarbeiter Hallische Händelausgabe (Edition des _Hercules_ HWV 60)
