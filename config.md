@@ -17,7 +17,7 @@ import:   https://raw.githubusercontent.com/LiaTemplates/citations/main/README.m
 |:--------|:------|:------|
 | 1  | 22.10.2025 | @config.link.course(Organisatorisches,organisatorisches) / @config.link.course(`Musikgeschichtsschreibung`,musikgeschichtsschreibung) |
 | 2  | 29.10.2025 | @config.link.course(`Um das Jahr 1600`,um1600) / @config.link.course(`Barock als Begriff`,barock_begriff) |
-| 3  | 05.11.2025 | @config.link.course(`Monodie`,03a_monodie) / @config.link.course(`Entstehung der Oper`,oper_entstehung) / @config.link.course(`Seconda prattica`,seconda_prattica) |
+| 3  | 05.11.2025 | @config.link.course(`Monodie`,03a_monodie) / @config.link.course(`Entstehung der Oper`,oper_entstehung) / @config.link.course(`Seconda pratica`,seconda_pratica) |
 | 4  | 12.11.2025 | @config.link.course(`Oper im Barock`,oper_barock) / @config.link.course(`Verzierungspraxis um 1600`,verzierungspraxis_um1600) |
 | 5  | 19.11.2025 | @config.link.course(`Instrumentalmusik (Sonate, Suite, Concerto)`,instrumentalmusik) / @config.link.course(`Unterschiedliche Stimmungen`,stimmung) |
 | 6  | 26.11.2025 | @config.link.course(`Ein Blick nach Frankreich`,frankreich_17-18Jh) |
