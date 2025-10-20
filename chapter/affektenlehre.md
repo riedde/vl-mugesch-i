@@ -231,7 +231,7 @@ Alles auf einen Blick.
 
 * **Literatur**
 
-  * Bernhard, Christoph: *Tractatus compositionis augmentatus*, {%ORT%} 1648/49
+  * Bernhard, Christoph: *Tractatus compositionis augmentatus*, 1648/49
   * Kircher, Athanasius: *Musurgia universalis*, Rom 1650
   * Mattheson, Johann: *Vollkommener Kapellmeister*, Hamburg 1739
   * Schweitzer, Albert: *Jean-Sébastien Bach, le musicien poète* (Bachbuch), Paris und Leipzig 1905
