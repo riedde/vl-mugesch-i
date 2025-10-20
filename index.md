@@ -1,13 +1,14 @@
 <!--
-author: Dennis Ried
-email: dennis.ried@musikwiss.uni-halle.de
-version: 1.0.0
+author:   Dennis Ried
+email:    dennis.ried@musikwiss.uni-halle.de
+version:  1.0.0
 language: de
 narrator: Deutsch Female
-comment: Organisatorisches (2025)
-mode: Presentation
-tags: orga
-import: config.md        
+comment:  Organisatorisches (2025)
+mode:     Presentation
+tags:     orga
+import:   ./config.md
+link:     ./style.css
 -->
 
 # Organisatorisches

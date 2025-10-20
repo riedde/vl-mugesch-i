@@ -1,10 +1,13 @@
 <!--
-author: Dennis Ried
-email: dennis.ried@musikwiss.uni-halle.de
-version: 1.0.0
+author:   Dennis Ried
+email:    dennis.ried@musikwiss.uni-halle.de
+version:  1.0.0
 language: de
 narrator: Deutsch Female
-import: ../config.md
+import:   ../config.md
+link:     ../style.css
+link:     https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap
+font:     Source Sans 3
 -->
 
 # Musikgeschichtschreibung
@@ -131,8 +134,7 @@ import: ../config.md
 
 ### Herausforderung der Einteilung
 
-> Probleme entstehen für die Musikgeschichtsschreibung an den Schnittpunkten
-großer Epochen; die Geschichtswissenschaft spricht hier von ›Schwellenzeiten‹
+> Probleme entstehen für die Musikgeschichtsschreibung an den Schnittpunkten großer Epochen; die Geschichtswissenschaft spricht hier von ›Schwellenzeiten‹
 >
 > -- Keil 2018, S. 18
 

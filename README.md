@@ -10,7 +10,7 @@ Dieses Repository enthält eine vernetzte Darstellung der Musikgeschichte des 17
 
 ### Online (empfohlen)
 Öffnen Sie die Kurse direkt über LiaScript:
-- [Hauptkurs](https://liascript.github.io/course/?https://raw.githubusercontent.com/IHR-USERNAME/musikgeschichte-17-18/main/index.md)
+- [Hauptkurs](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/index.md)
 
 ### Lokal
 1. Repository klonen
@@ -20,16 +20,12 @@ Dieses Repository enthält eine vernetzte Darstellung der Musikgeschichte des 17
 ## Struktur
 
 - `index.md` - Hauptkurs
-- `kapitel/` - Einzelne Kurskapitel
-- `personen/` - Biografische Daten aller wichtigen Persönlichkeiten
-- `data/` - Strukturierte Daten für Zeitstrahlen und Visualisierungen
+- `chapter/` - Einzelne Kurskapitel
+- `data/` - Überblicke (Werke und Persönlichkeiten)
 
 ## Lizenz
 
 Dieses Werk ist lizenziert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-## Mitwirkende
-
-- Ihr Name - Hauptautor
 
 Korrekturen und Ergänzungen sind willkommen! Bitte erstellen Sie ein Issue oder einen Pull Request.
