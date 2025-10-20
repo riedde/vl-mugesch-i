@@ -232,20 +232,20 @@ Alles auf einen Blick.
 * **Literatur**
 
   * Bernhard, Christoph: *Tractatus compositionis augmentatus*, {%ORT%} 1648/49
-  * Kircher, Athanasius: *Musurgia universalis*, {%ORT%} 1650
-  * Mattheson, Johann: *Vollkommener Kapellmeister*, {%ORT%} 1739
-  * Schweitzer, Albert: *{%TITEL%}* (Bachbuch), {%ORT%} 1905
+  * Kircher, Athanasius: *Musurgia universalis*, Rom 1650
+  * Mattheson, Johann: *Vollkommener Kapellmeister*, Hamburg 1739
+  * Schweitzer, Albert: *Jean-Sébastien Bach, le musicien poète* (Bachbuch), Paris und Leipzig 1905
 
 * **Personen**
 
-  * Bernhard, Christoph ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Schüler von Heinrich Schütz
-  * Kircher, Athanasius ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Jesuitenpater in Rom
-  * Kretzschmar, Hermann ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musikwissenschaftler
-  * Mattheson, Johann ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Hamburger Musikschriftsteller
-  * Schering, Arnold ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musikwissenschaftler
-  * Schütz, Heinrich ({%GEBURTSJAHR%}–{%STERBEJAHR%})
-  * Schweitzer, Albert ({%GEBURTSJAHR%}–{%STERBEJAHR%})
-  * Zarlino, Gioseffo ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Renaissance-Theoretiker
+  * Bernhard, Christoph (1628–1632) - Schüler von Heinrich Schütz
+  * Kircher, Athanasius (1602–1680) - Jesuitenpater in Rom
+  * Kretzschmar, Hermann (1848-1924) - Musikwissenschaftler
+  * Mattheson, Johann (1681-1764) - Hamburger Musikschriftsteller
+  * Schering, Arnold (1877-1941) - Musikwissenschaftler
+  * Schütz, Heinrich (1585-1672)
+  * Schweitzer, Albert (1875-1965)
+  * Zarlino, Gioseffo (1517-1590) - Renaissance-Theoretiker
 
 @config.link.personen
 
