@@ -602,4 +602,4 @@ Alles auf einen Blick.
   * Gabrieli, Giovanni: *Sonata pian e forte* - für zwei vierstimmige Chöre
   * Telemann, Georg Philipp: *1. Flötenfantasie* - Beispiel für phantastischen Stil
 
-@config.link.werke
+

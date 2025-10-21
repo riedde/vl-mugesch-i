@@ -178,4 +178,4 @@ Alles auf einen Blick.
   * Peri, Jacopo: *L'Euridice* (1600) - Vertonung zur Hochzeit Maria von Medici mit Heinrich IV.
   * Rinuccini, Ottavio: *L'Euridice* (1600) - Libretto für Peri und Caccini
 
-@config.link.werke 
+ 

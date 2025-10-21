@@ -197,6 +197,6 @@ Alles auf einen Blick.
   
   * Keine spezifischen Musikwerke genannt - nur theoretische Schriften (siehe Literatur)
 
-@config.link.werke
+
 
 

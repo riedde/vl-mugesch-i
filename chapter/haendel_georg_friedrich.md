@@ -318,5 +318,5 @@ Alles auf einen Blick.
   * Händel, Georg Friedrich: *Rinaldo* (1710) - erste Londoner Oper mit spektakulärem Erfolg
   * Händel, Georg Friedrich: *The Messiah* (1741) - berühmtestes Oratorium mit Hallelujah-Chor
 
-@config.link.werke
+
 

@@ -146,5 +146,5 @@ Alles auf einen Blick.
   
   * Froberger, Johann Jakob: *Tombeau sur la mort de Monsieur Blancheroche* (FbWV 632) - programmatisches Trauerstück
 
-@config.link.werke
+
 

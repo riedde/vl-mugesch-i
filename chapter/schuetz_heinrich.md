@@ -225,5 +225,5 @@ Alles auf einen Blick.
   * Schütz, Heinrich: *Saul, warum verfolgst du mich?* - aus Symphoniae sacrae III (1650)
   * Schütz, Heinrich: *Symphoniae sacrae* ({%ENTSTEHUNGSJAHR%}) - ein- bis dreistimmige lateinische Motetten
 
-@config.link.werke
+
 

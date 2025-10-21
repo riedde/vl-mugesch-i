@@ -585,4 +585,3 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 * _La Verità in Cimento_ (Vivaldi, 1720) - Oper
 * _La Virtù trionfante_ (Vivaldi, 1724) - Oper
 
-@config.link.werke

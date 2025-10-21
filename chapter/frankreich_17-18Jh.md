@@ -478,4 +478,3 @@ Alles auf einen Blick.
   * Rameau, Jean-Philippe: *Hippolyte et Aricie* (1733) – erste Tragédie en musique Rameaus
   * Rameau, Jean-Philippe: *Castor et Pollux* (1737/rev. 1754) – mit berühmtem Trauerchor ("Que tout gémisse!")
 
-@config.link.werke

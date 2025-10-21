@@ -250,4 +250,4 @@ Alles auf einen Blick.
   * Monteverdi, Claudio: *4. Madrigalbuch* (1603)
   * Monteverdi, Claudio: *5. Madrigalbuch* (1605) - mit Vorrede zur seconda pratica
 
-@config.link.werke
+

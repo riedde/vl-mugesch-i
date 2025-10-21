@@ -351,4 +351,3 @@ Alles auf einen Blick.
   * Stölzel ({%VORNAME%}): *Ein Lämmlein geht und trägt die Schuld* (1734)
   * Unbekannter Komponist: *Lukaspassion* (1730) - aufgeführt in Leipzig
 
-@config.link.werke

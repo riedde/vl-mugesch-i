@@ -456,5 +456,5 @@ Alles auf einen Blick.
   * Händel, Georg Friedrich: *Almira* (1705) - Beispiel für madrigalischen und dramatischen Stil
   * Telemann, Georg Philipp: *1. Flötenfantasie* - praktisches Beispiel für phantastischen Stil
 
-@config.link.werke
+
 

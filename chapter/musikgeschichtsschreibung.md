@@ -299,4 +299,4 @@ Alles auf einen Blick.
   
   * Keine spezifischen Musikwerke genannt - nur musikhistorische Schriften (siehe Literatur)
 
-@config.link.werke
+
