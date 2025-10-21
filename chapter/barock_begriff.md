@@ -128,7 +128,7 @@ Curt Sachs, „Barockmusik“, 1919:
 - Dahlhaus, Die Musik des 18. Jahrhunderts, 1984
 
 ## Quiz und Reflexion
-Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1–3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
 
 **Wie entwickelte sich die Bedeutung des Begriffs "Barock" historisch?**
 

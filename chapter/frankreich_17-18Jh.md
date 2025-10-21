@@ -11,6 +11,9 @@ font:     Source Sans 3
 tags:     barock, kultur, frankreich, komponist
 -->
 
+<!--Comments, akgmd: Ist es Absicht, Anführungszeichen und Kursivierung zu verwenden? Die Lesbarkeit erhöht es nicht. (siehe: "Les passions de l’âme")
+Wieso wird auf das deutsche "Querele" verwiesen, obwohl es um Querelle geht? Worst case: Studierende merken sich "Querele (nicht: Querelle) entre les anciens et les modernes". Geschrieben ist der Unterschied klein, gesprochen bedeutend größer. (entspr. auch einmal falscher Plural, s. u.) -->
+
 # Ein Blick nach Frankreich
 
 ## Theorie und Kontext
@@ -86,7 +89,7 @@ tags:     barock, kultur, frankreich, komponist
   - frühe Beschreibung regelmäßiger Perioden/Phrasen (Beobachtungen bei Tanzmusik)
 
 
-[^1]: René Descartes: *Musicae Compendium. Leitfaden der Musik*, hg. v. J. Brockt, Darmstadt 1978. (Zitat, S. 3).
+[^1]: René Descartes: *Musicae Compendium. Leitfaden der Musik*, hg. v. J. Brockt, Darmstadt 1978 (Zitat, S. 3).
 
 #### Les passions de l’âme (1649) & Affektenlehre
 
@@ -170,7 +173,7 @@ Bei der *Les passions de l’âme* handelt es sich um den Versucht einer rationa
 
 „Querele“, bereitgestellt durch das Digitale Wörterbuch der deutschen Sprache, [https://www.dwds.de/wb/Querele](https://www.dwds.de/wb/Querele), abgerufen am 04.10.2025. 
 
-### Vier Haupt-Querellen (chronologisch)
+### Vier Haupt-Querelles (chronologisch)
 
 - *Querelle entre les anciens et les modernes* (ab 1674)
   
@@ -331,7 +334,7 @@ Bei der *Les passions de l’âme* handelt es sich um den Versucht einer rationa
 
 - Jean-Philippe Rameau
   
-  - erste *Tragédie en musique* *Hippolyte et Aricide* (1733, Alter 50)
+  - erste *Tragédie en musique* *Hippolyte et Aricie* (1733, Alter 50)
   
   -> Polarisierung Publikum: Lullisten vs. Rameauneurs
 
@@ -344,7 +347,7 @@ Bei der *Les passions de l’âme* handelt es sich um den Versucht einer rationa
   - Weiterentwicklung der Ouvertüre
   - vielfältige Ensembleformen (Duett, Terzett, Quartett) in 11 Opern
 
-### Castor et Pollux (1737/Rev. 1754)
+### Castor et Pollux (1737/rev. 1754)
 
 - Sujet: Brüder (antikes Sparta) lieben dieselbe Frau; dramatische Konstellation mit Unterweltszene (4. Akt) und Apotheose (Aufnahme in den Olymp)
 
@@ -383,7 +386,7 @@ Artikel zur [Viola da gamba](https://web.archive.org/web/20251002143944/https://
   - Resistenz gegen italienischen Einfluss
   - Empfehlung an Schüler, »Sonaten« zu meiden (als italienisch konnotierte Form) 
 
-- *Sonnerie de Sainte Geneviève du Mont de Paris* (1723)
+- *Sonnerie de Sainte Geneviève du Mont de Paris (1723)
   
   - berühmtestes Werk
   - Imitation Glockengeläute mit Violine, Gambe, Basso continuo
@@ -442,41 +445,37 @@ Alles auf einen Blick.
 
 * **Literatur**
 
-  * Descartes, René: *Musicae Compendium*, {%ORT%} 1618
-  * Descartes, René: *Les passions de l'âme*, {%ORT%} 1649
-  * Kepler, Johannes: *Harmonice mundi libri V*, {%ORT%} 1619
-  * Lully, Jean Baptiste: *Alceste*, {%ORT%} 1674
-  * Lully, Jean Baptiste: *Armida*, {%ORT%} 1686
-  * Mersenne, Marin: *Harmonie universelle*, Paris 1636
-  * Rameau, Jean-Philippe: *Traité de l'harmonie*, Paris 1722
-  * Rameau, Jean-Philippe: *Hippolyte et Aricide*, {%ORT%} 1733
-  * Rameau, Jean-Philippe: *Castor et Pollux*, {%ORT%} 1737/Rev. 1754
+  * Descartes, René: *Musicae Compendium*, 1618, gedr. Utrecht 1650.
+  * Descartes, René: *Les passions de l'âme*, Paris 1649.
+  * Kepler, Johannes: *Harmonice mundi libri V*, Linz 1619.
+  * Mersenne, Marin: *Harmonie universelle*, Paris 1636.
+  * Rameau, Jean-Philippe: *Traité de l'harmonie*, Paris 1722.
 
 * **Personen**
 
-  * Chambonnières, Jacques Champion de ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - früher bedeutender Clavecinist
-  * Couperin, François (1668–1733) - Hoforganist Ludwigs XIV., Neffe von Louis Couperin
-  * Couperin, Louis ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - früher bedeutender Clavecinist
-  * Descartes, René (1596–1650) - Philosoph/Mathematiker
-  * Kepler, Johannes (1571–1630) - Astronom/Physiker/Naturphilosoph
-  * Lully, Jean Baptiste (1632–1687) - ursprünglich Giovanni Battista Lulli aus Florenz
-  * Ludwig XIV. ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - französischer König
-  * Marais, Marin (1656–1728) - Gambenvirtuose und Komponist
-  * Mersenne, Marin (1588–1648) - Theologe/Mathematiker/Musiktheoretiker
-  * Quinault, Philippe ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Librettist
-  * Rameau, Jean-Philippe (1683–1764) - Komponist, virtuoser Cembalist/Organist/Musiktheoretiker
-  * Sainte-Colombes, Monsieur de (um 1600–1690/1700) - Gambenlehrer von Marin Marais
+  * Chambonnières, Jacques Champion de (1601–1672) – früher bedeutender Clavecinist
+  * Couperin, François (1668–1733) – Hoforganist Ludwigs XIV., Neffe von Louis Couperin
+  * Couperin, Louis (1626–1661) – früher bedeutender Clavecinist
+  * Descartes, René (1596–1650) – Philosoph/Mathematiker
+  * Kepler, Johannes (1571–1630) – Astronom/Physiker/Naturphilosoph
+  * Lully, Jean Baptiste (1632–1687) – Komponist am französischen Hof, ursprünglich *Giovanni Battista Lulli* aus Florenz
+  * Ludwig XIV. ({%GEBURTSJAHR%}–{%STERBEJAHR%}) – König von Frankreich
+  * Marais, Marin (1656–1728) – Gambenvirtuose und Komponist
+  * Mersenne, Marin (1588–1648) – Theologe/Mathematiker/Musiktheoretiker
+  * Quinault, Philippe (1635–1688) – Librettist
+  * Rameau, Jean-Philippe (1683–1764) – Komponist und Musiktheoretiker, Clavecinist
+  * Sainte-Colombes, Monsieur de (um 1600–1690/1700) – Gambenlehrer von Marin Marais
 
 @config.link.personen
 
 * **Werke**
   
-  * Couperin, François: *Les Folies françoises ou les Dominos* - 13. ordre aus Buch 3 mit Affekt-Farb-Zuordnung
-  * Lully, Jean Baptiste: *Alceste* (1674) - Auslöser der Querelle entre les anciens et les modernes
-  * Lully, Jean Baptiste: *Armida* (1686) - exemplarische Sprachvertonung
-  * Marais, Marin: *Le Tableau de l'operation de la Taille* - musikalisch-deskriptive Vertonung einer Blasenstein-Operation
-  * Marais, Marin: *Sonnerie de Sainte Geneviève du Mont de Paris* (1723) - berühmtestes Werk
-  * Rameau, Jean-Philippe: *Hippolyte et Aricide* (1733) - erste Tragédie en musique
-  * Rameau, Jean-Philippe: *Castor et Pollux* (1737/Rev. 1754) - mit berühmtem Trauerchor
+  * Couperin, François: *Pieces de clavecin*, 4 Bücher, Paris 1713–1730 – daraus "Les Folies françoises ou les Dominos"
+  * Lully, Jean Baptiste: *Alceste* (1674, LWV 50) – Tragédie en musique, Auslöser der *Querelle entre les anciens et les modernes*
+  * Lully, Jean Baptiste: *Armide* (1686, LWV 71) – Tragédie en musique, Beispiel für Sprachvertonung
+  * Marais, Marin: *Pièces de viol*, 5 Bücher, Paris 1686–1725 – aus dem 5. Buch: *Le Tableau de l'operation de la Taille*, musikalisch-deskriptive Vertonung einer Blasenstein-Operation
+  * Marais, Marin: *Sonnerie de Sainte Geneviève du Mont de Paris*, in: *La Gamme et Autres Morceaux de Symphonie*, Paris 1723.
+  * Rameau, Jean-Philippe: *Hippolyte et Aricie* (1733) – erste Tragédie en musique Rameaus
+  * Rameau, Jean-Philippe: *Castor et Pollux* (1737/rev. 1754) – mit berühmtem Trauerchor ("Que tout gémisse!")
 
 @config.link.werke
