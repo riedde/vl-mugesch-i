@@ -115,7 +115,7 @@ Curt Sachs, „Barockmusik“, 1919:
 - Lebensstil und geistesgeschichtliche Grundlagen
 
 
-## Literatur (Zusammenfassung)
+## Bedeutende Texte (Zusammenfassung) <!-- dann wirkt es nicht, wie eine Doppelung -->
 
 - Rousseau, Dictionnaire de musique, 1768
 - Koch, Musikalisches Lexicon, 1865
@@ -168,28 +168,28 @@ Alles auf einen Blick.
 
 * **Literatur**
 
-  * Braun, Werner: *Die Musik des 17. Jahrhunderts*, Laaber 1981
-  * Bukofzer, Manfred: *Music in the Baroque Era*, {%ORT%} 1943
-  * Dahlhaus, Carl: *Die Musik des 18. Jahrhunderts*, Laaber 1984
-  * Haas, Robert: *Die Musik des Barock*, Potsdam 1934
-  * Koch, Heinrich Christoph: *Musikalisches Lexicon*, {%ORT%} 1865
-  * Lang, Paul Henry: *Music in Western Civilization*, {%ORT%} 1941
-  * Rousseau, Jean-Jacques: *Dictionnaire de musique*, Paris 1768
-  * Sachs, Curt: *Barockmusik*, {%ORT%} 1919
-  * Wölfflin, Heinrich: *Renaissance und Barock*, {%ORT%} 1888
-  * Wölfflin, Heinrich: *Kunstgeschichtliche Grundbegriffe*, {%ORT%} 1915
+  * Braun, Werner: *Die Musik des 17. Jahrhunderts*, Wiesbaden/Laaber 1981 (Neues Handbuch der Musikwissenschaft (NHdb) 4).
+  * Bukofzer, Manfred: *Music in the Baroque Era*, New York 1943.
+  * Dahlhaus, Carl: *Die Musik des 18. Jahrhunderts*, Laaber 1984 (NHdb 5).
+  * Haas, Robert: *Die Musik des Barock*, Potsdam 1928.
+  * Koch, Heinrich Christoph: *Musikalisches Lexikon*, Frankfurt am Main 1802.
+  * Lang, Paul Henry: *Music in Western Civilization*, New York 1941.
+  * Rousseau, Jean-Jacques: *Dictionnaire de musique*, Paris 1768.
+  * Sachs, Curt: „Barockmusik“, in: *Jahrbuch der Musikbibliothek Peters* 26 (1919/20), S. 7–15.
+  * Wölfflin, Heinrich: *Renaissance und Barock*, München 1888.
+  * Wölfflin, Heinrich: *Kunstgeschichtliche Grundbegriffe*, München 1915.
 
 * **Personen**
 
-  * Braun, Werner ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musikwissenschaftler
-  * Bukofzer, Manfred ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musikwissenschaftler
-  * Dahlhaus, Carl ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musikwissenschaftler
-  * Haas, Robert ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musikwissenschaftler
-  * Koch, Heinrich Christoph ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musiktheoretiker
-  * Lang, Paul Henry ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musikwissenschaftler
-  * Rousseau, Jean-Jacques (1712–1778) - Philosoph und Musiktheoretiker
-  * Sachs, Curt ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musikwissenschaftler
-  * Wölfflin, Heinrich ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Kunsthistoriker
+  * Braun, Werner (1926–2012) – Musikwissenschaftler
+  * Bukofzer, Manfred (1910–1955) – Musikwissenschaftler
+  * Dahlhaus, Carl (1928–1989) – Musikwissenschaftler
+  * Haas, Robert (1886–1960) – Musikwissenschaftler
+  * Koch, Heinrich Christoph (1749–1816) – Musiktheoretiker
+  * Lang, Paul Henry (1901–1991) – Musikwissenschaftler
+  * Rousseau, Jean-Jacques (1712–1778) – Philosoph und Musiktheoretiker
+  * Sachs, Curt (1881–1959) – Musikwissenschaftler
+  * Wölfflin, Heinrich (1864–1945) – Kunsthistoriker
 
 @config.link.personen
 
