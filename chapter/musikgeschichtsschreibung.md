@@ -264,35 +264,34 @@ Alles auf einen Blick.
 
 * **Literatur**
 
-  * Burney, Charles: *General History of Music from the Earliest Ages to the Present Period*, {%ORT%} 1776-1789
-  * Burney, Charles: *Tagebuch seiner musikalischen Reisen*, {%ORT%} 1773 (dt.)
-  * d'Alembert, Jean Le Rond: *Encyclopédie*, {%ORT%} seit 1751 (Herausgeber mit Diderot)
-  * Diderot, Denis: *Encyclopédie*, {%ORT%} seit 1751 (Herausgeber mit d'Alembert)
-  * Forkel, Johann Nikolaus: *Allgemeine Geschichte der Musik*, {%ORT%} 1788/1801
-  * Forkel, Johann Nikolaus: *Über Johann Sebastian Bach's Leben, Kunst und Kunstwerke*, Leipzig 1802
+  * Burney, Charles: *General History of Music from the Earliest Ages to the Present Period*, New York 1789, [Digitalisat, 1935](https://archive.org/details/generalhistoryof00burn2/page/n7/mode/2up)
+  * Burney, Charles: *Tagebuch seiner musikalischen Reisen*, Hamburg 1773, dt. Übersetzung, [Digitalisat](https://archive.org/details/CarlBurneysDerMusikDoctorsTagebuchSeinerMusikalischenReisenBd.3)
+  * d'Alembert, Jean Le Rond/Diderot, Denis: *Encyclopédie*, Paris seit 1751 (Herausgeber mit Diderot), [Digitalisat](https://gallica.bnf.fr/ark:/12148/bpt6k50533b.texteImage)
+  * Forkel, Johann Nikolaus: *Allgemeine Geschichte der Musik*, Leipzig 1788/1801, [Digitalisat](https://www.digitale-sammlungen.de/de/view/bsb10527181?page=5)
+  * Forkel, Johann Nikolaus: *Über Johann Sebastian Bach's Leben, Kunst und Kunstwerke*, Leipzig 1802, [Digitalisat](https://www.digitale-sammlungen.de/de/view/bsb10528130?page=7)
   * Keil, Werner: *Musikgeschichte im Überblick*, Paderborn ^3^2018
   * Le Goff, Jacques: *Geschichte ohne Epochen?*, Darmstadt 2016
-  * Rousseau, Jean-Jacques: *Dictionnaire de musique*, Paris 1768
+  * Rousseau, Jean-Jacques: *Dictionnaire de musique*, Paris 1768, [Digitalisat](https://www.digitale-sammlungen.de/de/view/bsb10599342?page=9)
 
 * **Personen**
 
-  * Adler, Guido (1855–1941) - Vertreter der Stilgeschichte
-  * Bach, Johann Christian ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - von Burney zu den größten Komponisten gezählt
-  * Burney, Charles (1726–1814) - englischer Musikhistoriker, Forschungsreisen
-  * d'Alembert, Jean Le Rond ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Herausgeber der Encyclopédie
-  * Dahlhaus, Carl ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musikforscher ("ästhetische Präsenz")
-  * Diderot, Denis ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Herausgeber der Encyclopédie
-  * Forkel, Johann Nikolaus (1749–1818) - Begründer der modernen Musikwissenschaft
-  * Gluck, Christoph Willibald ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - von Forkel kritisch beurteilt
-  * Haydn, Joseph ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - von Burney zu den größten Komponisten gezählt
-  * Humboldt, Wilhelm von (1767–1835) - Schüler Forkels
-  * Mozart, Wolfgang Amadé ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - von Forkel kritisch beurteilt
-  * Riemann, Hugo (1849–1919) - Vertreter der Stilgeschichte
-  * Rousseau, Jean-Jacques (1712–1778) - Hauptbeiträger der Musikartikel in der Encyclopédie
-  * Schlegel, August Wilhelm (1767–1845) - Schüler Forkels
-  * Schlegel, Friedrich (1772–1829) - Schüler Forkels
-  * Tieck, Ludwig (1773–1853) - Schüler Forkels
-  * Wackenroder, Wilhelm Heinrich (1773–1798) - Schüler Forkels
+  * [Adler, Guido](https://lobid.org/gnd/118500694) (1855–1941) -- Musikwissenschaftler | Jurist
+  * [Bach, Johann Christian](https://lobid.org/gnd/118505521) (1735–1782) -- Komponist, Sohn von Johann Sebastian Bach (von Burney zu den größten Komponisten gezählt)
+  * [Burney, Charles](https://lobid.org/gnd/118665340) (1726–1814) -- englischer Musikhistoriker, Forschungsreisen
+  * [d'Alembert, Jean Le Rond](https://lobid.org/gnd/11850178X) (1717–1783) -- Herausgeber der Encyclopédie, 	Mathematiker | Philosoph | Musikschriftsteller
+  * [Dahlhaus, Carl](https://lobid.org/gnd/118523341) (1928–1989) -- Musikforscher
+  * [Diderot, Denis](https://lobid.org/gnd/118525263) (1713–1784) -- Herausgeber der Encyclopédie, Schriftsteller | Philosoph | Lyriker
+  * [Forkel, Johann Nikolaus](https://lobid.org/gnd/118809962) (1749–1818) -- "Begründer" der modernen Musikwissenschaft
+  * [Gluck, Christoph Willibald](https://lobid.org/gnd/118539841) (1714–1787) -- Komponist
+  * [Haydn, Joseph](https://lobid.org/gnd/118547356) (1732–1809) -- Komponist (von Burney zu den größten Komponisten gezählt)
+  * [Humboldt, Wilhelm von](https://lobid.org/gnd/118554727) (1767–1835) -- Schüler Forkels
+  * [Mozart, Wolfgang Amadé](https://lobid.org/gnd/118584596) (1756–1791) -- Komponist (von Forkel kritisch beurteilt)
+  * [Riemann, Hugo](https://lobid.org/gnd/118600877) (1849–1919) -- Musikwissenschaftler, Theoretiker, Vertreter der Stilgeschichte
+  * [Rousseau, Jean-Jacques](https://lobid.org/gnd/118603426) (1712–1778) -- Hauptbeiträger der Musikartikel in der Encyclopédie
+  * [Schlegel, August Wilhelm](https://lobid.org/gnd/118607960) (1767–1845) -- Schüler Forkels, Schriftsteller | Kritiker | Übersetzer |Philologe | Orientalist | Librettist | Hochschullehrer |Literaturwissenschaftler | Lyriker
+  * [Schlegel, Friedrich](https://lobid.org/gnd/118607987) (1772–1829) -- Schüler Forkels, Bruder August Wilhelm Schlegels, 	Schriftsteller | Philosoph | Philologe | Kritiker | Literarhistoriker
+  * [Tieck, Ludwig](https://lobid.org/gnd/12989432X) (1773–1853) -- Schüler Forkels, Schriftsteller | Dramaturg | Philologe | Übersetzer | Hofrat
+  * [Wackenroder, Wilhelm Heinrich](https://lobid.org/gnd/118628097) (1773–1798) -- Schüler Forkels, Schriftsteller | Jurist
 
 @config.link.personen
 
