@@ -73,6 +73,38 @@ Nur nach vorheriger Anmeldung (in [Stud.IP](https://studip.uni-halle.de/index.ph
 | 14 | 05.02.2026 | @config.link.course(`Das Klavierlied`,klavierlied) / @config.link.course(`Charakterstücke`,Charakterstuecke) |
 | -  | 11.02.2026 | Klausur |
 
+**Alle Kurse**
+---
+
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/affektenlehre.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/allegri_gregorio.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/barock_begriff.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/beethoven_ludwig_van.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/charakterstuecke.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/frankreich_17-18Jh.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/froberger_johann_jakob.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/haendel_georg_friedrich.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/instrumentalmusik.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/kammermusik_klassik.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/kantate_barock.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/klangrede_mattheson.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/klassik_begriff.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/klavierlied.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/monodie.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/musikgeschichtsschreibung.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/oper_barock.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/oper_entstehung.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/oper_singspiel_klassik.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/passion_barock.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/schuetz_heinrich.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/schulen_mannheim_berlin.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/seconda_pratica.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/stimmung.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/sweelinck_jan_pieterszoon.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/um1600.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/verzierungspraxis_um1600.md)
+[preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/vivaldi_antonio.md)
+
 ### Quiz und Reflexion
 
 Wer ist der Dozent der Vorlesung?
