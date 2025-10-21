@@ -49,7 +49,7 @@ link:     ./style.css
 - Di, 14–15 Uhr 
 - Do, 11–12 Uhr
 
-Nur nach vorheriger Anmeldung (in [Stud.IP](https://studip.uni-halle.de/index.php)), da nicht alle Sprechstunden stattfinden.
+Nur nach vorheriger Anmeldung (in [Stud.IP](https://studip.uni-halle.de/dispatch.php/profile?username=aqjxe)), da nicht alle Sprechstunden stattfinden.
 
 ## Struktur der Vorlesung
 ### Vorlesungsplan
@@ -129,11 +129,13 @@ Wann findet die Klausur statt?
 
 **Personen:**
 
+*Übersicht der genannten Personen*
+
 @config.link.personen
 
 **Werke:**
 
-@config.link.werke
+*Übersicht der genannten Werke*
 
 ## Prüfungsmodalitäten
 
