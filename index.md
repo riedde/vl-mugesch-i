@@ -19,30 +19,33 @@ link:     ./style.css
 
 ## Dozent
 
+ <!-- style="width: 40%;" -->
+![Porträt von Dennis Ried](https://www.campus-halensis.de/site/assets/files/216410/dscf3783.-3zu2.1000x0.jpg "Foto: Maike Glöckner, https://www.campus-halensis.de/artikel/dennis-ried/")
+
 * 2010–2017 : Germanistik B.A.
 
-    * Karlsruher Institut für Technologie (KIT)
+  * Karlsruher Institut für Technologie (KIT)
 
 * 2017–2019 : Musikwissenschaft B.A./M.A.
 
-    * Hochschule für Musik Karlsruhe
+  * Hochschule für Musik Karlsruhe
 
 * 2019–2021 : Wissenschaftlicher Mitarbeiter
 
-    * Max-Reger-Institut Karlsruhe
-    * Reger-Werkausgabe (Editor und Herausgeber)
+  * Max-Reger-Institut Karlsruhe
+  * Reger-Werkausgabe (Editor und Herausgeber)
 
 * 2021–2024 : Wissenschaftlicher Mitarbeiter
 
-    * Universität Paderborn
-    * Hans Werner Henze: Digitale Briefedition
+  * Universität Paderborn
+  * Hans Werner Henze: Digitale Briefedition
 
 * 2023: Promotion an der Hochschule für Musik Karlsruhe
 * 2024: Ruf (W1) der Martin-Luther-Universität Halle-Wittenberg
 * 2025–: Juniorprofessur für Musikwissenschaft mit Schwerpunkt _Musikedition und Digital Humanities_
 
-    * Akademieprofessur der Akademie der Wissenschaften und der Literatur Mainz
-    * Mitarbeiter Hallische Händelausgabe (Edition des _Hercules_ HWV 60)
+  * Akademieprofessur der Akademie der Wissenschaften und der Literatur Mainz
+  * Mitarbeiter Hallische Händelausgabe (Edition des _Hercules_ HWV 60)
 
 **Sprechstunde(n):** 
 
@@ -52,6 +55,35 @@ link:     ./style.css
 Nur nach vorheriger Anmeldung (in [Stud.IP](https://studip.uni-halle.de/dispatch.php/profile?username=aqjxe)), da nicht alle Sprechstunden stattfinden.
 
 ## Struktur der Vorlesung
+
+![Vorlesung im Mittelalter](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Laurentius_de_Voltolina_001.jpg/960px-Laurentius_de_Voltolina_001.jpg "Henricus de Alemannia vor seinen Schülern. Buchmalerei aus der 2. Hälfte des 14. Jahrhunderts, Quelle: Wikimedia")
+
+---
+
+Format
+---
+
+<!-- style="background-color: grey; width: 20%;" -->
+[![](https://liascript.github.io/images/logo-darkmode_hu13157650616442203983.webp)](https://liascript.github.io/)
+
+ist ein Markdown-Flavour für Open Educational Resources.
+
+```
+# Organisatorisches
+
+* Dozent/Sprechstunde
+* Struktur der Vorlesung
+* Prüfungsmodalitäten
+
+## Dozent
+
+[...]
+
+## Struktur der Vorlesung
+
+[...]
+```
+
 ### Vorlesungsplan
 
 | Sitzung | Datum | Thema |
@@ -62,7 +94,7 @@ Nur nach vorheriger Anmeldung (in [Stud.IP](https://studip.uni-halle.de/dispatch
 | 4  | 12.11.2025 | @config.link.course(`Oper im Barock`,oper_barock) / @config.link.course(`Verzierungspraxis um 1600`,verzierungspraxis_um1600) |
 | 5  | 19.11.2025 | @config.link.course(`Instrumentalmusik (Sonate, Suite, Concerto)`,instrumentalmusik) / @config.link.course(`Unterschiedliche Stimmungen`,stimmung) |
 | 6  | 26.11.2025 | @config.link.course(`Ein Blick nach Frankreich`,frankreich_17-18Jh) |
-| 7  | 03.12.2025 | @config.link.course(`Antonio Vivaldi`,vivaldi_antonio) / @config.link.course(`Die Kantate`,kantate_barock) |
+| 7  | 03.12.2025 | @config.link.course(`Antonio Vivaldi`,vivaldi_antonio) |
 | 8  | 10.12.2025 | @config.link.course(`Die Passion (Christi)`,passion_barock) |
 | 9  | 17.12.2025 | @config.link.course(`Klangrede, Schreibarten, Gattungslehre (Mattheson)`,klangrede_mattheson) |
 | -  | _Weihnachtspause_ | |
@@ -75,6 +107,7 @@ Nur nach vorheriger Anmeldung (in [Stud.IP](https://studip.uni-halle.de/dispatch
 
 **Alle Kurse**
 ---
+unter [https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i](https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i) abrufbar!
 
 [preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/affektenlehre.md)
 [preview-lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/chapter/allegri_gregorio.md)
@@ -129,13 +162,15 @@ Wann findet die Klausur statt?
 
 **Personen:**
 
-*Übersicht der genannten Personen*
+* *Übersicht der genannten Personen*
+* [...]
 
 @config.link.personen
 
 **Werke:**
 
-*Übersicht der genannten Werke*
+* *Übersicht der genannten Werke*
+* [...]
 
 ## Prüfungsmodalitäten
 
