@@ -231,13 +231,13 @@ Alles auf einen Blick.
 
 * **Quellen**
 
-  * Bernhard, Christoph: *Tractatus compositionis augmentatus* (1648/49), hrsg. als *Die Kompositionslehre Heinrich Schützens in der Fassung seines Schülers Christoph Bernhard* von Joseph Müller-Blattau, Kassel ⁶2017.
-  * Kircher, Athanasius: *Musurgia universalis*, Rom 1650.
-  * Mattheson, Johann: *Der vollkommene Kapellmeister*, Hamburg 1739.
+  * Bernhard, Christoph: *Tractatus compositionis augmentatus* (1648/49), hrsg. als *Die Kompositionslehre Heinrich Schützens in der Fassung seines Schülers Christoph Bernhard* von Joseph Müller-Blattau, Kassel ⁶2017
+  * Kircher, Athanasius: *Musurgia universalis*, Rom 1650
+  * Mattheson, Johann: *Der vollkommene Kapellmeister*, Hamburg 1739
 
 * **Literatur**
 
-  * Schweitzer, Albert: *Johann Sebastian Bach*, Paris 1905, erw. Leipzig 1908.
+  * Schweitzer, Albert: *Johann Sebastian Bach*, Paris 1905, erw. Leipzig 1908
 
 * **Personen**
 

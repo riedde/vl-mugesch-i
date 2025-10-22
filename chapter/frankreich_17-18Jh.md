@@ -445,11 +445,11 @@ Alles auf einen Blick.
 
 * **Literatur**
 
-  * Descartes, René: *Musicae Compendium*, 1618, gedr. Utrecht 1650.
-  * Descartes, René: *Les passions de l'âme*, Paris 1649.
-  * Kepler, Johannes: *Harmonice mundi libri V*, Linz 1619.
-  * Mersenne, Marin: *Harmonie universelle*, Paris 1636.
-  * Rameau, Jean-Philippe: *Traité de l'harmonie*, Paris 1722.
+  * Descartes, René: *Musicae Compendium*, 1618, gedr. Utrecht 1650
+  * Descartes, René: *Les passions de l'âme*, Paris 1649
+  * Kepler, Johannes: *Harmonice mundi libri V*, Linz 1619
+  * Mersenne, Marin: *Harmonie universelle*, Paris 1636
+  * Rameau, Jean-Philippe: *Traité de l'harmonie*, Paris 1722
 
 * **Personen**
 
@@ -474,7 +474,7 @@ Alles auf einen Blick.
   * Lully, Jean Baptiste: *Alceste* (1674, LWV 50) – Tragédie en musique, Auslöser der *Querelle entre les anciens et les modernes*
   * Lully, Jean Baptiste: *Armide* (1686, LWV 71) – Tragédie en musique, Beispiel für Sprachvertonung
   * Marais, Marin: *Pièces de viol*, 5 Bücher, Paris 1686–1725 – aus dem 5. Buch: *Le Tableau de l'operation de la Taille*, musikalisch-deskriptive Vertonung einer Blasenstein-Operation
-  * Marais, Marin: *Sonnerie de Sainte Geneviève du Mont de Paris*, in: *La Gamme et Autres Morceaux de Symphonie*, Paris 1723.
+  * Marais, Marin: *Sonnerie de Sainte Geneviève du Mont de Paris*, in: *La Gamme et Autres Morceaux de Symphonie*, Paris 1723
   * Rameau, Jean-Philippe: *Hippolyte et Aricie* (1733) – erste Tragédie en musique Rameaus
   * Rameau, Jean-Philippe: *Castor et Pollux* (1737/rev. 1754) – mit berühmtem Trauerchor ("Que tout gémisse!")
 
