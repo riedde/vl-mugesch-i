@@ -103,7 +103,7 @@ Zur nachfolgenden Werkanalyse vgl. [^Keil2018](Werner Keil: Musikgeschichte im �
   - Metrische Freiheit: »lentement \[...\] sans observer aucune mesure«[^de](langsam [...] ohne irgendwelche Maßnahmen [i.e., das Taktmaß] zu beachten) zu spielen sei
 
 ## Quiz und Reflexion
-Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1–3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
 
 **Was charakterisiert Johann Jakob Frobergers musikgeschichtliche Bedeutung?**
 
@@ -136,9 +136,9 @@ Alles auf einen Blick.
 
 * **Personen**
 
-  * Blancheroche, Monsieur ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Freund Frobergers
-  * Frescobaldi, Girolamo (1583–1643) - italienischer Organist an San Pietro in Rom
-  * Froberger, Johann Jakob (1616–1667) - Stuttgarter, Wiener Hoforganist, Schüler Frescobaldis
+  * Blancheroche, Monsieur – Freund Frobergers
+  * Frescobaldi, Girolamo (1583–1643) – italienischer Organist an San Pietro in Rom
+  * Froberger, Johann Jakob (1616–1667) – Stuttgarter, Wiener Hoforganist, Schüler Frescobaldis
 
 @config.link.personen
 
