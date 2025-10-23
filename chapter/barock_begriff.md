@@ -172,7 +172,7 @@ Alles auf einen Blick.
   * Bukofzer, Manfred: *Music in the Baroque Era*, New York 1943
   * Dahlhaus, Carl: *Die Musik des 18. Jahrhunderts*, Laaber 1984 (NHdb 5)
   * Haas, Robert: *Die Musik des Barock*, Potsdam 1928
-  * Koch, Heinrich Christoph: *Musikalisches Lexikon*, Frankfurt am Main 1802
+  * Koch, Heinrich Christoph: *Musikalisches Lexikon*, Frankfurt am Main ^2^1865 <!-- Dommer -->
   * Lang, Paul Henry: *Music in Western Civilization*, New York 1941
   * Rousseau, Jean-Jacques: *Dictionnaire de musique*, Paris 1768
   * Sachs, Curt: „Barockmusik“, in: *Jahrbuch der Musikbibliothek Peters* 26 (1919/20), S. 7–15
