@@ -229,14 +229,11 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1–3 Antw
 
 Alles auf einen Blick.
 
-* **Quellen**
+* **Literatur**
 
   * Bernhard, Christoph: *Tractatus compositionis augmentatus* (1648/49), hrsg. als *Die Kompositionslehre Heinrich Schützens in der Fassung seines Schülers Christoph Bernhard* von Joseph Müller-Blattau, Kassel ⁶2017
   * Kircher, Athanasius: *Musurgia universalis*, Rom 1650
   * Mattheson, Johann: *Der vollkommene Kapellmeister*, Hamburg 1739
-
-* **Literatur**
-
   * Schweitzer, Albert: *Johann Sebastian Bach*, Paris 1905, erw. Leipzig 1908
 
 * **Personen**
