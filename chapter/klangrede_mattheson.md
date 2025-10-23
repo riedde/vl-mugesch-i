@@ -42,7 +42,7 @@ tags:     theorie, barock
 - Theoretische Systematisierung
 
   - **Bemühungen der Theoretiker:** Seit um 1650 kategoriale Systematisierung der musikalischen Schreibarten und Gattungen (nur teilweise gelungen)
-  - **Bedeutung für die Musikgeschichte:** Aufschlussreich für das Verständnis der Zeit zwischen 1650 und 1740 - Schneisen ins Dickicht der musikgeschichtlichen Überlieferung
+  - **Bedeutung für die Musikgeschichte:** Aufschlussreich für das Verständnis der Zeit zwischen 1650 und 1740 -- Schneisen ins Dickicht der musikgeschichtlichen Überlieferung
 
 ## Matthesons Lehre von den Schreibarten
 
@@ -141,19 +141,19 @@ tags:     theorie, barock
 
 - **TOMUS I:**
 
-  1. **I: Anatomicus** - *De natura soni et vocis* (Ton und Stimme: Definitionen und Physiologie, Tierstimmen)
-  2. **II: Philologicus** - Geschichte und Ausbreitung der *musica* als *sonus artificialis*
-  3. **III: Arithmeticus** - Musikalische Proportionenlehre
-  4. **IV: Geometricus** - Teilung des Monochords
-  5. **V: Organicus** - Instrumentenkunde
-  6. **VI: Melotheticus** - Kompositionslehre
-  7. **VII: Diacriticus** - Vergleich der alten und neuen Musik (enthält Affekttheorie und Stillehre)
+  1. **I: Anatomicus** -- *De natura soni et vocis* (Ton und Stimme: Definitionen und Physiologie, Tierstimmen)
+  2. **II: Philologicus** -- Geschichte und Ausbreitung der *musica* als *sonus artificialis*
+  3. **III: Arithmeticus** -- Musikalische Proportionenlehre
+  4. **IV: Geometricus** -- Teilung des Monochords
+  5. **V: Organicus** -- Instrumentenkunde
+  6. **VI: Melotheticus** -- Kompositionslehre
+  7. **VII: Diacriticus** -- Vergleich der alten und neuen Musik (enthält Affekttheorie und Stillehre)
 
 - **TOMUS II:**
 
-  8. **VIII: Mirificus** - Erklärung und Konstruktion einer Komponiermaschine
-  9. **IX: Magicus** - Medizinische und magische Wirkungen von Musik
-  10. **X: Analogicus (Decachordon naturae)** - Beschreibung der harmonischen Zusammenstimmung (*"Symphonismus"*) aller Phänomene der natürlichen und übernatürlichen Welt auf Basis des *"numerus sonorus"*
+  8. **VIII: Mirificus** -- Erklärung und Konstruktion einer Komponiermaschine
+  9. **IX: Magicus** -- Medizinische und magische Wirkungen von Musik
+  10. **X: Analogicus (Decachordon naturae)** -- Beschreibung der harmonischen Zusammenstimmung (*"Symphonismus"*) aller Phänomene der natürlichen und übernatürlichen Welt auf Basis des *"numerus sonorus"*
 
 
 ### Kirchers Stilkategorien
@@ -168,12 +168,12 @@ tags:     theorie, barock
   - Einfache Tanzmusik: *"Stylus choraicus" *
   - Terminologie: Kirchers Begriffe gehen "ziemlich durcheinander"
 
-- **Affektenlehre und Stillehre:** Kircher verbindet als Theoretiker beide Bereiche - bestimmten Stilen eigen, bestimmte Affekte zu erregen (wirkungsorientierte Interpretation der Stile)
+- **Affektenlehre und Stillehre:** Kircher verbindet als Theoretiker beide Bereiche -- bestimmten Stilen eigen, bestimmte Affekte zu erregen (wirkungsorientierte Interpretation der Stile)
 
 - **Kirchenstil-Untergliederung:** 
 
-  - *Stylus ligatus* (gebundener Stil): An einstimmige Choralvorgabe (*cantus firmus*) gebunden - Choral und Choralbearbeitung im weitesten Sinne
-  - *Stylus solutus* (ungebundener Stil): Ohne Choralvorgabe - cantus-firmus-freie Kirchenmusik
+  - *Stylus ligatus* (gebundener Stil): An einstimmige Choralvorgabe (*cantus firmus*) gebunden -- Choral und Choralbearbeitung im weitesten Sinne
+  - *Stylus solutus* (ungebundener Stil): Ohne Choralvorgabe -- cantus-firmus-freie Kirchenmusik
 
 - **Kanonischer Stil:** Rein satztechnisch bestimmt, für Kircher Inbegriff zahlhafter Kombinatorik in der Musik und besonders geeignetes Abbild der göttlichen Schöpfungsordnung
 
@@ -184,7 +184,7 @@ tags:     theorie, barock
   - **Ziel:** Kirchers Vorgaben aktualisieren durch striktere Systematisierung und gleichzeitige Flexibilisierung
   - **Ansatz:** Kirchersche Begriffe allen drei Hauptarten zuweisen, einzelne nur einer Hauptart
   - **Universelle Stile:** Fünf Stile in allen drei Hauptarten verwendbar
-  - **Madrigalstil als Zentrum:** Herausragender Stil mit Verwendung in Oper, Oratorium, Passion, Kantate - sowohl in Arie wie in Rezitativ
+  - **Madrigalstil als Zentrum:** Herausragender Stil mit Verwendung in Oper, Oratorium, Passion, Kantate -- sowohl in Arie wie in Rezitativ
 
 - Händels "Almira" als Beispiel (1705)
 
@@ -250,8 +250,8 @@ tags:     theorie, barock
 
 - Instrumentalstil nach den drei Hauptarten
 
-  - **Instrumentalstil in der Kirche:** "Besondere Festigkeit", "ein im Gange wohlgegründetes, ernsthaftes Wesen", "ehrbar, wohlbedeckt und kräftig" - satztechnisch vollstimmig und polyphon
-  - **Instrumentalstil in der Oper:** "Munter, anlockend, und fällt vernehmlich ins Gehör", "ein Aussenschein, etwas Glänzendes und Funkelndes" - satztechnisch geringstimmig, homophon mit Melodieherrschaft: "In dem, was die Melodie betrifft, herrschet die Ober-Partie, und die anderen richten sich nach ihr, als in einer Monarchie" (S. 86)
+  - **Instrumentalstil in der Kirche:** "Besondere Festigkeit", "ein im Gange wohlgegründetes, ernsthaftes Wesen", "ehrbar, wohlbedeckt und kräftig" -- satztechnisch vollstimmig und polyphon
+  - **Instrumentalstil in der Oper:** "Munter, anlockend, und fällt vernehmlich ins Gehör", "ein Aussenschein, etwas Glänzendes und Funkelndes" -- satztechnisch geringstimmig, homophon mit Melodieherrschaft: "In dem, was die Melodie betrifft, herrschet die Ober-Partie, und die anderen richten sich nach ihr, als in einer Monarchie" (S. 86)
   - **Instrumentalstil in der Kammer:** In höfischen und bürgerlichen Sälen und Zimmern, "allemahl aufgeputzt, verbrämt und sprudelnd", "nette, reine Mittel-Partien, die mit der Oberstimme beständig, und auf eine angenehme Art gleichsam um den Vorzug streiten" (Vorbild: Instrumentalwerke von Arcangelo Corelli)
 
 ### Kanonischer Stil
@@ -271,7 +271,7 @@ tags:     theorie, barock
 - **Anwendungsbereiche:** 
 
   - Vokale Anwendung: Freies Phantasieren der Sänger in Kadenzen von Arien (eher randständig)
-  - Instrumentale Schwerpunkte: Vor allem ein Instrumentalstil - frei gefügte, aus dem Augenblick heraus gestaltete Musik für einen Spieler
+  - Instrumentale Schwerpunkte: Vor allem ein Instrumentalstil -- frei gefügte, aus dem Augenblick heraus gestaltete Musik für einen Spieler
 
 - **Instrumentale Realisierung:** Vor allem Tastenmusik, auch Musik für Streich- oder Blasinstrument
 - **Historische Beispiele:** Toccata und Phantasie von Froberger (Schüler des Venezianers Frescobaldi, zentraler Vertreter der Fantasie und Toccata im frühen 17. Jahrhundert), weitere Traditionsträger: Muffat, Buxtehude, Bach, C. P. E. Bach, Mozart
@@ -283,7 +283,7 @@ tags:     theorie, barock
 
   - **Gebundener Stil:** Stil des einstimmigen Choralgesangs (traditioneller kirchlicher Stil)
   - **Kapellstil:** Mehrstimmige Choralbearbeitungen nach Art der Tenormesse oder Tenormotette (Matthesons stark retrospektiver Tonfall: heute ersetze das Kirchenlied und die geistliche Ode im melismatischen Stil den alten gebundenen Stil)
-  - **Motettenstil:** Ähnlich rückgewandt, Vorbilder: Motetten Orlando di Lassos und Andreas Hammerschmidts (1611-1675, Zeitgenosse von Heinrich Schütz) - älteren Stil der Vokalpolyphonie des 16. Jahrhunderts, kontrapunktisch-imitatorischer Stil als "stile antico" des 17. und 18. Jahrhunderts
+  - **Motettenstil:** Ähnlich rückgewandt, Vorbilder: Motetten Orlando di Lassos und Andreas Hammerschmidts (1611-1675, Zeitgenosse von Heinrich Schütz) -- älteren Stil der Vokalpolyphonie des 16. Jahrhunderts, kontrapunktisch-imitatorischer Stil als "stile antico" des 17. und 18. Jahrhunderts
 
 - Ausschließlich kammermusikalische Tanzstile
 
@@ -383,7 +383,7 @@ tags:     theorie, barock
   - Ritornelle und Sinfonien (Instrumentalstil) = "zusammengestoppeltes Wesen", kaum mehr etwas mit Kantate im eigentlichen Sinne gemein
 
 ## Quiz und Reflexion
-Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1--3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
 
 **Welche drei Hauptarten musikalischer Schreibart unterschied Mattheson in seinem "Vollkommenen Capellmeister"?**
 
@@ -416,45 +416,45 @@ Alles auf einen Blick.
 
 * **Literatur**
 
-  * Brossard, Sébastien de: *Dictionnaire de musique*, Paris 1703 - übersetzt von Walther
-  * Hammerschmidt, Andreas: *{%TITEL%}*, {%ORT%} {%JAHR%} - Motetten als Beispiel für Motettenstil
+  * Brossard, Sébastien de: *Dictionnaire de musique*, Paris 1703 -- übersetzt von Walther
+  * Hammerschmidt, Andreas: *Motettae unius et duarum vocum*, Dresden 1649 -- Motetten als Beispiel für Motettenstil
   * Kircher, Athanasius: *Musurgia Universalis*, Rom 1650
-  * Lasso, Orlando di: *{%TITEL%}*, {%ORT%} {%JAHR%} - Motetten als Vorbilder
+  * Lasso, Orlando di: *Sämtliche Werke Neue Reihe*, Kassel 1956,  -- Motetten als Vorbilder
   * Mattheson, Johann: *Critica Musica*, Hamburg 1722/23
-  * Mattheson, Johann: *Vollkommener Capellmeister*, {%ORT%} {%JAHR%}
-  * Neumeister, Erdmann: *Geistliche Cantaten statt einer Kirchen-Music*, {%ORT%} 1704
-  * Scacchi, Marco: *{%TITEL%}*, {%ORT%} {%JAHR%} - Stillehre der späten 1640er Jahre
+  * Mattheson, Johann: *Vollkommener Capellmeister*, Hamburg 1739
+  * Neumeister, Erdmann: *Geistliche Cantaten statt einer Kirchen-Music*, 1704
+  * Scacchi, Marco: *Breve discorso sopra la musica moderna*, Warschau 1649 -- Stillehre der späten 1640er Jahre
   * Walther, Johann Gottfried: *Musicalisches Lexicon oder Musicalische Bibliothec*, Leipzig 1732 -- Übersetzung von Brossard
 
 * **Personen**
 
-  * Bach, Carl Philipp Emanuel ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Traditionsträger der Fantasie
-  * Bokemeyer, Heinrich ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Wolfenbütteler Kantor, Kontrahent Matthesons
-  * Brossard, Sébastien de (1655--1730) - Lexikograf
-  * Buxtehude ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Traditionsträger der Fantasie
-  * Corelli, Arcangelo ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Vorbild für Instrumentalstil in der Kammer
-  * Froberger, Johann Jakob ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Schüler Frescobaldis, Vertreter der Fantasie
-  * Haid, Johann Jacob ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Kupferstecher des Mattheson-Porträts 1746
-  * Hammerschmidt, Andreas (1611–1675) - Zeitgenosse von Heinrich Schütz
-  * Händel, Georg Friedrich ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Beispiel für Almira-Analyse
-  * Kircher, Athanasius (1602–1680) - Jesuit und Universalgelehrter
-  * Lasso, Orlando di ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Komponist von Motetten-Vorbildern
-  * Mattheson, Johann (1681–1764) - Opernsänger, Komponist, Musiktheoretiker
-  * Mozart, Wolfgang Amadeus ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Traditionsträger der Fantasie
-  * Muffat ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Traditionsträger der Fantasie
-  * Neumeister, Erdmann ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Textdichter, Reform der Kirchenkantate
-  * Quinault, Philippe ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Librettist von Händels Almira
-  * Scacchi, Marco (um 1605–1662) - Grundlage für Kirchers Stillehre
-  * Telemann, Georg Philipp ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - 1. Flötenfantasie als Beispiel
-  * Wahl, Johann Salomon ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Vorlage für Mattheson-Porträt
-  * Walther, Johann Gottfried (1684–-1748) - Übersetzer von Brossard
+  * Bach, Carl Philipp Emanuel (1714--1788) -- Traditionsträger der Fantasie
+  * Bokemeyer, Heinrich (1679--1751) -- Wolfenbütteler Kantor, Kontrahent Matthesons
+  * Brossard, Sébastien de (1655--1730) -- Lexikograf
+  * Buxtehude, Dieterich (1637--1707) -- Traditionsträger der Fantasie
+  * Corelli, Arcangelo (1653--1713) -- Vorbild für Instrumentalstil in der Kammer
+  * Froberger, Johann Jakob (1616--1667) -- Schüler Frescobaldis, Vertreter der Fantasie
+  * Haid, Johann Jacob (1704--1767) -- Kupferstecher des Mattheson-Porträts 1746
+  * Hammerschmidt, Andreas (1611--1675) -- Zeitgenosse von Heinrich Schütz
+  * Händel, Georg Friedrich (1685--1759) -- Beispiel für Almira-Analyse
+  * Kircher, Athanasius (1602--1680) -- Jesuit und Universalgelehrter
+  * Lasso, Orlando di (1532--1594) -- Komponist von Motetten-Vorbildern
+  * Mattheson, Johann (1681--1764) -- Opernsänger, Komponist, Musiktheoretiker
+  * Mozart, Wolfgang Amadeus (1756--1791) -- Traditionsträger der Fantasie
+  * Muffat, Georg (1653--1704) -- Traditionsträger der Fantasie
+  * Neumeister, Erdmann (1671--1756) -- Textdichter, Reform der Kirchenkantate
+  * Quinault, Philippe (1635--1688) -- Librettist von Händels Almira
+  * Scacchi, Marco (um 1605--1662) -- Grundlage für Kirchers Stillehre
+  * Telemann, Georg Philipp (1681--1767) -- 1. Flötenfantasie als Beispiel
+  * Wahl, Johann Salomon (1689--1765) -- Vorlage für Mattheson-Porträt
+  * Walther, Johann Gottfried (1684--1748) -- Übersetzer von Brossard
 
 @config.link.personen
 
 * **Werke**
   
-  * Händel, Georg Friedrich: *Almira* (1705) - Beispiel für madrigalischen und dramatischen Stil
-  * Telemann, Georg Philipp: *1. Flötenfantasie* - praktisches Beispiel für phantastischen Stil
+  * Händel, Georg Friedrich: *Almira* (1705) -- Beispiel für madrigalischen und dramatischen Stil
+  * Telemann, Georg Philipp: *1. Flötenfantasie* -- praktisches Beispiel für phantastischen Stil
 
 
 
