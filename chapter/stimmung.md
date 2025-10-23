@@ -209,4 +209,4 @@ Alles auf einen Blick.
   
   * Keine spezifischen Werke genannt - nur musik-theoretische Prinzipien
 
-@config.link.werke
+

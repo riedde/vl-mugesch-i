@@ -447,5 +447,5 @@ Alles auf einen Blick.
   * Metastasio, Pietro: *Didone abbandonata* - über 60 Vertonungen
   * Tasso, Torquato: *La Gerusalemme liberata* - Vorlage für beliebte Opernstoffe
 
-@config.link.werke
+
 

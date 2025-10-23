@@ -81,7 +81,6 @@ Alles auf einen Blick.
   * Kalliwoda, Johannes Wenceslaus: *1. Sinfonie* (1827) - kritisch rezensiert in der AmZ
   * Mozart, Wolfgang Amadé: *La clemenza di Tito* ({%ENTSTEHUNGSJAHR%}) - letzte Oper, Opera seria
 
-@config.link.werkeeben Auflagen erschienen
 
 - Rosen stellte in detail- und kenntnisreichen Kapiteln einige Gattungen der drei Komponisten als idealtypisch heraus:
 

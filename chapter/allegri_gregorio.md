@@ -31,7 +31,7 @@ tags:     komponist, kultur, italien, rom, vokalmusik
 
   * Zunehmend homophoner Tonsatz
   * Steigerung der Stimmenzahl
-  * Beispiel: Abbatini - Messen für bis zu 48 Stimmen
+  * Beispiel: Abbatini – Messen für bis zu 48 Stimmen
   * Aufführungspraxis: Sänger auf Gerüsten im Petersdom
 
 * Bezeichnung: ,Römischer Prunkstil‘
@@ -152,7 +152,7 @@ tags:     komponist, kultur, italien, rom, vokalmusik
   > – Wilhelm Heinse
 
 ## Quiz und Reflexion
-Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1–3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
 
 **Welche besonderen Umstände prägten die Aufführung von Allegris Miserere?**
 
@@ -196,20 +196,22 @@ Alles auf einen Blick.
 
 * **Personen**
 
-  * Abbatini ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Komponist von Messen für bis zu 48 Stimmen
-  * Allegri, Gregorio (1582–1652) - italienischer Priester, Komponist und Tenorsänger
-  * Burney, Charles ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - erste Notenausgabe Ende 18. Jh.
-  * Heinse, Wilhelm ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Erlebnis 1782/83 in Rom
-  * Mendelssohn Bartholdy, Felix (1809–1847) - Dokumentation der Zeremonie in Briefen (1831)
-  * Mozart, Wolfgang Amadé (1756–1791) - legendäre Nachschrift aus dem Gedächtnis als Knabe
-  * Reichardt, Johann Friedrich ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - deutscher Nachdruck
-  * Zelter, Carl Friedrich ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Kompositionslehrer Mendelssohns
+  * Abbatini, Antonio Maria (1595–1679?) – Komponist von Messen für bis zu 48 Stimmen
+  * Allegri, Gregorio (1582–1652) – italienischer Priester, Komponist und Tenorsänger
+  * Burney, Charles (1726–1814) – erste Notenausgabe des Miserere (Allegri) Ende des 18. Jh.
+  * Heinse, (Johann Jakob) Wilhelm (1746–1803) – Erlebnis 1782/83 in Rom
+  * Mendelssohn Bartholdy, Felix (1809–1847) – Dokumentation der Zeremonie in Briefen (1831)
+  * Mozart, Wolfgang Amadé (1756–1791) – legendäre Nachschrift aus dem Gedächtnis als Knabe
+  * Reichardt, Johann Friedrich (1752–1814) – deutscher Nachdruck
+  * Zelter, Carl Friedrich (1758–1832) – Kompositionslehrer Mendelssohns
 
 @config.link.personen
 
 * **Werke**
   
-  * Allegri, Gregorio: Miserere mei (1637) - Vertonung des 51. Psalms für neun Stimmen in zwei Chören
+  * Allegri, Gregorio: Miserere mei (1637) – Vertonung des 51. Psalms für neun Stimmen in zwei Chören
 
-@config.link.werke
+    * [Aufnahme des Ensembles Voces8](https://youtu.be/cLtm0DqNPHM?si=6eb58ig3y8IQuIM5)
+
+
 

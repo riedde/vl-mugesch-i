@@ -337,4 +337,4 @@ Alles auf einen Blick.
   * Peri, Jacopo: *La Dafne* (1598) - erste Oper (verschollen)
   * Peri, Jacopo: *L'Euridice* (1600) - Vertonung des Rinuccini-Librettos
 
-@config.link.werke
+

@@ -1,7 +1,7 @@
 <!--
-author:   Dennis Ried
-email:    dennis.ried@musikwiss.uni-halle.de
-version:  1.0.0
+author: Dennis Ried
+email: dennis.ried@musikwiss.uni-halle.de
+version: 1.0.0
 language: de
 narrator: Deutsch Female
 import:   ../config.md
@@ -69,7 +69,7 @@ tags:     kompositionsweise
 
 - Jesuitenpater in Rom: gelehrter deutscher Musiktheoretiker.
 
-- Musurgia universalis (1650): umfassendes Musikkompendium.
+- Musurgia universalis (1650): umfassendes Musikkompendium. 
 
 - Pionierrolle: gehörte zu den ersten Theoretikern mit Anweisungen zur musikalischen Umsetzung bestimmter Affekte.
 
@@ -191,7 +191,7 @@ tags:     kompositionsweise
 Es gibt einen eigenen Kurs zu @config.link.course(Heinrich Schütz,schuetz_heinrich)
 
 ## Quiz und Reflexion
-Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1–3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
 
 **Welche beiden Hauptfunktionen erfüllt die Affektenlehre in der Musik des 17. und 18. Jahrhunderts?**
 
@@ -231,21 +231,21 @@ Alles auf einen Blick.
 
 * **Literatur**
 
-  * Bernhard, Christoph: *Tractatus compositionis augmentatus*, 1648/49
+  * Bernhard, Christoph: *Tractatus compositionis augmentatus* (1648/49), hrsg. als *Die Kompositionslehre Heinrich Schützens in der Fassung seines Schülers Christoph Bernhard* von Joseph Müller-Blattau, Kassel ⁶2017
   * Kircher, Athanasius: *Musurgia universalis*, Rom 1650
-  * Mattheson, Johann: *Vollkommener Kapellmeister*, Hamburg 1739
-  * Schweitzer, Albert: *Jean-Sébastien Bach, le musicien poète*, Paris und Leipzig 1905
+  * Mattheson, Johann: *Der vollkommene Kapellmeister*, Hamburg 1739
+  * Schweitzer, Albert: *Johann Sebastian Bach*, Paris 1905, erw. Leipzig 1908
 
 * **Personen**
 
-  * Bernhard, Christoph (1628–1632) - Schüler von Heinrich Schütz
-  * Kircher, Athanasius (1602–1680) - Jesuitenpater in Rom
-  * Kretzschmar, Hermann (1848-1924) - Musikwissenschaftler
-  * Mattheson, Johann (1681-1764) - Hamburger Musikschriftsteller
-  * Schering, Arnold (1877-1941) - Musikwissenschaftler
-  * Schütz, Heinrich (1585-1672)
-  * Schweitzer, Albert (1875-1965)
-  * Zarlino, Gioseffo (1517-1590) - Renaissance-Theoretiker
+  * Bernhard, Christoph (1627–1692) – Schüler von Heinrich Schütz
+  * Kircher, Athanasius (1602–1680) – Jesuitenpater in Rom
+  * Kretzschmar, Hermann (1848–1924) – Musikwissenschaftler
+  * Mattheson, Johann (1681–1764) – Hamburger Musikschriftsteller
+  * Schering, Arnold (1877–1941) – Musikwissenschaftler
+  * Schütz, Heinrich (1858–1672) – Hofkapellmeister in Dresden
+  * Schweitzer, Albert (1875–1965) – Theologe und Arzt, Organist und Bach-Biograph
+  * Zarlino, Gioseffo (1517–1590) – Renaissance-Theoretiker
 
 @config.link.personen
 
@@ -253,4 +253,4 @@ Alles auf einen Blick.
   
   * Keine spezifischen Musikwerke genannt - nur theoretische Schriften (siehe Literatur)
 
-@config.link.werke
+

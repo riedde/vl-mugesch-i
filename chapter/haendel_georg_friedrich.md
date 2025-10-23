@@ -29,7 +29,7 @@ tags:     komponist, barock
 
 ------
 
-!['Uni Halle, Register der Matrikel 1693 -1744, H-P, 298r, Ausschnitt: obere Blatthälfte'](https://opendata.uni-halle.de//iiif-imgsrv/9a5b6554-515b-4033-bb22-8dce9f94b1e4/!0!36!74!74!3674743040303372375116726939389762576/137,121,2378,1109/full/0/default.jpg?download=true "Register der Matrikel 1693 -1744, H-P, 298r")
+!['Uni Halle, Register der Matrikel 1693–1744, H-P, 298r, Ausschnitt: obere Blatthälfte'](https://opendata.uni-halle.de//iiif-imgsrv/9a5b6554-515b-4033-bb22-8dce9f94b1e4/!0!36!74!74!3674743040303372375116726939389762576/137,121,2378,1109/full/0/default.jpg?download=true "Register der Matrikel 1693 -1744, H-P, 298r")
 
 ## Händels Werke
 
@@ -83,7 +83,7 @@ tags:     komponist, barock
 
 - **Traditionelles Musikerbild:** Stadtmusikant Miller in Schillers *Kabale und Liebe*, Prototyp des deutschen Musikers (redlich, rechtschaffen, aber arm), Mozart-Mythos (in größter Armut gestorbener Komponist), kollektives Gedächtnis: Musiker am untersten Rand der Gesellschaft, ›brotlose Kunst‹
 
-- **Realität des 19. Jahrhunderts:** Bestätigung - oft tatsächlicher Fall im 19. Jahrhundert
+- **Realität des 19. Jahrhunderts:** Bestätigung – oft tatsächlicher Fall im 19. Jahrhundert
 
 ### Wirtschaftlicher Erfolg
 
@@ -121,7 +121,7 @@ tags:     komponist, barock
 
   - Oratorium *The Messiah* (Kompositionszeit 24 Tage, 1741): Einnahmen gespendet an wohltätige Einrichtungen (Dublin-Uraufführung: Mercer's Hospital, London: Foundling Hospital/Waisenhaus)
 
-  - Testamentarische Spenden: Society for the support of decayed musicians and their families £ 1000 (etwa 370.000 Euro) - größte Spende, die diese Organisation jemals erhalten hatte
+  - Testamentarische Spenden: Society for the support of decayed musicians and their families £ 1000 (etwa 370.000 Euro) – größte Spende, die diese Organisation jemals erhalten hatte
 
   - Regelmäßige Benefizkonzerte häufig zugunsten von Musikerwitwen der Royal Chapel
 
@@ -135,7 +135,7 @@ tags:     komponist, barock
 
   - **Halle (bis 1703):** Flucht aus der Enge des Kantorenamtes bereits als 17-Jähriger
 
-  - **Hamburg (1703-1706):** Knapp drei Jahre, erst Violinist, dann Maestro di Cembalo (Continuospieler und Dirigent) an der Gänsemarkt-Oper unter Reinhold Keyser, Freundschaft mit Musikschriftsteller Johann Mattheson, vier deutsche Opern komponiert, erhaltenes Werk *Almira* (etwa 20 Aufführungen, Mattheson sang Hauptrolle)
+  - **Hamburg (1703-1706):** Knapp drei Jahre, erst Violinist, dann Maestro di Cembalo (Continuospieler und Dirigent) an der Gänsemarkt-Oper unter Reinhard Keiser, Freundschaft mit Musikschriftsteller Johann Mattheson, vier deutsche Opern komponiert, erhaltenes Werk *Almira* (etwa 20 Aufführungen, Mattheson sang Hauptrolle)
 
   - **Matthesons Charakterisierung:** »starck auf der Orgel [...] in Fugen und Contrapuncten, absonderlich ex tempore; aber er wußte sehr wenig von der Melodie, ehe er in die hamburgische Oper kam« - virtuos und kunstvolle Improvisationen, lebenslang Gunst durch Orgelspiel, mangelndes Opernverständnis zu dieser Zeit
 
@@ -145,7 +145,7 @@ tags:     komponist, barock
 
 - **Entstehung und Erfolg:** 1710 in London, als bedeutender italienischer Opernkomponist empfangen, spektakulärer Erfolg
 
-- **Stoffliche Grundlage:** Armida-Episode aus dem 16. Gesang von Tassos *Das befreite Jerusalem*, einer der beliebtesten Opernstoffe der Barockzeit, Vorläufer: Jean Baptiste Lully (1686 in Paris als Tragédie lyrique)
+- **Stoffliche Grundlage:** Armida-Episode aus dem 16. Gesang von Tassos *Das befreite Jerusalem*, einer der beliebtesten Opernstoffe der Barockzeit, Vorläufer: Jean-Baptiste Lully (1686 in Paris als Tragédie lyrique)
 
 - **Handlung - Grundkonstellation:** Unterbrechung eines Kreuzzuges zur Befreiung Jerusalems, Rinaldo erliegt Verführungskünsten der sarazenischen Zauberin Armida, Vergessen der Mission, Liebesspiel im Zaubergarten
 
@@ -284,39 +284,39 @@ Alles auf einen Blick.
 
 * **Literatur**
 
-  * Deutsch, O. E.: *{%TITEL%}*, {%ORT%} 1955
+  * Deutsch, Otto Erich: *Handel. A Documentary Biography*, New York 1955
   * Keil, Werner: *Musikgeschichte im Überblick*, Paderborn ³2018
-  * Marx, Hans Joachim: Art. *Händel, Georg Friedrich*, in: MGG Online, {%ORT%} {%JAHR%}
+  * Marx, Hans Joachim: Art. "Händel, Georg Friedrich", in: *MGG Online*, hrsg. von Laurenz Lütteken, New York/Kassel/Stuttgart 2016ff., zuerst veröffentlicht 2002, online veröffentlicht 2016, [https://www.mgg-online.com/mgg/stable/532267](https://www.mgg-online.com/mgg/stable/532267)
 
 * **Personen**
 
-  * Burney, Charles ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musikhistoriker
-  * Corelli, Arcangelo ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - wichtigster Lehrer Händels in Italien
-  * Cuzzoni, Francesca ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Primadonna (£ 2000 jährlich)
-  * Duke of Cumberland ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Widmungsträger des Oratoriums Judas Maccabäus
-  * Farinelli ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Gesangsschüler Porporas
-  * Grimaldi, Nicolò (Nicolini) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Kastrat
-  * Händel, Georg Friedrich (1685–1759) - Komponist und Musikunternehmer
-  * Keyser, Reinhold ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Leiter der Gänsemarkt-Oper Hamburg
-  * Kinnoull, Earl of ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Freund Händels
-  * Mattheson, Johann (1681–1764) - Musikschriftsteller und Freund Händels
-  * Porpora ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Konkurrent mit Gesangsschüler Farinelli
-  * Senesino ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Kastrat (£ 2000 jährlich)
-  * Smith, John Christopher jun. ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Schüler Händels
-  * Stuart, Charles Edward (Bonnie Prince Charly) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Anführer des Schottischen Aufstands
-  * Wich, Cyril ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Schüler Händels in Hamburg
+  * Burney, Charles (1726–1814) – Musikhistoriker
+  * Corelli, Arcangelo (1653–1713) – wichtigster Lehrer Händels in Italien
+  * Cuzzoni, Francesca (1691–1772) – Primadonna (£ 2000 jährlich)
+  * William August, Duke of Cumberland (1721–1765) – Widmungsträger des Oratoriums Judas Maccabäus
+  * Farinelli (Carlos Broschi) (1705–1782) – Gesangsschüler Porporas
+  * Grimaldi, Nicolò (Nicolini) (1673–1732) – Kastrat
+  * Händel, Georg Friedrich (1685–1759) – Komponist und Musikunternehmer
+  * Keiser, Reinhard (1674–1739) – Komponist, Oper am Gänsemarkt (Hamburg)
+  * Hay, George, Earl of Kinnoull (1689–1758) – Freund Händels
+  * Mattheson, Johann (1681–1764) – Musikschriftsteller und Freund Händels
+  * Porpora, Nicola (1686–1768) – Konkurrent Händels mit Gesangsschüler Farinelli
+  * Senesino (Francesco Bernardi) (1686–1759) – Kastrat (£ 2000 jährlich)
+  * Smith, John Christopher jun. (1712–1795) – Schüler Händels
+  * Stuart, Charles Edward (Bonnie Prince Charly) (1720–1788) – Anführer des Schottischen Aufstands
+  <!--* Wich, Cyril ({%GEBURTSJAHR%}–{%STERBEJAHR%}) – Schüler Händels in Hamburg ..>
 
 @config.link.personen
 
 * **Werke**
   
-  * Händel, Georg Friedrich: *Almira* (um 1703/1705) - deutsche Oper aus Hamburg
-  * Händel, Georg Friedrich: *Athalia* ({%ENTSTEHUNGSJAHR%}) - Oratorium eigens für Oxford komponiert
-  * Händel, Georg Friedrich: *Giulio Cesare in Egitto* (1723) - berühmteste Oper der Royal Academy
-  * Händel, Georg Friedrich: *Israel in Egypt* ({%ENTSTEHUNGSJAHR%}) - Oratorium ausschließlich auf Bibeltext
-  * Händel, Georg Friedrich: *Judas Maccabäus* ({%ENTSTEHUNGSJAHR%}) - Huldigungsoratorium für Duke of Cumberland
-  * Händel, Georg Friedrich: *Rinaldo* (1710) - erste Londoner Oper mit spektakulärem Erfolg
-  * Händel, Georg Friedrich: *The Messiah* (1741) - berühmtestes Oratorium mit Hallelujah-Chor
+  * Händel, Georg Friedrich: *Almira* (um 1703/1705) – Oper aus Hamburg (teils deutsch, teils italienisch)
+  * Händel, Georg Friedrich: *Athalia* ({%ENTSTEHUNGSJAHR%}) – Oratorium eigens für Oxford komponiert
+  * Händel, Georg Friedrich: *Giulio Cesare in Egitto* (1723) – berühmteste Oper der Royal Academy
+  * Händel, Georg Friedrich: *Israel in Egypt* ({%ENTSTEHUNGSJAHR%}) – Oratorium ausschließlich auf Bibeltext
+  * Händel, Georg Friedrich: *Judas Maccabäus* () – Huldigungsoratorium für den Duke of Cumberland
+  * Händel, Georg Friedrich: *Rinaldo* (1710) – erste Londoner Oper mit spektakulärem Erfolg
+  * Händel, Georg Friedrich: *The Messiah* (1741) – berühmtestes Oratorium mit Hallelujah-Chor
 
-@config.link.werke
+
 

@@ -18,7 +18,7 @@ font:     Source Sans 3
 
 ## Entstehung der Musikgeschichtschreibung
 
-### Frankreich - Die Anfänge
+### Frankreich – Die Anfänge
 
 * Ursprung im Umfeld der Enzyklopädisten
 
@@ -30,7 +30,7 @@ font:     Source Sans 3
 
   * Eigenes Werk: _Dictionnaire de musique_ (Paris 1768)
 
-### England - Erste systematische Forschung
+### England – Erste systematische Forschung
 
 * **Charles Burney** (1726-1814)
 
@@ -48,9 +48,9 @@ font:     Source Sans 3
 
 > "Für Burney bildete die eigene Gegenwart den Gipfel der Musikentwicklung; seine Zeitgenossen Joseph Haydn und Johann Christian Bach zählte er zu den größten Komponisten."
 >
-> -- Keil 2024, S. 
+> -- Keil 2024, S. 17
 
-### Deutschland - Anfänge der Musikwissenschaft
+### Deutschland – Anfänge der Musikwissenschaft
 
 * **Johann Nikolaus Forkel** (1749-1818)
 
@@ -62,7 +62,7 @@ font:     Source Sans 3
 
     - Leiter des akademischen Musiklebens
 
-  * Sammlung: ca. 2000 Musikbücher und Notenhandschriften
+  * Hinterließ eine Sammlung: ca. 2000 Musikbücher und Notenhandschriften
 
   * Bedeutende Schüler:
 
@@ -70,7 +70,7 @@ font:     Source Sans 3
     
     - Friedrich Schlegel (1772–1829), Kulturphilosoph/Schriftsteller/Literatur- und Kunstkritiker/Historiker/Altphilologe
 
-    - Wilhelm Heinrich Wackenroder (1773–1798), Dicher/Jurist
+    - Wilhelm Heinrich Wackenroder (1773–1798), Dichter/Jurist
 
     - Ludwig Tieck (1773–1853), Schriftsteller
 
@@ -112,15 +112,14 @@ font:     Source Sans 3
 
 ### Zeitliche Einteilung
 
-> Eines der wichigsten Probleme der Menschheit, das zugleich mit ihrer Entstehung aufgetaucht ist, besteht darin, die irdische Zeit zu beherrschen. Kalender haben es ermöglicht, das Alltagsleben zu organisieren, darum sind sie fast immer mit dem Lauf der Natur verknüpft, mit zwei wichtigen Bezugspunkten, nämlich Sonne und Mond. Doch Kalender definieren eine in Zyklen und Jahren bemessene Zeit und sind völlig ungeeignet, längere Zeiträume zu erfassen. [...]
->
-> Um sie [die Zeit] zu organisieren, hat man verschiedene Ausdrücke benutzt: Man hat von „Zeitaltern", „Epochen" und „Zyklen" gesprochen. Doch der Begriff „Periode" scheint mir am besten geeignet zu sein. „Periode" kommt vom griechischen *periodos* und bezeichnet einen kreisförmigen Weg. Zwischen dem 14. und 18. Jahrhundert nahm dieser Ausdruck die Bedeutung „Zeitraum" oder „Zeitalter" an.
+> Eines der wichigsten Probleme der Menschheit, das zugleich mit ihrer Entstehung aufgetaucht ist, besteht darin, die irdische Zeit zu beherrschen. Kalender haben es ermöglicht, das Alltagsleben zu organisieren, darum sind sie fast immer mit dem Lauf der Natur verknüpft, mit zwei wichtigen Bezugspunkten, nämlich Sonne und Mond. Doch Kalender definieren eine in Zyklen und Jahren bemessene Zeit und sind völlig ungeeignet, längere Zeiträume zu erfassen. \[...\]
+> Um sie [die Zeit] zu organisieren, hat man verschiedene Ausdrücke benutzt: Man hat von "Zeitaltern", "Epochen" und "Zyklen" gesprochen. Doch der Begriff "Periode" scheint mir am besten geeignet zu sein. "Periode" kommt vom griechischen *periodos* und bezeichnet einen kreisförmigen Weg. Zwischen dem 14. und 18. Jahrhundert nahm dieser Ausdruck die Bedeutung "Zeitraum" oder "Zeitalter" an.
 >
 > – Jaques Le Goff: Geschichte ohne Epochen?, S. 11f.
 
-- Einteilung der Zeit in „Abschnitte“ unentbehrlich
+- Einteilung der Zeit in "Abschnitte" unentbehrlich
   
-  - unabhängig von der Perspektive (Gesellschaft, Wissen, Lehre, Kunst)
+  - unabhängig von der Perspektive (Gesellschaft, Wissenschaft, Lehre, Kunst)
   - zum Berichten / zum Unterrichten
 
 - Unterteilung
@@ -128,7 +127,7 @@ font:     Source Sans 3
   - ist chronologischer Vorgang
   - vermittelt Vorstellung von einem Übergang, Wendepunkt, oder einer Abkehr von der Gesellschaft und den Werten der vorangegangenen "Epoche"
 
-> Oft wird versucht, „Perioden" und „Jahrhunderte" miteinander zu assoziieren. Der französische Ausdruck „siècle" (Jahrhundert) im Sinn einer „hundertjährigen Periode", die theoretisch mit einem auf „00" endenden Jahr beginnt, kam erst im 16. Jahrhundert auf. Davor bezeichnete das lateinische Wort saeculum entweder die alltägliche Welt („im Jahrhundert leben") oder eine relativ kurze, ungenau umrissene Periode, die den Namen einer großen, ihr Glanz verleihenden Persönlichkeit trug: zum Beispiel das „Jahrhundert des Perikles", das „Jahrhundert Cäsars" usw. Der Begriff des Jahrhunderts hat seine Mängel, weil ein mit „00" endendes Jahr selten ein Jahr ist, das im Leben der Gesellschaft auch einen Bruch bedeutet. Darum hat man suggeriert beziehungsweise fest behauptet, dass dieses oder jenes Jahrhundert eigentlich vor oder nach dem Stichjahr anfing und länger als einhundert Jahre gedauert oder umgekehrt früher aufgehört hat: So begann das 18. Jahrhundert für die Historiker erst 1715 und das 20. Jahrhundert erst 1914. Trotz solcher Unzulänglichkeiten wurde das Jahrhundert zu einem unentbehrlichen chronologischen Werkzeug, nicht nur für Historiker, sondern auch für alle anderen, die sich für die Vergangenheit interessieren.
+> Oft wird versucht, "Perioden" und "Jahrhunderte" miteinander zu assoziieren. Der französische Ausdruck "siècle" (Jahrhundert) im Sinn einer "hundertjährigen Periode", die theoretisch mit einem auf "00" endenden Jahr beginnt, kam erst im 16. Jahrhundert auf. Davor bezeichnete das lateinische Wort saeculum entweder die alltägliche Welt ("im Jahrhundert leben") oder eine relativ kurze, ungenau umrissene Periode, die den Namen einer großen, ihr Glanz verleihenden Persönlichkeit trug: zum Beispiel das "Jahrhundert des Perikles", das "Jahrhundert Cäsars" usw. Der Begriff des Jahrhunderts hat seine Mängel, weil ein mit "00" endendes Jahr selten ein Jahr ist, das im Leben der Gesellschaft auch einen Bruch bedeutet. Darum hat man suggeriert beziehungsweise fest behauptet, dass dieses oder jenes Jahrhundert eigentlich vor oder nach dem Stichjahr anfing und länger als einhundert Jahre gedauert oder umgekehrt früher aufgehört hat: So begann das 18. Jahrhundert für die Historiker erst 1715 und das 20. Jahrhundert erst 1914. Trotz solcher Unzulänglichkeiten wurde das Jahrhundert zu einem unentbehrlichen chronologischen Werkzeug, nicht nur für Historiker, sondern auch für alle anderen, die sich für die Vergangenheit interessieren.
 >
 > – Le Goff: Geschichte ohne Epochen?, S. 13f.
 
@@ -146,7 +145,12 @@ font:     Source Sans 3
    * 1800 (Romantik/"Sattelzeit")
    * 1910 (Atonale Musik)
 
-Weitere (wichtige) Ereignisse: 1492 Entdeckung Amerikas, 1517 Thesenanschlag Luthers, 1789ff. Französische Revolution usw.
+* Weitere (wichtige) Ereignisse:
+
+  * 1492 Entdeckung Amerikas
+  * 1517 Thesenanschlag Luthers
+  * 1789ff. Französische Revolution
+  * usw.
 
 2. *Ästhetische Präsenz*
 
@@ -172,9 +176,8 @@ Weitere (wichtige) Ereignisse: 1492 Entdeckung Amerikas, 1517 Thesenanschlag Lut
 
 **Traditionelle Probleme:**
 
-* Bürgerliche Perspektive
 * Fokus auf notierte Musik
-* Vernachlässigung von Volks- und außereuropäischer Musik
+* "Vernachlässigung" von Volks- und außereuropäischer Musik
 
 **Moderne Ansätze:**
 
@@ -215,17 +218,22 @@ Heute ist es weniger nötig die Erzählweise zu typisieren, da man sich heute �
 
   * 1582 von Papst Gregor XIII. eingeführt
   * verbesserte Regelung für Schaltjahre
-  * Berechnugnsfehler erst nach >3.200 Jahren relevant
+  * Berechnungsfehler erst nach >3.200 Jahren relevant
   * Umstellung: 4\. Oktober 1582 (Donnerstag, jul.), 15. Oktober 1582 (Freitag, greg.)
   * Differenz heute: 13 Tage
   * Übernahme des Kalenders (vgl. [Wikipedia](https://de.wikipedia.org/w/index.php?title=Gregorianischer_Kalender&oldid=257687238#%C3%9Cbernahme_des_gregorianischen_Kalenders))
 
 * Wann ist Neujahr?
 
-  * Venedig, 01. März, bis 1797
-  * Florenz/Pisa, 25. März, bis 1749
-  * Schottland bis 1600
-  * England/Irland vom 13. Jhd. bis 1752
+  * 1\. März
+
+    * Venedig bis 1797
+  
+  * 25\. März
+
+    * Florenz/Pisa bis 1749
+    * Schottland bis 1600
+    * England/Irland vom 13. Jhd. bis 1752
 
 ---
 
@@ -243,7 +251,7 @@ Beispiel: G. F. Händels Geburtstag
 _Welche dieser Aussagen trifft zu?_
 
 [[ ]] Musikgeschichte verlief in Europa einheitlich.
-[[X]] Italien war im „Barock“ im Bereich Musik führend.
+[[X]] Italien war im "Barock" im Bereich Musik führend.
 [[X]] Die Stilgeschichte wurde von Riemann und Adler geprägt.
 [[ ]] Musikgeschichtsschreibung war nie eine bürgerliche Angelegenheit.
 
@@ -264,35 +272,34 @@ Alles auf einen Blick.
 
 * **Literatur**
 
-  * Burney, Charles: *General History of Music from the Earliest Ages to the Present Period*, {%ORT%} 1776-1789
-  * Burney, Charles: *Tagebuch seiner musikalischen Reisen*, {%ORT%} 1773 (dt.)
-  * d'Alembert, Jean Le Rond: *Encyclopédie*, {%ORT%} seit 1751 (Herausgeber mit Diderot)
-  * Diderot, Denis: *Encyclopédie*, {%ORT%} seit 1751 (Herausgeber mit d'Alembert)
-  * Forkel, Johann Nikolaus: *Allgemeine Geschichte der Musik*, {%ORT%} 1788/1801
-  * Forkel, Johann Nikolaus: *Über Johann Sebastian Bach's Leben, Kunst und Kunstwerke*, Leipzig 1802
+  * Burney, Charles: *General History of Music from the Earliest Ages to the Present Period*, New York 1789, [Digitalisat, 1935](https://archive.org/details/generalhistoryof00burn2/page/n7/mode/2up)
+  * Burney, Charles: *Tagebuch seiner musikalischen Reisen*, Hamburg 1773, dt. Übersetzung, [Digitalisat](https://archive.org/details/CarlBurneysDerMusikDoctorsTagebuchSeinerMusikalischenReisenBd.3)
+  * d'Alembert, Jean Le Rond/Diderot, Denis: *Encyclopédie*, Paris seit 1751 (Herausgeber mit Diderot), [Digitalisat](https://gallica.bnf.fr/ark:/12148/bpt6k50533b.texteImage)
+  * Forkel, Johann Nikolaus: *Allgemeine Geschichte der Musik*, Leipzig 1788/1801, [Digitalisat](https://www.digitale-sammlungen.de/de/view/bsb10527181?page=5)
+  * Forkel, Johann Nikolaus: *Über Johann Sebastian Bach's Leben, Kunst und Kunstwerke*, Leipzig 1802, [Digitalisat](https://www.digitale-sammlungen.de/de/view/bsb10528130?page=7)
   * Keil, Werner: *Musikgeschichte im Überblick*, Paderborn ^3^2018
   * Le Goff, Jacques: *Geschichte ohne Epochen?*, Darmstadt 2016
-  * Rousseau, Jean-Jacques: *Dictionnaire de musique*, Paris 1768
+  * Rousseau, Jean-Jacques: *Dictionnaire de musique*, Paris 1768, [Digitalisat](https://www.digitale-sammlungen.de/de/view/bsb10599342?page=9)
 
 * **Personen**
 
-  * Adler, Guido (1855–1941) - Vertreter der Stilgeschichte
-  * Bach, Johann Christian ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - von Burney zu den größten Komponisten gezählt
-  * Burney, Charles (1726–1814) - englischer Musikhistoriker, Forschungsreisen
-  * d'Alembert, Jean Le Rond ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Herausgeber der Encyclopédie
-  * Dahlhaus, Carl ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musikforscher ("ästhetische Präsenz")
-  * Diderot, Denis ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Herausgeber der Encyclopédie
-  * Forkel, Johann Nikolaus (1749–1818) - Begründer der modernen Musikwissenschaft
-  * Gluck, Christoph Willibald ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - von Forkel kritisch beurteilt
-  * Haydn, Joseph ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - von Burney zu den größten Komponisten gezählt
-  * Humboldt, Wilhelm von (1767–1835) - Schüler Forkels
-  * Mozart, Wolfgang Amadé ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - von Forkel kritisch beurteilt
-  * Riemann, Hugo (1849–1919) - Vertreter der Stilgeschichte
-  * Rousseau, Jean-Jacques (1712–1778) - Hauptbeiträger der Musikartikel in der Encyclopédie
-  * Schlegel, August Wilhelm (1767–1845) - Schüler Forkels
-  * Schlegel, Friedrich (1772–1829) - Schüler Forkels
-  * Tieck, Ludwig (1773–1853) - Schüler Forkels
-  * Wackenroder, Wilhelm Heinrich (1773–1798) - Schüler Forkels
+  * [Adler, Guido](https://lobid.org/gnd/118500694) (1855–1941) -- Musikwissenschaftler | Jurist
+  * [Bach, Johann Christian](https://lobid.org/gnd/118505521) (1735–1782) -- Komponist, Sohn von Johann Sebastian Bach (von Burney zu den größten Komponisten gezählt)
+  * [Burney, Charles](https://lobid.org/gnd/118665340) (1726–1814) -- englischer Musikhistoriker, Forschungsreisen
+  * [d'Alembert, Jean Le Rond](https://lobid.org/gnd/11850178X) (1717–1783) -- Herausgeber der Encyclopédie, 	Mathematiker | Philosoph | Musikschriftsteller
+  * [Dahlhaus, Carl](https://lobid.org/gnd/118523341) (1928–1989) -- Musikforscher
+  * [Diderot, Denis](https://lobid.org/gnd/118525263) (1713–1784) -- Herausgeber der Encyclopédie, Schriftsteller | Philosoph | Lyriker
+  * [Forkel, Johann Nikolaus](https://lobid.org/gnd/118809962) (1749–1818) -- "Begründer" der modernen Musikwissenschaft
+  * [Gluck, Christoph Willibald](https://lobid.org/gnd/118539841) (1714–1787) -- Komponist
+  * [Haydn, Joseph](https://lobid.org/gnd/118547356) (1732–1809) -- Komponist (von Burney zu den größten Komponisten gezählt)
+  * [Humboldt, Wilhelm von](https://lobid.org/gnd/118554727) (1767–1835) -- Schüler Forkels
+  * [Mozart, Wolfgang Amadé](https://lobid.org/gnd/118584596) (1756–1791) -- Komponist (von Forkel kritisch beurteilt)
+  * [Riemann, Hugo](https://lobid.org/gnd/118600877) (1849–1919) -- Musikwissenschaftler, Theoretiker, Vertreter der Stilgeschichte
+  * [Rousseau, Jean-Jacques](https://lobid.org/gnd/118603426) (1712–1778) -- Hauptbeiträger der Musikartikel in der Encyclopédie
+  * [Schlegel, August Wilhelm](https://lobid.org/gnd/118607960) (1767–1845) -- Schüler Forkels, Schriftsteller | Kritiker | Übersetzer |Philologe | Orientalist | Librettist | Hochschullehrer |Literaturwissenschaftler | Lyriker
+  * [Schlegel, Friedrich](https://lobid.org/gnd/118607987) (1772–1829) -- Schüler Forkels, Bruder August Wilhelm Schlegels, 	Schriftsteller | Philosoph | Philologe | Kritiker | Literarhistoriker
+  * [Tieck, Ludwig](https://lobid.org/gnd/12989432X) (1773–1853) -- Schüler Forkels, Schriftsteller | Dramaturg | Philologe | Übersetzer | Hofrat
+  * [Wackenroder, Wilhelm Heinrich](https://lobid.org/gnd/118628097) (1773–1798) -- Schüler Forkels, Schriftsteller | Jurist
 
 @config.link.personen
 
@@ -300,4 +307,4 @@ Alles auf einen Blick.
   
   * Keine spezifischen Musikwerke genannt - nur musikhistorische Schriften (siehe Literatur)
 
-@config.link.werke
+
