@@ -416,7 +416,7 @@ Alles auf einen Blick.
 
 * **Literatur**
 
-  * Brossard ({%VORNAME%}): *{%TITEL%}*, {%ORT%} {%JAHR%} - übersetzt von Walther
+  * Brossard, Sébastien de: *Dictionnaire de musique*, Paris 1703 - übersetzt von Walther
   * Hammerschmidt, Andreas: *{%TITEL%}*, {%ORT%} {%JAHR%} - Motetten als Beispiel für Motettenstil
   * Kircher, Athanasius: *Musurgia Universalis*, Rom 1650
   * Lasso, Orlando di: *{%TITEL%}*, {%ORT%} {%JAHR%} - Motetten als Vorbilder
@@ -424,13 +424,13 @@ Alles auf einen Blick.
   * Mattheson, Johann: *Vollkommener Capellmeister*, {%ORT%} {%JAHR%}
   * Neumeister, Erdmann: *Geistliche Cantaten statt einer Kirchen-Music*, {%ORT%} 1704
   * Scacchi, Marco: *{%TITEL%}*, {%ORT%} {%JAHR%} - Stillehre der späten 1640er Jahre
-  * Walther ({%VORNAME%}): *{%TITEL%}*, {%ORT%} {%JAHR%} - Übersetzung von Brossard
+  * Walther, Johann Gottfried: *Musicalisches Lexicon oder Musicalische Bibliothec*, Leipzig 1732 -- Übersetzung von Brossard
 
 * **Personen**
 
   * Bach, Carl Philipp Emanuel ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Traditionsträger der Fantasie
   * Bokemeyer, Heinrich ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Wolfenbütteler Kantor, Kontrahent Matthesons
-  * Brossard ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Lexikograf
+  * Brossard, Sébastien de (1655--1730) - Lexikograf
   * Buxtehude ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Traditionsträger der Fantasie
   * Corelli, Arcangelo ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Vorbild für Instrumentalstil in der Kammer
   * Froberger, Johann Jakob ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Schüler Frescobaldis, Vertreter der Fantasie
@@ -447,7 +447,7 @@ Alles auf einen Blick.
   * Scacchi, Marco (um 1605–1662) - Grundlage für Kirchers Stillehre
   * Telemann, Georg Philipp ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - 1. Flötenfantasie als Beispiel
   * Wahl, Johann Salomon ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Vorlage für Mattheson-Porträt
-  * Walther ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Übersetzer von Brossard
+  * Walther, Johann Gottfried (1684–-1748) - Übersetzer von Brossard
 
 @config.link.personen
 
