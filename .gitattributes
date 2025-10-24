@@ -1,0 +1,13 @@
+# Verzeichnisse beim Merge ignorieren
+templates/** merge=myfilter
+datapool/** merge=myfilter
+
+# Dateitypen beim Merge ignorieren
+*.pdf merge=myfilter
+*.code-workspace merge=myfilter
+
+# Explizit erlaubte Dateien (überschreiben obige Regeln)
+README.md -merge
+index.md -merge
+style.css -merge
+config.md -merge
