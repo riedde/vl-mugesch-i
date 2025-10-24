@@ -142,21 +142,21 @@ unter [https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i](https://gitlab.
 
 Wer ist der Dozent der Vorlesung?
 
-[( )] Prof. Dr. Wolfgang Hirschmann
-[(X)] Jun.-Prof. Dr. Dennis Ried
-[( )] Prof. Dr. Wolfgang Auhagen
+[[ ]] Prof. Dr. Wolfgang Hirschmann
+[[X]] Jun.-Prof. Dr. Dennis Ried
+[[ ]] Prof. Dr. Wolfgang Auhagen
 
 Wann finden die Sprechstunden statt?
 
-[( )] montags und mittwochs
-[(X)] dienstags und donnerstags
-[(X)] nur nach Anmeldung
+[[ ]] montags und mittwochs
+[[X]] dienstags und donnerstags
+[[X]] nur nach Anmeldung
 
 Wann findet die Klausur statt?
 
-[( )] 05.02.2026
-[(X)] 11.02.2026
-[( )] 18.02.2026
+[[ ]] 05.02.2026
+[[X]] 11.02.2026
+[[ ]] 18.02.2026
 
 ### Übersichten
 
@@ -176,6 +176,5 @@ Wann findet die Klausur statt?
 
 | Studiengang    | Veranstaltung | Modul | Prüfung |
 |:---------------|:--------------|:------|:---------|
-| B.A. (60/120)  | Vorlesung Europäische Musikgeschichte im 17. und 18. Jahrhundert | Musikgeschichte I: Europäische Musikkultur im 17. und 18. Jahrhundert (MMS.08221.01) | Klausur (WiSe) |
-| LAG/LAS        | Vorlesung: Musikgeschichte I | Musikalische Strukturen der Musikgeschichte I (MMS.02995.03) | Klausur (SoSe) |
-| M. Ed. Lehramt Musik | [wird ergänzt] | [wird ergänzt] | [wird ergänzt] |
+| B.A. (60/120)  | Vorlesung Europäische Musikgeschichte im 17. und 18. Jahrhundert | Musikgeschichte I: Europäische Musikkultur im 17. und 18. Jahrhundert (MMS.08221.01) | Klausur |
+| LAG/LAS        | Vorlesung: Musikgeschichte I | Musikalische Strukturen der Musikgeschichte I (MMS.02995.03) | Klausur |

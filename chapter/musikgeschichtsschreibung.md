@@ -89,7 +89,7 @@ font:     Source Sans 3
 * **Forkel**: 
 
   - Sieht Gegenwart als Zeit des Verfalls
-  - Kritisch gegenüber Gluck und Mozart
+  - Kritisch gegenüber Christoph Willibald Gluck und Wolfgang Amadé Mozart
   - Seine retrospektive Haltung prägte deutsche Musikforschung
 
 
@@ -131,33 +131,6 @@ font:     Source Sans 3
 >
 > – Le Goff: Geschichte ohne Epochen?, S. 13f.
 
-### Herausforderung der Einteilung
-
-> Probleme entstehen für die Musikgeschichtsschreibung an den Schnittpunkten großer Epochen; die Geschichtswissenschaft spricht hier von ›Schwellenzeiten‹
->
-> -- Keil 2018, S. 18
-
-1. *Schwellenzeiten*
-
-   * 1430 (Ende Mittelalter)
-   * 1600 (Beginn Neuzeit)
-   * 1740 (Aufklärung)
-   * 1800 (Romantik/"Sattelzeit")
-   * 1910 (Atonale Musik)
-
-* Weitere (wichtige) Ereignisse:
-
-  * 1492 Entdeckung Amerikas
-  * 1517 Thesenanschlag Luthers
-  * 1789ff. Französische Revolution
-  * usw.
-
-2. *Ästhetische Präsenz*
-
-   > Mein Umgang mit vergangener Musik, ob ich sie aus dem Radio oder von CD höre, ihr im Konzert begegne oder sie selbst spiele oder singe, ist Teil meiner Gegenwart. Eine Beethovensonate ist, wie der Musikforscher Carl Dahlhaus einmal formuliert hat, keine musikgeschichtliche Tatsache, sondern eine musikalische, eine Angelegenheit des Jetzt, nicht der Geschichte.
-   >
-   > -- Keil 2018, S. 18
-
 ### Geographische Perspektive
 
 **Führende Musiknationen:**
@@ -169,14 +142,14 @@ font:     Source Sans 3
 **Italien als Zentrum:**
 
 * Ausbildungsort für Musiker
-* Beispiele: Schütz (17. Jh.), Händel, Gluck, Mozart (18. Jh.)
+* Beispiele: Heinrich Schütz (17. Jh.), Georg Friedrich Händel, C. W. Gluck, W. A. Mozart (18. Jh.)
 * Italienische Musiker in Schlüsselpositionen bis ins 19. Jh.
 
 ### Neue Perspektiven
 
 **Traditionelle Probleme:**
 
-* Fokus auf notierte Musik
+* starker Fokus auf notierte Musik
 * "Vernachlässigung" von Volks- und außereuropäischer Musik
 
 **Moderne Ansätze:**
