@@ -6,7 +6,7 @@ language: de
 narrator: Deutsch Female
 comment: Übersicht der Personen
 import: https://raw.githubusercontent.com/LiaTemplates/citations/main/README.md
-import: https://gitlab.informatik.uni-halle.de/muwi/vl-mugesch-i/-/raw/main/config.md?ref_type=heads
+import: https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/config.md?ref_type=heads
 import: ../config.md
 -->
 
