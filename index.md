@@ -60,8 +60,7 @@ Nur nach vorheriger Anmeldung (in [Stud.IP](https://studip.uni-halle.de/dispatch
 
 ---
 
-Format
----
+**Format**
 
 <!-- style="background-color: grey; width: 20%;" -->
 [![](https://liascript.github.io/images/logo-darkmode_hu13157650616442203983.webp)](https://liascript.github.io/)
@@ -140,6 +139,10 @@ unter [https://github.com/riedde/vl-mugesch-i](https://github.com/riedde/vl-muge
 
 ### Quiz und Reflexion
 
+Jeder Foliensatz endet mit 3-4 Quizfragen und einer vertiefenden Argumentationsaufgabe. Solche Fragen sollten Sie beantworten können – im Hinblick auf die Klausur.
+
+---
+
 Wer ist der Dozent der Vorlesung?
 
 [[ ]] Prof. Dr. Wolfgang Hirschmann
@@ -160,21 +163,28 @@ Wann findet die Klausur statt?
 
 ### Übersichten
 
+Jeder Foliensatz endet mit einer Übersicht der in den Folien erwähnten Literatur, Personen und Werke.
+
+**Literatur:**
+
+* *Übersicht der erwähnten Literatur*
+* [...]
+
 **Personen:**
 
-* *Übersicht der genannten Personen*
+* *Übersicht der erwähnten Personen*
 * [...]
 
 @config.link.personen
 
 **Werke:**
 
-* *Übersicht der genannten Werke*
+* *Übersicht der erwähnten Werke*
 * [...]
 
 ## Prüfungsmodalitäten
 
 | Studiengang    | Veranstaltung | Modul | Prüfung |
 |:---------------|:--------------|:------|:---------|
-| B.A. (60/120)  | Vorlesung Europäische Musikgeschichte im 17. und 18. Jahrhundert | Musikgeschichte I: Europäische Musikkultur im 17. und 18. Jahrhundert (MMS.08221.01) | Klausur |
-| LAG/LAS        | Vorlesung: Musikgeschichte I | Musikalische Strukturen der Musikgeschichte I (MMS.02995.03) | Klausur |
+| B.A. (60/120)  | Vorlesung Europäische Musikgeschichte im 17. und 18. Jahrhundert | Musikgeschichte I: Europäische Musikkultur im 17. und 18. Jahrhundert (MMS.08221.01) | Klausur, 11.02.2026 |
+| LAG/LAS        | Vorlesung: Musikgeschichte I | Musikalische Strukturen der Musikgeschichte I (MMS.02995.03) | Klausur, 11.02.2026 |
