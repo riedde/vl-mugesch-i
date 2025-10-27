@@ -98,11 +98,11 @@ ist ein Markdown-Flavour für Open Educational Resources.
 | 8  | 10.12.2025 | @config.link.course(`Die Passion (Christi)`,passion_barock) |
 | 9  | 17.12.2025 | @config.link.course(`Klangrede, Schreibarten, Gattungslehre (Mattheson)`,klangrede_mattheson) |
 | -  | _Weihnachtspause_ | |
-| 10 | 08.01.2026 | Die Begriffe @config.link.course(`"Klassik"`,klassik_begriff) und @config.link.course(`"Schule"`,schulen_mannheim_berlin) |
-| 11 | 15.01.2026 | @config.link.course(`Kammermusik in der Wiener Klassik`,kammermusik_klassik) |
-| 12 | 22.01.2026 | @config.link.course(`Oper und Singspiel`,oper_singspiel_klassik) |
-| 13 | 29.01.2026 | @config.link.course(`Zur Biographie und Symphonik Beethovens`,beethoven_ludwig_van) |
-| 14 | 05.02.2026 | @config.link.course(`Das Klavierlied`,klavierlied) / @config.link.course(`Charakterstücke`,Charakterstuecke) |
+| 10 | 07.01.2026 | Die Begriffe @config.link.course(`"Klassik"`,klassik_begriff) und @config.link.course(`"Schule"`,schulen_mannheim_berlin) |
+| 11 | 14.01.2026 | @config.link.course(`Kammermusik in der Wiener Klassik`,kammermusik_klassik) |
+| 12 | 21.01.2026 | @config.link.course(`Oper und Singspiel`,oper_singspiel_klassik) |
+| 13 | 28.01.2026 | @config.link.course(`Zur Biographie und Symphonik Beethovens`,beethoven_ludwig_van) |
+| 14 | 04.02.2026 | @config.link.course(`Das Klavierlied`,klavierlied) / @config.link.course(`Charakterstücke`,Charakterstuecke) |
 | -  | 11.02.2026 | Klausur |
 
 **Alle Kurse**
