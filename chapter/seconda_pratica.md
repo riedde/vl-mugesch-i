@@ -21,7 +21,7 @@ Allgemein: Lockerung der Kontrapunktnormen und neuartiger Konsonanz- und Dissona
 ### Textausdeutung vs. Kontrapunkt
 * Bereits im späteren Mittelalter:
 
-  * *vitia* als *color rhetoricus*
+  * *vitia* als *color rhetoricus* <!-- Warum "vitia" -->
   * Rhetorischer Schmuck
   * Ziel: Intensivierung der Textaussage
   * Wirkungsziel: "persuasio" (Überredung)
@@ -141,7 +141,7 @@ Giulio Cesare Monteverdi stellt durch Zitate aus Platons *Politeia* einen Bezug 
          +----------+  +---------+
   ```
 
-In der Diskussion um die *seconda pratica* geht es nicht um die Frage "Vokalpolyphonie oder Monodie" bzw. "Einstimmigkeit oder Mehrstimmigkeit". Im Fokus steht eine bestimmte *Einstellung gegenüber der Textvorlage* und kann bei der Komposition eines polyphonen Madrigals ebenso Anwendung finden wie bei der Komposition eines Opernrezitatvs.
+In der Diskussion um die *seconda pratica* geht es nicht um die Frage "Vokalpolyphonie oder Monodie" bzw. "Einstimmigkeit oder Mehrstimmigkeit". Im Fokus steht eine bestimmte *Einstellung gegenüber der Textvorlage* und kann bei der Komposition eines polyphonen Madrigals ebenso Anwendung finden wie bei der Komposition monodischen Gesangs in der Oper. <!-- "Opernrezitativ" suggieriert ein Konzept von Recitativ und Arie, das noch längst nicht existiert -->
 
 ## Historische Einordnung
 
@@ -174,12 +174,12 @@ In der Diskussion um die *seconda pratica* geht es nicht um die Frage "Vokalpoly
 * Anwendbar auf:
 
   * Polyphone Madrigale
-  * Opernrezitative
+  * Sologesang / Monodie 
 
 * Tradition reicht bis ins Mittelalter zurück
 
 ## Quiz und Reflexion
-Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1--3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
 
 **Was kritisierte Giulio Caccini am kontrapunktischen Stil seiner Zeit?**
 
@@ -219,35 +219,35 @@ Alles auf einen Blick.
 
 * **Literatur**
 
-  * Artusi, Giovanni Maria: *L'Artusi Ovvero delle Imperfettioni della moderna musica*, {%ORT%} 1600
-  * Caccini, Giulio: *Le Nuove Musiche*, {%ORT%} {%JAHR%}
-  * Monteverdi, Claudio: *Vorrede zum 5. Madrigalbuch*, {%ORT%} 1605
-  * Monteverdi, Giulio Cesare: *Dichiaratione* in *Scherzi musicali a tre voci*, {%ORT%} 1607
-  * Platon: *Politeia*, {%ORT%} {%JAHR%} - Bezug in G.C. Monteverdis Dichiaratione
-  * Zarlino, Gioseffo: *Istitutioni harmoniche*, {%ORT%} 1558
+  * Artusi, Giovanni Maria: *L'Artusi Ovvero delle Imperfettioni della moderna musica*, 2 Teile, Venedig 1600 und 1603
+  * Caccini, Giulio: *Le Nuove Musiche*, Florenz 1601
+  * Monteverdi, Claudio: *Vorrede zum 5. Madrigalbuch*, Venedig 1605
+  * Monteverdi, Giulio Cesare: "Dichiaratione", in *Scherzi musicali a tre voci*, Venedig 1607
+  * Platon: *Politeia* -- Bezug in G. C. Monteverdis Dichiaratione
+  * Zarlino, Gioseffo: *Istitutioni harmoniche*, Venedig 1558
 
 * **Personen**
 
-  * Artusi, Giovanni Maria ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Schüler Zarlinos, Kritiker Monteverdis
-  * Caccini, Giulio Romano (1551–1618) - Komponist, Sänger, Gesangslehrer
-  * Luzzaschi, Luzzasco (1545–1607) - Komponist der seconda pratica
-  * Marenzio, Luca (1553/1554–1599) - Komponist der seconda pratica
-  * Monteverdi, Claudio ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Hauptvertreter der seconda pratica
-  * Monteverdi, Giulio Cesare ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Bruder Claudios, Verfasser der Dichiaratione
-  * Ockeghem, Johannes (ca. 1410–1497) - Vertreter der prima pratica
-  * Peri, Jacopo (1561–1633) - Komponist der seconda pratica
-  * Platon ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - antiker Philosoph
-  * Rore, Cipriano de (1515/16–1565) - Beginn der seconda pratica
-  * Wert, Giaches de (1535–1596) - franko-flämischer Komponist der seconda pratica
-  * Willaert, Adrian (ca. 1490–1562) - Vertreter der prima pratica
-  * Zarlino, Gioseffo (1517–1590) - Theoretiker der prima pratica
+  * Artusi, Giovanni Maria (1540--1613) -- Schüler Zarlinos, Kritiker Monteverdis
+  * Caccini, Giulio Romano (1551–1618) -- Komponist, Sänger, Gesangslehrer
+  * Luzzaschi, Luzzasco (1545–1607) -- Komponist der seconda pratica
+  * Marenzio, Luca (1553/1554–1599) -- Komponist der seconda pratica
+  * Monteverdi, Claudio (1567--1643) -- Hauptvertreter der seconda pratica
+  * Monteverdi, Giulio Cesare (1573--1630) -- Bruder Claudios, Verfasser der "Dichiaratione"
+  * Ockeghem, Johannes (ca. 1410–1497) -- Komponist
+  * Peri, Jacopo (1561–1633) -- Komponist der seconda pratica
+  * Platon (um 429 v. Chr. -- 347 v. Chr.) -- antiker Philosoph
+  * Rore, Cipriano de (1515/16–1565) -- Beginn der seconda pratica
+  * Wert, Giaches de (1535–1596) -- franko-flämischer Komponist
+  * Willaert, Adrian (ca. 1490–1562) -- franko-flämischer Komponist
+  * Zarlino, Gioseffo (1517–1590) -- Theoretiker der prima pratica
 
 @config.link.personen
 
 * **Werke**
   
-  * Monteverdi, Claudio: *Cruda Amarilli* - Madrigal, von Artusi kritisiert
+  * Monteverdi, Claudio: *Cruda Amarilli* -- Madrigal, von Artusi kritisiert
   * Monteverdi, Claudio: *4. Madrigalbuch* (1603)
-  * Monteverdi, Claudio: *5. Madrigalbuch* (1605) - mit Vorrede zur seconda pratica
+  * Monteverdi, Claudio: *5. Madrigalbuch* (1605) -- mit Vorrede zur seconda pratica
 
 
