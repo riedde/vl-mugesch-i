@@ -19,7 +19,7 @@ Die Musiker des 17. Jahrhunderts bezeichneten ihre eigene Zeit nicht als „Baro
 
 - Portugiesisch/spanisch „berrueco“/„barrueco“ = „unregelmäßig, warzig“
 - Bezeichnung für minderwertige, unregelmäßige Perlen
-- Übertragen als Stilbegriff ab dem frühen 18. Jahrhundert, zunächst [pejorativ](https://www.duden.de/rechtschreibung/pejorativ)
+- Übertragen als Stilbegriff ab dem frühen 18. Jahrhundert, zunächst abwertend
 
 ## Barock als abwertender Begriff
 
@@ -49,7 +49,7 @@ Auch noch im 19. Jahrhundert:
 
 ### Heinrich Wölfflin
 * Werke
-    
+  
   * Renaissance und Barock (1888)
   * Kunstgeschichtliche Grundbegriffe (1915):
 
@@ -115,7 +115,7 @@ Curt Sachs, „Barockmusik“, 1919:
 - Lebensstil und geistesgeschichtliche Grundlagen
 
 
-## Bedeutende Texte (Zusammenfassung) <!-- dann wirkt es nicht, wie eine Doppelung -->
+## Bedeutende Texte (Zusammenfassung)
 
 - Rousseau, Dictionnaire de musique, 1768
 - Koch, Musikalisches Lexicon, 1865
