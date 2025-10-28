@@ -22,8 +22,8 @@ tags:     oper, gattung, barock
 * Erste Opern in Florenz
 
   * Peri/Corsi/Rinuccini: _Dafne_ (1598)
-  * Peri/Rinuccini: _L'Euridice_ (1600)
-  * Caccini/Rinuccini: _L'Euridice_ (1602)
+  * Peri/Rinuccini: _L'Euridice_ (1600, gedr. 1601)
+  * Caccini/Rinuccini: _L'Euridice_ (1602, gedr. 1600)
   * Cavalieri: _Rappresentatione di anima et di corpo_ (1600)
   * Monteverdi/Striggio: _L'Orfeo_ (1607)
 
@@ -79,10 +79,13 @@ Dies sind nur exemplarische Beispiele, die Vielfalt ist um einiges größer! Zud
   * [3 Manuale](https://mimo-international.com/MIMO/doc/IFD/MINIM_UK_UEDIN_4304)
     
     !['Cembalo mit drei Manualen'](https://mimo-international.com/mimo/image.ashx?q=http://www.mimo-international.com/media/MINIM/UEDIN/IMAGE/0035502c-0001.jpg&w=250)
+  <!-- sehr selten habe ich dreimanualige Cembali gesehen, eigentlich nie. Spielpraktisch ist es, anders als auf der Orgel, auch einigermaßen unsinnig. Dieses Cembalo ist historisch auch nicht dreimanualig (vgl. Beschreibung). Dann gibt es doch eher Pedalcembali oder andere Bauformen (z. B. Clavicytherium, Mutter-Kind, Claviorganum etc.)-->
 
-* [Chitarrone](https://mimo-international.com/MIMO/doc/IFD/OAI_ULEI_M0000510)
+* [Chitarrone, auch: Theorbe](https://mimo-international.com/MIMO/doc/IFD/OAI_ULEI_M0000510)
   
   !['Chitarrone'](https://mimo-international.com/mimo/image.ashx?q=http://www.mimo-international.com/media/ULEI/IMAGE/0512.jpg&w=250)
+
+  <!-- vielleicht, insb. für Lehramt, interessante Reihe: (https://youtu.be/63Mqfo-kY2E)-->
 
 ### Musikalische Struktur
 
@@ -266,11 +269,11 @@ Giovanni Battista Doni (1635) *Discorso sopra la perfettione delle melodie*:
 Nur eines von vielen Beispiele zur Mehrstimmigkeit von der sich die Monodie abzugrenzen versucht findet sich bei @config.link.course(`Gregorio Allegri`,allegri_gregorio).
 
 ## Quiz und Reflexion
-Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1--3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
 
 **Welche Merkmale kennzeichnen Monteverdis "L'Orfeo" (1607) als wegweisende frühe Oper?**
 
-[[X]] Großes Orchester mit spezifischen Instrumentenzuordnungen (z.B. Harfe für Orfeo)
+[[X]] Großes Orchester mit spezifischen Instrumentenzuordnungen (z. B. Harfe für Orfeo)
 [[ ]] Ausschließlich einstimmige Monodie ohne orchestrale Einlagen
 [[X]] Kombination von neuem monodischen Stil mit herkömmlicher mehrstimmiger Satztechnik
 [[X]] Vielfältige musikalische Formen (begleiteter Sologesang, Chöre, Tanzsätze)
@@ -298,7 +301,7 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 
 **Erläutern Sie die Monodie. Gehen Sie dabei auf die drei Arten der Monodie (nach Doni) ein. Wählen Sie passende Beispiele für Ihre Erläuterungen.**
 
-*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von 2-3 Seite beantworten können.*
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von 2--3 Seite beantworten können.*
 
 ## Übersichten
 
@@ -306,35 +309,35 @@ Alles auf einen Blick.
 
 * **Literatur**
 
-  * Doni, Giovanni Battista: *Discorso sopra la perfettione delle melodie*, {%ORT%} 1635
+  * Doni, Giovanni Battista: Compendio del trattato de’ generi e de’ modi della musica […]. Con un discorso sopra la perfettione de’ concenti, Rom 1635
 
 * **Personen**
 
-  * Artusi, Giovanni Maria ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Kritiker Monteverdis
-  * Caccini, Giulio ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Komponist von L'Euridice (1602)
-  * Cavalieri, Emilio de' ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Komponist von Rappresentatione di anima et di corpo
-  * Cavalli, Francesco ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Schüler Monteverdis
-  * Cesti, Marc Antonio (1623–1669) - Komponist, Wirkung in Venedig, Wien, Florenz
-  * Corsi, Iacopo ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Mitarbeiter an La Dafne
-  * Doni, Giovanni Battista ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Theoretiker der drei Arten der Monodie
-  * Ferdinando Gonzaga ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Prinz von Mantua, Auftraggeber
-  * Francesco Gonzaga ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Prinz von Mantua, Auftraggeber
-  * Gabrieli, Giovanni ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Vorgänger Monteverdis am San Marco-Dom
-  * Monteverdi, Claudio ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Komponist von L'Orfeo und späteren Opern
-  * Peri, Jacopo ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Komponist von L'Euridice (1600)
-  * Rinuccini, Ottavio ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Librettist
-  * Striggio, Alessandro jun. ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Librettist von L'Orfeo
+  * Artusi, Giovanni Maria (1540--1613) -- Kritiker Monteverdis
+  * Caccini, Giulio (1551--1618) -- Komponist von _L'Euridice_ (1602)
+  * Cavalieri, Emilio de' (?--1602) -- Komponist von _Rappresentatione di anima et di corpo_
+  * Cavalli, Francesco (1602--1676) -- Schüler Monteverdis
+  * Cesti, Marc Antonio (1623–1669) -- Komponist, Wirkung in Venedig, Wien, Florenz
+  * Corsi, Iacopo (1561--1602) -- Mitarbeiter an _La Dafne_
+  * Doni, Giovanni Battista (1595--1647) -- Theoretiker zur Monodie
+  * Ferdinando Gonzaga (1587--1626) -- Prinz von Mantua, Auftraggeber
+  * Francesco Gonzaga (1586--1612) -- Herzog von Mantua, Auftraggeber
+  * Gabrieli, Giovanni (1555--1612) -- Vorgänger Monteverdis am Dom San Marco (Venedig)
+  * Monteverdi, Claudio (1567--1643) -- Komponist von _L'Orfeo_ und späteren Opern
+  * Peri, Jacopo (1561--1633) -- Komponist von _L'Euridice_ (1600)
+  * Rinuccini, Ottavio (1562--1621) -- Librettist
+  * Striggio, Alessandro jun. (1536/37--1592) -- Librettist von _L'Orfeo_
 
 @config.link.personen
 
 * **Werke**
   
-  * Caccini, Giulio: *L'Euridice* (1602) - Vertonung des Rinuccini-Librettos
+  * Caccini, Giulio: *L'Euridice* (1602) -- Vertonung des Rinuccini-Librettos
   * Cavalieri, Emilio de': *Rappresentatione di anima et di corpo* (1600)
-  * Monteverdi, Claudio: *Il Ritorno d'Ulisse in patria* (1640) - späte venezianische Oper
-  * Monteverdi, Claudio: *L'incoronazione di Poppea* (1642) - späte venezianische Oper
-  * Monteverdi, Claudio: *L'Orfeo* (1607) - erste "echte" Oper im heutigen Sinne
-  * Peri, Jacopo: *La Dafne* (1598) - erste Oper (verschollen)
-  * Peri, Jacopo: *L'Euridice* (1600) - Vertonung des Rinuccini-Librettos
+  * Monteverdi, Claudio: *Il Ritorno d'Ulisse in patria* (1640) -- späte venezianische Oper
+  * Monteverdi, Claudio: *L'incoronazione di Poppea* (1642) -- späte venezianische Oper
+  * Monteverdi, Claudio: *L'Orfeo* (1607) -- erste "echte" Oper im heutigen Sinne
+  * Peri, Jacopo: *La Dafne* (1598) -- erste Oper (verschollen)
+  * Peri, Jacopo: *L'Euridice* (1600) -- Vertonung des Rinuccini-Librettos
 
 
