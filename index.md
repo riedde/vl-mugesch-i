@@ -97,12 +97,12 @@ ist ein Markdown-Flavour für Open Educational Resources.
 | 8  | 10.12.2025 | [Die Passion (Christi)](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/passion_barock.md) |
 | 9  | 17.12.2025 | [Klangrede, Schreibarten, Gattungslehre (Mattheson)](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/klangrede_mattheson.md) |
 | -  | _Weihnachtspause_ | |
-| 10 | 08.01.2026 | Die Begriffe ["Klassik"](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/klassik_begriff.md) und ["Schule"](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/schulen_mannheim_berlin.md) |
-| 11 | 15.01.2026 | [Kammermusik in der Wiener Klassik](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/kammermusik_klassik.md) |
-| 12 | 22.01.2026 | [Oper und Singspiel](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/oper_singspiel_klassik.md) |
-| 13 | 29.01.2026 | [Zur Biographie und Symphonik Beethovens](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/beethoven_ludwig_van.md) |
-| 14 | 05.02.2026 | [Das Klavierlied](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/klavierlied.md) / [Charakterstücke](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/charakterstuecke.md) |
-| -  | 11.02.2026 | Klausur |
+| 10 | 07.01.2026 | Die Begriffe ["Klassik"](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/klassik_begriff.md) und ["Schule"](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/schulen_mannheim_berlin.md) |
+| 11 | 14.01.2026 | [Kammermusik in der Wiener Klassik](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/kammermusik_klassik.md) |
+| 12 | 21.01.2026 | [Oper und Singspiel](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/oper_singspiel_klassik.md) |
+| 13 | 28.01.2026 | [Zur Biographie und Symphonik Beethovens](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/beethoven_ludwig_van.md) |
+| 14 | 04.02.2026 | [Das Klavierlied](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/klavierlied.md) / [Charakterstücke](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/charakterstuecke.md) |
+| 15  | 11.02.2026 | Klausur |
 
 **Alle Kurse**
 ---
