@@ -13,9 +13,11 @@ tags:     oper, gattung, barock
 
 # Oper im Barock
 
+<!-- Insb. der Begriff "Opera seria" bzw. überhaupt mehr oder weniger historische Bezeichnungen für Oper(ngattungen) tauchen hier meines Wissens nicht auf, Absicht? -->
+
 ## Einführung
 
-Die Oper durchlief vom 17. zum 18. Jahrhundert eine bedeutende Entwicklung von einem multimedialen Spektakel hin zu einer stilisierten Kunstform mit klaren dramatischen Strukturen. Diese Transformation wurde maßgeblich durch intellektuelle Zentren venezianischein Venedig und Neapel geprägt.
+Die Oper durchlief vom 17. zum 18. Jahrhundert eine bedeutende Entwicklung von einem multimedialen Spektakel hin zu einer stilisierten Kunstform mit klaren dramatischen Strukturen. Diese Transformation wurde maßgeblich durch die intellektuellen Zentren Venedig und Neapel geprägt.
 
 ## Venezianische Oper des 17. Jahrhunderts
 
@@ -114,11 +116,11 @@ Die Oper durchlief vom 17. zum 18. Jahrhundert eine bedeutende Entwicklung von e
 
 - **Antike Stoffe:**
 
-  - Bereits im Altertum als Dramen bearbeitet (z.B. Iphigenie auf Tauris)
+  - Bereits im Altertum als Dramen bearbeitet (z. B. Iphigenie auf Tauris)
 
-  - Aus antiken Epen stammend (z.B. *Didone abbandonata* aus Vergils *Aeneis*)
+  - Aus antiken Epen stammend (z. B. *Didone abbandonata* aus Vergils *Aeneis*)
 
-  - Historische Begebenheiten aus antiker Zeit (z.B. Alexanders Feldzug nach Indien)
+  - Historische Begebenheiten aus antiker Zeit (z. B. Alexanders Feldzug nach Indien)
 
 - **Stark typisierte Figuren:**
 
@@ -142,7 +144,7 @@ Die Oper durchlief vom 17. zum 18. Jahrhundert eine bedeutende Entwicklung von e
 
   - **Rezitative:** Rezitativo secco (nur Basso continuo-Unterstützung)
 
-  - **Arien:** Dacapo-Arien als Abgangsarien am Szenenende
+  - **Arien:** Da-capo-Arien als Abgangsarien am Szenenende
 
   - **Affektdarstellung:** Arien fassen Affektgehalt der jeweiligen Szene zusammen
 
@@ -160,7 +162,7 @@ Die Oper durchlief vom 17. zum 18. Jahrhundert eine bedeutende Entwicklung von e
 
   - Zweites Paar
 
-  - Ein bis zwei Nebenfiguren (z.B. Vertraute - Confidenti)
+  - Ein bis zwei Nebenfiguren (z. B. Vertraute - Confidenti)
 
 - **Stimmverteilung:**
 
@@ -174,7 +176,7 @@ Die Oper durchlief vom 17. zum 18. Jahrhundert eine bedeutende Entwicklung von e
 
 ### Historischer Kontext und religiöse Grundlage
 
-- **Bibelstelle:** [1. Kor., Kap. 14, Vers 34](https://www.die-bibel.de/bibel/LU17/1CO.14.34): »sollen die Frauen schweigen in den Gemeindeversammlungen« (LU17)
+- **Bibelstelle:** "mulier tacet in ecclesiam", [1. Kor., Kap. 14, Vers 34](https://www.die-bibel.de/bibel/LU17/1CO.14.34): »sollen die Frauen schweigen in den Gemeindeversammlungen« (LU17)
 
 - **Frühe Entwicklung:**
 
@@ -188,7 +190,7 @@ Die Oper durchlief vom 17. zum 18. Jahrhundert eine bedeutende Entwicklung von e
 
   - **Entwicklung:** Bruch des spanischen Monopols der Falsettisten
 
-  - **Verbreitung:** Bereits früher andernorts (z.B. acht in Lassos Münchener Hofkapelle)
+  - **Verbreitung:** Bereits früher andernorts (z. B. acht in Lassos Münchener Hofkapelle)
 
 ### Die Kastration: Eingriff und Auswirkungen
 
@@ -248,7 +250,7 @@ Die Oper durchlief vom 17. zum 18. Jahrhundert eine bedeutende Entwicklung von e
 
 - **Wirtschaftlicher Status:** Höchstbezahlte Solisten, verdienten mehr als Komponisten, Kapellmeister und Orchestermusiker
 
-- **Künstlerische Bedeutung:** Stars der Oper und Publikumslieblinge (Attraktion: Arien, Glanz der hohen Stimmen, virtuos-gesangliche Kunststücke in Dacapo-Arien)
+- **Künstlerische Bedeutung:** Stars der Oper und Publikumslieblinge (Attraktion: Arien, Glanz der hohen Stimmen, virtuos-gesangliche Kunststücke in Da-capo-Arien)
 
 - **Komponistenpraktiken:** Komponisten konzentrierten sich auf Arien-Komposition, Schüler übernahmen die Rezitativ-Komposition
 
@@ -260,7 +262,7 @@ Die Oper durchlief vom 17. zum 18. Jahrhundert eine bedeutende Entwicklung von e
 
 - **Persönlichkeit:** Ausgesprochen liebenswürdig und umgänglich, Hang zum Luxus
 
-- **Spanische Hofzeit (ab 1736):** Dienstherr König Philipp V. von Spanien, Verzicht auf öffentliche Auftritte, allabendliches Vorsingen für den depressiven König (immer vier gleiche Arien, zwei von Hasse, zehn Jahre bis zu Philipps Tod)
+- **Spanische Hofzeit (ab 1736):** Dienstherr König Philipp V. von Spanien, Verzicht auf öffentliche Auftritte, allabendliches Vorsingen für den depressiven König (immer vier gleiche Arien, zwei von Hasse, zehn Jahre bis zu Philipps Tod) <!--Thomas Seedorf (MGG) schreibt, die Anzahl der Arien lasse sich nicht genau sagen (widersprüchliche Quellen)-->
 
 - **Politische Macht:** Privatsekretär des Königs mit außerordentlichem Einfluss am Hof
 
@@ -270,7 +272,7 @@ Die Oper durchlief vom 17. zum 18. Jahrhundert eine bedeutende Entwicklung von e
 
   - Aufführung italienischer Opern
 
-- **Politische Macht (Fortsetzung):** Organisation des höfischen Musiklebens, Aufführung italienischer Opern, behielt Machtposition unter Ferdinand VI., de facto einer der mächtigsten Männer Spaniens
+- **Politische Macht (Fortsetzung):** Organisation des höfischen Musiklebens, Aufführung italienischer Opern, behielt Machtposition unter Ferdinand VI., de facto einer der mächtigsten Männer Spaniens <!-- bisschen übertrieben? Aus musikwissenschaftlicher Perspektive nett zu sagen, aber aus geschichtswissenschaftlicher gab es wahrscheinlich noch X andere, wichtigere.-->
 
 - **Lebensstil und Aktivitäten:** Kostbare Instrumentensammlung, teurer Schnupftabak für Metastasio in Wien, prachtvolle Feste in Aranjuez, berühmte ›Venezianische Nächte‹
 
@@ -358,10 +360,11 @@ Hierzu ist ein @config.link.course(eigener Kurs,haendel_georg_friedrich) verfüg
 
 - **Film *Farinelli, il castrato* (1994):** Regisseur Gérard Corbiau, Vermittlung der Atmosphäre der Neapolitanischen Oper, Thematisierung der erotischen Faszination der Kastraten, technische Innovation durch Mischen der Klangspektren eines Countertenors und Soprans (Studios des Pariser IRCAM) für überzeugende Suggestion einer ›echten‹ Kastratenstimme
 
-- **Historische Aufnahmen:** Alessandro Moreschi (1858–1922), letzter Kastrat aus der päpstlichen Kapelle, erhaltene Schallplattenaufnahmen (technisch und musikalisch unzulänglich)
+- **Historische Aufnahmen:** Alessandro Moreschi (1858–1922), letzter Kastrat aus der päpstlichen Kapelle, erhaltene Schallplattenaufnahmen (technisch und musikalisch unzulänglich) 
+[Ave maria (Gounod)](https://youtu.be/lmI_C-S0Abg)
 
 ## Quiz und Reflexion
-Zeit sich zu erinnern! Hier sind vier Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und zwei Verständnisfragen. Solche Fragen sollten nun beantworten werden können.
+Zeit sich zu erinnern! Hier sind vier Wissensfragen (Multiple-Choice, 1--3 Antworten sind jeweils richtig) und zwei Verständnisfragen. Solche Fragen sollten nun beantworten werden können.
 
 **Was charakterisiert die venezianische Oper des 17. Jahrhunderts im Gegensatz zur späteren neapolitanischen Reform?**
 
@@ -397,7 +400,7 @@ Zeit sich zu erinnern! Hier sind vier Wissensfragen (Multiple-Choice, 1-3 Antwor
 
 **Skizzieren Sie die gesellschaftliche und künstlerische Bedeutung der Kastraten in der Barockoper. Gehen Sie bei Bedarf auch auf die medizinischen, sozialen und ästhetischen Aspekte dieser Tradition ein.**
 
-*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 1-2 Seiten beantworten können.*
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 1--2 Seiten beantworten können.*
 
 ## Übersichten
 
@@ -409,43 +412,43 @@ Alles auf einen Blick.
 
 * **Personen**
 
-  * Bordoni, Faustina ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - italienische Sängerin, Ehefrau von Hasse
-  * Burney, Charles ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musikhistoriker, besuchte Farinelli
-  * Caffarelli ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Kastrat, Schüler Porporas
-  * Casanova ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - besuchte Farinelli
-  * Cesti, Marc Antonio (1623–1669) - Komponist, Verbreitung der venezianischen Oper
-  * Corbiau, Gérard ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Regisseur des Films "Farinelli, il castrato" (1994)
-  * Farinelli (Carlo Broschi) (1705–1782) - berühmtester Kastrat des 18. Jahrhunderts
-  * Ferdinand VI. ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - spanischer König
-  * Gluck, Christoph Willibald ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - besuchte Farinelli
-  * Händel, Georg Friedrich (1685–1759) - Konkurrenz zu Porpora in England
-  * Hasse, Johann Adolf (1699–1783) - bedeutender Komponist der metastasianischen Oper
-  * Haydn, Joseph ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Schüler Porporas in den 1750er Jahren
-  * Heinse, Wilhelm (1743–1803) - Zeitzeugenberichte über Kastratensang
-  * Joseph II. ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Kaiser, besuchte Farinelli
-  * Karl III. ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - spanischer König, entließ Farinelli 1759
-  * Metastasio, Pietro (1698–1782) - bedeutendster Opernlibrettist, Freund Farinellis
-  * Moreschi, Alessandro (1858–1922) - letzter Kastrat aus der päpstlichen Kapelle
-  * Mozart, Wolfgang Amadé ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - besuchte Farinelli
-  * Pacchiarotti, Gasparo ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Kastrat, von Heinse erlebt
-  * Philipp V. ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - spanischer König, Dienstherr Farinellis
-  * Porpora, Nicola (1686–1768) - Komponist und Gesangslehrer der berühmtesten Kastraten
-  * Porporino ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Kastrat, Schüler Porporas
-  * Pozzi, Anna ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Sopranistin, von Heinse erlebt
-  * Scarlatti, Alessandro (1659–1725) - zentrale Figur der älteren Neapolitanischen Oper
-  * Scarlatti, Domenico (1685–1757) - Sohn von Alessandro Scarlatti
-  * Tasso, Torquato ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Dichter von "La Gerusalemme liberata"
-  * Zeno, Apostolo (1668–1750) - kaiserlicher Hofdichter zu Wien
+  * Bordoni, Faustina (1697–1781) -- italienische Sängerin, Ehefrau von Hasse
+  * Burney, Charles (1726–1814) -- Musikhistoriker, besuchte Farinelli
+  * Caffarelli (Gaetano Majorano) (1710–1783) -- Kastrat, Schüler Porporas
+  * Casanova, Giacomo (1725--1798) -- besuchte Farinelli
+  * Cesti, Marc Antonio (1623–1669) -- Komponist, Verbreitung der venezianischen Oper
+  * Corbiau, Gérard (*1941) -- Regisseur des Films "Farinelli, il castrato" (1994)
+  * Farinelli (Carlo Broschi) (1705–1782) -- berühmtester Kastrat des 18. Jahrhunderts
+  * Ferdinand VI. (1713--1759) -- spanischer König
+  * Gluck, Christoph Willibald (1714--1787) -- Komponist, besuchte Farinelli
+  * Händel, Georg Friedrich (1685–1759) -- Konkurrenz zu Porpora in England
+  * Hasse, Johann Adolf (1699–1783) -- bedeutender Komponist der metastasianischen Oper
+  * Haydn, Joseph (1732–1809) -- Schüler Porporas in den 1750er Jahren
+  * Heinse, Wilhelm (1743–1803) -- Zeitzeugenberichte über Kastratensang
+  * Joseph II. (1741--1790) -- Kaiser, besuchte Farinelli
+  * Karl III. (1716--1788) -- spanischer König, entließ Farinelli 1759
+  * Metastasio, Pietro (1698–1782) -- bedeutendster Opernlibrettist, Freund Farinellis
+  * Moreschi, Alessandro (1858–1922) -- letzter Kastrat aus der päpstlichen Kapelle
+  * Mozart, Wolfgang Amadé (1756–1791) -- besuchte Farinelli
+  * Pacchiarotti, Gasparo (1740–1821) -- Kastrat, von Heinse erlebt
+  * Philipp V. (1683--1746) -- spanischer König, Dienstherr Farinellis
+  * Porpora, Nicola (1686–1768) -- Komponist und Gesangslehrer der berühmtesten Kastraten
+  * Porporino (Antonio Uberti) (1719--1783) -- Kastrat, Schüler Porporas
+  * Pozzi, Anna (um 1755--?) -- Sopranistin, von Heinse erlebt
+  * Scarlatti, Alessandro (1659–1725) -- zentrale Figur der älteren Neapolitanischen Oper
+  * Scarlatti, Domenico (1685–1757) -- Sohn von Alessandro Scarlatti
+  * Tasso, Torquato (1544--1595) -- Dichter von "La Gerusalemme liberata"
+  * Zeno, Apostolo (1668–1750) -- kaiserlicher Hofdichter zu Wien
 
 @config.link.personen
 
 * **Werke**
   
-  * Metastasio, Pietro: *Alessandro nell'Indie* - über 60 Vertonungen
-  * Metastasio, Pietro: *Artaserse* - über 60 Vertonungen
-  * Metastasio, Pietro: *Demofoonte* - über 60 Vertonungen
-  * Metastasio, Pietro: *Didone abbandonata* - über 60 Vertonungen
-  * Tasso, Torquato: *La Gerusalemme liberata* - Vorlage für beliebte Opernstoffe
+  * Metastasio, Pietro: *Alessandro nell'Indie* -- über 60 Vertonungen
+  * Metastasio, Pietro: *Artaserse* -- über 60 Vertonungen
+  * Metastasio, Pietro: *Demofoonte* -- über 60 Vertonungen
+  * Metastasio, Pietro: *Didone abbandonata* -- über 60 Vertonungen
+  * Tasso, Torquato: *La Gerusalemme liberata* -- Vorlage für beliebte Opernstoffe
 
 
 
