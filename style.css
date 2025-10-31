@@ -48,15 +48,26 @@ h1.lia-h1 {
 }
 
 .lia-quote {
-  background: var(--main-mlu-color) !important;
+  background: color-mix(in srgb, var(--main-mlu-color) 20%, transparent) !important;
   border-left-color: var(--main-accent-color) !important;
   color: var(--main-accent-color) !important;
-  margin: 4% !important;
+  margin: 3% !important;
+  width: 70%;
 }
 
 .lia-quote__text {
   color: var(--main-accent-color) !important;
-  font-size: larger;
+  text-align: left;
+  font-size: large;
+  font-weight: 200 !important;
+  line-height: 1.25;
+}
+
+.lia-quote__cite {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: medium;
+  display: block;
 }
 
 .lia-accordion {

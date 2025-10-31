@@ -27,59 +27,59 @@ Alles auf einen Blick.
 
 * **Literatur**
 
-  * Bach, Carl Philipp Emanuel: *{%TITEL%}* - Werke als Beispiel für "Vorklassik"-Problematik
-  * Beethoven, Ludwig van: *{%TITEL%}* - Beispiele aus den Konzertberichten
+  * Bach, Carl Philipp Emanuel: *{%TITEL%}* -- Werke als Beispiel für "Vorklassik"-Problematik
+  * Beethoven, Ludwig van: *{%TITEL%}* -- Beispiele aus den Konzertberichten
   * Eggebrecht, Hans Heinrich: *Musik im Abendland*, {%ORT%} {%JAHR%}
-  * Hegel, Georg Wilhelm Friedrich: *{%TITEL%}*, {%ORT%} {%JAHR%} - Geschichts- und Kunstphilosophie
-  * Kiesewetter, Raffael Georg: *{%TITEL%}*, {%ORT%} 1834 - Musikgeschichte mit "Epoche Haydn und Mozart"
+  * Hegel, Georg Wilhelm Friedrich: *{%TITEL%}*, {%ORT%} {%JAHR%} -- Geschichts- und Kunstphilosophie
+  * Kiesewetter, Raffael Georg: *{%TITEL%}*, {%ORT%} 1834 -- Musikgeschichte mit "Epoche Haydn und Mozart"
   * Le Goff, Jacques: *Geschichte ohne Epochen?*, Darmstadt 2016
   * Marpurg, Friedrich Wilhelm: *Kritische Briefe über die Tonkunst*, Berlin 1760
-  * Ratz, Erwin: *{%TITEL%}*, {%ORT%} {%JAHR%} - Lehrbuch der ersten Hälfte des 20. Jahrhunderts
-  * Riemann, Hugo: *{%TITEL%}*, {%ORT%} {%JAHR%} - Lehrbuch am Ende des 19. Jahrhunderts
-  * Rochlitz, Friedrich: *{%TITEL%}* - Berichte in der Allgemeinen Musikalischen Zeitung
+  * Ratz, Erwin: *{%TITEL%}*, {%ORT%} {%JAHR%} -- Lehrbuch der ersten Hälfte des 20. Jahrhunderts
+  * Riemann, Hugo: *{%TITEL%}*, {%ORT%} {%JAHR%} -- Lehrbuch am Ende des 19. Jahrhunderts
+  * Rochlitz, Friedrich: *Allgemeine Musikalische Zeitung*, Leipzig (1798--1882) -- Gründer und erster Redakteur (1798-1818) der Zeitung, sowie Verfasser zahlreicher Berichte
   * Rosen, Charles: *Der klassische Stil. Haydn, Mozart, Beethoven*, Kassel 1983
-  * Rummenhöller, Peter: *{%TITEL%}*, {%ORT%} {%JAHR%} - Panorama der Vorklassik
-  * Wendt, Amadeus: *Über den gegenwärtigen Zustand der Musik besonders in Deutschland*, {%ORT%} 1836
+  * Rummenhöller, Peter: *Die musikalische Vorklassik*, Kassel 1983 -- Panorama der Vorklassik
+  * Wendt, Amadeus: *Über den gegenwärtigen Zustand der Musik besonders in Deutschland*, Göttingen 1836
   * Wendt, Amadeus: *Über die Hauptperioden der schönen Kunst*, Leipzig 1831
 
 * **Personen**
 
-  * Bach, Carl Philipp Emanuel ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Beispiel für "Vorklassik"-Problematik
-  * Beethoven, Ludwig van (1770–1827) - dritter Komponist der Wiener Klassik
-  * Bloch, Ernst ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Philosoph ("Gänsemarsch der Epochen")
-  * Cherubini, Luigi (1760–1842) - erfolgreicher Opernkomponist der Zeit
-  * Dussek, Johann Ladislaus (1760–1812) - durch normativen Klassikbegriff ausgegrenzter Komponist
-  * Grétry, André Ernest Modeste (1741–1813) - erfolgreicher Opernkomponist der Zeit
-  * Gluck, Christoph Willibald ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - zur Klassik gezählter Komponist
-  * Graun, Carl Heinrich (1703/04–1759) - nach Marpurg "klassischer" Komponist
-  * Hasse, Johann Adolph (1699–1783) - möglicher "klassischer" Komponist der Opera seria
-  * Haydn, Joseph (1732–1809) - erster Komponist der Wiener Klassik
-  * Hegel, Georg Wilhelm Friedrich ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Geschichts- und Kunstphilosoph
-  * Kalliwoda, Johannes Wenceslaus ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Komponist der 1. Sinfonie (1827)
-  * Kiesewetter, Raffael Georg ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musikhistoriker
-  * Marpurg, Friedrich Wilhelm (1718–1795) - Musiktheoretiker und -kritiker
-  * Méhul, Etienne Nicolas (1763–1817) - erfolgreicher Opernkomponist der Zeit
-  * Metastasio ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Wiener Hofpoet, Librettist
-  * Mozart, Wolfgang Amadé (1756–1791) - zweiter Komponist der Wiener Klassik
-  * Nichelmann, Christoph ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Adressat von Marpurgs Brief
-  * Paisiello, Giovanni (1740–1816) - erfolgreicher Opernkomponist der Zeit
-  * Piccinni, Niccolò (1728–1800) - erfolgreicher Opernkomponist der Zeit
-  * Rochlitz, Friedrich ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Redakteur der Allgemeinen Musikalischen Zeitung
-  * Rosen, Charles ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - amerikanischer Pianist und Musikschriftsteller
-  * Telemann, Georg Philipp (1681–1767) - nach Marpurg "klassischer" Komponist
-  * Wendt, Amadeus ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Göttinger Philosophieprofessor
+  * Bach, Carl Philipp Emanuel (1714–1788) -- Beispiel für "Vorklassik"-Problematik
+  * Beethoven, Ludwig van (1770–1827) -- dritter Komponist der Wiener Klassik
+  * Bloch, Ernst (1885–1977) -- Philosoph ("Gänsemarsch der Epochen")
+  * Cherubini, Luigi (1760–1842) -- erfolgreicher Opernkomponist der Zeit
+  * Dussek, Johann Ladislaus (1760–1812) -- durch normativen Klassikbegriff ausgegrenzter Komponist
+  * Grétry, André Ernest Modeste (1741–1813) -- erfolgreicher Opernkomponist der Zeit
+  * Gluck, Christoph Willibald (1714–1787) -- zur Klassik gezählter Komponist
+  * Graun, Carl Heinrich (1703/04–1759) -- nach Marpurg "klassischer" Komponist
+  * Hasse, Johann Adolph (1699–1783) -- möglicher "klassischer" Komponist der Opera seria
+  * Haydn, Joseph (1732–1809) -- erster Komponist der Wiener Klassik
+  * Hegel, Georg Wilhelm Friedrich (1770–1831) -- Geschichts- und Kunstphilosoph
+  * Kalliwoda, Johannes Wenceslaus (1801–1866) -- Komponist der 1. Sinfonie (1827)
+  * Kiesewetter, Raffael Georg (1773–1850) -- Musikhistoriker
+  * Marpurg, Friedrich Wilhelm (1718–1795) -- Musiktheoretiker und -kritiker
+  * Méhul, Etienne Nicolas (1763–1817) -- erfolgreicher Opernkomponist der Zeit
+  * Metastasio, Pietro (1698–1782) -- Wiener Hofpoet, Librettist
+  * Mozart, Wolfgang Amadé (1756–1791) -- zweiter Komponist der Wiener Klassik
+  * Nichelmann, Christoph (1717–1762) -- Adressat von Marpurgs Brief
+  * Paisiello, Giovanni (1740–1816) -- erfolgreicher Opernkomponist der Zeit
+  * Piccinni, Niccolò (1728–1800) -- erfolgreicher Opernkomponist der Zeit
+  * Rochlitz, Friedrich (1769–1842) -- Redakteur der Allgemeinen Musikalischen Zeitung
+  * Rosen, Charles (1927–2012) -- amerikanischer Pianist und Musikschriftsteller
+  * Telemann, Georg Philipp (1681–1767) -- nach Marpurg "klassischer" Komponist
+  * Wendt, Amadeus (1783–1836) -- Göttinger Philosophieprofessor
 
 @config.link.personen
 
 * **Werke**
   
-  * Beethoven, Ludwig van: *1. Sinfonie* ({%ENTSTEHUNGSJAHR%}) - zum "Lieblingsstück" des Leipziger Publikums avanciert
-  * Beethoven, Ludwig van: *2. Sinfonie in D-Dur* ({%ENTSTEHUNGSJAHR%}) - Beispiel aus Konzertberichten
-  * Beethoven, Ludwig van: *5. und 6. Sinfonie* (1809) - bei Breitkopf & Härtel erschienen
-  * Graun, Carl Heinrich: *Der Tod Jesu* ({%ENTSTEHUNGSJAHR%}) - Passionskantate
-  * Haydn, Joseph: *Streichquartette op. 33* (seit 1781) - Beginn der Hochklassik nach Rosen
-  * Kalliwoda, Johannes Wenceslaus: *1. Sinfonie* (1827) - kritisch rezensiert in der AmZ
-  * Mozart, Wolfgang Amadé: *La clemenza di Tito* ({%ENTSTEHUNGSJAHR%}) - letzte Oper, Opera seria
+  * Beethoven, Ludwig van: *1. Sinfonie* (1799--1800) -- zum "Lieblingsstück" des Leipziger Publikums avanciert
+  * Beethoven, Ludwig van: *2. Sinfonie in D-Dur* (1800--1802) -- Beispiel aus Konzertberichten
+  * Beethoven, Ludwig van: *5. und 6. Sinfonie* (1809) -- bei Breitkopf & Härtel erschienen
+  * Graun, Carl Heinrich: *Der Tod Jesu* (1755) -- Passionskantate
+  * Haydn, Joseph: *Streichquartette op. 33* (seit 1781) -- Beginn der Hochklassik nach Rosen
+  * Kalliwoda, Johannes Wenceslaus: *1. Sinfonie* (1827) -- kritisch rezensiert in der AmZ
+  * Mozart, Wolfgang Amadé: *La clemenza di Tito* (1791) -- letzte Oper, Opera seria
 
 
 - Rosen stellte in detail- und kenntnisreichen Kapiteln einige Gattungen der drei Komponisten als idealtypisch heraus:
