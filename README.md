@@ -14,11 +14,11 @@ Die Folien können direkt online aber auch auf dem lokalen System verwendet werd
 
 ### Online (empfohlen)
 Öffnen Sie die Kurse direkt über LiaScript:
-- [Einstieg zur allen Foliensätzen](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/main/index.md)
+- [Einstieg zur allen Foliensätzen](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/index.md)
 
 In dieser Datei sind die Links zu allen angebotenen Kursen hinterlegt.
 
-Wenn Sie einen Kurs direkt aufrufen möchten, können Sie das über Website von [Liascipt](https://liascript.github.io/) tun. Verwenden Sie hier zu die URL der "raw" Ansicht des entsprechenden Kurses oder ersetzen Sie `NameDerDatei` mit dem Dateinamen in folgendem Link: `https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/main/chapter/NameDerDatei.md`
+Wenn Sie einen Kurs direkt aufrufen möchten, können Sie das über Website von [Liascipt](https://liascript.github.io/) tun. Verwenden Sie hier zu die URL der "raw" Ansicht des entsprechenden Kurses oder ersetzen Sie `NameDerDatei` mit dem Dateinamen in folgendem Link: `https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/NameDerDatei.md`
 
 ### Lokal
 1. Repository klonen
