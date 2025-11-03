@@ -39,13 +39,14 @@ Musiktheaters
 
   - Johann Sebastian Bach (1685–1750)
     
-    - für die Ausbildung, (WTK BWV 846–869, Orgel-Büchlein BWV 599–644)
+    - für die Ausbildung (WTK BWV 846–869, Orgel-Büchlein BWV 599–644)
 
     - für Dilletantenkreise (Ital. Konzert BWV 971, Goldberg-Variationen BWV 988)
   
   - Georg Philipp Telemann (1681–1767) für den Druck
 
   - Christoph Graupner (1683–1760), weitestgehend Verzicht (Hofmusiker)
+  <!--es gibt doch etliches an Instrumentalmusik von Graupner? Immerhin 112 Sinfonien und 86 Ouvertüren, 44 Konzerte, die Clavier-Früchte sind auch recht beliebt, uvm.-->
 
 ## Instrumentalmusik und Ihre Funktion
 
@@ -148,11 +149,14 @@ Es gibt eigene Kurse zu @config.link.course(Sweelinck,sweelinck_jan_pieterszoon)
 - *Sonate* ist hier ein Sammelbegriff für Instrumentalmusk mit klein besetztem Ensemble
 - *Partita* wird im 18. Jhd. auch synonym für "Suite für Tasteninstrument" verwendet (Bezug zu Tanz schwindet)
 
+<!--ein typisches Thema an dieser Stelle wäre die "Ouvertüre", die bei Scheibe als mehrsätziges Werk beschrieben ist. Da das Problem einem im Alltag oft begegnet (insb. Bach Orchestersuiten, auch div. Erlebach, Telemann, Fischer, Fasch etc. pp., wäre vielleicht nett, dazu kurz etwas zu sagen bzw. den Begriff "Ouvertüre" auch einzuführen.) -->
+
+
 ### Zusammenfassung (Überblick)
 
 - Sonate:
   
-  - kleines Enseble, ab 1730 auch Tasteninstrument
+  - kleines Ensemble, ab 1730 auch Tasteninstrument
   - 17\. Jhd., freie Satzfolge; 18. Jhd. mehrsätzig, festes Schema
   - fugiert oder homophon
 
@@ -164,7 +168,7 @@ Es gibt eigene Kurse zu @config.link.course(Sweelinck,sweelinck_jan_pieterszoon)
 
 - Sinfonia
   
-  - variables Ensemblestück (größeres Ensebmle erst ab Mitte 18. Jhd.)
+  - variables Ensemblestück (größeres Ensemble erst ab Mitte 18. Jhd.)
   - 17\. Jhd., freie Satzfolge; 18. Jhd. mehrsätzig, festes Schema
   - Satztypen variabel
 
@@ -369,8 +373,8 @@ Es gibt eigene Kurse zu @config.link.course(Sweelinck,sweelinck_jan_pieterszoon)
     - Giovanni Boccaccio (1313–1375)
     - mehrere Ensembleteile musizieren gleichberechtigt nebeneinander
     - d.h. ein Solist wäre hier fehl am Platz!- keine Begleitung
-    - Antonio Vivaldi nennt seine »Solo-Konzerte« auch als Sinfonia
-    - Prinzip wir bei Wechselgesängen (Psalmen mit mehreren Chören)
+    - Antonio Vivaldi nennt seine »Solo-Konzerte« auch Sinfonia
+    - Prinzip wie bei Wechselgesängen (Psalmen mit mehreren Chören)
 
   - concertare (lat.): Wettkampf-Charakter; »certus« (= »sicher«), Verstärkung durch Vorsilbe »con-« => »eifrig streiten«
     
@@ -409,9 +413,9 @@ Es gibt eigene Kurse zu @config.link.course(Sweelinck,sweelinck_jan_pieterszoon)
 
 ### Das Solokonzert
 - musikalisch geschlossene Form mit einem Solisten
-- Aspekt gehlt noch in der ersten Hälfte des 17. Jhd.
-- Rondoformen, Berühpunkte mit der Fuge
-- Ritonrellkonzertsatz
+- Aspekt gilt noch in der ersten Hälfte des 17. Jhd. <!-- auch in der zweiten Hälfte gibt es noch viele Concerti dieser Art, ca. bis die madrigalische Kantate kommt, denke ich (vgl. z. B. Pachelbel, Nicolaus Bruhns etc.)-->
+- Rondoformen, Berührungspunkte mit der Fuge
+- Ritornellkonzertsatz
 
 ### Concerto grosso
 
@@ -501,7 +505,7 @@ Es gibt eigene Kurse zu @config.link.course(Sweelinck,sweelinck_jan_pieterszoon)
 - harmonische Versetzbarkeit des Ritornells ist entscheidende Entwicklung im 18. Jhd.
 
 ## Quiz und Reflexion
-Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1--3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
 
 **Was charakterisiert die verschiedenen Verwendungszwecke von Instrumentalmusik im 17./18. Jahrhundert?**
 
@@ -547,11 +551,11 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 
 **Suchen Sie sich einen der folgenden Begriffe aus und erläutern Sie die Unterschiede zur Sonate: Sinfonia, Suite, Concerto. Beschreiben Sie charakteristische Merkmale der Sonate und der von Ihnen gewählten Gattung (17./18. Jhd.).**
 
-*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 2-3 Seiten beantworten können.*
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 2--3 Seiten beantworten können.*
 
 **Skizzieren Sie die Entwicklung des Concerto-Begriffs von Giovanni Gabrielis "Concerti" (1587) bis zur barocken Ritornellkonzertform. Welche Rolle spielte dabei der Wandel von "concertare" als gleichberechtigtem Zusammenspiel zu solistischem Wetteifer?**
 
-*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 2/3-4 Seiten beantworten können.*
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 2/3--4 Seiten beantworten können.*
 
 ## Übersichten
 
@@ -561,45 +565,46 @@ Alles auf einen Blick.
 
   * Fischer, Wilhelm: *{%TITEL%}*, {%ORT%} {%JAHR%} - Forschung zur Ritornellkonzertform
   * Küster, Konrad: *Das Konzert*, Kassel 1993
-  * Merula, Tarquinio: *{%TITEL%}*, {%ORT%} 1637 - erste Belege für sonata da camera/da chiesa
+  * Merula, Tarquinio: *Canzoni, overo sonate concertate per Chiesa e Camera […] Libro terzo op. 12*, Venedig 1637 -- erste Belege für sonata da camera/da chiesa
   * Schmidt-Beste, Thomas: *Die Sonate. Geschichte – Formen – Ästhetik*, Kassel 2006
 
 * **Personen**
 
   * Bach, Johann Sebastian (1685–1750) - Beispiele für pädagogische Instrumentalmusik
   * Boccaccio, Giovanni (1313–1375) - frühe Verwendung von "concertare"
-  * Buxtehude ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Traditionsträger der Fantasie
-  * Christine von Schweden ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Widmungsträgerin von Corellis op. 1
-  * Corelli, Arcangelo (1653–1713) - "Begründer" der Gattung Sonate
-  * Fasch, Johann Friedrich ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - gründete 1708 Collegium Musicum
-  * Gabrieli, Andrea ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Onkel von Giovanni Gabrieli
-  * Gabrieli, Giovanni ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Concerti (1587), Sacrae Symphoniae (1597)
-  * Graupner, Christoph (1683–1760) - Hofmusiker mit Verzicht auf Instrumentalmusik
-  * Händel, Georg Friedrich (1685–1759) - Beispiel für Funktion der Instrumentalmusik
-  * Merula, Tarquinio ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - erste Begriffe sonata da camera/da chiesa
-  * Muffat ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Traditionsträger der Fantasie
-  * Ottoboni, Pietro ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Neffe des Papstes, Förderer Corellis
-  * Panfili, Benedetto ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Kardinal, Corellis Maestro di Musica
-  * Praetorius, Michael ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Syntagma musicum (1619)
-  * Quantz, Johann Joachim (1697–1773) - Konzertbegriffe
-  * Telemann, Georg Philipp (1681–1767) - gründete 1701 Collegium Musicum, Instrumentalmusik für den Druck
-  * Vivaldi, Antonio ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Solo-Konzerte auch als Sinfonia bezeichnet
+  * Buxtehude, Dieterich (1637–1707) -- Traditionsträger der Fantasie
+  * Christine von Schweden (1626--1689) -- Widmungsträgerin von Corellis op. 1
+  * Corelli, Arcangelo (1653–1713) -- "Begründer" der Gattung Sonate
+  * Fasch, Johann Friedrich (1688--1758) -- gründete 1708 ein zweites Collegium Musicum in Leipzig
+  * Gabrieli, Andrea (1532--1585) -- Komponist und Organist, Onkel von Giovanni Gabrieli
+  * Gabrieli, Giovanni (1555--1612) -- Concerti (1587), Sacrae Symphoniae (1597)
+  * Graupner, Christoph (1683–1760) -- Hofmusiker in Darmstadt <!--mit Verzicht auf Instrumentalmusik-->
+  * Händel, Georg Friedrich (1685--1759) -- Beispiel für Funktion der Instrumentalmusik
+  * Merula, Tarquinio (1595–1665) -- erstes Auftreten von *sonata da camera/da chiesa*
+  * Muffat, Georg (1653–1704) - Traditionsträger der Fantasie
+  * Ottoboni, Pietro (1667–1740) -- Neffe des Papstes Alexander VIII., Förderer Corellis
+  * Panfili, Benedetto (1653--1730) -- Kardinal, Corellis Maestro di Musica
+  * Praetorius, Michael (1572–1621) -- Hofmusiker in Braunschweig-Wolfenbüttel, Syntagma musicum (1618--1620)
+  * Quantz, Johann Joachim (1697–1773) -- Konzertbegriffe
+  * Telemann, Georg Philipp (1681–1767) - gründete 1701 Collegium Musicum in Leipzig, Instrumentalmusik für den Druck
+  * Vivaldi, Antonio (1678–1741) -- Solo-Konzerte auch als Sinfonia bezeichnet
 
 @config.link.personen
 
 * **Werke**
   
-  * Bach, Johann Sebastian: *Wohltemperiertes Klavier* BWV 846–869 - für die Ausbildung
-  * Bach, Johann Sebastian: *Orgel-Büchlein* BWV 599–644 - für die Ausbildung
-  * Bach, Johann Sebastian: *Italienisches Konzert* BWV 971 - für Dilettantenkreise
-  * Bach, Johann Sebastian: *Goldberg-Variationen* BWV 988 - für Dilettantenkreise
-  * Bach, Johann Sebastian: *Brandenburgisches Konzert Nr. 6* - Kammerkonzert ohne Orchester
-  * Corelli, Arcangelo: *Opera 1–4* (1681–1694) - Triosonaten
-  * Corelli, Arcangelo: *Op. 5* (1700) - Violinsonaten
-  * Corelli, Arcangelo: *Op. 6* (posthum 1714) - Concerti grossi
-  * Gabrieli, Giovanni: *Concerti* (1587) - primär vokale Ensemblemusik
-  * Gabrieli, Giovanni: *Sacrae Symphoniae* (1597) - mit Sonata pian e forte
-  * Gabrieli, Giovanni: *Sonata pian e forte* - für zwei vierstimmige Chöre
-  * Telemann, Georg Philipp: *1. Flötenfantasie* - Beispiel für phantastischen Stil
+  * Bach, Johann Sebastian: *Wohltemperiertes Klavier* BWV 846–869 -- für die Ausbildung
+  * Bach, Johann Sebastian: *Orgel-Büchlein* BWV 599–644 -- für die Ausbildung
+  * Bach, Johann Sebastian: *Italienisches Konzert* BWV 971 -- für Dilettantenkreise
+  * Bach, Johann Sebastian: *Goldberg-Variationen* BWV 988 -- für Dilettantenkreise
+  * Bach, Johann Sebastian: *Brandenburgisches Konzert Nr. 6* -- Kammerkonzert ohne Orchester
+  * Corelli, Arcangelo: *Opera 1–4* (1681–1694) -- Triosonaten
+  * Corelli, Arcangelo: *Op. 5* (1700) -- Violinsonaten
+  * Corelli, Arcangelo: *Op. 6* (posthum 1714) -- Concerti grossi
+  * Gabrieli, Giovanni: *Concerti* (1587) -- primär vokale Ensemblemusik
+  * Gabrieli, Giovanni: *Sacrae Symphoniae* (1597) -- mit Sonata pian e forte
+  * Gabrieli, Giovanni: *Sonata pian e forte* -- für zwei vierstimmige Chöre
+ <!--> * Telemann, Georg Philipp: *1. Flötenfantasie* - Beispiel für *stilus phantasticus* 
+ das Werk habe ich oben nirgendwo gefunden, überflugs- und Strg+F-mäßig. Ich schätze, es ist halluziniert.-->
 
 
