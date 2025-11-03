@@ -142,27 +142,14 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 
 ### Literatur
 
-* Caccini, Giulio: _Le nuove musiche_ (1602)
-* {%AUTOR%}: {%TITEL%} zu Verzierungslehre ({%JAHR%})
+* Caccini, Giulio: _Le nuove musiche_, Florenz 1602
 
 ### Personen
 
 * Caccini, Giulio (1551–1618)
-* Chiabrera, Gabriello ({%GEBURTSJAHR%}–{%TODESJAHR%}) - Dichter
-* Luzzaschi, Luzzasco ({%GEBURTSJAHR%}–{%TODESJAHR%})
+* Chiabrera, Gabriello (1552--1638) -- Dichter
+* Luzzaschi, Luzzasco (1544/45--1607) -- Organist und Komponist, Ferrara, komponierte für das *Concerto delle donne* am Este-Hof
 * Monteverdi, Claudio (1567–1643)
 
 @config.link.personen
-
-### Werke
-
-* Canzonetta (Gattungsbezeichnung für bestimmte Madrigalformen)
-* Esclamazione (Verzierungsart: Ausruf mit Intervallsprung)
-* Gruppo (Verzierungsart: Triller mit oberer Nebennote)
-* Madrigal (literarische und musikalische Form)
-* _Madrigali per cantare e sonare_ (Luzzaschi, 1601)
-* Sprezzatura (rhythmisch-metrisch freier Textvortrag)
-* Trillo (Verzierungsart: accelerierende Tonwiederholung)
-* _Versi liberi_ (freie Reimordnung in der Dichtung)
-
 
