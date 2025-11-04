@@ -34,7 +34,7 @@ tags:     barock, gattung, vokalmusik
     * generalbassbegleitete
   
   * rezitativischer Gesang, der durch eine Melodik zwischen Gesang und Sprechen charakterisiert ist
-  * eng verbunden mit der Entstehung der Oper um 1600 (i.e. vollständig in Musik gesetztes Drama als neue Kompositionsart)
+  * eng verbunden mit der Entstehung der Oper um 1600 (i. e. vollständig in Musik gesetztes Drama als neue Kompositionsart)
   * G. B. Doni verwendet den Begriff erstmals 1635 für die neue begleitete solistische Vokalmusik
 ************************************************
 
@@ -251,7 +251,7 @@ Text (in etwa): *Aber die schöne Eurydike | Tanzte auf der grünen Wiese, | Als
   > „Qui hanno luogo sopra tutto quelle mutationi di Tuono, di Genere, e di Ritmo, che sono le maggiori richezze, e sfoggi della Musica.“
   
 * Beispiel: Monteverdi, _Lamento d'Arianna_ (1608)
-* Giovanni Battista Doni über C. Monteverdis „Lamento d’Arianna“
+* Giovanni Battista Doni über C. Monteverdis *Lamento d’Arianna*
   
   > "la più bella compositione che si sia ancor veduta tra le Musiche sceniche, e Teatrale"
   >
@@ -335,6 +335,29 @@ Text (in etwa): *Aber die schöne Eurydike | Tanzte auf der grünen Wiese, | Als
   - E, volti gl'occhi al cielo,
   - Scolorito il bel volto, e bei sembianti,
   - Restò tanta bellezza immobil gielo.
+
+## Theoretische Einordnung (Doni)
+
+Giovanni Battista Doni (1635) *Discorso sopra la perfettione delle melodie*:
+
+* Drei Arten der Monodie:
+  
+  1. *Stile rezitativo*
+     
+     * Einzelgesang mit Instrumentalbegleitung
+     * Textverständlichkeit wichtig
+     * Einsatz: Kirche, Theater, Hof
+  
+  2. *Stile rappresentativo*
+     
+     * Nur für Bühne geeignet
+     * Für dramatische Aktion
+  
+  3. *Stile espressivo*
+     
+     * Vollkommene Musik zu ausdrucksvoller Poesie
+     * Textverständlichkeit und Musikausdruck optimal kombiniert
+     * Monteverdi als unerreichter Meister
 
 ## Quiz und Reflexion
 Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1--3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
