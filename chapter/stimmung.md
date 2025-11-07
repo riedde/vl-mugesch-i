@@ -19,7 +19,7 @@ tags:     stimmung, technologie
 
 * Besondere Dringlichkeit: auf Orgeln wegen ihres anhaltenden Tones dringlicher als auf Cembali
 
-* Technische Limitation: der Spieler kann weder die Länge der fixierten Klaviersaiten noch die der Orgelpfeifen beeinflussen
+* Technische Beschränkung: der Spieler kann weder die Länge der fixierten Klaviersaiten noch die der Orgelpfeifen beeinflussen
 
 ## Pythagoreische Stimmung
 
@@ -81,6 +81,8 @@ tags:     stimmung, technologie
 
 * Theoretische Überlegungen: Musiktheoretiker erwogen sogar Teilungen der Oktave in bis zu 53 Mikrointervalle
 
+<!-- Hiermit kann man das super demonstrieren: https://www.youtube.com/@Studio31plus/videos -->
+
 ## Der Kompromiss: Mitteltönige Temperatur
 
 * **Grundprinzip der Lösung**
@@ -117,7 +119,7 @@ tags:     stimmung, technologie
 
   * Die Wolfsquinte: zwei schwarze Tasten zueinander (gis–dis bzw. as–es) klangen stark verstimmt
 
-    * Bezeichnung: das Intervall hieß wegen des Missklangs (um etwa zwei Kommata zu eng) die Wolfsquinte
+    * Bezeichnung: das Intervall hieß wegen des Missklangs (um etwa zwei Kommata zu eng) "Wolfsquinte"
 
     * Betroffene Tonarten: Es-Dur, As-Dur, Des-Dur oder fis-Moll, cis-Moll und gis-Moll klangen hässlich und mussten vermieden werden
 
@@ -128,6 +130,9 @@ tags:     stimmung, technologie
 * Besondere klangliche Spannung: gerade die chromatische Skala mit ihren unterschiedlich großen Halbtönen besaß eine starke klangliche Spannung
 
 ## Wohltemperierte Stimmung
+
+<!-- mein Stand war, dass man de Begriff "wohltemperiert" nicht nutzt, da dieser ein offenes Forschungsproblem ist (vgl. Ars Organi 2008). Man weiß nicht, was genau Bach gestimmt hat. Der Zwischenschritt Werckmeister, Kirnberger und Co. (der heute in der Praxis für die Musik ab 1680 bis ca. Mozart zumeist eingesetzt wird) fehlt hier. Wahrscheinlich ist es sowas, was mit "wohltemperiert" auch gemeint gewesen sein könnte. 
+Meines Wissens wird auf systematische Begriffe zurückgegriffen, "gleichstufig", "ungleichstufig" etc., die die Sache benennen und keine komplexe Geschichte/Quellenbegriffsproblematik haben. -->
 
 * **Historische Entwicklung**
 
@@ -164,7 +169,7 @@ tags:     stimmung, technologie
     * Alle Tonarten sind gleichermaßen verwendbar
 
 ## Quiz und Reflexion
-Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1--3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
 
 **Welche grundlegenden Probleme ergeben sich bei der pythagoreischen Stimmung?**
 
@@ -187,7 +192,7 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 [[X]] Alle Tonarten sind gleichermaßen verwendbar
 [[ ]] Reine Terzen in allen Tonarten
 
-**Bschreiben Sie die wesentlichen Unterschiede zwischen zwei der folgenden Stimmungssysteme: "pythagoreischen Stimmung", "mitteltönige Stimmung"m "wohltemperierte Stimmung". Gehen Sie dabei auf praktischen und ästhetischen Überlegungen ein, die für bzw. gegen das Stimmungssystem sprechen.**
+**Beschreiben Sie die wesentlichen Unterschiede zwischen zwei der folgenden Stimmungssysteme: "pythagoreischen Stimmung", "mitteltönige Stimmung", "wohltemperierte Stimmung". Gehen Sie dabei auf praktischen und ästhetischen Überlegungen ein, die für bzw. gegen das Stimmungssystem sprechen.**
 
 *Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa einer Seite beantworten können.*
 
@@ -198,6 +203,7 @@ Alles auf einen Blick.
 * **Literatur**
 
   * Keine spezifischen Literaturangaben genannt
+  <!-- mir fällt grad nichts außer den Kapiteln in Hall: Musikalische Akustik und Trinkewitz: Historisches Cembalospiel (leider nicht hier in der Bib) ein, aber eine Übersicht über verschiedene Stimmungen wäre hier vielleicht gut einzufügen, insb. für Pädagog:innen.>
 
 * **Personen**
 
@@ -206,7 +212,7 @@ Alles auf einen Blick.
 @config.link.personen
 
 * **Werke**
-  
-  * Keine spezifischen Werke genannt - nur musik-theoretische Prinzipien
+
+  * Bach, Johann Sebastian: *Das Wohl­temperirte Clavier. oder Præludia, und Fugen durch alle Tone und Semitonia (…) Anno 1722*
 
 

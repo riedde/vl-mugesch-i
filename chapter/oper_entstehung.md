@@ -21,6 +21,13 @@ tags:     oper, gattung, barock
   * Ablehnung der Polyphonie
   * Orientierung an antiken Vorbildern
   * Konzept des durchlaufenden Sologesangs
+  
+  Stichworte: *Girolamo Mei*/*Vincenzo Galilei*; *Florentiner Camerata*; *Monodie*
+
+************************************************
+
+                 {{1}}
+************************************************
 
 ************************************************
 
@@ -45,12 +52,12 @@ tags:     oper, gattung, barock
 
 Die Sage um Orpheus (stark verkürzt dargestellt):
 
-* Sohn der Muse Kalliope
-* Apollo schemkt ihm eine Lyra
+* Sohn der Muse *Kalliope*
+* *Apollon* schenkt ihm eine Lyra
   
-  * Galt als der Beste Sänger
-  * Soll das wütende Meer beruhig haben
-  * Soll die Sirenen übertönt haben
+  * galt als der beste Sänger
+  * soll (mit seinem Gesang) das wütende Meer beruhig haben
+  * soll (mit seinem Gesang) die Sirenen übertönt haben
 
 ************************************************
 
@@ -59,24 +66,27 @@ Die Sage um Orpheus (stark verkürzt dargestellt):
 
 * Sage um *Orpheus und Eurydike*
   
-  * Eurydike ist eine Nymphe und Orpheus' Frau
-  * Aristaios (Sohn des Apollon und der Kyrene) versucht Eurydike zu vergewaltigen
-  * Eurydike flieht, wird von einer Schlange gebissen und stirbt
-  * Orpheus steigt in die Unterweld um seine Frau zurückzuholen
-  * Besänftigt Kerberos ("Höllenhund") und erreicht die Freigabe Eurydikes
-  * Bedingung von Hades und Persephone: Nicht umdrehen, bis er die Oberwelt erreicht (i. e. Vertrauen)
-  * Orpheus hört Eurydikes Schritte nicht, dreht sich um und sie verschwindet in der Unterwelt
+  * *Eurydike* ist eine Nymphe und die Frau *Orpheus'*
+  * *Aristaios* (Sohn des Apollon und der Kyrene) versucht *Eurydike* zu vergewaltigen
+  * *Eurydike* flieht, wird von einer Schlange gebissen und stirbt
+  * *Orpheus* steigt in die Unterwelt um seine Frau zurückzuholen
+  * Besänftigt *Kerberos* ("Höllenhund") und erreicht die Freigabe *Eurydikes*
+  * Bedingung von *Hades* und *Persephone*: Nicht umdrehen, bis er die Oberwelt erreicht (Motiv: "Vertrauen")
+  * Orpheus hört *Eurydikes* Schritte nicht, dreht sich um und sie verschwindet in der Unterwelt
 
 ************************************************
 
 ### Entstehungskontext
 
 * Komponiert 1607 als *favola in musica*
-* Gedruckt 1609 in Venedig (Exemplar in der Biblioteca Estense Universitaria, Modena, [MUS.D.249](http://bibliotecaestense.beniculturali.it/info/img/mus/i-mo-beu-mus.d.249.html))
-* Auftragswerk für die Prinzen von Mantua (Francesco und Ferdinando Gonzaga)
+* Gedruckt 1609 in Venedig (Exemplar in der _Biblioteca Estense Universitaria_, Modena, [MUS.D.249](http://bibliotecaestense.beniculturali.it/info/img/mus/i-mo-beu-mus.d.249.html))
+* Auftragswerk für die Prinzen von Mantua (_Francesco_ und _Ferdinando Gonzaga_)
 * Erste "echte" Oper im heutigen Sinne
 
-### Orchestrierung und Instrumentierung
+### Instrumentierung
+
+                 {{0}}
+************************************************
 
                  {{0}}
 ************************************************
@@ -164,6 +174,8 @@ Dies sind nur exemplarische Beispiele, die Vielfalt ist um einiges größer! Zud
   * Tanzsätze
   * Selbstständige Orchestersätze
 
+!?["Claudio Monteverdi - L'Orfeo"](https://www.youtube.com/watch?v=jUep3sqe35o "Claudio Monteverdi - L'Orfeo")
+
 #### Toccata und Prolog
 {{1-2}}
 ************************************************
@@ -173,6 +185,7 @@ Dies sind nur exemplarische Beispiele, die Vielfalt ist um einiges größer! Zud
   * Bläserbestimmte, fanfarenartige Struktur
   * Musikalisch: ausgebreiteter Durdreiklang
   * Gilt als Urbild aller späteren Opernouvertüren
+    !?["Monteverdi: L'Orfeo, toccata"](https://www.youtube.com/watch?v=mjpFi9bn1do "Monteverdi: L'Orfeo, toccata")
 ************************************************
 
 {{2-3}}
@@ -183,7 +196,7 @@ Dies sind nur exemplarische Beispiele, die Vielfalt ist um einiges größer! Zud
   * Streicherbegleitete Monodie
   * Struktur:
     
-    * Einrahmung durch Orchesterritornell
+    * Einrahmung durch [Orchesterritornell](https://youtu.be/jUep3sqe35o?si=4ySmdYspmWlV2CkQ&t=137)
     * Dreimalige Unterbrechung im Verlauf
 
   * Funktion: Einführung in die 'favola' von Orpheus
@@ -225,10 +238,10 @@ Szene aus dem dritten Akt in vier Abschnitten:
   * Neuem monodischen Stil
   * Herkömmlicher mehrstimmiger Satztechnik
 
-* Innovative Orchesterfarben:
+* Innovation: Orchesterfarben
   
-  * Reich
-  * Dramaturgisch bedeutsam
+  * Reich an Orchesterfarben
+  * Dramaturgisch bedeutsamer Einsatz (Zuordnung)
 
 * Enthält grundlegende Elemente der späteren Opernentwicklung
 

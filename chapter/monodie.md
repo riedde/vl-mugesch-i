@@ -19,7 +19,7 @@ tags:     barock, gattung, vokalmusik
 >
 > – *Riemann Musik Lexikon*, hg. v. Wolfgang Ruf, Mainz ^13^2012, S. 391
 
-!["Aulos-Spieler](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Aulos_player_MAR_Palermo_NI22711.jpg/960px-Aulos_player_MAR_Palermo_NI22711.jpg "Aulos-Spieler, Bild: wikimedia") ![" Apollo Kitharoidos"](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2005-12-28_Berlin_Pergamon_museum_Statue_of_Apollon_with_Kithara.jpg/960px-2005-12-28_Berlin_Pergamon_museum_Statue_of_Apollon_with_Kithara.jpg " Apollo Kitharoidos, Bild: wikimedia") !["Satyr mit Lyra"](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Satyros_Cdm_Paris_DeRidder812.jpg/960px-Satyros_Cdm_Paris_DeRidder812.jpg "Satyr mit Lyra, Bild: wikimedia")
+!["Aulos-Spieler](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Aulos_player_MAR_Palermo_NI22711.jpg/960px-Aulos_player_MAR_Palermo_NI22711.jpg "Aulos-Spieler, Bild: wikimedia") !["Apollo Kitharoidos"](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2005-12-28_Berlin_Pergamon_museum_Statue_of_Apollon_with_Kithara.jpg/960px-2005-12-28_Berlin_Pergamon_museum_Statue_of_Apollon_with_Kithara.jpg " Apollo Kitharoidos, Bild: wikimedia") !["Satyr mit Lyra"](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Satyros_Cdm_Paris_DeRidder812.jpg/960px-Satyros_Cdm_Paris_DeRidder812.jpg "Satyr mit Lyra, Bild: wikimedia")
 
 ## Definition und Ursprung
 
@@ -35,19 +35,20 @@ tags:     barock, gattung, vokalmusik
   
   * rezitativischer Gesang, der durch eine Melodik zwischen Gesang und Sprechen charakterisiert ist
   * eng verbunden mit der Entstehung der Oper um 1600 (i. e. vollständig in Musik gesetztes Drama als neue Kompositionsart)
-  * G. B. Doni verwendet den Begriff erstmals 1635 für die neue begleitete solistische Vokalmusik
+  * Doni verwendet den Begriff erstmals 1635[^1] für die neue begleitete solistische Vokalmusik
 ************************************************
 
                  {{2}}
 ************************************************
 * **Wiederholung: Generalbass**
   
-  * Entstehung aus der Mehrchörigkeit
-  * Basso seguente als Vorläufer
-  * Harmonisches Fundament
+  * Entstehung aus der Venezianischen Mehrchörigkeit heraus
+  * *Basso seguente* als Vorläufer
+  * erzeugt ein harmonisches Fundament
   * Notation als Basslinie mit Bezifferung
 ************************************************
 
+[^1]: Doni, Giovanni Battista: *Compendio del trattato de' generi e de' modi della musica […]. Con un discorso sopra la perfettione de' concenti*, Rom 1635
 ## Entwicklung
 
                  {{1-5}}
@@ -61,24 +62,26 @@ tags:     barock, gattung, vokalmusik
     * korrespondierte seit 1572 mit dem römischen Musikgelehrten Girolamo Mei
     * veröffentlichte 1581 seinen Dialogtraktat *Dialogo ... della musica antica, et della moderna*
       
-      * Mei: griechische Musik war einstimmig (auch der Chor), besondere emotionale Kraft der griech. Musik beruht auf Einstimmigkeit
-      * Galilei: lehnt Vokalpolyphonie und Kontrapunkt ab -> tritt für monodischen Gesang ein
-      * Beide: Tragödie, Kommödie, Satyrspiel benutzen durchgehende Musik
+        (Grundlegende Positionen)
+      
+      * Mei: griechische Musik war einstimmig (auch der Chor); besondere emotionale Kraft der griech. Musik beruhe auf der Einstimmigkeit
+      * Galilei: lehnt Vokalpolyphonie und Kontrapunkt (ebenfalls) ab -> tritt für monodischen Gesang als Ideal ein
+      * Beide waren davon überzeugt, dass die griech. Tragödie, Kommödie und das Satyrspiel immer mit durchgehender Musik aufgeführt wurden
 ************************************************
                  {{2-5}}
 ************************************************
-* **Grund:** Vorherrschende Polyphonie der Motetten- und Madrigalkunst entsprach nicht dem vermeintlich antiken Ideal!
+* **Problematik:** Vorherrschende Polyphonie der Motetten- und Madrigalkunst entsprach nicht dem vermeintlich antiken Ideal!
 ************************************************
                  {{3-5}}
 ************************************************
-* **Ergebnise:**
+* **Ergebnisse:**
   
-  * Bevorzugung von solistischem Gesang mit einfacher Akkordbegleitung (*Basso continuo*)
+  * Bevorzugung von solistischem Gesang mit einfacher Akkordbegleitung (-> *Basso continuo*)
   * Ideal in der Antikerezeption der *Florentiner Camerata*: durchlaufender, solistischer Gesang für dramatische Texte
 ************************************************
                  {{4-5}}
 ************************************************
-* **Belege:** Aufführung monodischer Gesänge in der *Florentiner Camerata* bei Graf Bardi, z. B. etwa 1585 von Caccini -> *"Nuove musiche"* (1601)
+* **Belege:** Aufführung monodischer Gesänge in der *Florentiner Camerata* bei Graf Bardi, z. B. etwa 1585 von Giulio Caccini -> *"Nuove musiche"* (1601)
 
 ************************************************
 {{5}}
@@ -96,7 +99,7 @@ Erste monodische Versuche
 {{6}}
 ************************************************
 * _La Dafne_ (möglw. erste Oper)
-    
+  
   * 1597 oder 1598 Aufführung im Palazzo di Bardi
   * Gemeinschaftswerk
 
@@ -105,18 +108,18 @@ Erste monodische Versuche
     * Jacopo Corsi (1561–1602), Musiker
 
   * Libretto ist erhalten
-  * Musik weitesstgehend verloren
+  * Musik weitestgehend verloren
 
 ************************************************
 {{7}}
 ************************************************
 * _L'Euridice_
-    
+  
   * Rinuccini (Dichtung, 1600) 
-  * **Anlass:** Hochzeit Maria von Medici mit Heinrich IV.
+  * **Anlass:** Hochzeit [Maria von Medici](https://lobid.org/gnd/118577778) mit [Heinrich IV.](https://lobid.org/gnd/118548174)
   * **Ort:** Palazzo Pitti, Florenz
-  * [Vertonung durch Peri](https://www.youtube.com/watch?v=v-Uf30MaXCY) (1600)
-  * [Vertonung durch Caccini](https://www.youtube.com/watch?v=4EWX3p1ahWY) (1602)
+  * [Vertonung durch Peri](https://www.youtube.com/watch?v=v-Uf30MaXCY) (UA 1600, gedr. 1601)
+  * [Vertonung durch Caccini](https://www.youtube.com/watch?v=4EWX3p1ahWY) (UA 1602, gedr. 1600)
 
 ************************************************
 {{8}}
@@ -138,7 +141,7 @@ Erste monodische Versuche
 ************************************************
 
 ## *stile recitativo*
-* Melodik zwischen Gesang und Sprechen
+* Idee einer *Melodik zwischen Singen und Sprechen* (vgl. die folgenden Zitate)
 * Wichtige Quellen:
 
   * Peri/Rinuccini: _Le musiche sopra L'Euridice_ (1601)
@@ -147,17 +150,17 @@ Erste monodische Versuche
 
 {{1}}
 ************************************************
-> Da ich sah, daß es sich um dramatische Dichtung handelte und daß man deshalb mit dem Gesang einen entsprechenden nachahmen musste (denn ohne Zweifel hat man niemals singend gesprochen), kam ich zu der Auffassung, daß die alten Griechen und Römer (die nach Meinung vieler ganze Tragödien auf der Bühne singend vortrugen), eine Art der Musik kannten, die sich über das gewöhnliche Ssprechen erhoben und dabei doch so weit unterhalb der Gesangsmelodik blieb, daß sich eine Zwischenform ergab... deshalb ließ ich jede andere bisher gehörte Gesangsart beiseite und setzte mich eifrig daran, eine diesen Gedichten angemessene Nachahmung zu finden.
+> Da ich sah, daß es sich um dramatische Dichtung handelte und daß man deshalb mit dem Gesang einen Sprechenden nachahmen mußte (denn ohne Zweifel hat man niemals singend gesprochen), kam ich zu der Auffassung, daß die alten Griechen und Römer (die nach Meinung vieler ganze Tragödien auf der Bühne singend vortrugen), eine Art der Musik kannten, die sich über das gewöhnliche Sprechen erhoben und dabei doch so weit unterhalb der Gesangsmelodik blieb, daß sich eine Zwischenform ergab… Deshalb ließ ich jede andere bisher gehörte Gesangsart beiseite und setzte mich eifrig daran, eine diesen Gedichten angemessene Nachahmung zu finden.
 >
-> – Jacopo Peri: *Le musiche sopra L'Euridice*, Florenz 1601, aus der Vorrede, zit. n. Claude V. Palisca: *Die Jahrzehnte um 1600 in Italien*, in: *Italienische Musiktheorie im 16. und 17. Jahrhundert*, Darmstadt 1989, S. 293.
+> – Jacopo Peri: *Le musiche sopra L'Euridice*, Florenz 1601, aus der Vorrede, zit. n. Palisca[^1], S. 293.
 
 ************************************************
 {{2}}
 ************************************************
 
-> Und ich überlegte, dass jede Art des Stimmgebrauchs, die die alten als Singen bestimmten und die sie diasthematisch (gleichsam aufgehalten, schwebend) nannten, zu weilen beschleunigt werden und dann eine mäßige Gangart annehmen könnte, zwischen den schwebenden, langsamen Bewegungen des Gesangs und den raschen Bewegungen des Sprechens, und daß sie so meinen Absichten angepaßt würde (wie das ja auch die Alten getan hatten, wenn sie die Dichtungen und die epischen Verse vortrugen). Dabei kämen sie Jena anderen Art des Stimmgebrauchs näher, welche die Alten die kontinuierliche nannten und welche auch unsere modernen (wenn auch vielleicht zu anderen Zwecken) in ihren Kompositionen heranziehen.
+> Und ich überlegte, dass jede Art des Stimmgebrauchs, die die Alten als Singen bestimmten und die sie diasthematisch (gleichsam aufgehalten, schwebend) nannten, zuweilen beschleunigt werden und dann eine mäßige Gangart annehmen könnte zwischen den schwebenden, langsamen Bewegungen des Gesangs und den raschen Bewegungen des Sprechens, und daß sie so meinen Absichten angepaßt würde (wie das ja auch die Alten getan hatten, wenn sie die Dichtungen und die epischen Verse vortrugen). Dabei kämen sie jener anderen Art des Stimmgebrauchs näher, welche die Alten die kontinuierliche nannten und welche auch unsere Modernen (wenn auch vielleicht zu anderen Zwecken) in ihren Kompositionen heranziehen.
 >
-> – Jacopo Peri: *Le musiche sopra L'Euridice*, Florenz 1601, nach Palisca, S. 293f.
+> – Jacopo Peri: *Le musiche sopra L'Euridice*, Florenz 1601, zit. n. Palisca[^1], S. 293f.
 
 ************************************************
 {{3}}
@@ -165,19 +168,21 @@ Erste monodische Versuche
 
 > Gleichfalls erkannte ich in unserem Sprechen gewisse Laute, die so intoniert sind, daß sich musikalische Töne darauf anbringen lassen; im Laufe des Sprechens werden dann viele andere Laute übergangen, die nicht so intoniert sind, bis man zu anderen zurückkehrt, die das Eintreten einer neuen Konsonanz erlauben. Indem ich auf diejenigen Manieren und Akzente [im Sprechakt] Rücksicht nahm, die wir bei Kummer und Freude und ähnlichen Gemütszuständen gebrauchen, machte ich es so, daß sich der Bass mit deren Zeitmaß bewegt, bald rascher, bald langsamer, je nachdem Affekten, und ich hielt ihn über die falschen und die guten Intervallverhältnisse hinweg fest, nachdem die Stimme über verschiedene Töne gelitten war und bei einer Silbe ankam, die ihm Sprechen \[voll\] intoniert wird und so den Weg zu einer neuen Harmonie öffnet.
 >
-> – Jacopo Peri: *Le musiche sopra L'Euridice*, Florenz 1601, nach Palisca, S. 294
+> – Jacopo Peri: *Le musiche sopra L'Euridice*, Florenz 1601, zit. n. Palisca[^1], S. 294
 
 ************************************************
 {{4}}
 ************************************************
 
-> Und dies nicht allein, damit der Sprechverlauf das Ohr nicht verletzt (indem er beim Zusammentreffen mit den wiederholten Stütztönen und den dicht folgenden Konsonanten beinahe stolpert) oder damit der Sprechverlauf nicht zur Bewegung des Basses in einer bestimmten Art zu tanzen scheint oder besonders nicht bei traurigen oder ernsten Texten, denn nur die anderen, fröhlichen Texte erfordern von Natur aus größere Beweglichkeit; sondern auch deshalb, weil der Gebrauch der Dissonanzen jenen Vorteil verringert oder verdeckt, der sich uns durch die Notwendigkeit bietet, jeden einzelnen Ton zu intonieren; solches zu tun, mochte die antike Musik wohl weniger nötig gehabt haben. Deswegen also (obwohl ich nicht so kühn bin zu behaupten, dies sei die Vortragsreise gewesen, die man auf den griechischen und römischen Theatern geübt hatte) glaubte ich, es sei diejenige, die man allein aus unserer Musik entwickeln kann, um sie unserer Sprechweise anzupassen.
+> Und dies nicht allein, damit der Sprechverlauf das Ohr nicht verletzt (indem er beim Zusammentreffen mit den wiederholten Stütztönen und den dicht folgenden Konsonanten beinahe stolpert) oder damit der Sprechverlauf nicht zur Bewegung des Basses in einer bestimmten Art zu tanzen scheint und besonders nicht bei traurigen oder ernsten Texten, denn nur die anderen, fröhlichen Texte erfordern von Natur aus größere Beweglichkeit; sondern auch deshalb, weil der Gebrauch der Dissonanzen jenen Vorteil verringert oder verdeckt, der sich uns durch die Notwendigkeit bietet, jeden einzelnen Ton zu intonieren; solches zu tun, mochte die antike Musik wohl weniger nötig gehabt haben. Deswegen also (obwohl ich nicht so kühn bin zu behaupten, dies sei die Vortragsweise gewesen, die man auf den griechischen und römischen Theatern geübt hatte) glaubte ich, es sei diejenige, die man allein aus unserer Musik entwickeln kann, um sie unserer Sprechweise anzupassen.
 >
-> – Jacopo Peri: *Le musiche sopra L'Euridice*, Florenz 1601, nach Palisca, S. 294f.
+> – Jacopo Peri: *Le musiche sopra L'Euridice*, Florenz 1601, zit. n. Palisca[^1], S. 294f.
 ************************************************
 
+[^1]: Claude V. Palisca: *Die Jahrzehnte um 1600 in Italien*, in: *Italienische Musiktheorie im 16. und 17. Jahrhundert*, Darmstadt 1989
+
 ## Der theatrale *stile monodico*
-(*stile rappresentativo*, nach Giovanni Battista Doni: *Annotazioni sopra il Compendio de' generi e de' modi della musica*, 1640):
+(Nach Giovanni Battista Doni's *Annotazioni sopra il Compendio de' generi e de' modi della musica*, 1640. Auch als *stile rappresentativo* bezeichent):
 
 ---
 {{0-2}}
@@ -188,13 +193,18 @@ Erste monodische Versuche
 
 {{1-2}}
 ************************************************
-* Berichtet von Vergangenem
-* Emotionale Distanz zum vorgetragenem Text
-* Beispiel: [Bericht der Dafne](https://youtu.be/Su8CEFdUmV8?si=1UcKgPoVseVmdPbr) in Peris _L'Euridice_ (1600) [^1]
+* Inhalt: Berichte von Vergangenem
+* Dadurch: Emotionale Distanz zum vorgetragenen Text
+* Beispiel: [Bericht der Dafne](https://youtu.be/Su8CEFdUmV8?si=1UcKgPoVseVmdPbr)[^1] in Peris _L'Euridice_ (1600)[^2]
 
 !["Palisca: Die Jahrzehnte um 1600 in Italien, S. 300."](../images/Palisca_Peri_S300.png "Palisca: Die Jahrzehnte um 1600 in Italien, S. 300.")
 Text (in etwa): *Aber die schöne Eurydike | Tanzte auf der grünen Wiese, | Als plötzlich, grausames Schicksal! | Eine grausame und gnadenlose Schlange, | Die zwischen den Blumen und im Gras versteckt lag, | Ihr mit ihren bösartigen Zähnen in den Fuß biss.*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Su8CEFdUmV8?si=lPNRsm0kqYdsDPfq&amp;clip=Ugkxmja3uaMEdHE4qUd2JHYb6O01h5TrlBKX&amp;clipt=ELDkAxjz2AU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+* Intonierte Silben (leichte Umrandung, betr. alle Systeme) auf schweren Zählzeiten
+* Nichtintonierte Silben (starke Umrandung, betr. nur Gesangsstimme) folgen dem Rhytmus der Sprache
+* Stellen mit Asterisk (\*) deuten auf Dissonante Stellen hin, die nicht den Kontrapunktregeln entsprechen
+* Eine ausführliche Analyse des Beispiels bei Palisca[^3], S. 299–301
 
 ************************************************
 
@@ -232,7 +242,6 @@ Text (in etwa): *Aber die schöne Eurydike | Tanzte auf der grünen Wiese, | Als
 * Eher rezitativisch vertont: Vers 3
 * Besonders arienhaft vertont: Vers 4
 
-
 ************************************************
 
 {{0-5}}
@@ -248,25 +257,27 @@ Text (in etwa): *Aber die schöne Eurydike | Tanzte auf der grünen Wiese, | Als
 * am besten für den Ausdruck von Affekten geeignet (nach Doni)
 * Komponist kann in diesem Stil souverän über den ganzen Reichtum musikalischer Gestaltungsmittel verfügen
   
-  > „Qui hanno luogo sopra tutto quelle mutationi di Tuono, di Genere, e di Ritmo, che sono le maggiori richezze, e sfoggi della Musica.“
+  > "Qui hanno luogo sopra tutto quelle mutationi di Tuono, di Genere, e di Ritmo, che sono le maggiori richezze, e sfoggi della Musica."
+  >
+  > *"Hier finden vor allem jene Veränderungen von Tonart, Gattung und Rhythmus statt, die den größten Reichtum und die größte Pracht der Musik ausmachen."*
   
 * Beispiel: Monteverdi, _Lamento d'Arianna_ (1608)
 * Giovanni Battista Doni über C. Monteverdis *Lamento d’Arianna*
   
   > "la più bella compositione che si sia ancor veduta tra le Musiche sceniche, e Teatrale"
   >
-  > *die schönste Komposition, die je gesehen wurde in der szenischen und theatralischen Musik*
+  > *"die schönste Komposition, die je gesehen wurde in der szenischen und theatralischen Musik"*
   
   * 1608 in Manuta uraufgeführt (*L'Arianna*, Libretto: Ottavio Rinuccini)
   * Das Stück wird bereits im 17. Jhd. berühmt
-  * Musik der Oper verloren, Lamento als Einzeldruck und hs. Kopien überliefert
+  * Die Musik der Oper ist verloren, das *Lamento* aber als Einzeldruck und handschriftliche Kopien überliefert
 
   !?["Monteverdi: Lamento d'Arianna, SV 22"](https://www.youtube.com/watch?v=24D7qE5KTmM "Monteverdi: Lamento d'Arianna, SV 22")
 
 ************************************************
 {{4-5}}
 ************************************************
-* Monteverdi, [_Oblivion Soave_](https://youtu.be/MGRQhiaLTI8?si=XTwuiz0cB57rTsoz&t=7927 "Beginn der Arie bei 2:12:55") aus der Oper _L'incoronatione die Poppea_ (Schlaflied der Arnalta)
+* Ein weiteres Beispiel, das die Möglichkeiten zum Ausdruck und Gestaltungsspielraum verdeutlicht ist das [_Oblivion Soave_](https://youtu.be/MGRQhiaLTI8?si=XTwuiz0cB57rTsoz&t=7927 "Beginn der Arie bei 2:12:55") ("Schlaflied der Arnalta") in Claudio Montevertdis später Oper _L'incoronatione die Poppea_
   
   !?[](https://www.youtube.com/watch?v=q1DE1dTdCNE)
 
@@ -335,6 +346,13 @@ Text (in etwa): *Aber die schöne Eurydike | Tanzte auf der grünen Wiese, | Als
   - E, volti gl'occhi al cielo,
   - Scolorito il bel volto, e bei sembianti,
   - Restò tanta bellezza immobil gielo.
+
+[^2]: Zum Notenbeispiel:
+  
+  - T. 2 "Moueva" statt "Moveva": alternative Schreibweise. In Drucken oft "v" statt "u" verwendet.
+  - T. 5 Erratum: 1. Akkord (rechte Hand) fälschlich Halbe g statt a
+
+[^3]: Claude V. Palisca: *Die Jahrzehnte um 1600 in Italien*, in: *Italienische Musiktheorie im 16. und 17. Jahrhundert*, Darmstadt 1989
 
 ## Theoretische Einordnung (Doni)
 
