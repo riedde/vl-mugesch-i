@@ -118,8 +118,8 @@ Erste monodische Versuche
   * Rinuccini (Dichtung, 1600) 
   * **Anlass:** Hochzeit [Maria von Medici](https://lobid.org/gnd/118577778) mit [Heinrich IV.](https://lobid.org/gnd/118548174)
   * **Ort:** Palazzo Pitti, Florenz
-  * [Vertonung durch Peri](https://www.youtube.com/watch?v=v-Uf30MaXCY) (1600)
-  * [Vertonung durch Caccini](https://www.youtube.com/watch?v=4EWX3p1ahWY) (1602)
+  * [Vertonung durch Peri](https://www.youtube.com/watch?v=v-Uf30MaXCY) (UA 1600, gedr. 1601)
+  * [Vertonung durch Caccini](https://www.youtube.com/watch?v=4EWX3p1ahWY) (UA 1602, gedr. 1600)
 
 ************************************************
 {{8}}
