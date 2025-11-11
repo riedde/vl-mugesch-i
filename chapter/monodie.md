@@ -181,18 +181,21 @@ Erste monodische Versuche
 
 [^1]: Claude V. Palisca: *Die Jahrzehnte um 1600 in Italien*, in: *Italienische Musiktheorie im 16. und 17. Jahrhundert*, Darmstadt 1989
 
-## Der theatrale *stile monodico*
+## Der theatrale *stile monodico* (Doni)
 (Nach Giovanni Battista Doni's *Annotazioni sopra il Compendio de' generi e de' modi della musica*, 1640. Auch als *stile rappresentativo* bezeichent):
 
 ---
-{{0-2}}
-************************************************
-**stile narrativo**
----
-************************************************
 
-{{1-2}}
-************************************************
+* **stile narrativo**
+
+* **stile speciale recitativo**
+
+* **stile espressivo**
+
+* **stile concitato**
+
+### stile narrativo
+
 * Inhalt: Berichte von Vergangenem
 * Dadurch: Emotionale Distanz zum vorgetragenen Text
 * Beispiel: [Bericht der Dafne](https://youtu.be/Su8CEFdUmV8?si=1UcKgPoVseVmdPbr)[^1] in Peris _L'Euridice_ (1600)[^2]
@@ -205,111 +208,6 @@ Text (in etwa): *Aber die schöne Eurydike | Tanzte auf der grünen Wiese, | Als
 * Nichtintonierte Silben (starke Umrandung, betr. nur Gesangsstimme) folgen dem Rhytmus der Sprache
 * Stellen mit Asterisk (\*) deuten auf Dissonante Stellen hin, die nicht den Kontrapunktregeln entsprechen
 * Eine ausführliche Analyse des Beispiels bei Palisca[^3], S. 299–301
-
-************************************************
-
-{{0-3}}
-************************************************
------
-
-**stile speciale recitativo**
----
-************************************************
-{{2-3}}
-************************************************
-* Im Grunde ein Arienstil
-* Beispiel: Prolog von Peris _L'Euridice_ (1600)
-  
-  * Allegorische Figur der *Tragedia*
-  * Strophe aus 4 Elfsilbern mit umschließendem Reim (a^11^ b^11^ b^11^ a^11^)
-  * insgesamt sieben Strophen
-  * wiederkehrendes (gliederndes) instrumentales Zwischenspiel (*"Ritornello"*)
-    
-!?[](https://www.youtube.com/watch?v=6Z1i4aYgmyc)
-
-* Momente des Arienhaften liegen:
-  
-  1. in der strophischen Anlage des Textes
-  2. der formalen und harmonischen Geschlossenheit der Strophenmelodie mit ihren regelmäßigen Kadenzen an den Versenden
-  3. der lebhaft-prägnanten Führung des Generalbasses (bis hin zum homorhythmischen Verlauf mit der Singstimme am Ende der Verse)
-  4. im Einsatz eines gliedernden Instrumentalritornells
-
-* Momente des Rezitativischen liegen:
-  
-  1. im engen Umfang der Melodiebewegung (Reichtum an Tonwiederholungen zu Strophenbeginn)
-  2. im Gebrauch von Haltetönen (Tonwiederholungen) im Baß, vor allem bei Versbeginn (T. 1-2, 4-5, 6-7).
-
-* Eher rezitativisch vertont: Vers 3
-* Besonders arienhaft vertont: Vers 4
-
-************************************************
-
-{{0-5}}
-************************************************
------
-
-**stile espressivo**
----
-************************************************
-{{3-5}}
-************************************************
-* expressiver, ausdrückende oder ausdrucksstarker Stil
-* am besten für den Ausdruck von Affekten geeignet (nach Doni)
-* Komponist kann in diesem Stil souverän über den ganzen Reichtum musikalischer Gestaltungsmittel verfügen
-  
-  > "Qui hanno luogo sopra tutto quelle mutationi di Tuono, di Genere, e di Ritmo, che sono le maggiori richezze, e sfoggi della Musica."
-  >
-  > *"Hier finden vor allem jene Veränderungen von Tonart, Gattung und Rhythmus statt, die den größten Reichtum und die größte Pracht der Musik ausmachen."*
-  
-* Beispiel: Monteverdi, _Lamento d'Arianna_ (1608)
-* Giovanni Battista Doni über C. Monteverdis *Lamento d’Arianna*
-  
-  > "la più bella compositione che si sia ancor veduta tra le Musiche sceniche, e Teatrale"
-  >
-  > *"die schönste Komposition, die je gesehen wurde in der szenischen und theatralischen Musik"*
-  
-  * 1608 in Manuta uraufgeführt (*L'Arianna*, Libretto: Ottavio Rinuccini)
-  * Das Stück wird bereits im 17. Jhd. berühmt
-  * Die Musik der Oper ist verloren, das *Lamento* aber als Einzeldruck und handschriftliche Kopien überliefert
-
-  !?["Monteverdi: Lamento d'Arianna, SV 22"](https://www.youtube.com/watch?v=24D7qE5KTmM "Monteverdi: Lamento d'Arianna, SV 22")
-
-************************************************
-{{4-5}}
-************************************************
-* Ein weiteres Beispiel, das die Möglichkeiten zum Ausdruck und Gestaltungsspielraum verdeutlicht ist das [_Oblivion Soave_](https://youtu.be/MGRQhiaLTI8?si=XTwuiz0cB57rTsoz&t=7927 "Beginn der Arie bei 2:12:55") ("Schlaflied der Arnalta") in Claudio Montevertdis später Oper _L'incoronatione die Poppea_
-  
-  !?[](https://www.youtube.com/watch?v=q1DE1dTdCNE)
-
-************************************************
-{{0}}
-************************************************
------
-
-**stile concitato**
----
-************************************************
-{{5}}
-************************************************
-* Von Claudio Monteverdi eingeführt, um bestimmte Eigenarten in seinem _Combattimento di Tancredi et Clorinda_ (1624) zu beschreiben.
-************************************************
-
-{{6-7}}
-************************************************
-* Der Begriff *"Concerto"*
-  
-  * bezeichnet im 17. Jahrhunder Stücke, die sich durch Kontraste zwischen Klanggruppen auszeichnen (auch *Solo* vs. *Ripieno*) ~und~ allgemein das Zusammenwirken von selbstständig geführten Vokal- und Instrumentalstimmen.
-  * *"Concerto"* ist (in diesem Sinne) etwa eine geistliche Vokalkomposition für einen (oder mehrere) Solosänger über Generalbassbegleitung. (Bsp.: Viadana: *"Concerti ecclesiastici"* /Heinrich Schütz: *"Kleinen Geistlichen Concerten"*
-
-************************************************
----
-
-{{7}}
-************************************************
-
-!?[](https://www.youtube.com/watch?v=AT_Ktsg86gs)
-
-************************************************
 
 [^1]: Bericht der Dafne aus dem [Libretto](http://opera.stanford.edu/Peri/Euridice/libretto.html). Der im Beispiel gesungene Text ist *kursiv* hervorgehoben.
   
@@ -350,9 +248,104 @@ Text (in etwa): *Aber die schöne Eurydike | Tanzte auf der grünen Wiese, | Als
 [^2]: Zum Notenbeispiel:
   
   - T. 2 "Moueva" statt "Moveva": alternative Schreibweise. In Drucken oft "v" statt "u" verwendet.
-  - T. 5 Erratum: 1. Akkord (rechte Hand) fälschlich Halbe g statt a
+  - T. 5 Erratum: 1. Akkord (rechte Hand) fälschlich Halbe g statt a.
 
-[^3]: Claude V. Palisca: *Die Jahrzehnte um 1600 in Italien*, in: *Italienische Musiktheorie im 16. und 17. Jahrhundert*, Darmstadt 1989
+[^3]: Claude V. Palisca: *Die Jahrzehnte um 1600 in Italien*, in: *Italienische Musiktheorie im 16. und 17. Jahrhundert*, Darmstadt 1989.
+
+### stile speciale recitativo
+---
+
+{{0}}
+************************************************
+* Beispiel: Prolog von Peris _L'Euridice_ (1600)
+  
+  * Allegorische Figur der *Tragedia*
+  * Strophe aus 4 Elfsilbern mit umschließendem Reim (a^11^ b^11^ b^11^ a^11^)
+  * insgesamt sieben Strophen
+  * wiederkehrendes (gliederndes) instrumentales Zwischenspiel (*"Ritornello"*)
+    
+!?[](https://www.youtube.com/watch?v=6Z1i4aYgmyc)
+************************************************
+{{1}}
+************************************************
+* Momente des Arienhaften liegen:
+  
+  1. in der strophischen Anlage des Textes
+  2. der formalen und harmonischen Geschlossenheit der Strophenmelodie mit ihren regelmäßigen Kadenzen an den Versenden
+  3. der lebhaft-prägnanten Führung des Generalbasses (bis hin zum homorhythmischen Verlauf mit der Singstimme am Ende der Verse)
+  4. im Einsatz eines gliedernden Instrumentalritornells
+************************************************
+{{2}}
+************************************************
+* Momente des Rezitativischen liegen:
+  
+  1. im engen Umfang der Melodiebewegung (Reichtum an Tonwiederholungen zu Strophenbeginn)
+  2. im Gebrauch von Haltetönen (Tonwiederholungen) im Baß, vor allem bei Versbeginn (T. 1-2, 4-5, 6-7).
+
+* Eher rezitativisch vertont: Vers 3
+* Besonders arienhaft vertont: Vers 4
+
+************************************************
+
+### stile espressivo
+---
+
+{{0}}
+************************************************
+* expressiver, ausdrückende oder ausdrucksstarker Stil
+* am besten für den Ausdruck von Affekten geeignet (nach Doni)
+* Komponist kann in diesem Stil souverän über den ganzen Reichtum musikalischer Gestaltungsmittel verfügen
+  
+  > "Qui hanno luogo sopra tutto quelle mutationi di Tuono, di Genere, e di Ritmo, che sono le maggiori richezze, e sfoggi della Musica."
+  >
+  > *"Hier finden vor allem jene Veränderungen von Tonart, Gattung und Rhythmus statt, die den größten Reichtum und die größte Pracht der Musik ausmachen."*
+************************************************
+{{1}}
+************************************************
+* Beispiel: Monteverdi, _Lamento d'Arianna_ (1608)
+* Giovanni Battista Doni über C. Monteverdis *Lamento d’Arianna*
+  
+  > "la più bella compositione che si sia ancor veduta tra le Musiche sceniche, e Teatrale"
+  >
+  > *"die schönste Komposition, die je gesehen wurde in der szenischen und theatralischen Musik"*
+  
+  * 1608 in Manuta uraufgeführt (*L'Arianna*, Libretto: Ottavio Rinuccini)
+  * Das Stück wird bereits im 17. Jhd. berühmt
+  * Die Musik der Oper ist verloren, das *Lamento* aber als Einzeldruck und handschriftliche Kopien überliefert
+
+  !?["Monteverdi: Lamento d'Arianna, SV 22"](https://www.youtube.com/watch?v=24D7qE5KTmM "Monteverdi: Lamento d'Arianna, SV 22")
+
+************************************************
+{{2}}
+************************************************
+* Ein weiteres Beispiel, das die Möglichkeiten zum Ausdruck und Gestaltungsspielraum verdeutlicht ist das [_Oblivion Soave_](https://youtu.be/MGRQhiaLTI8?si=XTwuiz0cB57rTsoz&t=7927 "Beginn der Arie bei 2:12:55") ("Schlaflied der Arnalta") in Claudio Montevertdis später Oper _L'incoronatione die Poppea_
+  
+  !?[](https://www.youtube.com/watch?v=q1DE1dTdCNE)
+
+************************************************
+
+### stile concitato
+
+{{0}}
+************************************************
+* der "erregte Stil"
+* Von Claudio Monteverdi eingeführt (1638, 8. Madrigalbuch)
+************************************************
+
+{{1}}
+************************************************
+* Der Begriff *"Concerto"* (Exkurs)
+  
+  * bezeichnet im 17. Jahrhunder Stücke, die sich durch Kontraste zwischen Klanggruppen auszeichnen (auch *Solo* vs. *Ripieno*) ~und~ allgemein das Zusammenwirken von selbstständig geführten Vokal- und Instrumentalstimmen.
+  * *"Concerto"* ist (in diesem Sinne) etwa eine geistliche Vokalkomposition für einen (oder mehrere) Solosänger über Generalbassbegleitung. (Bsp.: Viadana: *"Concerti ecclesiastici"* /Heinrich Schütz: *"Kleinen Geistlichen Concerten"*
+
+************************************************
+{{2}}
+************************************************
+
+!?[](https://www.youtube.com/watch?v=AT_Ktsg86gs)
+
+************************************************
 
 ## Theoretische Einordnung (Doni)
 
@@ -377,12 +370,76 @@ Giovanni Battista Doni (1635) *Discorso sopra la perfettione delle melodie*:
      * Textverständlichkeit und Musikausdruck optimal kombiniert
      * Monteverdi als unerreichter Meister
 
+* Donis Stillehre
+  
+  * Versuch die Vielfalt monodisch-theatralischer Kompositionsverfarhen seiner Zeit (i. e. um 1600) kategorial zu durchdringen
+  * Weniger wichtig, ob diese Kategorien die Realität abbilden
+  * Wichtiger ist die Tatsache, dass bereits inn den frühesten Opern verschiedene monodische Stile verwendet wurden
+  * Es deutet sich bereits ein Dualismus von Rezitativ und Arie an, der für die Operngeschichte im 17./18. Jhd. konstitutiv ist
+
+## Monteverdis "Affekte"
+{{0}}
+************************************************
+
+Monteverdi unterscheidet im Vorwort zu seinem 8. Madrigalbuch drei menschliche Grundaffekte, denen er drei musikalische Stilarten zuweist:
+
+| Affekt   | musikalische Stilart   |
+| :--------- | :--------- |
+| ira (Zorn)     | genere concitato (erregte Art)     |
+| temperanza (Mäßigung) | genere temperato (gemäßigte Art) |
+| humilità / supplicatione (Demut, Flehen) | genere molle (weiche, sanfte Art) |
+
+************************************************
+{{1}}
+************************************************
+Monteverdi weißt darauf hin, dass die Dreiteilung der Grundaffekte durch „die besten Philosophen” bestätigt werde.[^4] Dies ist jedoch schwer nachzuvollziehen, da sich seine Einteilung in überlieferten antiken Affekttheorien nicht nachweisen lässt. Auch ist fraglich, ob Mäßigung und Demut nicht eher Tugenden sind als Affekte.
+
+************************************************
+{{2}}
+************************************************
+
+Sabine Ehrmann[^5] hat vorgeschlagen, Monteverdis affekttheoretische Äußerungen vor dem Hintergrund der antiken rhetorischen Stillehre, vor allem in Ciceros rhetorischen Schriften zu betrachten, sowie der auf Cicero aufbauenden mittelalterlichen Rhetorik, etwa bei Augustinus.
+
+*Genera dicendi* bei Cicero:
+
+|               |                       |                    |
+|:--------------|:----------------------|:-------------------|
+|hoher Stil     | genus grave (sublime)[^a]("schwere Art / edle Art") | concitare (movere)[^b]("aufregen / bewegen") |
+|mittlerer Stil | genus modicum sive temperatum	(medium)[^c]("moderate oder gemäßigte Art") |	conciliare (delectare)[^d]("gewogen machen / erfreuen")|
+|niedriger Stil | genus molle (humile)[^e]("sanfte Art / bescheidene Art") | docere[^f]("lehren") |
+
+************************************************
+{{3}}
+************************************************
+* Dichtung/Rede im hohen Stil
+  
+  * zielt auf die heftige affektische Erschütterung der Zuhörer
+  * stärkster Einsatz rhetorischer Figuren / sprachlichen Schmucks (ornatus)
+
+* Dichtung/Rede im mittleren Stil
+  
+  * soll der Zuhörer durch eine gemäßigte Affektlage erfreuen und gewogen stimmen
+  * nur leichter Einsatz rhetorischer Figuren, der/die Redner:in möchte den/die Hörer:in für seine Sache „geneigt machen“ (conciliare).
+
+* Dichtung/Rede im niedrigen Stil
+  
+  * fast keinen „ornatus“ (Schmuck)
+  * soll nur lehren oder beweisen
+  * er verzichtet weitgehend auf affektische Erregung[^6]
+************************************************
+
+[^4]: C. Monteverdi verweist auf Platons *Res publica* (Staatskunst), der sich in diesem Buch jedoch nicht wie man erwarten würde zu dieser Thematik äußerst.
+
+[^5]: Vorrede zum 8. Madrigalbuch (1638) mit deutscher Übersetzung, in: Sabine Ehrmann: *Claudio Monteverdi. Die Grundbegriffe seines musiktheoretischen Denkens*, Pfaffenweiler 1989 (=*Musikwissenschaftliche Studien 2*)
+
+[^6]: Vgl. auch Heinrich Lausberg: *Elemente der literarischen Rhetorik. Eine Einführung für Studierende der klassischen, romanischen, englischen und deutschen Philologie*, div. Auflagen.
+
 ## Quiz und Reflexion
 Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1--3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
 
 **Was war die Motivation der Florentiner Camerata für die Entwicklung der Monodie?**
 
-[[ ]] Vereinfachung der Komposition für Laien-Musiker:innen
+[[ ]] Vereinfachung der Musik für Laien-Musiker:innen
 [[X]] Kritik an der vorherrschenden Polyphonie, die dem antiken Ideal nicht entsprach
 [[X]] Streben nach besserer Textverständlichkeit
 [[ ]] Befreiung der Musik aus dem Einflussbereich der Kirche
