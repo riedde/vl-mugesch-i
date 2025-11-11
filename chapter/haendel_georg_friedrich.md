@@ -17,12 +17,12 @@ tags:     komponist, barock
 
 - **Grunddaten:**
   
-  - George Friedrich Händel (Vgl. Matrikel der MLU)
-  - 1685 in Halle(Saale) geboren
+  - Georg Friedrich Händel (vgl. Matrikel der MLU)
+  - 1685 in Halle (Saale) geboren
   - 1703 Hamburg
   - ca. 1706–1710 in Italien
   - 1710 Hannover und Ankunft in London als freier Künstler
-  - Am 8. Mai 1719, königliches Patent, Unternehmen als *Royal Academy of Music* geführt, königliche Unterstützung £1000/Jahr
+  - Am 8. Mai 1719, königliches Patent, Unternehmen als *Royal Academy of Music* geführt, königliche Unterstützung £ 1000/Jahr
   - 1759 in London verstorben
 
 - **Lebensstil:** Oberschicht der englischen Gesellschaft, hochgeschätzt am Hof, verehrt von der Aristokratie, geliebt von den Bürgern Londons
@@ -97,9 +97,9 @@ tags:     komponist, barock
 
 - **Oxford-Aufenthalt (1733):** Fünf Tage im Sommer 1733 zur Verleihung der Ehrendoktorwürde, drei Oratorien auf eigene Kosten aufgeführt, neue Komposition Oratorium *Athalia* (eigens für Oxford komponiert), Gewinn £ 2000 nach Abzug der Unkosten
 
-- **Politische Oratorien - Schottischer Aufstand (1745/46):** Anführer Charles Edward Stuart (›Bonnie Prince Charly‹) mit französischer Unterstützung, Ziel: Vertreibung des englischen Königs, englische Reaktion: gesamte Armee unter Duke of Cumberland, Ergebnis: vernichtende Niederlage und Massaker der Schotten (Duke ›der Schlächter‹)
+- **Politische Oratorien – Schottischer Aufstand (1745/46):** Anführer Charles Edward Stuart (›Bonnie Prince Charly‹) mit französischer Unterstützung, Ziel: Vertreibung des englischen Königs, englische Reaktion: gesamte Armee unter Duke of Cumberland, Ergebnis: vernichtende Niederlage und Massaker der Schotten (Duke ›der Schlächter‹)
 
-- **Oratorium *Judas Maccabäus*:** Komposition während absehbaren englischen Sieges, Textgrundlage: apokryphe Texte des Alten Testaments, Inhalt: israelitischer Feldherr Judas Maccabäus (›der Hämmerer‹) besiegt Feinde Israels, Funktion: Huldigungsoratorium für Duke of Cumberland, größter Erfolg zu Händels Lebzeiten in England, jährlich einmal zur Aufführung gebracht, Durchschnittsgewinn £ 500 pro Aufführung
+- **Oratorium *Judas Maccabaeus*:** Komposition während absehbaren englischen Sieges, Textgrundlage: apokryphe Texte des Alten Testaments, Inhalt: israelitischer Feldherr Judas Maccabäus (›der Hämmerer‹) besiegt Feinde Israels, Funktion: Huldigungsoratorium für Duke of Cumberland, größter Erfolg zu Händels Lebzeiten in England, jährlich einmal zur Aufführung gebracht, Durchschnittsgewinn £ 500 pro Aufführung
 
 ### Kaufkraftanalyse
 
@@ -137,13 +137,13 @@ tags:     komponist, barock
 
   - **Hamburg (1703-1706):** Knapp drei Jahre, erst Violinist, dann Maestro di Cembalo (Continuospieler und Dirigent) an der Gänsemarkt-Oper unter Reinhard Keiser, Freundschaft mit Musikschriftsteller Johann Mattheson, vier deutsche Opern komponiert, erhaltenes Werk *Almira* (etwa 20 Aufführungen, Mattheson sang Hauptrolle)
 
-  - **Matthesons Charakterisierung:** »starck auf der Orgel [...] in Fugen und Contrapuncten, absonderlich ex tempore; aber er wußte sehr wenig von der Melodie, ehe er in die hamburgische Oper kam« - virtuos und kunstvolle Improvisationen, lebenslang Gunst durch Orgelspiel, mangelndes Opernverständnis zu dieser Zeit
+  - **Matthesons Charakterisierung:** »starck auf der Orgel [...] in Fugen und Contrapuncten, absonderlich ex tempore; aber er wußte sehr wenig von der Melodie, ehe er in die hamburgische Oper kam« – virtuos und kunstvolle Improvisationen, lebenslang Gunst durch Orgelspiel, mangelndes Opernverständnis zu dieser Zeit
 
   - **Italien (1706-1710):** Vervollkommnung des musikalischen Könnens, vier Jahre, alle bedeutenden Komponisten persönlich kennengelernt, wichtigster Lehrer: Arcangelo Corelli, Förderung durch Adel und Klerus
 
 ### Händels Oper *Rinaldo*
 
-- **Entstehung und Erfolg:** 1710 in London, als bedeutender italienischer Opernkomponist empfangen, spektakulärer Erfolg
+- **Entstehung und Erfolg:** 1710 in London, als bedeutender Opernkomponist empfangen, spektakulärer Erfolg <!-- Komponist italienischer Opern ? Mich würde wundern, wenn die Briten ihn (hauptsächlich) als Italiener wahrgenommen haben.-->
 
 - **Stoffliche Grundlage:** Armida-Episode aus dem 16. Gesang von Tassos *Das befreite Jerusalem*, einer der beliebtesten Opernstoffe der Barockzeit, Vorläufer: Jean-Baptiste Lully (1686 in Paris als Tragédie lyrique)
 
@@ -159,7 +159,7 @@ tags:     komponist, barock
 
   - Dramatische Verwicklung: Rinaldo verliebt sich in Armida, Argante verliebt sich in Almirena, beide Paare geraten auseinander
 
-  - Abweichung von Tasso: Happy End - Armida und Argante bekehren sich zum Christentum, die ›richtigen Paare‹ finden wieder zueinander
+  - Abweichung von Tasso: Happy End – Armida und Argante bekehren sich zum Christentum, die ›richtigen Paare‹ finden wieder zueinander
 
 - **Berühmte Arien:** 
 
@@ -207,7 +207,7 @@ tags:     komponist, barock
 
   - Ziel der Protektion: Neben *Anerkennung seiner Person* vor allem *Publikum/Nation erreichen*
 
-  - Mit Oratorien die Zuhörer ergreifen, unterhalten (*spiritual entertainment*) und damit auch ›bessern‹
+  - Mit Oratorien die Zuhörer ergreifen, unterhalten (*spiritual entertainment*) und damit auch ›bessern‹ <!--Diskutieren / Kontextualisierung Aufklärungsforschung?: "Ist das als Aufklärung zu verstehen?"-->
   
 > Nach einer Aufführung von Messiah soll er 1743 zu dem mit ihm befreundeten Earl of Kinnoull, der sich für das »"noble entertainment"« bei ihm bedankte, gesagt haben: »My lord, I should be sorry if I only entertained them, I wish to make them better« (O. E. Deutsch 1955, S. 855 [B.2.]). Von dieser öffentlichen Wirksamkeit her läßt sich auch verstehen, warum Händel kein großes Interesse am Unterrichten hatte.
 >
@@ -215,14 +215,14 @@ tags:     komponist, barock
 
 
 - **Textgrundlage:** Neben *Israel in Egypt* einziges Oratorium ausschließlich auf Bibeltext (andere Oratorien sämtlich Neu- und Nachdichtungen)
-- **Kultureller Status:** Regelrechter Kultstatus in angelsächsischer Welt, berühmtester Chor *Hallelujah* am Ende des zweiten Teils, Tradition: britisches Publikum pflegt bei Darbietung aufzustehen
+- **Kultstatus:** Regelrechter Kultstatus in angelsächsischer Welt, berühmtester Chor *Hallelujah* am Ende des zweiten Teils, Tradition: britisches Publikum pflegt bei Darbietung aufzustehen
 - **Musikalische Charakteristik des *Hallelujah*:** Idealtypische Verbindung von Händels kontrapunktischer Grundveranlagung, italienischen Belcanto-Erfahrungen und Fähigkeit zu eingängigen, homophon-einfachen und schlagkräftig-prachtvollen Chorsätzen
 - **Aufführungstradition:** Laienchöre erst nach Händels Tod, immer größer werdende Chöre, Fassungsvielfalt (Händel passte das Werk bei verschiedenen Aufführungen der jeweiligen Situation an), Fassung von 1751 ohne Frauenstimmen, mit hohen Knabenstimmen in Chor und Arien
 
 ### Händels Kompositionspraxis
 - **Werkverständnis:** Nie endgültiges, abgeschlossenes Kunstwerk, Fokus auf möglichst perfekte und erfolgreiche Aufführung, jedes wiederholt aufgeführte Werk wurde überarbeitet
 - **Überarbeitungspraxis:** Gesangspartien für jeweilige Sänger umgeschrieben, Arien neu komponiert, umgestellt oder getilgt, Anpassung an jeweilige Aufführungssituation
-- **Material-Verwendung:** Rückgriff auf ältere eigene Arbeiten, ungenierte Verwendung von ›Material‹ anderer Komponisten (Irritation nachfolgender Generationen bis in jüngste Vergangenheit)
+- **Material-Verwendung (*Borrowing*-Praxis):** Rückgriff auf ältere eigene Arbeiten, ungenierte Verwendung von ›Material‹ anderer Komponisten (Irritation nachfolgender Generationen bis in jüngste Vergangenheit)
 - **Kompositionsphilosophie:** *Inventio vs. Elaboratio*
 
   - „Schwierigkeit“ mit Erfindung neuer Themen und Melodien,
@@ -251,7 +251,7 @@ tags:     komponist, barock
 - Hans Joachim Marx: Art. *Händel, Georg Friedrich*, WÜRDIGUNG, 1. Persönlichkeit und gesellschaftliche Stellung, in: MGG Online, hrsg. von Laurenz Lütteken, New York/Kassel/Stuttgart 2016ff., zuerst veröffentlicht 2002, online veröffentlicht 2016, [https://www.mgg-online.com/mgg/stable/594976](https://www.mgg-online.com/mgg/stable/594976)
 
 ## Quiz und Reflexion
-Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1–3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
 
 **Was charakterisiert Händels außergewöhnlichen wirtschaftlichen Erfolg als freier Künstler?**
 
@@ -276,7 +276,7 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 
 **Stellen Sie Händels Position als erfolgreicher Musikunternehmer im 18. Jahrhundert in groben Zügen dar. Wie unterschied sich sein Lebensstil von dem traditionellen Bild des armen Musikers und welche gesellschaftlichen Faktoren ermöglichten seinen Erfolg?**
 
-*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 1-2 Seiten beantworten können.*
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 1–2 Seiten beantworten können.*
 
 ## Übersichten
 
@@ -310,13 +310,13 @@ Alles auf einen Blick.
 
 * **Werke**
   
-  * Händel, Georg Friedrich: *Almira* (um 1703/1705) – Oper aus Hamburg (teils deutsch, teils italienisch)
-  * Händel, Georg Friedrich: *Athalia* ({%ENTSTEHUNGSJAHR%}) – Oratorium eigens für Oxford komponiert
-  * Händel, Georg Friedrich: *Giulio Cesare in Egitto* (1723) – berühmteste Oper der Royal Academy
-  * Händel, Georg Friedrich: *Israel in Egypt* ({%ENTSTEHUNGSJAHR%}) – Oratorium ausschließlich auf Bibeltext
-  * Händel, Georg Friedrich: *Judas Maccabäus* () – Huldigungsoratorium für den Duke of Cumberland
-  * Händel, Georg Friedrich: *Rinaldo* (1710) – erste Londoner Oper mit spektakulärem Erfolg
-  * Händel, Georg Friedrich: *The Messiah* (1741) – berühmtestes Oratorium mit Hallelujah-Chor
+  * Händel, Georg Friedrich: *Almira* HWV 1 (um 1703/1705) – Oper für Hamburg (teils deutsch, teils italienisch)
+  * Händel, Georg Friedrich: *Athalia* HWV 52 (1733) – Oratorium eigens für Oxford komponiert
+  * Händel, Georg Friedrich: *Giulio Cesare in Egitto* HWV 17 (1723) – berühmteste Oper der Royal Academy
+  * Händel, Georg Friedrich: *Israel in Egypt* HWV 54 (1738/39) – Oratorium ausschließlich auf Bibeltext (erster Teil zugleich *Funeral Anthem )
+  * Händel, Georg Friedrich: *Judas Maccabaeus* HWV 63 (1746) – Huldigungsoratorium für den Duke of Cumberland
+  * Händel, Georg Friedrich: *Rinaldo* HWV 7 (1710) – erste Londoner Oper mit spektakulärem Erfolg
+  * Händel, Georg Friedrich: *The Messiah* HWV 56 (1741) – berühmtestes Oratorium mit Hallelujah-Chor
 
 
 

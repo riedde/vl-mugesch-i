@@ -459,7 +459,7 @@ Alles auf einen Blick.
   * Descartes, René (1596–1650) – Philosoph/Mathematiker
   * Kepler, Johannes (1571–1630) – Astronom/Physiker/Naturphilosoph
   * Lully, Jean Baptiste (1632–1687) – Komponist am französischen Hof, ursprünglich *Giovanni Battista Lulli* aus Florenz
-  * Ludwig XIV. ({%GEBURTSJAHR%}–{%STERBEJAHR%}) – König von Frankreich
+  * Ludwig XIV. (1638–1715) – König von Frankreich
   * Marais, Marin (1656–1728) – Gambenvirtuose und Komponist
   * Mersenne, Marin (1588–1648) – Theologe/Mathematiker/Musiktheoretiker
   * Quinault, Philippe (1635–1688) – Librettist

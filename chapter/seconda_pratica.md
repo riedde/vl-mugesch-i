@@ -15,46 +15,53 @@ tags:     kompositionsweise
 
 Allgemein: Lockerung der Kontrapunktnormen und neuartiger Konsonanz- und Dissonanzgebrauch. 
 
-
 ## Historische Entwicklung
 
-### Textausdeutung vs. Kontrapunkt
-* Bereits im späteren Mittelalter:
+Textausdeutung vs. Kontrapunkt
 
-  * *vitia* als *color rhetoricus* <!-- Warum "vitia" -->
-  * Rhetorischer Schmuck
-  * Ziel: Intensivierung der Textaussage
-  * Wirkungsziel: "persuasio" (Überredung)
+**Spätes Mittelalter**
+---
 
-### Situation im späten 16. Jahrhundert
-* Problem im Madrigal:
+* Gezielte Regelverstöße (*vitia* / "Mängel") als *color rhetoricus*
+* Rhetorischer Schmuck
+* Ziel: Intensivierung der Textaussage
+* Wirkungsziel: "persuasio" (Überredung)
 
-  * Kontrapunkt als "Feind des Textes"
-  * Imitierender Satz erschwert Textverständlichkeit
-  * Begrenzte Ausdrucksmittel
-  * Polyphone soggetti wenig textbezogen
+**Spätes 16. Jahrhundert**
+---
+
+* Kontrapunkt als "Feind des Textes"
+* Imitierender Satz erschwert Textverständlichkeit
+* Begrenzte Ausdrucksmittel
+* Polyphone *soggetti* sind wenig textbezogen
+* Problematisch für das Madrigal
 
 ## Giulio Caccinis Position
+
 * Giulio Romano Caccini
 * \* 8. Oktober 1551 in Rom
 * begraben 10. Dezember 1618 in Florenz
 * Komponist, Sänger, Gesangslehrer
 
-### Kritik am Kontrapunkt
-
-Zitat aus "Le Nuove Musiche":
-
-| Original | Übersetzung |
-| :------- | :---------- |
-| "... à non pregiare quelle sorte di musica, che non lasciando bene intendersi le parole, guasta il concetto, & il verso, ora allungando, & ora scorciando le sillabe per accomodarsi al contrappunto, laceramento della Poesìa …" | "... nicht die Art von Musik wertzuschätzen, die – indem sie die Verständlichkeit des Textes verhindert – seinen Inhalt wie seine Form zerstört, bald Silben verlängert, bald verkürzt, um dem Kontrapunkt Genüge zu tun, was einem Zerfetzen der Poesie gleichkommt ..." |
+---
 
 
-### Lösungsansätze
+**Kritik am Kontrapunkt**
+---
+
+Giulio Caccini stellt in der Vorrede zu seiner *Nuove musiche* fest, dass ihn seine Studien im Kreis der *Florentiner Camerata* davon überzeugt hätten,
+
+> "…à non pregiare quelle sorte di musica, che non lasciando bene intendersi le parole, guasta il concetto, & il verso, ora allungando, & ora scorciando le sillabe per accomodarsi al contrappunto, laceramento della Poesìa…"[^1]("…nicht die Art von Musik wertzuschätzen, die – indem sie die Verständlichkeit des Textes verhindert – seinen Inhalt wie seine Form zerstört, bald Silben verlängert, bald verkürzt, um dem Kontrapunkt Genüge zu tun, was einem Zerfetzen der Poesie gleichkommt…")
+>
+> – Giulio Caccini, Vorrede zu *Le Nuove musiche*
+
+**Lösungsansätze**
+---
+
 * Caccini: Komposition von Solo-Madrigalen
-* Andere Ansätze:
+* Andere (z. T. frühere) Ansätze:
 
-  * Chromatisierung
-  * Lockerung der Kontrapunktregeln
+  * Chromatisierung und Lockerung der Kontrapunktregeln
   * Freierer Dissonanzgebrauch
 
 ## Die Artusi-Monteverdi-Kontroverse
@@ -63,43 +70,68 @@ Zitat aus "Le Nuove Musiche":
 * Giovanni Maria Artusi: _L'Artusi Ovvero delle Imperfettioni della moderna musica_ (1600)
   
   * Schüler Gioseffo Zarlinos (1517–1590)
-  * Zarlino:  *Istitutioni harmoniche* (1558)
+  * Zarlino:  *Istitutioni harmoniche*[^2]("Harmonische Strukturen/Systeme") (1558)
     
     -> Hauptwerk der Kontrapunktlehre auch im 17. Jhd.
     
     -> „unumstößliche Regeln“ des mehrstimmigen Satzes.
 
 * Claudio Monteverdi: _Vorrede zum 5. Madrigalbuch_ (1605)
-* Giulio Cesare Monteverdi: _Dichiaratione_ in Claudio Monteverdis _Scherzi musicali a tre voci_ (1607)
+* Giulio Cesare Monteverdi: _Dichiaratione_[^3]("Auslegung / Erklärung") in Claudio Monteverdis _Scherzi musicali a tre voci_ (1607)
 
 ### Artusis Kritik
 
-* Hauptkritikpunkte:
+Artusi kritisiert in seiner 1600 erschienene Abhgandlubng u. a. einige polyphone(!) Madrigale Claudio Monteverdis. Die beiden Hauptkritikpunkte sind:
 
-  1. Dissonanzbehandlung
+1. Dissonanzbehandlung
+   
+   - [*Cruda Amarilli*](https://www.youtube.com/watch?v=bKTQQ28sSNo)
      
-     - Das Notenbeispiel auf Blatt 19 zeigt zwei Stellen aus Madrigalen Monteverdis, die Artusi wegen ihrer Dissonanzbehandlung missbilligte: Im ersten Fall aus „Cruda Amarilli“ störte er sich an der frei eingeführten Nondissonanz im Sopran (die dann in eine Septdissonanz springt) (VORSPIELEN)
-
-     - Beispiel an der Tatsache, dass der Septvorhalt im Alt nicht mit Überbindung, also nicht synkopisch, eingeführt wurde, Einführung und Dissonanz syllabisch textiert waren („non tuoi“; außerdem ist die Sept c“ im Sopran im vorletzten Takt unvorberereitet eingeführt)
-
-  2. Moduswechsel (innerhalb der Komposition)
+     - "T. 13" frei eingeführte Nondissonanz im Sopran, die dann in eine Septdissonanz springt
+   
+   - [*Anima mia perdona*](https://www.youtube.com/watch?v=EdrTIojhVp8) (Bsp. ab 5:40)
      
-     - Beginnt in F endet in D
+     - "T. 60" Septvorhalt im Alt wird nicht mit Überbindung, also nicht synkopisch eingeführt
+     - Zudem: Einführung und Dissonanz sind syllabisch textiert („non tuoi“)
+     - Sept *c“* (Sopran) im vorletzten Takt ist unvorberereitet eingeführt
+
+2. Moduswechsel (innerhalb der Komposition)
+   
+   - Es gäbe eine Komposition, die in F beginne, aber in D ende
 
 ### Claudio Monteverdis Reaktion
-* 1603: 4. Madrigalbuch
+* Keine direkte Reaktion auf die von Artusi geäußerte Kritik!
+* 1603: Monteverdis 4. Madrigalbuch (enthält ein von Artusi kritisiertes Madrigal)
+  
+  * Folge: ARtusi erneuert seinen Angriff aug Monteverdi in einer weiteren Schrift (1603)
+
 * 1605: Vorrede zum 5. Madrigalbuch
 
-  * Ankündigung einer Abhandlung über "seconda pratica"
-  * Neue Betrachtungsweise von Konsonanzen und Dissonanzen
+  * Ankündigung einer Abhandlung "über die Vollkommenheit der modernen Musik"
+  * diese – nie erschienene Schrift – soll eine *"seconda pratica"* begründen und lehren
+  * *seconda pratica* als neue Kompositionsweise mit neuer Betrachtungsweise von Konsonanzen und Dissonanzen
 
 ## Theoretische Grundlagen
 
 ### G.C.Monteverdis "Dichiaratione"
-* Kernthese: *"l'oratione sia padrona del armonia e non serva"*
+* Guilio Caesare Monteverdi ist der Bruder von Claudio Monteverdi
+* G. C. M. kommentiert die Vorrede seines Bruders von 1605 in dessen *Scherzi musicali* (1607)
+* Kernthese
 
-  * *(Die Rede ist Herrin der Harmonie, nicht Dienerin)*
+  * > *"l'oratione sia padrona del armonia e non serva"* / *"Die Rede sei Herrin der Harmonie und nicht Dienerin"*
   * eigentliche Zielsetzung der *seconda pratica*
+
+* Hintergründe
+  
+  * Claudio Monteverdi
+    
+    * Dissonanzbehandlung ist **nicht** losgelöst von der Textbehandlung
+    * Ziel: adäquate musikalische Umsetzung eines Textes
+
+  * Artusi
+    
+    * Dissonanzbehandlung und Textbehandlung sind losgelöst voneinander
+    * Ziel: Umsetzung des satztechnischen Abstraktum des kontrapunktischen Regelwerks
 
 * Begriffsbestimmungen:
 
@@ -141,7 +173,7 @@ Giulio Cesare Monteverdi stellt durch Zitate aus Platons *Politeia* einen Bezug 
          +----------+  +---------+
   ```
 
-In der Diskussion um die *seconda pratica* geht es nicht um die Frage "Vokalpolyphonie oder Monodie" bzw. "Einstimmigkeit oder Mehrstimmigkeit". Im Fokus steht eine bestimmte *Einstellung gegenüber der Textvorlage* und kann bei der Komposition eines polyphonen Madrigals ebenso Anwendung finden wie bei der Komposition monodischen Gesangs in der Oper. <!-- "Opernrezitativ" suggieriert ein Konzept von Recitativ und Arie, das noch längst nicht existiert -->
+In der Diskussion um die *seconda pratica* geht es nicht um die Frage "Vokalpolyphonie oder Monodie" bzw. "Einstimmigkeit oder Mehrstimmigkeit". Im Fokus steht eine bestimmte *Einstellung gegenüber der Textvorlage* und kann bei der Komposition eines polyphonen Madrigals ebenso Anwendung finden wie bei der Komposition eher rezitativen Gesangs in der Oper.
 
 ## Historische Einordnung
 
