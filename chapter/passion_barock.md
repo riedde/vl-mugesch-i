@@ -135,9 +135,9 @@ tags:     passion, gattung, barock
 * Wichtige Szenen
   
   * Gefangennahme (Malchus, [V. 10](https://www.die-bibel.de/bibel/LU17,EUE/JHN.18.10))
-  * Verhör von Hannas (Schwiegervater des Kaiphas, Hohepriester) und Kaiphas
+  * Verhör durch Hannas (Schwiegervater des Kaiphas, Hohepriester) und Kaiphas
   * Verleugnung des Petrus
-  * Verhör des Pilatus
+  * Verhör durch Pilatus
   * Kreuzigung folgt direkt auf Verurteilung
   * Teilung der Kleider
     
@@ -180,7 +180,7 @@ Heinrich Schütz: _Matthäus-Passion_ SWV 479, "Barrabam!"
 
 ---
 
-Einen Überblick über Johann Sebastian Bachs Zeit und Werk bietet das [Bach-Kalendarium](https://jsbach.de/kalendarium)
+Das [Bach-Kalendarium](https://jsbach.de/kalendarium) bietet einen Überblick über Johann Sebastian Bachs Leben, Werk und Zeitgenossen.
 
 ---
 
