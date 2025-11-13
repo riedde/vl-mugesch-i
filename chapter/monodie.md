@@ -140,7 +140,7 @@ Erste monodische Versuche
 
 ************************************************
 
-## *stile recitativo*
+## Ein neuer Vortragsstil
 * Idee einer *Melodik zwischen Singen und Sprechen* (vgl. die folgenden Zitate)
 * Wichtige Quellen:
 
@@ -181,8 +181,10 @@ Erste monodische Versuche
 
 [^1]: Claude V. Palisca: *Die Jahrzehnte um 1600 in Italien*, in: *Italienische Musiktheorie im 16. und 17. Jahrhundert*, Darmstadt 1989
 
-## Der theatrale *stile monodico* (Doni)
-(Nach Giovanni Battista Doni's *Annotazioni sopra il Compendio de' generi e de' modi della musica*, 1640. Auch als *stile rappresentativo* bezeichent):
+## Der theatrale *stile monodico*
+Nach Giovanni Battista Doni's *Annotazioni sopra il Compendio de' generi e de' modi della musica*, 1640.
+
+Doni verwendet für die Stile, die besonders für dramatische Aktionen (auf der Bühne) geeignet sind den Überbegriff *stile rappresentativo* ("darstellender Stil")
 
 ---
 
@@ -255,6 +257,8 @@ Text (in etwa): *Aber die schöne Eurydike | Tanzte auf der grünen Wiese, | Als
 ### stile speciale recitativo
 ---
 
+Der "besondere Vortragsstil"
+
 {{0}}
 ************************************************
 * Beispiel: Prolog von Peris _L'Euridice_ (1600)
@@ -324,20 +328,29 @@ Text (in etwa): *Aber die schöne Eurydike | Tanzte auf der grünen Wiese, | Als
 
 ************************************************
 
+{{3}}
+************************************************
+* Zusammengefasst:
+  
+  * Vollkommene Musik zu ausdrucksvoller Poesie
+  * Textverständlichkeit und Musikausdruck optimal kombiniert
+  * Monteverdi als unerreichter Meister (nach Doni)
+************************************************
+
 ### stile concitato
 
 {{0}}
 ************************************************
 * der "erregte Stil"
-* Von Claudio Monteverdi eingeführt (1638, 8. Madrigalbuch)
+* durch Claudio Monteverdi eingeführt (1638, 8. Madrigalbuch)
 ************************************************
 
 {{1}}
 ************************************************
 * Der Begriff *"Concerto"* (Exkurs)
   
-  * bezeichnet im 17. Jahrhunder Stücke, die sich durch Kontraste zwischen Klanggruppen auszeichnen (auch *Solo* vs. *Ripieno*) ~und~ allgemein das Zusammenwirken von selbstständig geführten Vokal- und Instrumentalstimmen.
-  * *"Concerto"* ist (in diesem Sinne) etwa eine geistliche Vokalkomposition für einen (oder mehrere) Solosänger über Generalbassbegleitung. (Bsp.: Viadana: *"Concerti ecclesiastici"* /Heinrich Schütz: *"Kleinen Geistlichen Concerten"*
+  * bezeichnet im 17. Jahrhunder Stücke, die sich durch Kontraste zwischen Klanggruppen auszeichnen (auch *Solo* vs. *Ripieno*) ~~und~~ allgemein das Zusammenwirken von selbstständig geführten Vokal- und Instrumentalstimmen.
+  * *"Concerto"* ist (in diesem Sinne) etwa eine geistliche Vokalkomposition für einen (oder mehrere) Solosänger über Generalbassbegleitung. (Bspw. Lodovico Viadana: *"Concerti ecclesiastici"* /Heinrich Schütz: *"Kleinen Geistlichen Concerten"*)
 
 ************************************************
 {{2}}
@@ -347,35 +360,9 @@ Text (in etwa): *Aber die schöne Eurydike | Tanzte auf der grünen Wiese, | Als
 
 ************************************************
 
-## Theoretische Einordnung (Doni)
+### Donis Stillehre
 
-Giovanni Battista Doni (1635) *Discorso sopra la perfettione delle melodie*:
-
-* Drei Arten der Monodie:
-  
-  1. *Stile rezitativo*
-     
-     * Einzelgesang mit Instrumentalbegleitung
-     * Textverständlichkeit wichtig
-     * Einsatz: Kirche, Theater, Hof
-  
-  2. *Stile rappresentativo*
-     
-     * Nur für Bühne geeignet
-     * Für dramatische Aktion
-  
-  3. *Stile espressivo*
-     
-     * Vollkommene Musik zu ausdrucksvoller Poesie
-     * Textverständlichkeit und Musikausdruck optimal kombiniert
-     * Monteverdi als unerreichter Meister
-
-* Donis Stillehre
-  
-  * Versuch die Vielfalt monodisch-theatralischer Kompositionsverfarhen seiner Zeit (i. e. um 1600) kategorial zu durchdringen
-  * Weniger wichtig, ob diese Kategorien die Realität abbilden
-  * Wichtiger ist die Tatsache, dass bereits inn den frühesten Opern verschiedene monodische Stile verwendet wurden
-  * Es deutet sich bereits ein Dualismus von Rezitativ und Arie an, der für die Operngeschichte im 17./18. Jhd. konstitutiv ist
+Als Doni seine Schrift verfasst, liegen bereits zahlreiche monodische Kompositionen vor. Er unternimmt mit seiner Stillehre den Versuch, die kompositionsweisen durch Kategorien zu beschreiben und deren Zweck und Einsatzgebiet zu erläutern. Dabei ist es aus heutiger Sicht weit weniger wichtig, ob diese Kategorien die Realität adäquat abbilden. Viel mehr ist die Tatsache zu würdigen, dass Doni versucht, die bereits in den frühesten Opern vorkommenden monodischen Stile zu beschreiben. Ferner ist es bemerkenswert, dass in allen frühen Opern stets verschiedene monodische Stile verwendet wurden. Zudem deutet sich nach und nach ein Dualismus von "Rezitativ" und "Arie" an, der für die Operngeschichte im 17./18. Jhd. konstitutiv ist.
 
 ## Monteverdis "Affekte"
 {{0}}

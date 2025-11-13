@@ -29,11 +29,6 @@ tags:     oper, gattung, barock
                  {{1}}
 ************************************************
 
-************************************************
-
-                 {{1}}
-************************************************
-
 * Erste Opern in Florenz
 
   * Peri/Corsi/Rinuccini: _La Dafne_ (1598)
@@ -50,7 +45,7 @@ tags:     oper, gattung, barock
                  {{0}}
 ************************************************
 
-Die Sage um Orpheus (stark verkürzt dargestellt):
+Die Sage um Orpheus[^1]
 
 * Sohn der Muse *Kalliope*
 * *Apollon* schenkt ihm eine Lyra
@@ -76,6 +71,8 @@ Die Sage um Orpheus (stark verkürzt dargestellt):
 
 ************************************************
 
+[^1]: Die folgende Stellung ist stark verkürzt dargestellt. Zudem gibt es diverse Überlieferungen, die diese Sage unterschiedlich wiedergeben. Vertiefende Informationen zu mythologischen Gestalt des Orpheus siehe entsprechende Fachlexika zur (antiken) griechischen Mythologie. Z. B. [*Ausführliches Lexikon der griechischen und römischen Mythologie, Sp. 1113ff.*](https://archive.org/details/ausfhrlichesle0301rosc/page/564/mode/2up)
+
 ### Entstehungskontext
 
 * Komponiert 1607 als *favola in musica*
@@ -84,9 +81,6 @@ Die Sage um Orpheus (stark verkürzt dargestellt):
 * Erste "echte" Oper im heutigen Sinne
 
 ### Instrumentierung
-
-                 {{0}}
-************************************************
 
                  {{0}}
 ************************************************
@@ -196,7 +190,7 @@ Dies sind nur exemplarische Beispiele, die Vielfalt ist um einiges größer! Zud
   * Streicherbegleitete Monodie
   * Struktur:
     
-    * Einrahmung durch [Orchesterritornell](https://youtu.be/jUep3sqe35o?si=4ySmdYspmWlV2CkQ&t=137)
+    * Einrahmung durch [Orchesterritornell](https://youtu.be/jUep3sqe35o?si=4ySmdYspmWlV2CkQ&t=137)[^2](Ritornell ist abgeleitet von ital. *ritornare* = "zurückkehren")
     * Dreimalige Unterbrechung im Verlauf
 
   * Funktion: Einführung in die 'favola' von Orpheus
@@ -208,17 +202,17 @@ Dies sind nur exemplarische Beispiele, die Vielfalt ist um einiges größer! Zud
 ************************************************
 #### Dramatischer Höhepunkt: Orpheus und Charon
 
-Szene aus dem dritten Akt in vier Abschnitten:
+Szene aus dem dritten Akt in vier Abschnitten (Ort: Die Unterwelt)
 
-1. *La Speranza* verlässt Orpheus
-2. Charontes Auftritt:
+1. Die allegorische Figur *La Speranza* ("Die Hoffnung") verlässt Orpheus
+2. Charontes[^3](Charon ist der Fährmann, der die Verstorbenen über den Fluss namens Styx fährt, um sie in den Hades zu geleiten) Auftritt:
    
    * Basspartie
    * Begleitung durch [Regal](https://www.youtube.com/watch?v=4N_erre1f4o) (tragbare Orgel mit Zungenregistern)
 
 3. Instrumentale Sinfonia:
    
-   * Verhalten-düster
+   * Verhalten-düstere Stimmung
    * Fünfstimmig
 
 4. Orpheus' Beschwörung:
@@ -228,8 +222,10 @@ Szene aus dem dritten Akt in vier Abschnitten:
    * Sechzehntel- und Zweiunddreißigstel-Ornamente
    * Doppelte Notation:
      
-     * Version ohne Auszierungen
-     * Version mit Auszierungen
+     * Notation der Gesangsstimme ohne Auszierungen
+     * Notation der Gesangsstimme mit Auszierungen
+   
+   * Sowohl die Ausnotation der Verzierungen, als auch die größere Ansammlung schneller Notenwerte ist hier ungewöhnlich
 
 ### Musikhistorische Bedeutung
 
@@ -244,21 +240,6 @@ Szene aus dem dritten Akt in vier Abschnitten:
   * Dramaturgisch bedeutsamer Einsatz (Zuordnung)
 
 * Enthält grundlegende Elemente der späteren Opernentwicklung
-
-### Monteverdis Selbstverständnis
-
-*Weitere Informationen zur @config.link.course(`seconda pratica`,seconda_pratica)*
-
-
-* Vorwort zum fünften Madrigalbuch (1605):
-  
-  * Verteidigung gegen Giovanni Maria Artusi
-  * Einführung des Begriffes *"seconda pratica"*
-
-* Stilistische Differenzierung:
-  
-  * *Prima pratica:* alter, polyphoner Stil
-  * *Seconda pratica:* neuer, tendenziell homophoner Stil
 
 ## Venezianische Oper
 
@@ -293,8 +274,8 @@ Szene aus dem dritten Akt in vier Abschnitten:
 
 ### Monteverdis späte Opern in Venedig
 
-* 1640: "Il Ritorno d'Ulisse in patria" (Die Rückkehr des Odysseus in die Heimat)
-* 1642: "L'incoronazione di Poppea" (Die Krönung der Poppeia)
+* 1640: "Il Ritorno d'Ulisse in patria" (Die Rückkehr des Odysseus in die Heimat) [Einspielung](https://www.youtube.com/watch?v=zunvtJBkS9E)
+* 1642: "L'incoronazione di Poppea" (Die Krönung der Poppeia) [Einspielung](https://www.youtube.com/watch?v=1N3vehFPXz0)
 * Musikalische Neuerungen:
   
   * Erste Strophenlieder
@@ -319,7 +300,7 @@ Szene aus dem dritten Akt in vier Abschnitten:
 
 * **Antonio Cesti** (1623-1669)
 
-  * Nicht *Pietro Antonio* oder *Marc'*Antonio Cesti (Irrtum!)
+  * Nicht *Pietro Antonio* oder *Marc'*Antonio Cesti (Irrtum, vgl. Artikel in MGG-online!)
   * Musiker und Geistlicher (1637–1643 Kloster S. Francesco in Arezzo)
   * Wirkungsorte: Venedig / Innsbruck / Rom / Wien / Florenz
 

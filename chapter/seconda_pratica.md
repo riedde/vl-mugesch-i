@@ -13,7 +13,7 @@ tags:     kompositionsweise
 
 # Prima und Seconda Pratica
 
-Allgemein: Lockerung der Kontrapunktnormen und neuartiger Konsonanz- und Dissonanzgebrauch. 
+Allgemein: Lockerung der Kontrapunktnormen und neuartiger Konsonanz- und Dissonanzgebrauch.
 
 ## Historische Entwicklung
 
@@ -39,7 +39,7 @@ Textausdeutung vs. Kontrapunkt
 ## Giulio Caccinis Position
 
 * Giulio Romano Caccini
-* \* 8. Oktober 1551 in Rom
+* \*8. Oktober 1551 in Rom
 * begraben 10. Dezember 1618 in Florenz
 * Komponist, Sänger, Gesangslehrer
 
@@ -93,7 +93,7 @@ Artusi kritisiert in seiner 1600 erschienene Abhgandlubng u. a. einige polyphone
      
      - "T. 60" Septvorhalt im Alt wird nicht mit Überbindung, also nicht synkopisch eingeführt
      - Zudem: Einführung und Dissonanz sind syllabisch textiert („non tuoi“)
-     - Sept *c“* (Sopran) im vorletzten Takt ist unvorberereitet eingeführt
+     - Sept *c''* (Sopran) im vorletzten Takt ist unvorberereitet eingeführt
 
 2. Moduswechsel (innerhalb der Komposition)
    
@@ -101,17 +101,15 @@ Artusi kritisiert in seiner 1600 erschienene Abhgandlubng u. a. einige polyphone
 
 ### Claudio Monteverdis Reaktion
 * Keine direkte Reaktion auf die von Artusi geäußerte Kritik!
-* 1603: Monteverdis 4. Madrigalbuch (enthält ein von Artusi kritisiertes Madrigal)
+* 1603: Monteverdis *4. Madrigalbuch* (enthält ein von Artusi kritisiertes Madrigal)
   
   * Folge: ARtusi erneuert seinen Angriff aug Monteverdi in einer weiteren Schrift (1603)
 
-* 1605: Vorrede zum 5. Madrigalbuch
+* 1605: Vorrede zum *5. Madrigalbuch*
 
   * Ankündigung einer Abhandlung "über die Vollkommenheit der modernen Musik"
   * diese – nie erschienene Schrift – soll eine *"seconda pratica"* begründen und lehren
   * *seconda pratica* als neue Kompositionsweise mit neuer Betrachtungsweise von Konsonanzen und Dissonanzen
-
-## Theoretische Grundlagen
 
 ### G.C.Monteverdis "Dichiaratione"
 * Guilio Caesare Monteverdi ist der Bruder von Claudio Monteverdi
@@ -177,7 +175,8 @@ In der Diskussion um die *seconda pratica* geht es nicht um die Frage "Vokalpoly
 
 ## Historische Einordnung
 
-### Traditionen der "seconda pratica"
+Auch, wenn Monteverdi den Begriff der *seconda pratica* in die Literatur einführt, lassen sich Tendenzen z.B. zur Chromatisierung bereits früher erkennen.
+
 * Zurückverfolgung ins 15. Jahrhundert
 * Prima pratica:
 
@@ -185,28 +184,36 @@ In der Diskussion um die *seconda pratica* geht es nicht um die Frage "Vokalpoly
   * Adrian Willaert (ca. 1490-1562)
   * Theoretische Vollendung: Gioseffo Zarlino (1517–1590)
 
-### Seconda pratica
-* Beginn: Divino Cyprian Rore (1515/16-1565)
-* Weitere Vertreter:
+* Seconda pratica
+  
+  * Beginn: Divino Cyprian Rore (1515/16-1565)
+  * Weitere Vertreter:
+    
+    * Giaches de Wert (\*1535, wahrsch. Gent; †1596, Mantua), franko-flämischer Komponist, Sänger und Kapellmeister
+    * Luzzasco Luzzaschi (\*1545, Ferrara; †1607, Ferrara)
+    * Luca Marenzio (\*1553/1554, Coccaglio; †1599, Rom)
+    * Giulio Romano Caccini (\*1551, Rom; †1618, verm. Florenz)
+    * Jacopo Peri (\*1561, Rom; †1633, Florenz)
 
-  * Giaches de Wert (\*1535, wahrsch. Gent; †1596, Mantua), franko-flämischer Komponist, Sänger und Kapellmeister
-  * Luzzasco Luzzaschi (\*1545, Ferrara; †1607, Ferrara)
-  * Luca Marenzio (\*1553/1554, Coccaglio; †1599, Rom)
-  * Giulio Romano Caccini (\*1551, Rom; †1618, verm. Florenz)
-  * Jacopo Peri (\*1561, Rom; †1633, Florenz)
-
-### Fazit
+## Abschluss
 * *prima pratica* / *seconda pratica* ≠ *stile antico* / *stile moderno*
+  
+  * *stile antico* und *stile moderno* beziehen sich auf die Verwendung polyphoner Satztechniken
+  * *prima* und *seconda pratica* beziehen sich auf die Textbehandlung, nicht auf die Satztechnik (z. B. Monodie)!
+
 * *seconda pratica*
   
-  * -> textbezogene Dissonanzbehandlung
-  * -> ein Aspekt des *stile moderno*
-  * -> Der Ausdruck (affekt) steht im Zentrum
+  -> textbezogene Dissonanzbehandlung
+  
+  -> ein Aspekt des *stile moderno*
+  
+  -> Der Ausdruck (affekt) steht im Zentrum
 
 * Anwendbar auf:
 
-  * Polyphone Madrigale
-  * Sologesang / Monodie 
+  -> Polyphone Madrigale
+  
+  -> Sologesang / Monodie 
 
 * Tradition reicht bis ins Mittelalter zurück
 
