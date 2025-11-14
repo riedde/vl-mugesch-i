@@ -94,3 +94,16 @@ h1.lia-h1 {
   background: var(--main-mlu-color);
   color: var(--main-accent-color);
 }
+
+.card {
+  border: 5px solid var(--main-mlu-color) !important;
+}
+
+.card__version {
+  background-color: var(--main-mlu-color);
+  color: var(--main-accent-color);
+}
+
+.card__title::before {
+  background-color: var(--main-mlu-color);
+}
