@@ -80,7 +80,7 @@ Die Oper durchlief vom 17. zum 18. Jahrhundert eine bedeutende Entwicklung von e
 
 ### Vertonungen der Werke Metastasios
 
-- **Jedes Libretto:** Mehrfach vertont
+- **Libretti:** Mehrfach vertont
 - **Beispiele bedeutender Werke:**
 
   - *Didone abbandonata* (›Die verlassene Dido‹) - über 60 Vertonungen
@@ -102,7 +102,7 @@ Die Oper durchlief vom 17. zum 18. Jahrhundert eine bedeutende Entwicklung von e
 
   - Der Böse, der Held, die Liebende
   - Starrer, sich gleich bleibender Charakter ohne innere Wandlung
-  - Vergleichbar mit Comic-Figuren oder Serienhelden
+  - Vergleichbar mit (flach angelegten) TV-Seriencharaktern
 
 ## Struktur der Metastasianischen Oper
 
@@ -139,8 +139,6 @@ Die Oper durchlief vom 17. zum 18. Jahrhundert eine bedeutende Entwicklung von e
 
 ### Historischer Kontext und religiöse Grundlage
 
-- **Bibelstelle:** "mulier tacet in ecclesiam", [1. Kor., Kap. 14, Vers 34](https://www.die-bibel.de/bibel/LU17/1CO.14.34): »sollen die Frauen schweigen in den Gemeindeversammlungen« (LU17)
-
 - **Frühe Entwicklung:**
 
   - Seit dem 15. Jahrhundert: Spanische Countertenöre (Spagnoletti) in Kirchenchören
@@ -176,7 +174,10 @@ Die Oper durchlief vom 17. zum 18. Jahrhundert eine bedeutende Entwicklung von e
 - **Klangbeschreibung:**
 
   - **Zeitgenössische Quellen:** Süß und lieblich, trompetenähnlich
-  - **Leistungsfähigkeit:** Konnte Primadonnen an Höhe und Lautstärke überbieten
+  - **Leistungsfähigkeit:** Konnte Primadonnen an Höhe und Lautstärke überbietens
+  - **Historische Aufnahmen:** Alessandro Moreschi (1858–1922), letzter Kastrat aus der päpstlichen Kapelle, erhaltene Schallplattenaufnahmen (technisch und musikalisch unzulänglich)
+    
+    !?["Ave maria (Gounod)"](https://youtu.be/lmI_C-S0Abg "Ave maria (Gounod)")
 
 ### Gesellschaftliche Aspekte
 
@@ -264,29 +265,6 @@ Die Oper durchlief vom 17. zum 18. Jahrhundert eine bedeutende Entwicklung von e
   - 1750er Jahre: Wien (Hochburg der italienischen Oper)
 
 - **Werk:** Etwa 50 Opern
-
-#### Georg Friedrich Händel (1685–1759)
-
-Hierzu ist ein @config.link.course(eigener Kurs,haendel_georg_friedrich) verfügbar
-
-## Zeitzeugenberichte über Kastratensang
-
-### Wilhelm Heinse (1743–1803)
-*Schriftsteller, Übersetzer, Gelehrter*
-
-- **Italienreise:** 1780 zu Fuß von Düsseldorf nach Venedig, um italienische Kunst und Musik leibhaftig zu erleben
-- **Opernerlebnis in Venedig:** Kastrat Gasparo Pacchiarotti (als Rinaldo), Sopranistin Anna Pozzi (als Armida), Oper basierend auf Torquato Tassos *La Gerusalemme liberata* (einer der beliebtesten Opernstoffe des 18. Jahrhunderts)
-- **Heinses schriftstellerische Verarbeitung:** Übersetzung des tassoschen Epos, literarisches Werk *Hildegard von Hohenthal* (Roman/Musikabhandlung) mit ausführlicher Behandlung von acht Armida-Opern verschiedener Komponisten
-- **Zeitgenössische Reaktionen:** Tagebucheintrag »wie alle Zuhörer hier von der Pozzi und dem Pacchiarotti bis zu Thränen entzückt«, Bereitschaft »eine kleine Fußzehe abschneiden zu lassen« für das Hörerlebnis
-- **Beschreibung der Trennungsszene:** »nur die einzige Scene von Pacchiarotti und der Pozzi hören und sehen könnten, wo Rinald von der Armida sich trennen muß. Eine solche Quintessenz von Entzücken ist noch bey keiner andern Vorstellung in Musik weder in mein Ohr, noch in meine Augen und meine Seele gekommen. Die ganze Zeit, daß die Scene dauert, trift ein concentrierter Brennpunkt von unendlich süßer wehmüthiger Wonne das Herz. Welche Stimmen! [...] welch eine Declamation! welch ein Seelenleben!«
-
-### Moderne Annäherung an den Kastratensang
-
-- **Film *Farinelli, il castrato* (1994):** Regisseur Gérard Corbiau, Vermittlung der Atmosphäre der Neapolitanischen Oper, Thematisierung der erotischen Faszination der Kastraten, technische Innovation durch Mischen der Klangspektren eines Countertenors und Soprans (Studios des Pariser IRCAM) für überzeugende Suggestion einer ›echten‹ Kastratenstimme
-
-- **Historische Aufnahmen:** Alessandro Moreschi (1858–1922), letzter Kastrat aus der päpstlichen Kapelle, erhaltene Schallplattenaufnahmen (technisch und musikalisch unzulänglich)
-  
-  !?["Ave maria (Gounod)"](https://youtu.be/lmI_C-S0Abg "Ave maria (Gounod)")
 
 ## Quiz und Reflexion
 Zeit sich zu erinnern! Hier sind vier Wissensfragen (Multiple-Choice, 1--3 Antworten sind jeweils richtig) und zwei Verständnisfragen. Solche Fragen sollten nun beantworten werden können.

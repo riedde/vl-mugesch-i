@@ -42,6 +42,7 @@ Textausdeutung vs. Kontrapunkt
 * \*8. Oktober 1551 in Rom
 * begraben 10. Dezember 1618 in Florenz
 * Komponist, Sänger, Gesangslehrer
+* _La Dafne_ (1597/98), _Le nuove musiche_ (1601), _L'Euridice_ (1602)
 
 ---
 
@@ -81,8 +82,43 @@ Giulio Caccini stellt in der Vorrede zu seiner *Nuove musiche* fest, dass ihn se
 
 ### Artusis Kritik
 
-Artusi kritisiert in seiner 1600 erschienene Abhgandlubng u. a. einige polyphone(!) Madrigale Claudio Monteverdis. Die beiden Hauptkritikpunkte sind:
+{{0}}
+**********************************
+Artusi kritisiert in seiner 1600 erschienene Abhandlung u. a. einige polyphone(!) Madrigale Claudio Monteverdis. Die beiden Hauptkritikpunkte sind:
+**********************************
 
+{{1-2}}
+**********************************
+1. Dissonanzbehandlung
+   
+   - [*Cruda Amarilli*](https://www.youtube.com/watch?v=bKTQQ28sSNo)
+
+**********************************
+
+{{2-3}}
+**********************************
+1. Dissonanzbehandlung
+   
+   - [*Cruda Amarilli*](https://www.youtube.com/watch?v=bKTQQ28sSNo)
+     
+     - "T. 13" frei eingeführte Nondissonanz im Sopran, die dann in eine Septdissonanz springt
+
+**********************************
+
+{{3-4}}
+**********************************
+1. Dissonanzbehandlung
+   
+   - [*Cruda Amarilli*](https://www.youtube.com/watch?v=bKTQQ28sSNo)
+     
+     - "T. 13" frei eingeführte Nondissonanz im Sopran, die dann in eine Septdissonanz springt
+   
+   - [*Anima mia perdona*](https://www.youtube.com/watch?v=EdrTIojhVp8) (Bsp. ab 5:40)
+
+**********************************
+
+{{4}}
+**********************************
 1. Dissonanzbehandlung
    
    - [*Cruda Amarilli*](https://www.youtube.com/watch?v=bKTQQ28sSNo)
@@ -95,15 +131,20 @@ Artusi kritisiert in seiner 1600 erschienene Abhgandlubng u. a. einige polyphone
      - Zudem: Einführung und Dissonanz sind syllabisch textiert („non tuoi“)
      - Sept *c''* (Sopran) im vorletzten Takt ist unvorberereitet eingeführt
 
+**********************************
+
+{{5}}
+**********************************
 2. Moduswechsel (innerhalb der Komposition)
    
    - Es gäbe eine Komposition, die in F beginne, aber in D ende
 
+**********************************
 ### Claudio Monteverdis Reaktion
 * Keine direkte Reaktion auf die von Artusi geäußerte Kritik!
 * 1603: Monteverdis *4. Madrigalbuch* (enthält ein von Artusi kritisiertes Madrigal)
   
-  * Folge: ARtusi erneuert seinen Angriff aug Monteverdi in einer weiteren Schrift (1603)
+  * Folge: Artusi erneuert seinen Angriff auf Monteverdi in einer weiteren Schrift (1603)
 
 * 1605: Vorrede zum *5. Madrigalbuch*
 
@@ -171,7 +212,7 @@ Giulio Cesare Monteverdi stellt durch Zitate aus Platons *Politeia* einen Bezug 
          +----------+  +---------+
   ```
 
-In der Diskussion um die *seconda pratica* geht es nicht um die Frage "Vokalpolyphonie oder Monodie" bzw. "Einstimmigkeit oder Mehrstimmigkeit". Im Fokus steht eine bestimmte *Einstellung gegenüber der Textvorlage* und kann bei der Komposition eines polyphonen Madrigals ebenso Anwendung finden wie bei der Komposition eher rezitativen Gesangs in der Oper.
+In der Diskussion um die *seconda pratica* geht es nicht um die Frage *Vokalpolyphonie* vs. *Monodie* bzw. *Einstimmigkeit* vs. *Mehrstimmigkeit*. Im Fokus steht eine bestimmte *Einstellung gegenüber der Textvorlage* und kann bei der Komposition eines polyphonen Madrigals ebenso Anwendung finden wie bei der Komposition eher rezitativen Gesangs in der Oper.
 
 ## Historische Einordnung
 
@@ -207,7 +248,7 @@ Auch, wenn Monteverdi den Begriff der *seconda pratica* in die Literatur einfüh
   
   -> ein Aspekt des *stile moderno*
   
-  -> Der Ausdruck (affekt) steht im Zentrum
+  -> Der Ausdruck (Affekt) steht im Zentrum
 
 * Anwendbar auf:
 
@@ -222,33 +263,34 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1--3 Antwo
 
 **Was kritisierte Giulio Caccini am kontrapunktischen Stil seiner Zeit?**
 
-[[X]] Der Kontrapunkt verhindert die Textverständlichkeit
+[[X]] Der Kontrapunkt steht der Textverständlichkeit entgegen
 [[ ]] Die Musik ist zu einfach und langweilig
-[[X]] Silben werden verlängert oder verkürzt, um dem Kontrapunkt zu genügen
+[[X]] Dehnung und Stauchung von Silben, wenn der Kontrapunkts es vorschreibt
 [[ ]] Claudio Monteverdis handwerkliches Können
 
 **Welche Hauptkritikpunkte äußerte Artusi gegen Monteverdis Madrigale?**
 
 [[X]] Unkonventionelle Dissonanzbehandlung (z.B. unvorbereitete Septimen)
 [[X]] Moduswechsel innerhalb einer Komposition
-[[ ]] Zu geringe Verwendung der Imitationstechnik
 [[ ]] Fehlende rhythmische Komplexität
+[[ ]] Zu geringe Verwendung der Imitationstechnik
 
-**Was besagt die Kernthese von Giulio Cesare Monteverdis "Dichiaratione"?**
+**Was besagt die Kernthese von Giulio Cesare Monteverdis *Dichiaratione*?**
 
 [[ ]] "harmonia sia padrona del oratione" (Die Harmonie ist Herrin der Rede)
 [[ ]] Melodie und Harmonie sollen gleichberechtigt sein
 [[X]] "l'oratione sia padrona del armonia e non serva" (Die Rede ist Herrin der Harmonie, nicht Dienerin)
 [[ ]] Der Rhythmus bestimmt Text und Harmonie
 
-**Welche Komponisten werden der "seconda pratica" zugeordnet?**
+**Welche Komponisten werden der *seconda pratica* zugeordnet?**
 
 [[X]] Cipriano de Rore
 [[ ]] Adrian Willaert
-[[X]] Luca Marenzio
 [[ ]] Gioseffo Zarlino
+[[X]] Claudio Monteverdi
+[[ ]] Giovanni Maria Artusi
 
-**Erläutern Sie die Artusi-Monteverdi-Kontroverse als zentralen Konflikt zwischen prima und seconda pratica. Gehen Sie dabei auf die unterschiedlichen theoretischen Modelle (Zarlino/Artusi vs. Monteverdi) ein und zeigen Sie auf, wie sich die seconda pratica von einer reinen Stilfrage zu einer grundsätzlichen Neubestimmung des Text-Musik-Verhältnisses entwickelte.**
+**Erläutern Sie die Artusi-Monteverdi-Kontroverse als zentralen Konflikt zwischen *prima* und *seconda pratica*.**
 
 *Sie sollten diese Aufgabe mit einem zusammenhängenden Text von 2–3 Seiten beantworten können.*
 
