@@ -449,7 +449,7 @@ Alles auf einen Blick.
   * Wahl, Johann Salomon (1689--1765) -- Vorlage für Mattheson-Porträt
   * Walther, Johann Gottfried (1684--1748) -- Übersetzer von Brossard
 
-@config.link.personen
+
 
 * **Werke**
   

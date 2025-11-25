@@ -140,7 +140,7 @@ Alles auf einen Blick.
   * Frescobaldi, Girolamo (1583–1643) – italienischer Organist an San Pietro in Rom
   * Froberger, Johann Jakob (1616–1667) – Stuttgarter, Wiener Hoforganist, Schüler Frescobaldis
 
-@config.link.personen
+
 
 * **Werke**
   

@@ -367,7 +367,7 @@ Alles auf einen Blick.
   * Rinuccini, Ottavio (1562--1621) -- Librettist
   * Striggio, Alessandro jun. (1536/37--1592) -- Librettist von _L'Orfeo_
 
-@config.link.personen
+
 
 * **Werke**
   

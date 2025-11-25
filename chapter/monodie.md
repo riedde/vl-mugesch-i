@@ -484,7 +484,7 @@ Alles auf einen Blick.
   * Rinuccini, Ottavio (1563–1621) -- Dichter, Librettist von _La Dafne_ und _L'Euridice_
   * Ruf, Wolfgang (*1941) -- Herausgeber des Riemann Musik Lexikons
 
-@config.link.personen
+
 
 * **Werke**
   

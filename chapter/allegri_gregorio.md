@@ -205,7 +205,7 @@ Alles auf einen Blick.
   * Reichardt, Johann Friedrich (1752–1814) – deutscher Nachdruck
   * Zelter, Carl Friedrich (1758–1832) – Kompositionslehrer Mendelssohns
 
-@config.link.personen
+
 
 * **Werke**
   

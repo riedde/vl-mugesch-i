@@ -306,7 +306,7 @@ Alles auf einen Blick.
   * Stuart, Charles Edward (Bonnie Prince Charly) (1720–1788) – Anführer des Schottischen Aufstands
   * Wich, Cyril (1695–1756) – Schüler Händels in Hamburg
 
-@config.link.personen
+
 
 * **Werke**
   

@@ -584,7 +584,7 @@ Alles auf einen Blick.
   * Telemann, Georg Philipp (1681–1767) - gründete 1701 Collegium Musicum in Leipzig, Instrumentalmusik für den Druck
   * Vivaldi, Antonio (1678–1741) -- Solo-Konzerte auch als Sinfonia bezeichnet
 
-@config.link.personen
+
 
 * **Werke**
   

@@ -69,7 +69,7 @@ Alles auf einen Blick.
   * Telemann, Georg Philipp (1681–1767) -- nach Marpurg "klassischer" Komponist
   * Wendt, Amadeus (1783–1836) -- Göttinger Philosophieprofessor
 
-@config.link.personen
+
 
 * **Werke**
   

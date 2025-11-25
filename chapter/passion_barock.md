@@ -338,7 +338,7 @@ Alles auf einen Blick.
   * Schütz, Heinrich ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Komponist der Matthäus-Passion SWV 479
   * Stölzel ({%VORNAME%}) ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Komponist von "Ein Lämmlein geht und trägt die Schuld" (1734)
 
-@config.link.personen
+
 
 * **Werke**
   

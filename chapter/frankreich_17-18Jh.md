@@ -465,7 +465,7 @@ Alles auf einen Blick.
   * Rameau, Jean-Philippe (1683–1764) – Komponist und Musiktheoretiker, Clavecinist
   * Sainte-Colombes, Monsieur de (um 1600–1690/1700) – Gambenlehrer von Marin Marais
 
-@config.link.personen
+
 
 * **Werke**
   

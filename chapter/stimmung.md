@@ -205,7 +205,7 @@ Alles auf einen Blick.
 
   * Keine spezifischen Personen genannt
 
-@config.link.personen
+
 
 * **Werke**
 

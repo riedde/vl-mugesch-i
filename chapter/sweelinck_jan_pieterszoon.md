@@ -141,7 +141,7 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 * Scheidt, Samuel ({%GEBURTSJAHR%}–{%TODESJAHR%}) - Schüler von Sweelinck
 * Sweelinck, Jan Pieterszoon (1562–1621) - niederländischer Komponist und Organist
 
-@config.link.personen
+
 
 ### Werke
 

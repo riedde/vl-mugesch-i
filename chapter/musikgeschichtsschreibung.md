@@ -274,7 +274,7 @@ Alles auf einen Blick.
   * [Tieck, Ludwig](https://lobid.org/gnd/12989432X) (1773–1853) -- Schüler Forkels, Schriftsteller | Dramaturg | Philologe | Übersetzer | Hofrat
   * [Wackenroder, Wilhelm Heinrich](https://lobid.org/gnd/118628097) (1773–1798) -- Schüler Forkels, Schriftsteller | Jurist
 
-@config.link.personen
+
 
 * **Werke**
   
