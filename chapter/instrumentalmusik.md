@@ -45,8 +45,7 @@ Musiktheaters
   
   - Georg Philipp Telemann (1681–1767) für den Druck
 
-  - Christoph Graupner (1683–1760), weitestgehend Verzicht (Hofmusiker)
-  <!--es gibt doch etliches an Instrumentalmusik von Graupner? Immerhin 112 Sinfonien und 86 Ouvertüren, 44 Konzerte, die Clavier-Früchte sind auch recht beliebt, uvm.-->
+  - Christoph Graupner (1683–1760), weitestgehend Verzicht auf Instrumentalmusik für Unterricht/Druck (Hofmusiker)
 
 ## Instrumentalmusik und Ihre Funktion
 
@@ -145,12 +144,8 @@ Es gibt eigene Kurse zu @config.link.course(Sweelinck,sweelinck_jan_pieterszoon)
 - Rahmenbedingungen: Tanzbar, periodische Anlage, Wiederholungen, gleiche Tonart
 - Ende 17. Jhd.: standardisierte Abfolge (Allemande–Courante–Sarabande, später mit Gigue)
 - Begriff *Sonata* finden in der Mitte des 17. Jahrhunderts auch hier Anwendung
-
 - *Sonate* ist hier ein Sammelbegriff für Instrumentalmusk mit klein besetztem Ensemble
 - *Partita* wird im 18. Jhd. auch synonym für "Suite für Tasteninstrument" verwendet (Bezug zu Tanz schwindet)
-
-<!--ein typisches Thema an dieser Stelle wäre die "Ouvertüre", die bei Scheibe als mehrsätziges Werk beschrieben ist. Da das Problem einem im Alltag oft begegnet (insb. Bach Orchestersuiten, auch div. Erlebach, Telemann, Fischer, Fasch etc. pp., wäre vielleicht nett, dazu kurz etwas zu sagen bzw. den Begriff "Ouvertüre" auch einzuführen.) -->
-
 
 ### Zusammenfassung (Überblick)
 
@@ -413,7 +408,7 @@ Es gibt eigene Kurse zu @config.link.course(Sweelinck,sweelinck_jan_pieterszoon)
 
 ### Das Solokonzert
 - musikalisch geschlossene Form mit einem Solisten
-- Aspekt gilt noch in der ersten Hälfte des 17. Jhd. <!-- auch in der zweiten Hälfte gibt es noch viele Concerti dieser Art, ca. bis die madrigalische Kantate kommt, denke ich (vgl. z. B. Pachelbel, Nicolaus Bruhns etc.)-->
+- Aspekt gilt noch in der ersten Hälfte des 17. Jhd.
 - Rondoformen, Berührungspunkte mit der Fuge
 - Ritornellkonzertsatz
 
@@ -578,7 +573,7 @@ Alles auf einen Blick.
   * Fasch, Johann Friedrich (1688--1758) -- gründete 1708 ein zweites Collegium Musicum in Leipzig
   * Gabrieli, Andrea (1532--1585) -- Komponist und Organist, Onkel von Giovanni Gabrieli
   * Gabrieli, Giovanni (1555--1612) -- Concerti (1587), Sacrae Symphoniae (1597)
-  * Graupner, Christoph (1683–1760) -- Hofmusiker in Darmstadt <!--mit Verzicht auf Instrumentalmusik-->
+  * Graupner, Christoph (1683–1760) -- Hofmusiker in Darmstadt
   * Händel, Georg Friedrich (1685--1759) -- Beispiel für Funktion der Instrumentalmusik
   * Merula, Tarquinio (1595–1665) -- erstes Auftreten von *sonata da camera/da chiesa*
   * Muffat, Georg (1653–1704) - Traditionsträger der Fantasie
@@ -604,7 +599,4 @@ Alles auf einen Blick.
   * Gabrieli, Giovanni: *Concerti* (1587) -- primär vokale Ensemblemusik
   * Gabrieli, Giovanni: *Sacrae Symphoniae* (1597) -- mit Sonata pian e forte
   * Gabrieli, Giovanni: *Sonata pian e forte* -- für zwei vierstimmige Chöre
- <!--> * Telemann, Georg Philipp: *1. Flötenfantasie* - Beispiel für *stilus phantasticus* 
- das Werk habe ich oben nirgendwo gefunden, überflugs- und Strg+F-mäßig. Ich schätze, es ist halluziniert.-->
-
-
+ 

@@ -131,9 +131,6 @@ tags:     stimmung, technologie
 
 ## Wohltemperierte Stimmung
 
-<!-- mein Stand war, dass man de Begriff "wohltemperiert" nicht nutzt, da dieser ein offenes Forschungsproblem ist (vgl. Ars Organi 2008). Man weiß nicht, was genau Bach gestimmt hat. Der Zwischenschritt Werckmeister, Kirnberger und Co. (der heute in der Praxis für die Musik ab 1680 bis ca. Mozart zumeist eingesetzt wird) fehlt hier. Wahrscheinlich ist es sowas, was mit "wohltemperiert" auch gemeint gewesen sein könnte. 
-Meines Wissens wird auf systematische Begriffe zurückgegriffen, "gleichstufig", "ungleichstufig" etc., die die Sache benennen und keine komplexe Geschichte/Quellenbegriffsproblematik haben. -->
-
 * **Historische Entwicklung**
 
   * Zeitlicher Rahmen: erst im Laufe des 18. Jahrhunderts setzte sich die sogenannte gleichstufige Temperatur durch
@@ -203,7 +200,6 @@ Alles auf einen Blick.
 * **Literatur**
 
   * Keine spezifischen Literaturangaben genannt
-  <!-- mir fällt grad nichts außer den Kapiteln in Hall: Musikalische Akustik und Trinkewitz: Historisches Cembalospiel (leider nicht hier in der Bib) ein, aber eine Übersicht über verschiedene Stimmungen wäre hier vielleicht gut einzufügen, insb. für Pädagog:innen.>
 
 * **Personen**
 
