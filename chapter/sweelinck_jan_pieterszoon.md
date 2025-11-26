@@ -35,13 +35,9 @@ tags:     komponist
 ## Pädagogische Bedeutung & Schülerkreis
 
 - Reputation als Lehrer: Sweelinck war ein gefragter Orgellehrer
-
 - Schülerkreis: unterrichtete viele niederländische und deutsche Schüler
-
 - Prominente Schüler: z. B. Samuel Scheidt, von dem eine direkte Lehrer-Schüler-Linie bis zu Bach reicht
-
 - Renommé: deshalb bezeichnete man im 18. Jahrhundert Sweelinck auch als ›deutschen Organistenmacher‹
-
 - Historische Einordnung: Man sah in ihm den Begründer der norddeutschen Orgel- und Klaviertradition
 
 ## Vokal- und Instrumentalwerke
@@ -141,7 +137,7 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 * Scheidt, Samuel ({%GEBURTSJAHR%}–{%TODESJAHR%}) - Schüler von Sweelinck
 * Sweelinck, Jan Pieterszoon (1562–1621) - niederländischer Komponist und Organist
 
-@config.link.personen
+
 
 ### Werke
 

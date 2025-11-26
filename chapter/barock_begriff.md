@@ -269,7 +269,7 @@ Alles auf einen Blick.
   * Sachs, Curt (1881–1959) – Musikwissenschaftler
   * Wölfflin, Heinrich (1864–1945) – Kunsthistoriker
 
-@config.link.personen
+
 
 * **Werke**
   

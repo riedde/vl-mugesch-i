@@ -215,7 +215,7 @@ Alles auf einen Blick.
   * Schütz, Heinrich (1585–1672) - geboren in Köstritz, Thüringen
   * Winterfeld, Carl von ({%GEBURTSJAHR%}–{%STERBEJAHR%}) - Musikforscher, Renaissance-Studien
 
-@config.link.personen
+
 
 * **Werke**
   

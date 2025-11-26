@@ -343,7 +343,7 @@ Alles auf einen Blick.
   * Tasso, Torquato (1544--1595) -- Dichter von "La Gerusalemme liberata"
   * Zeno, Apostolo (1668–1750) -- kaiserlicher Hofdichter zu Wien
 
-@config.link.personen
+
 
 * **Werke**
   

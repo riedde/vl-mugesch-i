@@ -540,7 +540,7 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 * Spinola Borghese, Maria Livia, Fürstin ({%GEBURTSJAHR%}–{%TODESJAHR%})
 * Vivaldi, Antonio Lucio (1678–1741) - Komponist und Geiger
 
-@config.link.personen
+
 
 ### Werke
 

@@ -14,7 +14,7 @@ Die Folien können direkt online aber auch auf dem lokalen System verwendet werd
 
 ### Online (empfohlen)
 Öffnen Sie die Kurse direkt über LiaScript:
-- [Einstieg zur allen Foliensätzen](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/index.md)
+- [Einstieg zur allen Foliensätzen](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/Semesterplan.md#4)
 
 In dieser Datei sind die Links zu allen angebotenen Kursen hinterlegt.
 

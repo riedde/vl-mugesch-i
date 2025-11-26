@@ -151,5 +151,5 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 * Luzzaschi, Luzzasco (1544/45--1607) -- Organist und Komponist, Ferrara, komponierte für das *Concerto delle donne* am Este-Hof
 * Monteverdi, Claudio (1567–1643)
 
-@config.link.personen
+
 

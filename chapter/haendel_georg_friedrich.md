@@ -143,7 +143,7 @@ tags:     komponist, barock
 
 ### Händels Oper *Rinaldo*
 
-- **Entstehung und Erfolg:** 1710 in London, als bedeutender Opernkomponist empfangen, spektakulärer Erfolg <!-- Komponist italienischer Opern ? Mich würde wundern, wenn die Briten ihn (hauptsächlich) als Italiener wahrgenommen haben.-->
+- **Entstehung und Erfolg:** 1710 in London, als bedeutender Opernkomponist empfangen, spektakulärer Erfolg
 
 - **Stoffliche Grundlage:** Armida-Episode aus dem 16. Gesang von Tassos *Das befreite Jerusalem*, einer der beliebtesten Opernstoffe der Barockzeit, Vorläufer: Jean-Baptiste Lully (1686 in Paris als Tragédie lyrique)
 
@@ -207,7 +207,7 @@ tags:     komponist, barock
 
   - Ziel der Protektion: Neben *Anerkennung seiner Person* vor allem *Publikum/Nation erreichen*
 
-  - Mit Oratorien die Zuhörer ergreifen, unterhalten (*spiritual entertainment*) und damit auch ›bessern‹ <!--Diskutieren / Kontextualisierung Aufklärungsforschung?: "Ist das als Aufklärung zu verstehen?"-->
+  - Mit Oratorien die Zuhörer ergreifen, unterhalten (*spiritual entertainment*) und damit auch ›bessern‹
   
 > Nach einer Aufführung von Messiah soll er 1743 zu dem mit ihm befreundeten Earl of Kinnoull, der sich für das »"noble entertainment"« bei ihm bedankte, gesagt haben: »My lord, I should be sorry if I only entertained them, I wish to make them better« (O. E. Deutsch 1955, S. 855 [B.2.]). Von dieser öffentlichen Wirksamkeit her läßt sich auch verstehen, warum Händel kein großes Interesse am Unterrichten hatte.
 >
@@ -304,9 +304,9 @@ Alles auf einen Blick.
   * Senesino (Francesco Bernardi) (1686–1759) – Kastrat (£ 2000 jährlich)
   * Smith, John Christopher jun. (1712–1795) – Schüler Händels
   * Stuart, Charles Edward (Bonnie Prince Charly) (1720–1788) – Anführer des Schottischen Aufstands
-  <!--* Wich, Cyril ({%GEBURTSJAHR%}–{%STERBEJAHR%}) – Schüler Händels in Hamburg ..>
+  * Wich, Cyril (1695–1756) – Schüler Händels in Hamburg
 
-@config.link.personen
+
 
 * **Werke**
   

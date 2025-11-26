@@ -11,8 +11,7 @@ font:     Source Sans 3
 tags:     barock, kultur, frankreich, komponist
 -->
 
-<!--Comments, akgmd: Ist es Absicht, Anführungszeichen und Kursivierung zu verwenden? Die Lesbarkeit erhöht es nicht. (siehe: "Les passions de l’âme")
-Wieso wird auf das deutsche "Querele" verwiesen, obwohl es um Querelle geht? Worst case: Studierende merken sich "Querele (nicht: Querelle) entre les anciens et les modernes". Geschrieben ist der Unterschied klein, gesprochen bedeutend größer. (entspr. auch einmal falscher Plural, s. u.) -->
+
 
 # Ein Blick nach Frankreich
 
@@ -466,7 +465,7 @@ Alles auf einen Blick.
   * Rameau, Jean-Philippe (1683–1764) – Komponist und Musiktheoretiker, Clavecinist
   * Sainte-Colombes, Monsieur de (um 1600–1690/1700) – Gambenlehrer von Marin Marais
 
-@config.link.personen
+
 
 * **Werke**
   

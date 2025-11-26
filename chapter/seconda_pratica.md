@@ -323,7 +323,7 @@ Alles auf einen Blick.
   * Willaert, Adrian (ca. 1490–1562) -- franko-flämischer Komponist
   * Zarlino, Gioseffo (1517–1590) -- Theoretiker der prima pratica
 
-@config.link.personen
+
 
 * **Werke**
   

@@ -247,7 +247,7 @@ Alles auf einen Blick.
   * Schweitzer, Albert (1875–1965) – Theologe und Arzt, Organist und Bach-Biograph
   * Zarlino, Gioseffo (1517–1590) – Renaissance-Theoretiker
 
-@config.link.personen
+
 
 * **Werke**
   
