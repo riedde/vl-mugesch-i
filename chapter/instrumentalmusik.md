@@ -103,7 +103,7 @@ Es gibt einen eigenen Kurs zur @config.link.course(Stimmungsproblematik,stimmung
 
 ## Sweelinck & Froberger
 
-Es gibt eigene Kurse zu @config.link.course(Sweelinck,sweelinck_jan_pieterszoon) und @config.link.course(Froberger,froberger_johann_jakob)
+Es gibt eigene Kurse zu Jan Pieterszoon @config.link.course(Sweelinck,sweelinck_jan_pieterszoon) (1562–1621) und Johann Jakob @config.link.course(Froberger,froberger_johann_jakob) (1616–1667)
 
 ## Die Sonate
 
