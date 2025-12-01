@@ -576,14 +576,14 @@ Historische Bedeutung
 - harmonische Versetzbarkeit des Ritornells ist entscheidende Entwicklung im 18. Jhd.
 
 ## Quiz und Reflexion
-Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1--3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+Zeit sich zu erinnern! Hier sind ein paar Wissensfragen (Multiple-Choice, 1--3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
 
 **Was charakterisiert die verschiedenen Verwendungszwecke von Instrumentalmusik im 17./18. Jahrhundert?**
 
 [[X]] Ergänzung von Vokalmusik und Ballettmusiken
 [[X]] Unterhaltung in der Kammer (Kammermusik) und Collegium musicum
 [[ ]] Ausschließlich für den liturgischen Gebrauch in Kirchen
-[[X]] Pädagogische Zwecke für Dilettanten und Berufsmusiker
+[[X]] Pädagogische Literatur für Dilettanten und Berufsmusiker
 
 **Welche Merkmale treffen auf die Sonata da chiesa zu?**
 
@@ -592,18 +592,18 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1--3 Antwo
 [[ ]] ausschließlich einsätzig und homophon
 [[X]] freie Komposition, nicht an Tanzmodelle gebunden
 
-**Was kennzeichnet Arcangelo Corellis Bedeutung für die Sonatentradition?**
+**Bedeutung Arcangelo Corellis für die Sonatentradition.**
 
-[[X]] Modell, das Zeitgenossen als mustergültig annahmen
-[[ ]] Erfinder der ersten Instrumentalmusik überhaupt
-[[X]] Sechzehn Werksammlungen, jede aus zwölf Sonaten bestehend
-[[ ]] Komponierte ausschließlich Triosonaten
+[[X]] Er legte ein Modell vor, das als mustergültig angenommen wurde
+[[ ]] Er erfand der Instrumentalmusik neu
+[[X]] Er hinterlies sechzehn Werksammlungen, jede aus zwölf Sonaten bestehend
+[[ ]] Er komponierte ausschließlich Triosonaten
 
-**Welche unterschiedlichen Bedeutungen hatte der Begriff "concertare" in der Renaissance?**
+**Was kann der Begriff "concertare" in der Renaissance alles bezeichnen?**
 
 [[X]] "etwas verabreden", "etwas aufeinander abstimmen" (ital.)
 [[X]] Wettkampf-Charakter, "miteinander scharmützeln" (lat.)
-[[ ]] Das Aufführen von musikalischen Werken vor einem hohen Adligen
+[[ ]] Die Aufführung von musikalischen Werken vor einem hohen Adligen (Herzog/König)
 [[X]] Mehrere Ensembleteile musizieren gleichberechtigt nebeneinander
 
 **Was charakterisiert die barocke Ritornellkonzertform?**
@@ -616,17 +616,17 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1--3 Antwo
 **Welche Instrumente und Besetzungen prägten die Entwicklung der Instrumentalmusik?**
 
 [[X]] Tasteninstrumente: Orgel, Cembalo, Clavichord, Spinett
-[[ ]] Pianoforte waren bereits im 17. Jahrhundert weit verbreitet
-[[X]] Triosonaten mit charakteristischer Besetzung (zwei Oberstimmen + Basso continuo)
-[[ ]] Kammerchor für die Abendunterhaltung am Hofe
+[[ ]] Das Pianoforte (im 17. Jahrhundert bereits stark verbreitet)
+[[X]] Triosonaten-Besetzung (zwei Oberstimmen + Basso continuo)
+[[ ]] Der Kammerchor
 
-**Suchen Sie sich einen der folgenden Begriffe aus und erläutern Sie die Unterschiede zur Sonate: Sinfonia, Suite, Concerto. Beschreiben Sie charakteristische Merkmale der Sonate und der von Ihnen gewählten Gattung (17./18. Jhd.).**
+**Wählen Sie eine der folgenden Gattungen aus und beschreiben Sie deren charakteristische Merkmale (17./18. Jhd.).**
 
-*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 2--3 Seiten beantworten können.*
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 2–3 Seiten beantworten können.*
 
-**Skizzieren Sie die Entwicklung des Concerto-Begriffs von Giovanni Gabrielis "Concerti" (1587) bis zur barocken Ritornellkonzertform. Welche Rolle spielte dabei der Wandel von "concertare" als gleichberechtigtem Zusammenspiel zu solistischem Wetteifer?**
+**Erläutern Sie die barocke Ritornellkonzertform.**
 
-*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 2/3--4 Seiten beantworten können.*
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 2–3 Seiten beantworten können.*
 
 ## Übersichten
 

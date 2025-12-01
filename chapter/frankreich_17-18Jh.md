@@ -11,8 +11,6 @@ font:     Source Sans 3
 tags:     barock, kultur, frankreich, komponist
 -->
 
-
-
 # Ein Blick nach Frankreich
 
 ## Theorie und Kontext
@@ -27,19 +25,14 @@ tags:     barock, kultur, frankreich, komponist
 
 ### Mittelalterliche Tradition & Keplers Ansatz
 
-- Mittelalterliche Musiktheorie war pythagoreisch geprägt (*musica mundana*). 
-
-- Johannes Kepler (1571–1630) verband kopernikanisches Weltbild[^1] und Musiktheorie in *Harmonice mundi libri V*[^2] (1619).
-
-- Innovativ: geometrische statt rein arithmetische Proportionen ermöglichen Einbezug irrationaler/transzendenter Zahlen ($\sqrt{2}$, π)
-
+- Mittelalterliche Musiktheorie war pythagoreisch geprägt (*musica mundana*)
+- Johannes Kepler (1571–1630) verband 1619 das kopernikanische Weltbild[^1] mit der Musiktheorie von Boethius (*Harmonice mundi libri V*)[^2]
+- Innovation: geometrische statt rein arithmetische Proportionen ermöglichen Einbezug irrationaler/transzendenter Zahlen ($\sqrt{2}$, π)
 - Methodisches Modell: gedachte gekrümmte Saite als Kreis + eingeschriebene regelmäßige Vielecke (Dreieck, Viereck, Fünfeck, Sechseck etc.) markieren konsonante Saitenteilungspunkte. 
-
-- Aus dem Fünfeck: Saitenteilungen $\frac{4}{5}$, $\frac{3}{5}$, $\frac{2}{5}$, $\frac{1}{5}$ → große Terz, große Sexte, Oktave + große Terz, Doppeloktave + große Terz; Wohlklangbezug zum [Goldenen Schnitt](https://de.wikipedia.org/wiki/Goldener_Schnitt). 
-
+- Aus dem Fünfeck: Saitenteilungen $\frac{4}{5}$, $\frac{3}{5}$, $\frac{2}{5}$, $\frac{1}{5}$ -> große Terz, große Sexte, Oktave + große Terz, Doppeloktave + große Terz; Wohlklangbezug zum [Goldenen Schnitt](https://de.wikipedia.org/wiki/Goldener_Schnitt). 
 - Kulmination: Planetenmusik bzw. Sphärenharmonie; Tabellen zur musikalischen Relation von Planeten an bestimmten Tagen;
   
-  > »nichts anderes als eine fortwährende mehrstimmige Musik«
+  > "nichts anderes als eine fortwährende mehrstimmige Musik"
   >
   > – Johannes Kepler, *Harmonice mundi*, hg. u. übers. v. M. Caspar, München 1939, S. 315
 
@@ -52,14 +45,14 @@ tags:     barock, kultur, frankreich, komponist
   In den "Fünf Bücher\[n\] über die Musik" unterteilt Boethius die Musik in drei Bereiche:
   
   1. *musica mundana*, die Musik des Weltalls (Sphärenharmonie)
-  2. *musica humana*, die Menschliche (Zusammenhang von Seele und Körper)
+  2. *musica humana*, die Menschliche (Zusammenhang von Körper und Seele)
   3. *musica instrumentalis*, die auf Instrumenten gespielt werden kann
 
 [^1]: Das heliozentrische Weltbild, auch kopernikanisches Weltbild genannt.
   
   Diese Weltansicht beruht auf dem Konzept, dass die Sonne das Zentrum des Universums ist und die Erde sich folglich um die Sonne dreht.
   
-  Herkunft: altgriechisch ἥλιος *helios* (‚Sonne‘) und κέντρον *kentron* (,Zentrum‘)
+  Herkunft: altgriechisch ἥλιος (*helios*, 'Sonne') und κέντρον (*kentron*, 'Zentrum')
 
 ### René Descartes
 
@@ -67,20 +60,19 @@ tags:     barock, kultur, frankreich, komponist
 
 #### Empirische Wende & Affektenbezug
 
-- beseitigt spekulativen Überbau, fokussiert musikalische Phänomene und Hörerempfindung (*Musicae compendium*, 1618[^1])
+- beseitigt spekulativen Überbau, fokussiert sich musikalische Phänomene und Hörerempfindung (*Musicae compendium*, 1618[^1])
 
-- Begriff *delectatio* (›Ergötzung‹)
+- Begriff *delectatio* ('Genuss, Lust, Vergnügen')
   
   - Sinnesgenuss setzt proportionierte Klarheit voraus
-  - Zweck des Tones: »erfreuen und in uns verschiedene Gemütszustände hervorzurufen.«[^1]
+  - Der "Zweck des Tones ist letzten Endes, zu
+erfreuen und in uns verschiedene Gemütszustände hervorzurufen"[^1]
 
-- Rhythmuslehre
+- Proportionen dienen der leichteren Erfassung, d.h. besseren Wahrnehmung (Gehör)
   
-  - Proportionen dienen der leichteren Erfassung, d.h. besseren Wahrnehmung (Gehör)
-    
-    - Zweier- und Dreierproportionen
-    - Wiederholung gleich großer Teile
-    - Betonung (Metrumsakzent) erzeugt Struktur
+  - Zweier- und Dreierproportionen
+  - Wiederholung gleich großer Teile
+  - Betonung (Metrumsakzent) erzeugt Struktur
 
 - Periodenstruktur
   
@@ -90,33 +82,40 @@ tags:     barock, kultur, frankreich, komponist
 
 [^1]: René Descartes: *Musicae Compendium. Leitfaden der Musik*, hg. v. J. Brockt, Darmstadt 1978 (Zitat, S. 3).
 
-#### Les passions de l’âme (1649) & Affektenlehre
+#### Les passions de l’âme
 
-Bei der *Les passions de l’âme* handelt es sich um den Versucht einer rationalen Theorie der Affekte.
+Bei der 1649 erschienenen *Les passions de l’âme* (*"Die Leidenschaften der Seele"*) handelt es sich um den Versucht einer rationalen Theorie der Affekte.
 
-- Problem: Dualismus Körper (*res extensa*) vs. Seele (*res cogitans*)
+- Selbstverständlichkeiten:
+  
+  - Musik kann Affekte auslösen
+  - Affekte lösen körperliche Symptome aus (Rotwerden usw.)
 
-- Lösung: Theorie der *»esprits animaux«* (Lebensgeister) als *»eine Art Luft«* in Nerven und Blut; sehr kleine schnelle Körper, durch Herzwärme verdünnt
+- Zu klären: Verbindung von Körper (*res extensa*) vs. Seele (*res cogitans*)
+  
+  - >  Descartes entwickelte eine Theorie der sogenannten "esprits animaux" ('animalischer Geister', im Deutschen meist 'Lebensgeister'), die nach seiner Auffassung als "eine Art Luft" sowohl in den Nervenbahnen als auch im Blut zirkulieren und verdünnt durch die Herzwärme "unaufhörlich in großer Menge in die Hirnkammern des Gehirns gelangen". Sie seien "sehr kleine Körper", die sich "wie die Teile der Flamme, die einer Fackel entsprühen", sehr schnell bewegen könnten und nirgends haften blieben.
+    >
+    > – René Descartes, *Les passions de l’âme. Die Leidenschaften der Seele*, franz.-dt. Ausgabe, hg. von K. Hammacher, Hamburg 1984, S. 17 ff., zit. nach Keil 2018, S. 148.
 
-- Psychosomatik bis ins 19. Jh.: Lebensgeister vermitteln Affekte (Beispiel Zorn: Beleidigung, Alkohol, wilde Tanzmusik -> gleiche physio-psychische Reaktion)
-
-- Mechanismus: Lebensgeister stimulieren Muskeln (Körper) und affizieren Seele; Redewendung *»das Blut gerät in Wallung«*
-
+- Mechanismus: Lebensgeister stimulieren den Körper und affizieren die Seele
+  
+  - Redewendung *"das Blut gerät in Wallung"*
+- Bis ins 19. Jhd. eine anerkannte psychosomatische Theorie
 - Musikalische Umsetzung
   
-  - empirische Beobachtung → Auswahl ›richtiger‹ musikalischer Mittel
+  - empirische Beobachtung -> Auswahl 'richtiger' musikalischer Mittel
   - Ausbildung eines Repertoires musikalischer Symbole/Codes (17./18. Jh.)
 
-- Affekt-Einheit: Ein Satz/Arie soll einen Affekt rein darstellen (*stile d’une teneur*: Konstanz von Tonart, Tempo, Motivik, Spielfiguren)
+- Affekt-Einheit: Ein Satz/Arie soll einen Affekt rein darstellen (*stile d’une teneur* = Konstanz von Tonart, Tempo, Motivik, Spielfiguren)
 
-### Marin Mersenne: Empirie & Akustik
+### Marin Mersenne
 
 - Marin Mersenne (1588–1648)
   
   - Mathematiker/Theologe (Minoritenpater)
-  - Korrespondenz mit Descartes. 
+  - Korrespondenz mit Descartes
 
-- Harmonie universelle (Paris 1636): Gesamtdarstellung musikalisch-akustischen Wissens mittels empirischer Experimente 
+- *Harmonie universelle* (Paris 1636): Gesamtdarstellung musikalisch-akustischen Wissens mittels empirischer Experimente 
 
 - Beiträge
   
@@ -143,12 +142,12 @@ Bei der *Les passions de l’âme* handelt es sich um den Versucht einer rationa
 
 - Jean-Philippe Rameau (1683–1764) verbindet musikalische Praxis und wissenschaftliche Prinzipien
 
-- *Traité de l’harmonie* (Paris 1722): Fundierung moderner Kadenzharmonik auf Obertonreihe, Definition von Akkordumkehrung. 
+- *Traité de l’harmonie* (Paris 1722): Fundierung moderner Kadenzharmonik auf Obertonreihe, Definition von Akkordumkehrung
 
 - Begriffssystem:
   
   - Tonika (vollkommener Akkord)
-  - Subdominante, Dominante (fordern charakteristische Dissonanzen: z. B. sixte ajoutée, kleine Septime). 
+  - Subdominante, Dominante (fordern charakteristische Dissonanzen: z. B. sixte ajoutée, kleine Septime)
 
 ---
 
@@ -159,25 +158,29 @@ Bei der *Les passions de l’âme* handelt es sich um den Versucht einer rationa
 > Bei den sogenannten *Querelles* handelt es sich um eine öffentlich ausgetragene ästhetische Streitkultur (Streitschriften, Polemiken, Tagespresse) in Frankreich.
 
 ---
+*Digitales Wörterbuch der deutschen Sprache*
+---
 
 **Querele**, die
 
 * *Grammatik* Substantiv (Femininum) · Genitiv Singular: **Querele** · Nominativ Plural: **Querelen**
 * *Wortbildung*  mit ›Querele‹ als Letztglied: Personalquerele
-* *Herkunft* zu **querēla** (lat.), **querella** (lat.) ‘Klage, Wehklage, Beschwerde’ < **querī** (lat.) ‘(weh)klagen, sich beschweren, vor Gericht klagen’, vgl. **querelle** (frz.) ‘gerichtliche Klage, Streit, Zank’
+* *Herkunft* zu **querēla** (lat.), **querella** (lat.) 'Klage, Wehklage, Beschwerde' < **querī** (lat.) '(weh)klagen, sich beschweren, vor Gericht klagen', vgl. **querelle** (frz.) 'gerichtliche Klage, Streit, Zank'
 
 **Etymologie**
 
- **Querele** f. älter auch **Querel** und **Querelle**, ‘Beschwerde, Unstimmigkeit, Plänkelei’. Das seit dem 17. Jh. bezeugte, doch wenig populäre Substantiv ist teils eine Entlehnung aus lat. *querēla*, *querella* ‘Klage, Wehklage, Beschwerde’ (zu lat. *querī* ‘(weh)klagen, sich beschweren, vor Gericht klagen’), teils Übernahme von darauf beruhendem frz. *querelle* ‘gerichtliche Klage, Streit, Zank’. Der im 19. Jh. nur selten gebrauchte Ausdruck gewinnt neuerdings wieder an Verbreitung, doch wird dabei die Schreibweise mit -ll- aufgegeben. 
+ **Querele** f. älter auch **Querel** und **Querelle**, ‘Beschwerde, Unstimmigkeit, Plänkelei’. Das seit dem 17. Jh. bezeugte, doch wenig populäre Substantiv ist teils eine Entlehnung aus lat. *querēla*, *querella* ‘Klage, Wehklage, Beschwerde’ (zu lat. *querī* ‘(weh)klagen, sich beschweren, vor Gericht klagen’), teils Übernahme von darauf beruhendem frz. *querelle* ‘gerichtliche Klage, Streit, Zank’. Der im 19. Jh. nur selten gebrauchte Ausdruck gewinnt neuerdings wieder an Verbreitung, doch wird dabei die Schreibweise mit -ll- aufgegeben.  
 
-„Querele“, bereitgestellt durch das Digitale Wörterbuch der deutschen Sprache, [https://www.dwds.de/wb/Querele](https://www.dwds.de/wb/Querele), abgerufen am 04.10.2025. 
+---
+
+„Querele“, bereitgestellt durch das Digitale Wörterbuch der deutschen Sprache, [https://www.dwds.de/wb/Querele](https://www.dwds.de/wb/Querele), abgerufen am 04.10.2025
 
 ### Vier Haupt-Querelles (chronologisch)
 
 - *Querelle entre les anciens et les modernes* (ab 1674)
   
   - Vergleich Antike vs. Moderne
-  - Anlass: Lullys Alceste (antiker Stoff)
+  - Anlass: Lullys *Alceste* (antiker Stoff)
     
     -> Diskussion Ebenbürtigkeit mit antikem Drama (Euripides)
     -> Ausweitung auf andere Künste/Philosophie
@@ -185,7 +188,7 @@ Bei der *Les passions de l’âme* handelt es sich um den Versucht einer rationa
 - Zweite Querelle (frühes 18. Jh.)
   
   - Französische vs. italienische Musik
-  - nationale Autonomie (gloire, grandeur)
+  - nationale Autonomie (*gloire*, *grandeur*)
   - Frankreich verweigert Aufnahme italienischer Einflüsse
 
 - Dritte Querelle (ca. 20 Jahre)
@@ -202,23 +205,26 @@ Bei der *Les passions de l’âme* handelt es sich um den Versucht einer rationa
 
 ### Instrumental- und Tastenmusik-Entwicklung (Kontext)
 
-- Um 1600 war die Laute das Modeinstrument; Übertragungen von Ballet-de-cour-Stücken -> lautenspezifischer pseudo-polyphoner Satz (Arpeggien, Akkordbrechungen)
+- Um 1600 war die Laute das Modeinstrument
+  
+  - Übertragungen von Ballet-de-cour-Stücken
+    
+    -> lautenspezifischer pseudo-polyphoner Satz (Arpeggien, Akkordbrechungen)
 
 - Beliebte Form: Suite (vergleichbar italienischer Sonata da camera)
+- 2\. Hälfte 17. Jh.: Bedeutungsverlust der Laute zugunsten des Cembalos (*clavecin*)
+- Cembalo-Suiten übernehmen Elemente der Lautenmusik
+  
+  - *Préludes non mesurés*: ohne Taktstriche, improvisatorischer Charakter
 
-- 2\. Hälfte 17. Jh.: Bedeutungsverlust der Laute zugunsten des Cembalos (clavecin)
-
-- Cembalo-Suiten übernehmen Elemente der Lautenmusik (Préludes non mesurés: ohne Taktstriche, improvisatorischer Charakter)
-
-- 18\. Jh.: Verschwinden des Préludes aus Tanzsammlungen für Cembalo
-
+- 18\. Jh.: Verschwinden des *Préludes* aus Tanzsammlungen für Cembalo
 - Frühe bedeutende Clavecinisten: Louis Couperin, Jacques Champion de Chambonnières 
 
 ## François Couperin „le grand“
 
 - François Couperin (»le grand«)
   
-  -  \*1668 in Paris, †1733 in Paris
+  - *1668 in Paris, †1733 ebd.
   - Neffe von Louis Couperin
   - Lebenszentrum Paris
   - Hoforganist Ludwigs XIV
