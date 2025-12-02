@@ -63,13 +63,13 @@ Funktion
 
 - Tastenmusik zum Großteil aus Halle/Hamburg (bis 1706)
   
-  - »Unterrichtsmaterial« (Lebensunterhalt verdienen)
+  - "Unterrichtsmaterial" (Lebensunterhalt verdienen)
   - gilt für fast alle 30 Suiten, einige Einzelstücke
   - Indizien: Virtuose Werke für eigene Auftritte
 
 - In London revidiert Händel viele der frühen Werke
-- Eigene Edition (Klaviersuiten, 1720), »keine« Werke nur für den Druck komponiert
-- »Broterwerb«, Halle/Hamburg freiberuflich, London als Klavierlehrer am Hof
+- Eigene Edition (Klaviersuiten, 1720), "keine" Werke nur für den Druck komponiert
+- "Broterwerb", Halle/Hamburg freiberuflich, London als Klavierlehrer am Hof
 - Wesentlicher Teil anspruchsvoller Tastenmusik ist verloren (Improvisationen)
 
 
@@ -103,7 +103,7 @@ Es gibt einen eigenen Kurs zur @config.link.course(Stimmungsproblematik,stimmung
 
 ## Sweelinck & Froberger
 
-Es gibt eigene Kurse zu @config.link.course(Sweelinck,sweelinck_jan_pieterszoon) und @config.link.course(Froberger,froberger_johann_jakob)
+Es gibt eigene Kurse zu Jan Pieterszoon @config.link.course(Sweelinck,sweelinck_jan_pieterszoon) (1562–1621) und Johann Jakob @config.link.course(Froberger,froberger_johann_jakob) (1616–1667)
 
 ## Die Sonate
 
@@ -122,7 +122,7 @@ Literatur: Thomas Schmidt-Beste: Die Sonate. Geschichte – Formen – Ästhetik
   **Definitionen und Überblick:** Schmid-Beste, S. 25–29
 
 ### Sonate vs. Canzona
-- Canzona zunächst Vokalstück, ab Ende 16. Jhd. überwiegend instrumental (»Conzona da/per sonar«)
+- Canzona zunächst Vokalstück, ab Ende 16. Jhd. überwiegend instrumental ("Conzona da/per sonar")
 - Giovanni Gabrieli (Berühmte Sammlungen)
   
   - Sacrae Symphoniae (1597)
@@ -284,16 +284,6 @@ Historische Bedeutung
 - **Historische Einordnung:** Corelli steht in jahrzehntelanger Tradition
 - **Zeitgenössische Rezeption:** entwickelt ein Modell, das Zeitgenossen als mustergültig annehmen
 
-### Entwicklung der Triosonate um 1620
-
-- In der Gattungsentwicklung kristallisierten sich zwei Typen der Triosonate heraus: *sonata da camera* und *sonata da chiesa*.
-  
-  - ***Sonata da camera:*** in der ›Kammer‹ verortet, i. e. an einen Hof
-  - ***Sonata da chiesa:*** die Kirchensonate wurde im Gottesdienst gespielt
-
-- **Erste Belege:** in einer Sonatensammlung (1637) von Tarquinio Merula (1595–1665)
-- **Zentren der Triosonate:** Venedig, Mantua, Modena und Bologna, vor allem aber Rom mit Arcangelo Corelli
-
 ### Römische Kulturblüte unter Corelli
 
 - **Zeitgeschichtlicher Rahmen:** Rom erfuhr zu Corellis Zeiten eine musikalische und kulturelle Blüte.
@@ -336,9 +326,18 @@ Historische Bedeutung
   
   ›Concerti grossi mit zwei obligaten konzertierenden Violinen und Violoncello und zwei weiteren Violinen, Viola und Bass als Concerto grosso nach Belieben, die auch verdoppelt werden können‹
 
-### Sonatentypologie
+## Entwicklung der Triosonate um 1620
 
-#### Sonata da chiesa
+- In der Gattungsentwicklung kristallisierten sich zwei Typen der Triosonate heraus: *sonata da camera* und *sonata da chiesa*.
+  
+  - ***Sonata da camera:*** in der ›Kammer‹ verortet, i. e. an einen Hof
+  - ***Sonata da chiesa:*** die Kirchensonate wurde im Gottesdienst gespielt
+
+- **Erste Belege:** in einer Sonatensammlung (1637) von Tarquinio Merula (1595–1665)
+- **Zentren der Triosonate:** Venedig, Mantua, Modena und Bologna, vor allem aber Rom mit Arcangelo Corelli
+
+
+### Sonata da chiesa
 
 - **Grundprinzip:** freie Komposition, die nicht an Tanzmodelle gebunden ist
 - **Formaler Aufbau:** viersätzig, Satzfolge ist *langsam* – *schnell* – *langsam* – *schnell*
@@ -349,12 +348,13 @@ Historische Bedeutung
 
 - Erster Satz
   
-  - langsamer, meist geradtaktiger und homophoner Satz, oft mit festlich wirkendem punktierten Rhythmus
-  - Häufiger Halbschluss: Beginn endet oft auf Halbschluss
+  - langsamer, meist geradtaktiger und homophoner Satz
+  - oft mit festlich wirkendem punktierten Rhythmus
 
 - Zweiter Satz
   
-  - schneller, fugenartiger Satz, fast immer monothematisch
+  - schneller, fugenartiger Satz
+  - fast immer monothematisch
 
 - Dritter Satz
   
@@ -363,88 +363,94 @@ Historische Bedeutung
 
 - Vierter Satz
   
-  - schneller Schlusssatz, steht fast immer im Dreiermetrum
+  - schneller Schlusssatz, steht fast immer im Dreiertakt
   - ist oft fugiert und tänzerisch angelegt
 
 - Zudem:
   
   - dritter/vierter Satz weniger standardisiert (vierter oft schneller)
-  - **Affektkontrast:** Finale häufig in leichterem Tonfall als Kontrast zum Beginn
+  - **Kontrast:** Finale häufig in leichterem Tonfall als Kontrast zum Beginn
 
-#### Sonata da camera
+### Sonata da camera
 
-- **Grundcharakter:** im Grunde eine Suite als Folge von Instrumentalsätzen
-- **Tanzmodell:** Tanz ist hier Modell, aber nicht das Ziel!
-- **Satzzahl:** bestehen in der Regel aus vier bis sieben Tanzsätzen
-- **Spätere Bezeichnungen:** wurden später, in anderen Besetzungen, auch Suiten oder Partiten genannt
+- **Grundcharakter:** Eine Art Suite als Folge von Instrumentalsätzen
+- **Modell:** Der Tanz ist das Grundmodell, aber nicht das Ziel!
+- **Satzzahl:** bestehen i. d. R. aus vier bis sieben Tanzsätzen
+- **Spätere Bezeichnungen:** (in anderen Besetzungen) auch Suiten oder Partiten genannt
 
-#### Mischformen & Aufführungspraxis
+### Mischformen & Aufführungspraxis
 
-- **Stilmischung:** Corelli hat sowohl Sonaten des Kammertypus wie Sonaten des Kirchentypus komponiert und beide Arten auch miteinander vermischt.
-- **Zusätzliche Sätze:** Häufig mischte Corelli unter die vier Sätze einer Sonata da chiesa einen zusätzlichen fünften im Stile der Kammersonaten-Sätze.
-- **Formale Struktur:** Alle Sonatensätze sind überdies zweiteilig, beide Teile werden wiederholt.
-- **Improvisierte Verzierungen:** Solisten brachten bei den Wiederholungen mehr oder minder viele freie Verzierungen und improvisierte Varianten an.
+- **Formen:** Corelli komponierte Sonaten des Kammertypus (*da camera*) und des Kirchentypus (*da chiesa*) als auch gemischte Formen.
+- **Mischung:** Häufig fügte Corelli der viersätzigen *Sonata da chiesa* einen fünften Satz im Stile der Kammersonate hinzu.
+- **Formale Struktur:** Alle Sonatensätze sind zweiteilig, beide Teile werden wiederholt.
+- **Aufführungspraxis:** Verzierungen und Variatnen wurden bei den Wiederholungen durch die Solist:innen improvisiert.
 
 ## Das Concerto
 
-### Was ist ein Konzert?
+### Begriffsdimension
+
 - Im deutschen Sprachgebrauch mehrdeutig!
   
   - Musikalische Werke vs. Aufführung von Musik
   - Werkgattung: Klavierkonzert
   - Veranstaltung: Sinfoniekonzert
 
-- Im Englischen/Französichen *»concerto«* (Werk) und *»concert«* (Aufführung)
-- Leipzig im 18. Jhd. (keine Residenzstadt, keine Hauptstadt)
-- Georg Philipp Telemann gründet nach Immatrikulation ein Collegium Musicum (1701)
-- Johann Friedrich Fasch gündet 1708 ein zweites Collegium Musicum
-- Aus diesen Collegien entwickelte sich 1743 das »Große Concert«
-- Ensembles vor 1770 nennen sich nicht Orchester, d.h.
+- Im Englischen/Französichen *"concerto"* (Werk) und *"concert"* (Aufführung)
+- **Leipzig** ist im 18. Jhd. eine Universitätsstadt (keine Residenzstadt, keine Hauptstadt)
   
-  - Man ging ins »Große Konzert« (Veranstaltung)
-  - Man war Mitglied des »Großen Konzerts« (Verein)
-  - Man hörte das »Große Konzert« (Ensemble) spielen
-  - Aufgeführt wurde möglicherweise tatsächlich ein »Konzert« (Werk)
+  - 1701 Georg Philipp Telemann (Jura-Student, später: Musikdirektor der Stadt Hamburg) gründet nach Immatrikulation ein *Collegium Musicum*
+  - 1708 Johann Friedrich Fasch (Jura-Student, später: Hofkapellmeister in Zerbst) gündet zweites *Collegium Musicum*
 
----
+- Aus diesen Collegien entwickelte sich 1743 das "Große Concert"
+- Ensembles vor 1770 nennen sich nicht Orchester
 
-(Vgl. auch Küster, Konrad: Das Konzert, Kassel 1993, S. 13)
+- Begriffsdimension[^2] (zusammengefasst):
+  
+  - Man ging ins "Große Konzert" (Veranstaltung)
+  - Man war Mitglied des "Großen Konzerts" (Verein)
+  - Man hörte das "Große Konzert" (Ensemble) spielen
+  - Aufgeführt wurde möglicherweise tatsächlich ein "Konzert" (Werk)
+
+[^2]: Vgl. auch Küster, Konrad: Das Konzert, Kassel 1993, S. 13
 
 ### Grundlagen
 
-- Wechsel von Tutti und Solo
+- Wechsel von *Tutti* und *Solo*
   
-  - Konzerte, Doppelkonzerte, Tripelkonzerte
+  - *Konzerte*, *Doppelkonzerte*, *Tripelkonzerte*
 
 - Zusammentreten von Ensemblegruppen
-- Bachs geistliche Kantaten sind in den Partituren mit Concerto überschrieben
+- Bachs geistliche Kantaten sind in den Partituren mit *Concerto* überschrieben
   
-  - Teilchöre treten zu Gesamtensemble zusammen.
+  - Teilchöre/-ensembles treten zu Gesamtensemble zusammen
 
-- Frühes Concerto: Mischung aus vokalen und instrumentalen Teilensembles
+- Frühes *Concerto*: Mischung aus vokalen und instrumentalen Teilensembles
 - Beginn dieser Sichtweise 1587
   
-  - Giovanni Gabrieli Werke seines Onkels Andrea Gabrieli als »Concerti«
+  - Giovanni Gabrieli bezeichnet Werke seines Onkels Andrea Gabrieli als *"Concerti"*
 
 ### Wortherkunft
-- Giovanni Boccaccio (1313–1375), *Decamerone* (um 1350), "cantore et sonatore"
+- Giovanni Boccaccio (1313–1375), *Decamerone* (um 1350), *"cantore et sonatore"*
 - Ende der Renaissance
   
-  - concertare (ital.): »etwas verabreden«, »etwas aufeinander abstimmen«
+  - *concertare* (ital.): "etwas verabreden", "etwas aufeinander abstimmen"
     
     - mehrere Ensembleteile musizieren gleichberechtigt nebeneinander
-    - d.h. ein Solist wäre hier fehl am Platz!- keine Begleitung
-    - Antonio Vivaldi nennt seine »Solo-Konzerte« auch Sinfonia
-    - Prinzip wie bei Wechselgesängen (Psalmen mit mehreren Chören)
+      
+      -> d.h. ein Solist wäre hier fehl am Platz!
+      -> keine begleitende Funktion
 
-  - concertare (lat.): Wettkampf-Charakter; »certus« (= »sicher«), Verstärkung durch Vorsilbe »con-« => »eifrig streiten«
+    - Prinzip wie bei Wechselgesängen (Psalmen mit mehreren Chören)
+    - Antonio Vivaldi nennt seine "Solo-Konzerte" auch *Sinfonia*
+
+  - *concertare* (lat.): Wettkampf-Charakter; *"certus"* (= "sicher"), Verstärkung durch Vorsilbe *"con-"* -> "eifrig streiten"
     
-    - 1619, Syntagma musicum, Michael Praetorius
-    - »miteinander scharmützeln«
-    - In Teile »zerlegbares« Ensemble
-    - »scharmützeln« => sich gegenseitig den Vorrang streitig machen
+    - 1619, *Syntagma musicum*, Michael Praetorius
+    - "miteinander scharmützeln"
+    - In Teile "zerlegbares Ensemble
+    - "scharmützeln" -> sich gegenseitig den Vorrang streitig machen
     - d. h. Teilensembles können sich gegeneinander profilieren
-    - »Profil« äußert sich in Motivik
+    - "Profil" äußert sich in Motivik
 
 **Beispiel:** *O magnum mysterium* aus *Concerti* (1587) von Giovanni Gabrieli
 
@@ -454,15 +460,15 @@ Historische Bedeutung
 - Sprachliche Wurzeln unklar bis widersprüchlich
 - Frühgeschichte des Instrumentalkonzerts
   
-  - »wohlgeordnetes Musizieren eines in mehrere Teile aufgefächerten Gesamtensembles«
-  - Wetteifern entstand aus der »Profilierung« heraus
+  - "wohlgeordnetes Musizieren eines in mehrere Teile aufgefächerten Gesamtensembles"
+  - Wetteifern entstand aus der "Profilierung" heraus
     
-    - Legitimierung für Wettstreit ist sehr wichtig, um »den Solisten« als Instanz ausbilden zu können
+    - Legitimierung für Wettstreit ist sehr wichtig, um "Solisten" als Instanz herausbilden zu können
   
   - Giovanni Gabrieli
     
     - *Concerti* 1587, primär vokale Ensemblemusik
-    - *Sacrae Symphoniae* 1597, »syn-« (»zusammen mit«) »phoneín« (»klingen«)
+    - *Sacrae Symphoniae* 1597, *"syn-"* ("zusammen mit") *"phoneín"* ("klingen")
       
       - enthalten eine *Sonata pian e forte* (für zwei vierstimmige Chöre)
       - *sonare* hier *klingen* (hier im instrumentalen Sinn)
@@ -485,16 +491,16 @@ Historische Bedeutung
 
 - Mehrere Solisten und ein Orchester
   
-  - Doppelkonzert (Dialog der Solisten)
-  - Concerto grosso
+  - *Doppelkonzert* (Dialog der Solisten)
+  - *Concerto grosso*
     
-    - ursprünlich Bezeichnung für ein »großes Konzert«
-    - im Vergleich zu concertino
-    - nicht alle Konzerte mit mehr als zwei Solisten sind Concerti grossi
+    - ursprünlich Bezeichnung für ein "großes Konzert"
+    - im Vergleich zu *concertino*
+    - nicht alle Konzerte mit mehr als zwei Solisten sind *Concerti grossi*
       
-      - (Vivaldi, u. a., z. T. auch bei J. S. Bach: »Gruppenkonzert«)
+      - (Vivaldi, u. a., z. T. auch bei J. S. Bach: "Gruppenkonzert")
     
-    - Begriff: Verwendung im 19. Jhd. auch für Serenaden und Divertimenti von W. A. Mozart
+    - Begriff: Verwendung im 19. Jhd. auch für *Serenaden* und *Divertimenti* von W. A. Mozart
 
 ### Weitere Konzertebegriffe
 
@@ -510,22 +516,22 @@ Historische Bedeutung
   
 - Kammerkonzert (MuWi)
   
-  - (barocke) Werke, in denen das Orchester »fehlt«, d. h. Soloinstrumente und Generalbaß
+  - (barocke) Werke, in denen das Orchester "fehlt", d. h. Soloinstrumente und Generalbaß
   - Bsp. bei A. Vivaldi und J. S. Bach (bspw. Brandenburgisches Konzert Nr. 6)
     
-    !?["Bach: Brandenburg Concerto No. 6 | Claudio Abbado & the Orchestra Mozart"](https://www.youtube.com/watch?v=_tr_uYEQkrs "Bach: Brandenburg Concerto No. 6 | Claudio Abbado & the Orchestra Mozart")
+    !?["Bach: Brandenburg Concerto No. 6 (BWV 1051) | Claudio Abbado & the Orchestra Mozart"](https://www.youtube.com/watch?v=_tr_uYEQkrs "Bach: Brandenburg Concerto No. 6 | Claudio Abbado & the Orchestra Mozart")
 
-- In Frankreich, mitte 18. Jhd., Symphonie conertante (eine Art Gruppenkonzert)
+- In Frankreich, mitte 18. Jhd., *Symphonie conertante* (eine Art Gruppenkonzert)
 
 ### Barocke Ritornellkonzertform
 
-- »Formmodell für den Konzert-›Hauptsatz‹ der Barockzeit«
+- "Formmodell für den Konzert-'Hauptsatz' der Barockzeit"
   
-  - basiert auf Forschung Wilhelm Fischers[^2]
+  - basiert auf Forschung des Musikwissenschaftlers Wilhelm Fischers[^2] (1886–1962)
 
-- Vergleich
+- Im Vergleich
   
-  - »Sonatenhauptsatzform«
+  - "Sonatenhauptsatzform""
     
     - Lehrstoff an Konservatorien im 19. Jhd.
     - Übertragung auf ältere Werke (ca. 100 Jahre)
@@ -536,74 +542,75 @@ Historische Bedeutung
   
   - daher kein realer Umbruch von Ritornellkonzert zu Sonatenkonzert!
 
-> »Als barocke Ritornellkonzertform beschreibt man in der Regel die Form der beiden Außensätze eines dreisätzigen Werks.«
+> "Als barocke Ritornellkonzertform beschreibt man in der Regel die Form der beiden Außensätze eines dreisätzigen Werks."
 >
 > – Konrad Küster: *Das Konzert*, Kassel 1993, S. 25.
 
-- die Elemente Tutti und Solo alternieren
-- Tutti eröffnet und beschließt den Satz
+- die Elemente *Tutti* und *Solo* alternieren
+- *Tutti* eröffnet ~~und~~ beschließt den Satz
   
   - Dimension wird durch den Solisten erweitert
-  - Tritt ebenso in Tanzmusik auf
+  - (Tritt ebenso in Tanzmusik auf)
 
-- Tutti: stets alles gleich: Harmonik, Besetzung, Motivik
+- Im Tutti ist stets alles gleich: Harmonik, Besetzung, Motivik
   
-  - muss nur einmal schriftlich fixiert werden.
+  - muss nur einmal schriftlich fixiert werden
 
 [^2]: Konrad Küster: Das Konzert, Kassel 1993, S. 23.
 
-### Ritornellkonzertform
+Ritornellkonzertform
+---
 
 - Refrain und Strophe
   
-  - *»ritorno«* (ital. »Rückkehr«)
-  - *»ritornello«* (ital. »kleine Rückkehr«)
-  - *»refringere«* (aus dem Lat. abgeleitet »Wiederholungsvers«/»Kehrreim«)
+  - *"ritorno"* (ital. "Rückkehr")
+  - *"ritornello"* (ital. "kleine Rückkehr")
+  - *"refringere"* (aus dem Lat. abgeleitet "Wiederholungsvers"/"Kehrreim")
 
-- Episode (von griech. *»epeisódion«*, ἐπεισόδιον)
+- Episode (von griech. *"epeisódion"*, ἐπεισόδιον)
   
   - bedeutet im Griechischen ["von außen dazukommend"](https://www.dwds.de/wb/Episode)
   - ist ein Einschub zwischen zwei Chorgesänge in der griech. Tragödie
 
-
-- Soli
+- Soli / solistische Episoden
   
-  - Raum für Solistisches und Improvisation
+  - Bieten Raum für Improvisation und solistische Gestaltung (Entfaltung)
 
-- Bewegungsraum begrenzt
-- Entwicklung hin zur Modulation
+  - Bewegungsraum begrenzt
+  - Entwicklung hin zur Modulation (denn: Tutti ist festgelegt)
+
 - harmonische Variabilität ist wesentl. Unterschied zur Ritornelltechnik im 17. Jhd.
 - harmonische Versetzbarkeit des Ritornells ist entscheidende Entwicklung im 18. Jhd.
 
 ## Quiz und Reflexion
-Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1--3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+Zeit sich zu erinnern! Hier sind ein paar Wissensfragen (Multiple-Choice, 1--3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
 
 **Was charakterisiert die verschiedenen Verwendungszwecke von Instrumentalmusik im 17./18. Jahrhundert?**
 
 [[X]] Ergänzung von Vokalmusik und Ballettmusiken
 [[X]] Unterhaltung in der Kammer (Kammermusik) und Collegium musicum
 [[ ]] Ausschließlich für den liturgischen Gebrauch in Kirchen
-[[X]] Pädagogische Zwecke für Dilettanten und Berufsmusiker
+[[X]] Pädagogische Literatur für Dilettanten und Berufsmusiker
 
 **Welche Merkmale treffen auf die Sonata da chiesa zu?**
 
 [[X]] viersätzig mit Satzfolge langsam-schnell-langsam-schnell
 [[ ]] im Grunde eine Suite als Folge von Tanzsätzen
-[[ ]] ausschließlich einsätzig und homophon
+[[ ]] ausschließlich einsätzig und homophon gestaltet
 [[X]] freie Komposition, nicht an Tanzmodelle gebunden
 
-**Was kennzeichnet Arcangelo Corellis Bedeutung für die Sonatentradition?**
+**Bedeutung Arcangelo Corellis für die Sonatentradition.**
 
-[[X]] Modell, das Zeitgenossen als mustergültig annahmen
-[[ ]] Erfinder der ersten Instrumentalmusik überhaupt
-[[X]] Sechzehn Werksammlungen, jede aus zwölf Sonaten bestehend
-[[ ]] Komponierte ausschließlich Triosonaten
+[[X]] Er legte ein Modell vor, das als mustergültig angenommen wurde
+[[ ]] Er erfand der Instrumentalmusik neu
+[[X]] Er hinterlies sechzehn Werksammlungen, jede aus zwölf Sonaten bestehend
+[[ ]] Er komponierte ausschließlich Triosonaten
 
-**Welche unterschiedlichen Bedeutungen hatte der Begriff "concertare" in der Renaissance?**
+**Was kann der Begriff "concertare" in der Renaissance alles bezeichnen?**
 
 [[X]] "etwas verabreden", "etwas aufeinander abstimmen" (ital.)
 [[X]] Wettkampf-Charakter, "miteinander scharmützeln" (lat.)
-[[ ]] Das Aufführen von musikalischen Werken vor einem hohen Adligen
+[[ ]] Die Aufführung von musikalischen Werken vor einem hohen Adligen (Herzog/König)
 [[X]] Mehrere Ensembleteile musizieren gleichberechtigt nebeneinander
 
 **Was charakterisiert die barocke Ritornellkonzertform?**
@@ -616,17 +623,17 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1--3 Antwo
 **Welche Instrumente und Besetzungen prägten die Entwicklung der Instrumentalmusik?**
 
 [[X]] Tasteninstrumente: Orgel, Cembalo, Clavichord, Spinett
-[[ ]] Pianoforte waren bereits im 17. Jahrhundert weit verbreitet
-[[X]] Triosonaten mit charakteristischer Besetzung (zwei Oberstimmen + Basso continuo)
-[[ ]] Kammerchor für die Abendunterhaltung am Hofe
+[[ ]] Das Pianoforte (im 17. Jahrhundert bereits stark verbreitet)
+[[X]] Triosonaten-Besetzung (zwei Oberstimmen + Basso continuo)
+[[ ]] Der Kammerchor
 
-**Suchen Sie sich einen der folgenden Begriffe aus und erläutern Sie die Unterschiede zur Sonate: Sinfonia, Suite, Concerto. Beschreiben Sie charakteristische Merkmale der Sonate und der von Ihnen gewählten Gattung (17./18. Jhd.).**
+**Wählen Sie eine der folgenden Gattungen aus und beschreiben Sie deren charakteristische Merkmale (17./18. Jhd.).**
 
-*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 2--3 Seiten beantworten können.*
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 2–3 Seiten beantworten können.*
 
-**Skizzieren Sie die Entwicklung des Concerto-Begriffs von Giovanni Gabrielis "Concerti" (1587) bis zur barocken Ritornellkonzertform. Welche Rolle spielte dabei der Wandel von "concertare" als gleichberechtigtem Zusammenspiel zu solistischem Wetteifer?**
+**Erläutern Sie die barocke Ritornellkonzertform.**
 
-*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 2/3--4 Seiten beantworten können.*
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 2–3 Seiten beantworten können.*
 
 ## Übersichten
 
@@ -634,9 +641,8 @@ Alles auf einen Blick.
 
 * **Literatur**
 
-  * Fischer, Wilhelm: *{%TITEL%}*, {%ORT%} {%JAHR%} - Forschung zur Ritornellkonzertform
   * Küster, Konrad: *Das Konzert*, Kassel 1993
-  * Merula, Tarquinio: *Canzoni, overo sonate concertate per Chiesa e Camera […] Libro terzo op. 12*, Venedig 1637 -- erste Belege für sonata da camera/da chiesa
+  * Merula, Tarquinio: *Canzoni, overo sonate concertate per Chiesa e Camera […] Libro terzo op. 12*, Venedig 1637
   * Schmidt-Beste, Thomas: *Die Sonate. Geschichte – Formen – Ästhetik*, Kassel 2006
 
 * **Personen**
@@ -646,6 +652,7 @@ Alles auf einen Blick.
   * Buxtehude, Dieterich (1637–1707) -- Traditionsträger der Fantasie
   * Christine von Schweden (1626--1689) -- Widmungsträgerin von Corellis op. 1
   * Corelli, Arcangelo (1653–1713) -- "Begründer" der Gattung Sonate
+  * Fischers, Wilhelm (1886–1962) -- Musikwissenschaftler
   * Fasch, Johann Friedrich (1688--1758) -- gründete 1708 ein zweites Collegium Musicum in Leipzig
   * Gabrieli, Andrea (1532--1585) -- Komponist und Organist, Onkel von Giovanni Gabrieli
   * Gabrieli, Giovanni (1555--1612) -- Concerti (1587), Sacrae Symphoniae (1597)
@@ -664,15 +671,15 @@ Alles auf einen Blick.
 
 * **Werke**
   
-  * Bach, Johann Sebastian: *Wohltemperiertes Klavier* BWV 846–869 -- für die Ausbildung
-  * Bach, Johann Sebastian: *Orgel-Büchlein* BWV 599–644 -- für die Ausbildung
-  * Bach, Johann Sebastian: *Italienisches Konzert* BWV 971 -- für Dilettantenkreise
-  * Bach, Johann Sebastian: *Goldberg-Variationen* BWV 988 -- für Dilettantenkreise
-  * Bach, Johann Sebastian: *Brandenburgisches Konzert Nr. 6* -- Kammerkonzert ohne Orchester
-  * Corelli, Arcangelo: *Opera 1–4* (1681–1694) -- Triosonaten
-  * Corelli, Arcangelo: *Op. 5* (1700) -- Violinsonaten
-  * Corelli, Arcangelo: *Op. 6* (posthum 1714) -- Concerti grossi
-  * Gabrieli, Giovanni: *Concerti* (1587) -- primär vokale Ensemblemusik
-  * Gabrieli, Giovanni: *Sacrae Symphoniae* (1597) -- mit Sonata pian e forte
-  * Gabrieli, Giovanni: *Sonata pian e forte* -- für zwei vierstimmige Chöre
+  * Bach, Johann Sebastian: *Wohltemperiertes Klavier* BWV 846–869
+  * Bach, Johann Sebastian: *Orgel-Büchlein* BWV 599–644
+  * Bach, Johann Sebastian: *Italienisches Konzert* BWV 971
+  * Bach, Johann Sebastian: *Goldberg-Variationen* BWV 988
+  * Bach, Johann Sebastian: *Brandenburgisches Konzert Nr. 6* BWV 1051
+  * Corelli, Arcangelo: *Opera 1–4* (1681–1694)
+  * Corelli, Arcangelo: *Op. 5* (1700)
+  * Corelli, Arcangelo: *Op. 6* (posthum 1714)
+  * Gabrieli, Giovanni: *Concerti* (1587)
+  * Gabrieli, Giovanni: *Sacrae Symphoniae* (1597)
+  * Gabrieli, Giovanni: *Sonata pian e forte* (1597)
  

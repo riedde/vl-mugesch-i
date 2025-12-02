@@ -178,23 +178,24 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1--3 Antwo
 [[X]] Zwölf übereinandergeschichtete Quinten ergeben nicht genau sieben Oktaven (Pythagoreisches Komma)
 [[X]] Reine Quinten liefern keine angenehm klingenden Terzen
 [[ ]] Oktaven sind nicht rein stimmbar
-[[X]] Terzen klingen verstimmt und galten im Mittelalter als dissonant
+[[X]] Terzen klingen verstimmt und galten im Mittelalter daher als dissonant
 
 **Was charakterisiert die mitteltönige Temperatur als Kompromisslösung?**
 
 [[X]] Vier Quinten werden etwas zu eng gestimmt, um reine große Terzen zu erhalten
-[[X]] Begünstigte Tonarten um C-Dur herum mit rein gestimmten Terzen
 [[ ]] Alle Tonarten klingen gleich rein
+[[x]] Das didymische Komma wird "gleichmäßig verteilt"
 [[X]] "Wolfsquinte" zwischen schwarzen Tasten macht entfernte Tonarten unbrauchbar
 
-**Welche Vorteile bietet die wohltemperierte (gleichstufige) Stimmung?**
+**Welche Vorteile bietet die gleichstufige (wohltemperierte) Stimmung?**
 
-[[X]] Zwölf genau gleichgroße Halbtöne ergeben eine Oktave
-[[X]] Erlaubt Modulation durch enharmonische Verwechslung
-[[X]] Alle Tonarten sind gleichermaßen verwendbar
+[[X]] Zwölf Halbtöne ergeben eine Oktave
 [[ ]] Reine Terzen in allen Tonarten
+[[X]] Modulation durch enharmonische Verwechslung möglich
+[[ ]] C-Dur und nahe Tonarten klingen besonders strahlend
 
-**Beschreiben Sie die wesentlichen Unterschiede zwischen zwei der folgenden Stimmungssysteme: "pythagoreischen Stimmung", "mitteltönige Stimmung", "wohltemperierte Stimmung". Gehen Sie dabei auf praktischen und ästhetischen Überlegungen ein, die für bzw. gegen das Stimmungssystem sprechen.**
+
+**Beschreiben Sie die wesentlichen Unterschiede zwischen zwei der folgenden Stimmungssysteme: "pythagoreische Stimmung", "mitteltönige Stimmung", "wohltemperierte Stimmung". Gehen Sie dabei auf praktische und ästhetische Überlegungen ein, die für bzw. gegen das Stimmungssystem sprechen.**
 
 *Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa einer Seite beantworten können.*
 
@@ -204,7 +205,8 @@ Alles auf einen Blick.
 
 * **Literatur**
 
-  * Keine spezifischen Literaturangaben genannt
+  * Strauch, Werner von: Handbuch der Stimmungen und Temperaturen. Ein praktischer Leitfaden für Spieler von Bund- und Tasteninstrumenten, durchgesehene Neuauflage, Basel 2023
+
 
 * **Personen**
 
@@ -212,6 +214,6 @@ Alles auf einen Blick.
 
 * **Werke**
 
-  * Bach, Johann Sebastian: *Das Wohl­temperirte Clavier. oder Præludia, und Fugen durch alle Tone und Semitonia (…) Anno 1722*
+  * Bach, Johann Sebastian: *Das Wohl­temperirte Clavier*
 
 

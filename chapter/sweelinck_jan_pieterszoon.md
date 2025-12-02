@@ -11,85 +11,81 @@ font:     Source Sans 3
 tags:     komponist
 -->
 
-# Sweelinck
+# Jan Pieterszoon Sweelinck
 
-- Jan Pieterszoon Sweelinck (1562–1621): niederländischer Komponist
-
-- Beruf & Wirkungsort: Organist, Amsterdam, Oude Kerk (wirkte 40 Jahre)
-
-- Reiseaktivität: einzige nachgewiesene Auslandsreise 1604 nach Antwerpen
-
-- Instrumentenerwerb: erwarb ein Cembalo der Instrumentenbauer Ruckers
+- *1562 in Deventer, †1621 in Amsterdam
+- Niederländischer Organist, Cembalist, Komponist
+- Wirkungsstätte: Amsterdam, Oude Kerk (40 Jahre)
+- Einzige nachgewiesene Auslandsreise: 1604 nach Antwerpen
+- Erwarb ein Cembalo der Instrumentenbauer Ruckers
+  
+  - flämische Instrumentenbauerdynastie, ansässig in Antwerpen
+  - Ruckers fertigte im 17. Jahrhundert die besten und berühmtesten Cembali
 
 ---
 
 !['Portrait of Jan Pietersz. Sweelinck (1562-1621)'](https://upload.wikimedia.org/wikipedia/commons/2/27/Jan_Pieterszoon_Sweelinck.png "Portrait of Jan Pietersz. Sweelinck (1562-1621), Bild: wikimedia")
 
-## Instrumentenbau-Kontext
-
-- Ruckers-Dynastie
-  
-  - Standort: die in Antwerpen ansässige flämische Instrumentenbauerdynastie Ruckers.
-  - Reputation: fertigte im 17. Jahrhundert die besten und berühmtesten Cembali an.
-
 ## Pädagogische Bedeutung & Schülerkreis
 
-- Reputation als Lehrer: Sweelinck war ein gefragter Orgellehrer
-- Schülerkreis: unterrichtete viele niederländische und deutsche Schüler
-- Prominente Schüler: z. B. Samuel Scheidt, von dem eine direkte Lehrer-Schüler-Linie bis zu Bach reicht
-- Renommé: deshalb bezeichnete man im 18. Jahrhundert Sweelinck auch als ›deutschen Organistenmacher‹
+- Sweelinck war ein gefragter Orgellehrer
+- unterrichtete viele niederländische und deutsche Schüler
+- Prominenter Schüler: Samuel Scheidt
+  
+  - *1587 in Halle, †1654 ebd.
+  - direkte Lehrer-Schüler-Linie bis zu J. S. Bach
+
+- Renommé: Sweelinck galt im 18. Jahrhundert als der ›deutsche Organistenmacher‹
 - Historische Einordnung: Man sah in ihm den Begründer der norddeutschen Orgel- und Klaviertradition
 
 ## Vokal- und Instrumentalwerke
 
 - Vokalwerke
   
-  - Nationale Tradition: wie alle Niederländer komponierte er zwar hauptsächlich geistliche Musik.
-  - Sprache: meist auf französische Texte.
+  - Nationale Tradition: wie alle Niederländer dieser Zeit komponierte er hauptsächlich geistliche Musik
+  - Sprache: meist französische Texte.
   - Veröffentlichungen: publizierte mehrere Sammlungen mit Psalmvertonungen.
 
 - Instrumentalwerke
   
-  - Von ihm stammen vermutlich auch rund 70 in Abschriften überlieferte Werke für Tasteninstrumente für die allerdings seine Autorschaft nicht zweifelsfrei gesichert ist
+  - ca. 70 in Abschriften überlieferte Werke für Tasteninstrumente (Autorschaft nicht zweifelsfrei gesichert)
   - Gattungen der Tastenwerke
     
-    - Toccaten: spielerische Stücke ohne ausgeprägte Themen.
-    - Fantasien: umfangreiche Werke, die in der Regel ein Thema durch Variationen, Verzierungen oder kontrapunktische Behandlung bearbeiten.
+    - Toccaten: spielerische Stücke ohne ausgeprägte Themen
+    - Fantasien: umfangreiche Werke; in der Regel ein Thema; Verarbeitung des Themas durch Variationen, Verzierungen oder kontrapunktische Behandlung
 
 ### Kompositionstechniken in den Fantasien
 
-- Thematische Transformation: in den einzelnen Abschnitten einer Sweelinckschen Fantasie kann das Thema z. B. in verschiedenen Gestalten auftreten:
+- Thematische Transformation
   
   - In doppelten oder vierfachen Notenwerten
   - Von reichem Passagenwerk umspielt
   - In Umkehrung
 
-- Formale Gestaltung: der Wechsel von thematisch geprägten und themenfreien Passagen sowie die imitierenden Themeneinsätze auf erster und fünfter Stufe zu Beginn eines Abschnittes vermitteln den Eindruck einer Fuge.
+- Formale Gestaltung: Wechsel von thematisch geprägten und themenfreien Passagen. Imitierende Themeneinsätze auf erster und fünfter Stufe zu Beginn eines Abschnittes vermitteln den Eindruck einer Fuge
 
-- Historische Zuschreibung: im 18. Jahrhundert galt Sweelinck deshalb als ihr Erfinder.
+- Historische Zuschreibung: im 18. Jahrhundert galt Sweelinck deshalb als "Erfinder der Fuge".
 
 ## Stimmungsproblematik & kompositorische Konsequenzen
 
-- Kompositorische Beschränkung: wegen der geschilderten Schwierigkeiten mit der Temperierung komponierte Sweelinck in seinen Werken für Tasteninstrumente bis auf eine Ausnahme vorzugsweise diatonisch und vermied Chromatik.
+- Kompositorische Beschränkung: Wegen Schwierigkeiten mit der Temperierung komponierte Sweelinck in seinen Werken für Tasteninstrumente vorzugsweise diatonisch und vermied Chromatik.
 
-- Die berühmte Ausnahme: Fantasia chromatica
+- Die berühmte Ausnahme: *Fantasia chromatica*
   
-  - Besonderheit: die Ausnahme jedoch hat es eben deshalb zu einer gewissen Berühmtheit gebracht.
-  - Werkidentifikation: es handelt sich um seine *Fantasia chromatica*
-  - Thema: deren Thema, der sogenannte ›Probstein‹, unter Organisten recht beliebt gewesen zu sein scheint.
+  - Scheint als 'Probstein' unter Organisten recht beliebt gewesen zu sein.
 
     !?[Jan Pieterszoon Sweelinck - Fantasia Cromatica](https://www.youtube.com/watch?v=9zHWp9nEL0s "Jan Pieterszoon Sweelinck - Fantasia Cromatica, Helmut Walcha (Orgel)")
 
-  - Der ›Probstein‹ als Organisten-Test
+  - Der 'Probstein' als Organisten-Test
     
-    - Themengestalt: dieses Thema besteht aus einer chromatisch ausgefüllten absteigenden Quarte.
-    - Theoretische Einordnung: der weiter oben erwähnten Figur des Passus duriusculus.
-    - Pädagogische Funktion: worüber improvisieren zu können damals zum Kennzeichen eines guten Organisten gehörte (daher ›Probstein‹).
+    - Themengestalt: Absteigende Quarte (chromatisch ausgefüllt)
+    - Hinzugefügte Farbe (griech. χρῶμα/chróma) erzeugt einen sog. "harten Gang" (*Passus duriusculus*)
+    - Pädagogische Funktion: Über ein solche/s Thema/Figur improvisieren zu können war damals Kennzeichen eines guten Organisten (daher 'Probstein')
 
   - Kompositionstechnische Herausforderungen
     
-    - Klangliche Problematik: ein solches Thema, bei dem bereits die einzelnen, unterschiedlich gestimmten Sekundschritte ›schräg‹ klingen.
-    - Harmonische Komplexität: führt auch in seiner harmonischen Behandlung zu erheblicher Komplexität.
+    - bereits die einzelnen, unterschiedlich gestimmten Sekundschritte im Thema klingen 'schräg'
+    - Thema führt in seiner harmonischen Behandlung zu erheblicher Komplexität
 
   - Historische Nachwirkung
     
@@ -101,26 +97,26 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 
 **Was charakterisiert Sweelincks Position in der Musikgeschichte?**
 
-[[X]] war in Amsterdam 40 Jahre lang Organist (an der selben Kirche)
-[[X]] Bezeichnung als "deutscher Organistenmacher" im 18. Jahrhundert
-[[ ]] Begründer der italienischen Madrigaltradition
-[[X]] Begründer der norddeutschen Orgel- und Klaviertradition
+[[X]] Er war 40 Jahre an der selben Kirche als Organist tätig
+[[X]] Er war ein berühmter und beliebter Lehrmeister
+[[ ]] Gilt als Begründer der norddeutschen Orgel- und Klaviertradition
+[[ ]] Gilt als Begründer der niederländischen Vokalmotette
 
 **Welche kompositionstechnischen Merkmale kennzeichnen Sweelincks Fantasien?**
 
 [[X]] Thematische Transformation in verschiedenen Notenwerten und Umkehrung
 [[X]] Wechsel von thematisch geprägten und themenfreien Passagen
 [[ ]] Imitierende Themeneinsätze auf harmonischen Nebenstufen
-[[ ]] Ausschließlich homophone Satzweise ohne kontrapunktische Behandlung
+[[ ]] Themengestaltung: Farbe durch Chromatik
 
-**Was macht Sweelincks "Fantasia chromatica" zu einer besonderen Ausnahme?**
+**Was zeichnet Sweelincks "Fantasia chromatica" aus?**
 
 [[X]] Verwendung von Chromatik trotz Stimmungsproblematik bei Tasteninstrumenten
 [[ ]] Erstes Werk, das auf Orgel und Cembalo gespielt werden kann
-[[X]] Test für Organisten
-[[X]] Vorläufer von Bachs Chromatischer Fantasie
+[[X]] Probstein für Organisten
+[[X]] Harmonische Komplexität aufgrund des *Passus duriusculus* im Thema
 
-**Skizzieren Sie Sweelincks pädagogische Bedeutung und seinen Einfluss auf die norddeutsche Orgeltradition. Nennen Sie bedeutende Schüler*innen.**
+**Skizzieren Sie Sweelincks Bedeutung als Pädagoge und Komponist.**
 
 *Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa einer halben bis ganzen Seite beantworten können.*
 
@@ -128,16 +124,14 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 
 ### Literatur
 
-* {%AUTOR%}: {%TITEL%} ({%JAHR%})
-* {%AUTOR%}: {%TITEL%} ({%JAHR%})
+* Dirksen, Pieter: Artikel *Sweelinck, Jan Pieterszoon*, in: *MGG Online*, hrsg. von Laurenz Lütteken, New York/Kassel/Stuttgart 2016, https://www.mgg-online.com/mgg/stable/597409 \[01.12.2025\]
+* Dings, Manfred: Abschnitt *4.2 Der Passus duriusculus bzw. chromatisierte Lamentobass*, in: Satzmodelle. Übermaterial für das Hauptfach Musiktheorie, https://elearning.hfm-nuernberg.de/pluginfile.php/22141/mod_resource/content/1/Satzmodelle-Manfred%20Dings.pdf \[01.12.2025\], S. 17f.
 
 ### Personen
 
-* Ruckers-Dynastie (Instrumentenbauerdynastie, Antwerpen)
-* Scheidt, Samuel ({%GEBURTSJAHR%}–{%TODESJAHR%}) - Schüler von Sweelinck
+* Bach, Johann Sebastian (1685–1750) – Komponist und Musiker
+* Scheidt, Samuel (1587–1654) - Schüler von Sweelinck
 * Sweelinck, Jan Pieterszoon (1562–1621) - niederländischer Komponist und Organist
-
-
 
 ### Werke
 

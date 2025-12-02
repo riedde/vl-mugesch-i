@@ -23,84 +23,88 @@ tags:     komponist, barock
 
 - Girolamo Frescobaldi (1583–1643)
   
-  - Stellung: italienischer Zeitgenosse Sweelincks und als Organist nicht minder angesehen
-  - Position: Organist an San Pietro in Rom
-  - Vielseitigkeit: gleichermaßen berühmt als Sänger, hervorragender Orgel- und Cembalospieler und ausgezeichneter Improvisator
-  - Historische Bedeutung: leistete im Bereich der Instrumentalmusik Ähnliches wie Monteverdi für die Vokalmusik
+  - *Stellung:* italienischer Zeitgenosse @config.link.course(Sweelinck,sweelinck_jan_pieterszoon)s und als Organist nicht minder angesehen
+  - *Position:* Organist an San Pietro in Rom
+  - *Vielseitigkeit:* gleichermaßen berühmt als Sänger, hervorragender Orgel- und Cembalospieler und ausgezeichneter Improvisator
+  - *Historische Bedeutung:* Leistungen im Bereich der Instrumentalmusik vergleichbar mit Monteverdis Leistungen für die Vokalmusik
 
 - Frescobaldis Gattungsentwicklung
   
-  - Toccata-Innovation: entwickelte die Toccata zu einem Instrumentalstück voller Affektgehalt.
-  - Kompositionsprinzip: hervorgehend aus einem dramatisch konzipierten Wechsel von dissonanzreicher Akkordik und fugierten Passagen.
-  - Ricercar & Capriccio: entsprechen der sweelinckschen Fantasie; beides vorrangig kontrapunktische, fugenartig durchkomponierte Stücke.
-  - Improvisationscharakter: die zugleich den Anschein des Improvisierten vermitteln.
+  - Toccaten
+    
+    - entwickelte die Toccata zu einem Instrumentalstück voller Affektgehalt
+    - dramatisch konzipierter Wechsel von dissonanzreicher Akkordik und fugierten Passagen
+  
+  - Ricercar & Capriccio
+    
+    - entsprechen der sweelinckschen Fantasie; beides vorrangig kontrapunktische, fugenartig durchkomponierte Stücke
+    - vermitteln zugleich den Anschein einer Improvisation
 
 ## Johann Jakob Froberger (1616–1667)
 
-- Biografische Grunddaten & historische Stellung
+- Herkunft und Einordnung
   
-  - Herkunft: der Stuttgarter Johann Jakob Froberger zählte zu Frescobaldis besten Schülern.
-  - Musikgeschichtliche Bedeutung: der erste Komponist der Musikgeschichte, der sich ganz auf Tasteninstrumente spezialisierte.
-  - Offizielle Position: Wiener Hoforganist.
+  - *1616 in Stuttgart, †1667 auf Schloß Héricourt bei Montbéliard (Frankreich)
+  - erster Komponist, der sich ganz auf Tasteninstrumente spezialisierte
+  - Offizielle Position: Wiener Hoforganist
 
 - Ausbildung & Studium bei Frescobaldi
   
-  - Finanzierung: studierte auf kaiserliche Kosten vier Jahre lang bei Frescobaldi in Rom.
-  - Stilentwicklung: entwickelte den Cembalo-Stil weiter.
+  - studierte auf kaiserliche Kosten vier Jahre lang bei Frescobaldi in Rom
+  - zählte zu Frescobaldis besten Schülern
+  - entwickelte den Cembalo-Stil weiter
 
 - Kompositionsstil & spieltechnische Anforderungen
   
-  - Satztechnik: komponierte in einem hochexpressiven, nicht an obligate Stimmen gebundenen ›freien‹ Satz.
-  - Gattungen: Suiten und Tokkaten von solch spieltechnischem Anspruch.
-  - Zeitgenössische Einschätzung: dass die Rede ging, niemand könne seine Werke spielen, der nicht selbst bei ihm studiert habe.
+  - komponierte in einem hochexpressiven 'freien' Satz
+  - Suiten und Toccaten von hohem spieltechnischem Anspruch
+  - Zeitgenössische Einschätzung: *'niemand könne seine Werke spielen, der nicht selbst bei ihm studiert habe'*
 
 - Publikationspraxis & Überlieferung
   
-  - Geringe Drucktätigkeit: er kümmerte sich kaum um den Druck seiner Werke.
-  - Verbreitung: die sich jedoch in Abschriften stark verbreiteten.
-  - Posthume Veröffentlichung: nach seinem Tod in zwei großen Sammlungen erschienen.
+  - Geringe Drucktätigkeit: bemühte sich kaum um den Druck seiner Werke
+  - Verbreitung: Werke in Abschriften jedoch stark verbreitet
+  - Posthume Veröffentlichung: zwei große Sammlungen
 
 ## Französische Einflüsse & Stilelemente
 
 - Paris-Aufenthalt in den 1650er Jahren
-
-- Begegnung mit französischer Tradition:
-  -  Froberger war in den 1650er Jahren in Paris mit den Besonderheiten der französischen Cembalomusik bekannt geworden.
+- Begegnung mit den Besonderheiten der französischen Cembalomusik
 
 ### Eigenheiten der französischen Musik
 
 - *Inégalement* & rhythmische Freiheiten
   
-  - Notationsabweichung: zu den Eigenheiten der französischen Musik gehörte es, bei der Aufführung eines Stückes von der gegebenen Notation rhythmisch abzuweichen (›Inégalement‹).
-  - Überpunktierung: besonders die sogenannte Überpunktierung war beliebt, bei der nach punktierten Noten eine kurze Pause eingefügt und die punktierte Note selbst dadurch verlängert wurde.
-  - Typisch französische Merkmale: diese Überpunktierung galt als typisch französisch.
+  - Notationsabweichung: zu den Eigenheiten der französischen Musik gehörte es, bei der Aufführung eines Stückes von der gegebenen Notation rhythmisch abzuweichen (*Inégalement*)
+  - Überpunktierung: besonders die sogenannte Überpunktierung war beliebt, bei der nach punktierten Noten eine kurze Pause eingefügt und die punktierte Note selbst dadurch verlängert wurde
+  - Die Überpunktierung galt als typisch französisch
 
-- *Tempo rubato* & Verzierungspraxis
+- Taktmaß & Verzierungspraxis
 
-  - Takmaß-Behandlung: ebenso ein Spielen ohne (genaues) Berücksichtigen des Taktmaßes (eine Art tempo rubato).
+  - Taktmaß-Behandlung: Spiel ohne (genaues) Berücksichtigen des Taktmaßes (eine Art *tempo rubato*).
   - Improvisierte Verzierungen: das improvisierte Anbringen zahlreicher Verzierungen (Triller, Mordente, Praller etc.).
 
-- *Style brisé* (›gebrochener Stil‹)
+- *Style brisé* ('gebrochener Stil')
 
-  - Instrumentengerechte Spielweise: gebrochene Akkorde oder Arpeggio-Motive, bekannt als Style brisé (›gebrochener Stil‹).
-  - Stilistische Innovation: ersetzten als instrumentengerechtere Spielweise den herkömmlichen linearen Kontrapunkt.
+  - gebrochene Akkorde oder Arpeggio-Motive, bekannt als *style brisé*
+  - ersetzte den herkömmlichen linearen Kontrapunkt
 
 ## Tombeau sur la mort de Monsieur Blancheroche
 
 !['Tombeau fait à Paris sur la mort de Monsieur Blancheroche, FbWV 632'](https://www.youtube.com/watch?v=MvCfLm6Of-g "Tombeau fait à Paris sur la mort de Monsieur Blancheroche, FbWV 632: Affligée et Tombeau sur la Mort de Monsieur Blanchrocher, Glen Wilson (Cembalo)")
 
-Zur nachfolgenden Werkanalyse vgl. [^Keil2018](Werner Keil: Musikgeschichte im Überblick, Paderborn ^3^2018, S. 133)
+Zur nachfolgenden Werkanalyse vgl. Keil: Musikgeschichte im Überblick, S. 133[^1](Werner Keil: Musikgeschichte im Überblick, Paderborn ^3^2018, S. 133)
 
 - Werkkontext & Programmatik
 
-  - Titel:Tombeau sur la mort de Monsieur Blancheroche (›Trauerstück auf den Tod von Herrn B.‹).
+  - Titel: *Tombeau sur la mort de Monsieur Blancheroche* (*'Trauerstück auf den Tod von Herrn B.'*).
   - Programmatischer Bezug: Besagter Blancheroche, ein Freund Frobergers, soll in betrunkenem Zustand eine Treppe hinabgestürzt sein
   - Stilistik: der ›gebrochene‹ Cembalostil ist hier gut erkennbar
 
 - Aufführungsanweisungen
 
-  - Tempo-Bezeichnung: ausdrücklich vermerkt Froberger in der Überschrift, dass das Stück langsam zu spielen sei
-  - Metrische Freiheit: »lentement \[...\] sans observer aucune mesure«[^de](langsam [...] ohne irgendwelche Maßnahmen [i.e., das Taktmaß] zu beachten) zu spielen sei
+  - Froberger vermerkt in der Überschrift, dass das Stück langsam und 'frei' zu spielen sei
+  - "lentement \[...\] sans observer aucune mesure"[^übers] / *"langsam [...] ohne irgendwelche Maßnahmen [i.e., das Taktmaß] zu beachten"*) zu spielen sei*"
 
 ## Quiz und Reflexion
 Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1–3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
@@ -110,21 +114,25 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1–3 Antw
 [[X]] Erster Komponist, der sich ganz auf Tasteninstrumente spezialisierte
 [[X]] Schüler Frescobaldis
 [[ ]] Begründer der italienischen Oper
-[[X]] Wiener Hoforganist mit hochexpressivem, freiem Kompositionsstil
+[[X]] Hochexpressiver, freier Kompositionsstil
 
 **Welche französischen Stilelemente übernahm Froberger in seine Cembalowerke?**
 
-[[X]] Style brisé (gebrochener Stil) mit gebrochenen Akkorden und Arpeggio-Motiven
-[[X]] Inégalement und Überpunktierung bei der Aufführung
-[[ ]] Strenge Beachtung des Taktmaßes ohne rhythmische Abweichungen
-[[X]] Tempo rubato und improvisierte Verzierungen
+[[X]] *Style brisé* ('gebrochener Stil')
+[[ ]] *Inégalement*, d. h. strenge Beachtung des Taktmaßes ohne rhythmische Abweichungen
+[[X]] *Inégalement* und *Tempo rubato* als Gestaltungsfreiheit bei der Aufführung
+[[ ]] Französische Verzierungspraxis (in seinen Werken ausnotiert)
 
 **Was kennzeichnet Frobergers "Tombeau sur la mort de Monsieur Blancheroche"?**
 
-[[X]] Programmatisches Trauerstück auf den Tod eines Freundes
-[[ ]] Fröhliches Tanzstück im französischen Stil
-[[X]] Aufführungsanweisung "lentement sans observer aucune mesure"
+[[X]] Programmatisches Trauerstück
+[[ ]] Fröhliches Theaterstück im französischen Stil
+[[X]] Aufführungsanweisung zum langsamen und freien Spiel
 [[X]] Beispiel für den "gebrochenen" Cembalostil
+
+**Skizzieren Sie die französischen Einflüsse in Frobergers Werk.**
+
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa einer halben bis ganzen Seite beantworten können.*
 
 ## Übersichten
 
@@ -136,7 +144,7 @@ Alles auf einen Blick.
 
 * **Personen**
 
-  * Blancheroche, Monsieur – Freund Frobergers
+  * (Monsieur) Blancheroche – Freund Frobergers
   * Frescobaldi, Girolamo (1583–1643) – italienischer Organist an San Pietro in Rom
   * Froberger, Johann Jakob (1616–1667) – Stuttgarter, Wiener Hoforganist, Schüler Frescobaldis
 
