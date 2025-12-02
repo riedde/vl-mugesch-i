@@ -17,7 +17,7 @@ tags:     komponist, barock
 
 - **Grunddaten:**
   
-  - Georg Friedrich Händel (vgl. Matrikel der MLU)
+  - Georg(e) Friedrich Händel (vgl. Matrikel der MLU)
   - 1685 in Halle (Saale) geboren
   - 1703 Hamburg
   - ca. 1706–1710 in Italien

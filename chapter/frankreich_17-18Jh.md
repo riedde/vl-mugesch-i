@@ -289,26 +289,28 @@ Bei der 1649 erschienenen *Les passions de l’âme* (*"Die Leidenschaften der S
 
 ### Ballet de cour (seit 1581)
 
-- Hofballett als zentrale Repräsentationsform; Beteiligung der höfischen Gesellschaft (inkl. Auftritte des jungen Ludwigs XIV.)
+- **Funktion:** Hofballett als zentrale Repräsentationsform
+  
+  - Beteiligung der höfischen Gesellschaft (inkl. Auftritte des jungen Ludwigs XIV.)
 
-- Pädagogik: Körperrhetorik, Gestik, Mimik → *exercises de galanterie* (Einübung höfischer Galanterie)
+- **Pädagogik:** Körperrhetorik, Gestik, Mimik → *exercises de galanterie* (Einübung höfischer Galanterie)
 
-- Bildungsziele: bienséance (Schicklichkeit), tempérance (Mäßigung); funktionale Einheit von Musik & Tanz zur seelisch-körperlichen Harmonie
+- **Bildungsziele:** *bienséance* (Schicklichkeit), *tempérance* (Mäßigung); funktionale Einheit von Musik & Tanz zur seelisch-körperlichen Harmonie
 
-- Aufführungsrahmen: Prunkvolle Szenerien (Versailles, Gärten, Säle); exotische Tiere (Elefanten, Kamele)
+- **Aufführungsrahmen:** Prunkvolle Szenerien (Versailles, Gärten, Säle); exotische Tiere (Elefanten, Kamele)
 
 - Italienische Oper erst nach Jahrzehnten (modifiziert, mit Tanzeinlagen) integrierbar
 
 ### Tragédie en musique
 
-- Tragédie lyrique seit 19. Jh.
+- *Tragédie lyrique* seit 19. Jh.
 
 - Synthese: *Ballet de cour* + französisches Sprechtheater
 
 - Dramafokus
   
   - Vorrang des gesprochenen/dramatischen Gehalts
-  - Musik unterstützt *le merveilleux* (›das Wunderbare‹)
+  - Musik unterstützt *le merveilleux* ('das Wunderbare')
 
 - Formvielfalt
   
@@ -323,10 +325,8 @@ Bei der 1649 erschienenen *Les passions de l’âme* (*"Die Leidenschaften der S
 
 ### Lullys Werk & Rezeption
 
-- Zwölf Tragédies en musique (prächtig inszeniert), beinahe ein Jahrhundert im Repertoire -> nationale Identitätsstiftung
-
+- Zwölf *Tragédies en musique* (prächtig inszeniert), beinahe ein Jahrhundert im Repertoire(!) -> nationale Identitätsstiftung
 - *Alceste* (1674, mit Philippe Quinault) → Auslöser der *Querelle entre les anciens et les modernes*
-
 - *Armida* (1686, Quinault/Lully)
   
   -> Verarbeitung eines Stoffes aus Tassos Kreuzritter-Epos
@@ -343,8 +343,7 @@ Bei der 1649 erschienenen *Les passions de l’âme* (*"Die Leidenschaften der S
   
   -> Polarisierung Publikum: Lullisten vs. Rameauneurs
 
-- Ziel: Umsetzung ›wissenschaftlicher‹ (akustisch begründeter) Theorien auf Harmonik und Affektgestaltung
-
+- Ziel: Umsetzung 'wissenschaftlicher' (akustisch begründeter) Theorien auf Harmonik und Affektgestaltung
 - Stilmerkmale
   
   - reichere Instrumentation
@@ -354,9 +353,13 @@ Bei der 1649 erschienenen *Les passions de l’âme* (*"Die Leidenschaften der S
 
 ### Castor et Pollux (1737/rev. 1754)
 
-- Sujet: Brüder (antikes Sparta) lieben dieselbe Frau; dramatische Konstellation mit Unterweltszene (4. Akt) und Apotheose (Aufnahme in den Olymp)
+- Sujet: Brüder (antikes Sparta) lieben dieselbe Frau
+  
+  - dramatische Konstellation mit Unterweltszene (4. Akt) und Apotheose (Aufnahme in den Olymp)
 
-- 1754-Revision während Buffonistenstreit: Rameaus Opernstil als französischer Nationalstil gegen italienische Einflüsse positioniert
+- 1754-Revision während dem Buffonistenstreit
+  
+  - Rameaus Opernstil (als französischer Nationalstil) gegen italienische Einflüsse positioniert
 
 - Strukturhinweis: Prolog (später 2. Akt-Beginn)
 
@@ -378,23 +381,29 @@ Artikel zur [Viola da gamba](https://web.archive.org/web/20251002143944/https://
 - Schüler des Monsieur de Sainte-Colombes (*um 1600; †1690–1700)
 - Freund Lullys
 - Hofkarriere unter Ludwig XIV. und Ludwig XV.
-- Kapellmeister des Orchesters der Académie Royale de Musique
+- Kapellmeister des Orchesters der *Académie Royale de Musique*
 
 - 5 Bücher (1686–1725) mit insgesamt 550 Stücken für 1–3 Gamben
   
-  - Nähe zu Couperin: programmatische Tendenzen; mögliches Übernehmen der Idee charakterisierender Titel
-  - *Le Tableau de l’operation de la Taille*: musikalisch-deskriptive ›Vertonung‹ einer Blasenstein-Operation; Notentext-Anmerkungen markieren Zittern, Schnitt, Steinentfernung, Schmerzen, Schreie
-  - Verbindung drastisch-programmatischer Inhalte mit virtuoser Gambentechnik scheint das zeitgenössisches Publikum angesprochen zu haben 
+  - Nähe zu Couperin: programmatische Tendenzen; mögliche Übernahme der Idee charakterisierender Titel
+  - *Le Tableau de l’operation de la Taille*
+    
+    - musikalisch-deskriptive 'Vertonung' einer Blasenstein-Operation
+    - Notentext-Anmerkungen markieren Zittern, Schnitt, Steinentfernung, Schmerzen, Schreie
+  
+  - Verbindung drastisch-programmatischer Inhalte mit virtuoser Gambentechnik
+    
+    - scheint das zeitgenössische Publikum angesprochen zu haben!
 
 - Marais’ erklärtes Ziel
 
-  - Resistenz gegen italienischen Einfluss
-  - Empfehlung an Schüler, »Sonaten« zu meiden (als italienisch konnotierte Form) 
+  - Widerstand gegen italienischen Einfluss
+  - Empfahl seinen Schülern "Sonaten" zu meiden (als italienisch konnotierte Form) 
 
 - *Sonnerie de Sainte Geneviève du Mont de Paris (1723)
   
   - berühmtestes Werk
-  - Imitation Glockengeläute mit Violine, Gambe, Basso continuo
+  - Imitation von Glockengeläut mit Violine, Gambe, Basso continuo
   - Passacaglia-Prinzip (ostinater Bass) → Variationen steigender Komplexität
   - Harmonik: d-Moll, keine Tonartenwechsel → bewusster Kontrast zu italienischen Modulationen, Chromatik, Tonartenvielfalt
 
