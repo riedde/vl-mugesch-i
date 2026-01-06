@@ -154,7 +154,7 @@ tags:     kompositionsweise
 
 - Bach-Forschung
   
-  - A. Schweitzer: machte in seinem Bachbuch von 1905 auf gewisse Formelhaftigkeit der Tonsprache Bachs aufmerksam.
+  - [Albert Schweitzer](https://albert-schweitzer-heute.de/ueber-albert-schweitzer/): machte in seinem Bachbuch von 1905 auf gewisse Formelhaftigkeit der Tonsprache Bachs aufmerksam.
   - Intensive Untersuchungen: Musik Bachs wurde intensiv auf den Gebrauch von Figuren hin untersucht.
 
 - Heutige Forschungsposition
