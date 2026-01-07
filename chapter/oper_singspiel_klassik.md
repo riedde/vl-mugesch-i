@@ -30,7 +30,7 @@ tags:     oper, singspiel, klassik, gattung
 
 ## Vokalmusik im 18. Jhd.
 
-### Ästhetische Wertschätzung
+**Ästhetische Wertschätzung**
 
 - **Realität des 18. Jahrhunderts:**
 
@@ -43,7 +43,7 @@ tags:     oper, singspiel, klassik, gattung
   - Weniger Wert als andere schöne Künste
   - Musik drücke lediglich Affekte eines Sprechenden aus
 
-### Frühere Theorien
+**Frühere Theorien**
 
 - **„Antike“ Musiktheorie:**
 
@@ -56,7 +56,7 @@ tags:     oper, singspiel, klassik, gattung
 
   - Textvortrag: gesungen oder getanzt
 
-### W. A. Mozart
+**W. A. Mozart**
 
 - **Opernaufträge vor Instrumentalmusik:**
 
@@ -74,7 +74,8 @@ tags:     oper, singspiel, klassik, gattung
   - **Aufkommen:** 1730er Jahre, schnelle Verbreitung
   - **Auswirkung:** Verdrängte die *Opera Seria* nicht, Parallelphänomen etwa 60–70 Jahre
 
-### Opera Seria
+Opera Seria
+---
 
 - Ernsthafte Opernform
 - **Klassische Neuausrichtung:**
@@ -109,7 +110,7 @@ tags:     oper, singspiel, klassik, gattung
   - Entwicklung endet nicht in der Klassik
   - Weichenstellung für romantische Oper
 
-## Intermezzo comico per musica
+### Intermezzo comico per musica
 
 - **Ähnlichkeiten**
 
@@ -157,14 +158,14 @@ tags:     oper, singspiel, klassik, gattung
   - Drei wegweisende Opern entstanden in Zusammenarbeit mit dem italienischen Dichter Ranieri de Calibigi
   - Gingen als Reformopern in die Musikgeschichte ein
 
-- Orfeo ed Euridice (1762)
+- *Orfeo ed Euridice* (1762)
 
   - **Stoff:** Antike (Orpheus und Eurydike)
   - **Bedeutung:** Rückkehr zum klassischen Anfang der Operngeschichte
   - **Besonderheit:** Erste dieser neuen Reformopern
   - **Überarbeitungen:** Mehrfach überarbeitet nach der Uraufführung
 
-- Alceste
+- *Alceste*
 
   - **Reformmanifest:** Das Vorwort zum zweiten Akt beschreibt Glucks Opernreform
   - **Kernziel:** Musik auf ihr »wahres Amt« zurückführen
@@ -197,6 +198,61 @@ tags:     oper, singspiel, klassik, gattung
 - **Problem:** Virtuose Arien auf Kosten der Handlung
 - **Lösung:** Musik dem Drama unterordnen
 
+### Gluck in Paris (ab 1770)
+
+Marie-Antoinette und die Berufung nach Paris
+---
+
+- **Katalysator:** Marie-Antoinette heiratete den späteren König Ludwig XVI.
+  
+  - Österreichische Prinzessin
+  - Jüngste Tochter der Kaiserin Maria Theresia
+  - Heirat 1770
+
+- **Folge:** Gluck nach Paris berufen
+
+Tätigkeiten und Werke in Paris
+---
+
+- **Zwischen Paris und Wien:**
+
+  - Pendeltätigkeit bis zu seinem Lebensende
+  - Übertragung Wiener Reformopern ins Französische
+  - Sechs neue französischsprachige Opern im neuen Stil
+
+- **Der Iphigenie-Zyklus:**
+
+  - *Iphigenie in Aulis* (1774)
+  - *Iphigenie auf Tauris* (1779)
+  - Beide basieren auf dem klassischen Mythos
+
+#### Piccinnistenstreit
+
+- **Publikumsdiskurs:** Heftige publizistische Auseinandersetzung
+- **Bezeichnung:** Fünfte Querelle (auch: Piccinnistenstreit)
+- **Rivale:** Niccolò Piccinni
+- **Piccinnis Position:** 
+
+  - Ebenso von Marie-Antoinette nach Paris berufen
+  - Mit Gluck zur Vertonung der *Iphigenie auf Tauris* beauftragt
+  - Aufführung zwei Jahre nach Glucks Version
+  - Weniger erfolgreich
+
+- **Unterschiedliche Ansätze:**
+
+  - Gluck: Drama als Grundlage
+  - Piccinni: Modifizierung der Musik innerhalb französischer *Tragédie en musique*
+
+### Armida (1777)
+
+- **Libretto-Vorlage:** Fast 100 Jahre altes Libretto von Philippe Quinault
+- **Künstlerische Intention:** Referenz zur großen französischen Operntradition
+- **Historische Bedeutung:** 
+
+  - Original-Libretto für *Armida* von Jean-Baptiste Lully (1632–1687) gedichtet
+  - Glucks Armida seit Uraufführung bis ins frühe 20. Jahrhundert ununterbrochen auf Pariser Spielplan
+  - Wird die meist gespielte französische Oper
+
 ### Orfeo in der Unterwelt
 
 - **Vergleich mit Monteverdis Orfeo (1607):**
@@ -223,62 +279,9 @@ tags:     oper, singspiel, klassik, gattung
   - Von Romantikern geliebt und glorifiziert
   - **Glucks Fokus:** Dramatisch wirkungsvoller, das Publikum erschütternder Effekt
 
-### Gluck in Paris (ab 1770)
-
-#### Marie-Antoinette und die Berufung nach Paris
-
-- **Katalysator:** Marie-Antoinette heiratete den späteren König Ludwig XVI.
-  
-  - Österreichische Prinzessin
-  - Jüngste Tochter der Kaiserin Maria Theresia
-  - Heirat 1770
-
-- **Folge:** Gluck nach Paris berufen
-
-#### Tätigkeiten und Werke in Paris
-
-- **Zwischen Paris und Wien:**
-
-  - Pendeltätigkeit bis zu seinem Lebensende
-  - Übertragung Wiener Reformopern ins Französische
-  - Sechs neue französischsprachige Opern im neuen Stil
-
-- **Der Iphigenie-Zyklus:**
-
-  - *Iphigenie in Aulis* (1774)
-  - *Iphigenie auf Tauris* (1779)
-  - Beide basieren auf dem klassischen Mythos
-
-#### Armida (1777)
-
-- **Libretto-Vorlage:** Fast 100 Jahre altes Libretto von Philippe Quinault
-- **Künstlerische Intention:** Referenz zur großen französischen Operntradition
-- **Historische Bedeutung:** 
-
-  - Original-Libretto für *Armida* von Jean-Baptiste Lully (1632–1687) gedichtet
-  - Glucks Armida seit Uraufführung bis ins frühe 20. Jahrhundert ununterbrochen auf Pariser Spielplan
-  - Wird die meist gespielte französische Oper
-
-#### Piccinnistenstreit
-
-- **Publikumsdiskurs:** Heftige publizistische Auseinandersetzung
-- **Bezeichnung:** Fünfte Querelle (auch: Piccinnistenstreit)
-- **Rivale:** Niccolò Piccinni
-- **Piccinnis Position:** 
-
-  - Ebenso von Marie-Antoinette nach Paris berufen
-  - Mit Gluck zur Vertonung der *Iphigenie auf Tauris* beauftragt
-  - Aufführung zwei Jahre nach Glucks Version
-  - Weniger erfolgreich
-
-- **Unterschiedliche Ansätze:**
-
-  - Gluck: Drama als Grundlage
-  - Piccinni: Modifizierung der Musik innerhalb französischer *Tragédie en musique*
-
 ## Das Singspiel
 
-### Entstehung und Charakteristika
+**Entstehung und Charakteristika**
 
 - **Zeitliche Einordnung:** Mitte des 18. Jahrhunderts
 - **Gattungsreferenz:** Deutsches Gegenstück zur französischen *Opéra comique*
@@ -288,13 +291,12 @@ tags:     oper, singspiel, klassik, gattung
   - Gesprochene Dialoge voller Wortwitz
   - Einfach und volkstümlich gehaltene Lieder
 
-### Musikalische Struktur
+**Musikalische Struktur**
 
 - **Abweichung von italienischen Konventionen:**
 
   - Zwischentexte **gesprochen** statt rezitativ gesungen
-  - **Keine** Dacapo-Arien
-  - **Keine** Kastraten
+  - **Keine** Dacapo-Arien und Kastraten
   - **Vermeidung** historischer und mythologischer Stoffe
 
 - **Thematische Ausrichtung:**
@@ -303,7 +305,8 @@ tags:     oper, singspiel, klassik, gattung
   - Häufiger Kontrast: Stadt- und Landleben
   - Volkstümlicher Charakter
 
-### Bedeutende Komponisten
+**Bedeutende Komponisten**
+
 - André Erneste Modeste Grétry (1742–1813)
 
   - **Hauptvertreter der *Opéra comique***
@@ -351,7 +354,7 @@ tags:     oper, singspiel, klassik, gattung
 
 - Bedeutendstes Singspiel des 18. Jahrhunderts
 
-#### Entstehung und Zusammenarbeit
+#### Entstehung
 
 - **Zeitliche Einordnung:** Zehn Jahre nach der *Entführung*
 - **Librettist:** Emanuel Schickaneder
@@ -362,7 +365,7 @@ tags:     oper, singspiel, klassik, gattung
   - Vorliebe für Massenszenen und Spektakel
   - Orientierung am populären Geschmack des Wierner Vorstadtpublikums
 
-#### Entstehungsgeschichte
+**Entstehungsgeschichte**
 
 - **Finanzielle Notlage:**
 
@@ -373,10 +376,10 @@ tags:     oper, singspiel, klassik, gattung
 
   - Musik in kürzester Zeit geschrieben
   - Legendär: Mozart angeblich in Gartenhaus eingesperrt
-  - Motivation: Wein, Austern und Frauen
+  - Motivation: Wein, Austern usw.
   - Zweck: Zur Eile angetrieben
 
-#### Uraufführung und Rezeption
+**Uraufführung und Rezeption**
 
 - **Datum:** 1791, neun Wochen vor Mozarts Tod
 - **Historische Bewertung:** 
@@ -384,9 +387,11 @@ tags:     oper, singspiel, klassik, gattung
   - Gehört zu jenen Stücken, die »ebenso ein Kind entzücken wie den Erfahrensten der Menschen zu Tränen rühren, den Weisesten erheben können«
   - Zitat: Alfred Einstein: *Mozart. Sein Charakter – Sein Werk* (Frankfurt am Main 1968, S. 437)
 
-#### Musikalische Charakteristika und Figuren
+#### Charakteristika und Bedeutung
 
-- Die Papageno
+**Musikalische Charakteristika und Figuren**
+
+- Papageno
 
   - **Darsteller:** Emanuel Schickaneder selbst
   - **Figur:** Der Vogelfänger
@@ -400,11 +405,11 @@ tags:     oper, singspiel, klassik, gattung
 - Die Königin der Nacht
   - **Typus:** Virtuose Sopranpartie mit extremen Anforderungen
 
-#### Bedeutung für die Operngeschichte
+**Bedeutung für die Operngeschichte**
 
-- **Gleichstellung:**
+- **Meilenstrein:**
 
-  - Mit dieser Oper erreicht die *Opera Buffa* die Höhe der *Opera Seria*
+  - *Opera Buffa* zieht (spätestens jetzt) mit der *Opera Seria* gleich
   - Keine künstlerische Hierarchie mehr
 
 - **Weiterwirkung:**
