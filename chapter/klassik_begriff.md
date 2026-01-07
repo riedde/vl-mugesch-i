@@ -13,13 +13,429 @@ tags:     begriffsgeschichte, klassik
 
 # Klassik als Begriff
 
-## Charles Rosens wegweisende Publikation
+## Problematik und Kritik
 
-- 1971: Der amerikanische Pianist Charles Rosen veröffentlicht sein Buch *"The Classical Style. Haydn, Mozart, Beethoven"*
+**Typische populärwissenschaftliche Gliederung:**
+---
 
-- 1972: National Book Award
+- Epoche der Vorklassik/Frühklassik (ca. 1740–1780)
+- Epoche der Klassik (1780 bis um 1810)
+- Epoche der Romantik (1810–1914)
 
-- Deutsche Übersetzung *"Der klassische Stil. Hadyn, Mozart, Beethoven"* in über s### Eigenarten, welche die europäische Musikgeschichte ähnlich grundlegend charakterisieren wie die obsessive Dynamik des musikgeschichtlichen Wandels
+  - Frühromantik (1810–1830)
+  - Hochromantik (1830–1850)
+  - Spätromantik (1850–1890)
+  - Jahrhundertwende/Fin de Siècle (1890–1914)
+
+- »Neue Musik« oder »Moderne« (frühes 20. Jahrhundert bis 1950)
+
+Kritik am »Gänsemarsch-Modell«
+---
+
+- **Ernst Blochs ironische Bemerkung:** Der »Gänsemarsch« der Epochen
+- **Probleme dieser Ordnung:**
+
+  - Ungeeignet zur Beschreibung der Komplexität europäischer Musikgeschichte
+  - Zu simpel für die Vielgestaltigkeit historischer Prozesse
+  - Historisch bedingt und fragwürdige Prämissen
+  - Willkürliche Schwerpunktsetzungen
+
+Funktion von Epochenbegriffen
+---
+
+- **Ordnungsprinzip:**
+
+  - Partialgeschichten werden in Richtung Universalgeschichte geordnet
+  - Jedem Zeitalter wird ein »universelles Etikett« aufgeklebt
+  - Impliziert eine grundlegende musikgeschichtliche Zäsur
+
+- **Merkmalsfestlegung:**
+
+  - Allgemein verbindliche Merkmalskonstanten für einen Zeitraum
+  - Suggeriert eine Geordnetheit, die oft nicht besteht
+
+## Normative und historiographische Dimensionen
+
+Der normative Klassikbegriff (antike Tradition)
+---
+
+- **Antike Wurzeln:**
+
+  - Römische Literatur: »classicus scriptor« (»auctor«)
+  - Bezeichnung für Vorbildautoren
+  - Rang der Altehrwürdigkeit, Autorität und Überzeitlichkeit
+
+- **Merkmale des normativen Klassik-Verständnisses:**
+
+  - Altehrwürdig aufgrund von Alter und Tradition
+  - Mustergültig
+  - Bleibend gültig
+
+Klassik im 18./19. Jahrhundert
+---
+
+- **Spätes 18. Jahrhundert bis 20. Jahrhundert:**
+
+  - Ausdruck »klassisch« für zahlreiche mustergültige Komponisten
+  - Auch: »Klassiker der Moderne«
+  - Bezeichnet Musiktheoretiker und Ästhetiker
+
+Kritische Briefe über die Tonkunst (1760)
+---
+
+Friedrich Wilhelm Marpurg (1718–1795)
+
+- **Klassische Komponisten nach Marpurg:**
+
+  - Georg Philipp Telemann (1681–1767)
+  - Carl Heinrich Graun (1703/04–1759)
+
+    - Komponist am Hof Friedrichs des Großen in Berlin
+    - Verfasser zahlreicher Opere serie
+    - Passionskantate »Der Tod Jesu«
+
+- **Historiographisches Problem:**
+
+  - Diese werden heute als Spätbarock/Vorklassik eingeordnet
+  - Früher als oberflächliche »Allamode-Komponisten« gering geschätzt
+  - Marpurg sah sie als maßstabssetzend
+
+## Epochenkonstituierung
+
+Die Fixierung als »Periode« (1800–1835)
+---
+
+- **Neue Begriffsbestimmung:**
+
+  - Fest umgrenzte »Periode« von ca. 1780 bis 1820
+  - Beschränkung auf drei in Wien wirkende Komponisten:
+
+    - Joseph Haydn (in Wien: 1740–1759, 1790–1809)
+    - Wolfgang Amadé Mozart (in Wien: 1781–1791 & mehrere Aufenthalte)
+    - Ludwig van Beethoven (in Wien: 1787, 1792–1827)
+
+- **Kompositorische Leistung:**
+
+  - Musik von neuartiger, epochemachender Qualität
+  - »Klassischer Stil« von zeitlos gültiger Bedeutung
+  - »Unsterbliche« Musik mit höchsten Maßstäben
+
+ Ordnungskriterien der »Wiener Klassik«
+---
+
+- **Normative Dimension:** Klassisches = Maßstabsetzend
+- **Räumliche Dimension:** Regionale Eingrenzung auf Wien um 1800
+- **Zeitliche Dimension:** Fest definierter Zeitraum
+- **Personalistische Dimension:** Drei Komponistenpersönlichkeiten
+- **Stilistische Dimension:** »Klassischer Stil«
+- **Formale Dimension:** Bestimmte Gattungen (Sinfonie, Streichquartett, Konzert)
+- **Schulbegriff:** Gemeinsame Programmatik und Orientierung
+
+## Die Trias: Haydn – Mozart – Beethoven
+
+### Amadeus Wendt und die Formierung des Epochenbegriffs
+
+Erste Phase:
+---
+»Über die Hauptperioden der schönen Kunst« (Leipzig 1831)
+
+- **Wendts Periodisierung:**
+
+  - Periode der deutschen Musik durch Haydn, Mozart, Beethoven repräsentiert
+  - Noch nicht als »klassisch« bezeichnet
+  - Begriff »klassisch« reserviert für Antike und italienische Kirchenmusik
+
+- **Merkmale der Periode:**
+
+  - »Periode des freyen Styls und der höchsten Blüthe deutscher Tonkunst«
+  - Instrumentalmusik erlangt »vollkommene Ausbildung«
+
+- **Charakteristik:** Nationalgeschichtlich orientiert
+
+Zweite Phase
+---
+»Über den gegenwärtigen Zustand der Musik« (1836)
+
+- **Bedeutung:** Erstmals explizit »sogenannte classische Periode« für Mozart, Haydn, Beethoven
+- **Wendts Dreischritt (nach Hegelscher Kunstphilosophie):**
+
+  - **Haydn:** Form herrscht über den Stoff (symbolische Stufe)
+  - **Mozart:** Völlige Durchdringung von Form und Stoff (klassische Stufe) – Höhepunkt
+  - **Beethoven:** Stoff gewinnt Übergewicht über Form (romantische Stufe)
+
+### Die Synthese der Trias
+
+Phase 1: Die Kanonisierung Mozarts
+---
+
+- **Nach Mozarts Tod 1791:**
+
+  - »Meister über alle Meister«
+  - Streichquartette und Streichquintette (1798) als »wahre Probirstein des klassischen Werthes«
+
+Phase 2: Das Haydn-Mozart-Gespann
+---
+
+- **Raffael Georg Kiesewetter (Musikgeschichte 1834):**
+
+  - Konstruiert »Epoche Haydn und Mozart« (1780–1800)
+
+    - Haydn: 6 Pariser Symphonien (Nr. 82–87), 12 Londoner Symphonien (Nr. 93–104)
+    - Mozart: Pariser Symphonie D-Dur 1778, Haffner-Smphonie D-Dur 1782, Linzer Symphonie C-Dur 1783, Prager Symphonie D-Dur 1786, 3 späte Symphonien 1788: Es-Dur, g-Moll, C-Dur (Jupiter)
+  
+  - Beide als Gründer einer »Schule«
+  - Bezeichnung: »deutsche Schule« (oder »Wiener Schule«)
+
+Phase 3: Die schwierige Integration Beethovens
+---
+
+- **Problem:** Eigenprägung der Beethovenschen Sinfonik
+  
+  - Irritationen bei Vergleich mit klassischen Mustern Haydns und Mozarts
+  - Frühe Kritik: Zu große Ausdehnung, überkünstliche Ausarbeitung, Bizarrerie
+
+- **Schlüsselfigur: Friedrich Rochlitz (1798–1818)**
+
+  - Redakteur der *Allgemeinen Musikalischen Zeitung* (AmZ)
+  - Mitglied der Gesellschaft der Gewandhauskonzerte
+  - Verbindung von: Publizistik + Repertoirepflege + Verlagswesen
+
+!?[Beethoven: 2. Sinfonie ∙ hr-Sinfonieorchester ∙ Andrés Orozco-Estrada](https://www.youtube.com/watch?v=ytOL_iszvAE "Beethoven: 2. Sinfonie ∙ hr-Sinfonieorchester ∙ Andrés Orozco-Estrada")
+
+### Kanonisierungsprozess
+
+- **Beteiligte Institutionen:**
+
+  - Verlagshaus Breitkopf & Härtel (25 Werke Beethovens 1801–1813)
+  - *Allgemeine Musikalische Zeitung* (Schriftenleitung)
+  - Leipziger Gewandhaus-Orchester (Konzertprogramme)
+
+- **Strategie:**
+
+  - Beethovens Sinfonien nach »vorzüglichsten Haydnschen und Mozartschen« Symphonien aufführen
+  - Schrittweise Akzeptanz und Kanonisierung
+
+- **Abschluss:** Um 1827 weitgehend abgeschlossen
+- **Kommerzielle Dimension:** Verlags- und Marketinginteressen spielten wesentliche Rolle
+
+## Historiographische Probleme des Klassikbegriffs
+
+### Problem 1
+Europäische Partialität
+---
+
+- **Faktum:** Italien, Frankreich und England entwickelten keine »musikalische Klassik«
+- **Konsequenz:** Klassischer Stil ist im internationalen Zusammenhang nur Partialstil
+
+Nicht-Wiener Komponisten der Epoche
+---
+
+- André Ernest Modeste Grétry (1741–1813) – französischer Opéra-comique-Komponist
+- Luigi Cherubini (1760–1842) – italienisch-französischer Komponist
+- Etienne Nicolas Méhul (1763–1817) – französischer Opéra-comique-Komponist
+- Giovanni Paisiello (1740–1816) – italienischer Opernkomponist
+- Niccolò Piccinni (1728–1800) – italienischer Opernkomponist
+
+Kritik an der Orientierung
+---
+
+- **Problem:** Versuche, andersgeartet schaffen französischer und italienischer Komponisten auf Wiener Klassik auszurichten = wenig überzeugend
+- **Kritische Interpretation:** Versuche der nationalgeschichtlichen Vereinnahmung europäischer Musikgeschichte durch deutschen Partialstil
+
+### Problem 2
+Teleologisierung der Vorklassik
+---
+
+- **Zirkularität:** Frankreich, England, Italien haben um 1800 keine Klassik → können also auch auf keine Vorklassik verweisen
+- **»Humusboden«-Konzept:** Hans Heinrich Eggebrecht sah Vorklassik als Nährboden für Klassik (problematisch)
+
+Peter Rummenhöller und die Teleologisierung
+---
+
+- **Ansatz:** Panorama der Vorklassik durch Mozarts Kunstreisen (ab 1762)
+- **Kritik:** Pauschaie Subsumption unter »Vorklassik«
+- **Vorwurf:** Teleologische Konstruktion
+
+> Teleologie: Auffassung, nach der Ereignisse oder Entwicklungen durch bestimmte Zwecke oder ideale Endzustände im Voraus bestimmt sind und sich darauf zubewegen. Vom Ziel her gedacht.
+
+### Problem 3
+
+Kanonische Engführung und partielle Erweiterungen
+---
+
+**Erweiterung auf andere Komponisten**
+
+- **Beispiel:** Christoph Willibald Gluck
+  - Zentriert auf französische Opéra comique
+  - Ernsthafte italienische und französische Oper
+  - Wird zur »Klassik« gezählt (problematisch)
+
+**Erweiterung auf andere Gattungen**
+
+- **Instrumentalmusik:** Unproblematisch als »klassisch« (Sinfonie, Streichquartett)
+- **Kirchenmusik und Oratorien:** Als klassisch bezeichnet
+- **Opern:** Problematisch – niemals so eingebürgert wie »klassisches Streichquartett«
+
+**Das Problem der klassischen Oper**
+
+- **Gattungstraditionen dominieren:**
+
+  - Opera seria
+  - Intermezzo und Opera buffa
+  - Opéra-comique und Singspiel
+
+- **Konsequenz:** Eher von »klassischem Stil« in der Oper spricht man
+- **Beispiel - Mozarts »La clemenza di Tito«:**
+
+  - Seine letzte Oper
+  - Opera seria
+  - Steht am **Ende** dieser Genregeschichte (nicht am Anfang!)
+  - Metastasio prägte dieses Genre
+  - Höhepunkt lag in der 1. Hälfte des 18. Jahrhunderts
+
+- **Opera Seria: Johann Adolph Hasse (1699–1783)**
+  - In Neapel, Venedig und Dresden tätig
+  - Opere serie nach Metastasio-Texten
+  - Europaweit als Musterbild dieses Genres angesehen
+
+
+- Unterschiedliche Gattungsbeiträge der Trias
+
+  - **Haydn:** Instrumentalkonzerte und Opern von geringerem Gewicht
+  - **Mozart:** Klavierkonzerte und sieben späte große Opern von höherem Gewicht
+  - **Beethoven:** Fokus auf Sinfonie
+
+### Problem 4
+Exklusivität und Ausgrenzung
+---
+
+- **Klassik als normativer Begriff:** Beinhaltet Maßstabsetzung, Exzeptionalität, kompositorische »Höchstleistung«
+- **Ausgrenzungseffekt:** Komponisten außerhalb dieses Kanons werden ausgeschlossen
+
+Beispiel: Johann Ladislaus Dussek (1760–1812)
+---
+
+- **Problem:** Solider, ansprechend komponierender Mozarts-Zeitgenosse
+- **Stigma:** Nicht »klassischer Komponist«
+- **Folge:** Verbannter in »musikhistorisches Niemandsland«
+
+### Problem 5
+Die Abwertung durch »Vorklassik«
+---
+
+**Semantische Abwertung**
+
+- **»Vorklassik« bedeutet:** »Noch nicht« das klassische Stilniveau erreicht
+- **Implikation:** Bestenfalls »Humus« für Späteres
+
+***Carl Philipp Emanuel Bach: Ein Exemplum***
+
+- **Werke (hohe Qualität):**
+
+  - Klaviersonaten
+  - Rondos
+  - Fantasien
+  - Sinfonien
+  - Clavierkonzerte
+
+- **Historiographisches Missverständnis:**
+
+  - Interpretiert als »Weg zu Zielpunkt« (teleologisch)
+  - Sollte aber verstanden werden als »Erfüllung in sich selbst«
+  - Mit »Einmaligkeit des historischen Augenblicks« begabt
+
+**Das Paradoxon der Vorklassik**
+
+- **Absurdität:** Komponisten der Vorklassik hatten das »Ziel« gar nicht vor Augen
+- **Sie waren keine Propheten**
+- **Die historische Rede vom »Noch nicht« ist substanzlos**
+
+## Umgang mit Epochenbegriffen
+
+Wenn Der Begriff „Klassik“ verwendet wird, dann bewusst bzw. mit kritischem Bewusstsein
+
+**Umdenken: Was ist historisch würdig?**
+
+- **Nicht:** Die Frage, ob ein Komponist »besser« oder »schlechter« ist
+- **Sondern:** Die **historische Symptomatik** eines Werkes
+  - In einer bestimmten Situation
+  - In einer bestimmten Konstellation
+  - In einer bestimmten Problemstellung
+
+**Europäische Musikgeschichte als Vielgestaltigkeit**
+
+- **Grundcharakteristik:**
+
+  - Vielgestaltiges Phänomen
+  - Gleichzeitig verschiedene Prozesse präsent
+  - Unterschiedliche Orientierungen
+  - Kontinuitäten und Wandlungen überlagernd
+
+- **Methodischer Vorteil:**
+
+  - Akzentuiert Vielgestaltigkeit von Kompositionen
+  - Macht Werke interessanter
+  - Vermeidet künstliche Ordnungskonstruktion
+
+**Die Irreführung durch »Ordnung«**
+
+- **Nachteil der Epochenbegriffe »Klassik« und »Vorklassik«:**
+
+  - Suggerieren Geordnetheit musikhistorischer Vorgänge
+  - Diese Geordnetheit hat nie existiert
+  - Führt zu Teleologisierung
+
+**Sensibilisierung für Komplexität**
+
+- **Ziel:** Bewusstsein für:
+  - Vielgestaltigkeit
+  - Überlagerung unterschiedlicher Prozesse
+  - Unterschiedliche Qualitäten dieser Prozesse
+
+- **Erkenntnis:** Diese Eigenschaften charakterisieren europäische Musikgeschichte fundamental
+
+## Quiz und Reflexion
+
+Zeit sich zu erinnern! Hier sind vier Wissensfragen (Multiple-Choice, 1–3 Antworten sind jeweils richtig) und zwei Verständnisfragen. Solche Fragen sollten nun beantworten werden können.
+
+**Was sind zentrale Probleme des linearen Epochenschemas (»Gänsemarsch«)?**
+
+[[X]] Ungeeignet für die Komplexität und Vielgestaltigkeit europäischer Musikgeschichte
+[[X]] Basiert auf fragwürdigen Prämissen und willkürlicher Schwerpunktsetzung
+[[ ]] Enthält zu viele Differenzierungen
+[[X]] Suggeriert eine Geordnetheit, die nicht existiert
+
+**Welche Ordnungskriterien verbinden sich im Klassikbegriff der »Wiener Klassik«?**
+
+[[X]] Normativ-wertender Begriff des Klassischen
+[[X]] Regionale Eingrenzung auf Wien um 1800
+[[X]] Personalistische Beschränkung auf drei Komponisten (Haydn, Mozart, Beethoven)
+[[ ]] Alle europäischen Komponisten der Epoche
+[[X]] Stilbegriff (klassischer Stil)
+[[X]] Beschränkung auf bestimmte Gattungen
+
+**Wie wurde Beethoven in die Trias Haydn-Mozart-Beethoven integriert?**
+
+[[X]] Durch Infrastruktur: Verlage, Zeitschriften, Konzerthallen
+[[X]] Friedrich Rochlitz und die Allgemeine Musikalische Zeitung spielten Schlüsselrolle
+[[X]] Schrittweise Programmierung: Beethovens Sinfonien nach klassischen Werken aufführen
+[[ ]] Sofortige Akzeptanz nach seinen ersten Kompositionen
+
+**Welche historiographischen Probleme entstehen durch die Kanonisierung der »Wiener Klassik«?**
+
+[[X]] Frankreich, Italien, England entwickelten keine »klassische« Musik – Partialstil wird universalisiert
+[[X]] Teleologisierung der »Vorklassik« als bloßer »Humusboden«
+[[X]] Ausgrenzung von Komponisten wie Dussek, die nicht dem Kanon entsprechen
+[[X]] Abwertung durch »Noch nicht« – Komponisten werden nur als Vorstufe verstanden
+[[ ]] Zu viele Komponisten werden eingeschlossen
+
+**Erläutern Sie die historiographische Problematik, Carl Philipp Emanuel Bach als »Vorklassik-Komponisten« zu klassifizieren. Beziehen Sie sich auf die Konzepte »Teleologie« und »Erfüllung in sich selbst«.**
+
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa einer Seite beantworten können – mit Fokus auf die Teleologisierung, die Einzigartigkeit seines Schaffens und die Problematik des »Noch-nicht«-Modells.*
+
+**Erörtern Sie, warum die Auswertung des regionalen und komposistischen eng begrenzten Klassikbegriffs zum allgemeinen Epochenbegriff historiographisch schwer vertretbar ist. Gehen Sie auf die europäische Partialität und die Konsequenzen für das Verständnis von »Vorklassik« ein.**
+
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 1–2 Seiten beantworten können – mit Referenzen auf nicht-wienerische Komponisten und das Konzept des »Partialstils«.*
 
 ## Übersichten
 
@@ -27,520 +443,49 @@ Alles auf einen Blick.
 
 * **Literatur**
 
-  * Bach, Carl Philipp Emanuel: *{%TITEL%}* -- Werke als Beispiel für "Vorklassik"-Problematik
-  * Beethoven, Ludwig van: *{%TITEL%}* -- Beispiele aus den Konzertberichten
-  * Eggebrecht, Hans Heinrich: *Musik im Abendland*, {%ORT%} {%JAHR%}
-  * Hegel, Georg Wilhelm Friedrich: *{%TITEL%}*, {%ORT%} {%JAHR%} -- Geschichts- und Kunstphilosophie
-  * Kiesewetter, Raffael Georg: *{%TITEL%}*, {%ORT%} 1834 -- Musikgeschichte mit "Epoche Haydn und Mozart"
-  * Le Goff, Jacques: *Geschichte ohne Epochen?*, Darmstadt 2016
+  * Wendt, Amadeus: »Über die Hauptperioden der schönen Kunst, oder die Kunst im Laufe der Weltgeschichte«, Leipzig 1831
+  * Wendt, Amadeus: »Über den gegenwärtigen Zustand der Musik besonders in Deutschland und wie er geworden. Eine beurtheilende Schilderung«, 1836
   * Marpurg, Friedrich Wilhelm: *Kritische Briefe über die Tonkunst*, Berlin 1760
-  * Ratz, Erwin: *{%TITEL%}*, {%ORT%} {%JAHR%} -- Lehrbuch der ersten Hälfte des 20. Jahrhunderts
-  * Riemann, Hugo: *{%TITEL%}*, {%ORT%} {%JAHR%} -- Lehrbuch am Ende des 19. Jahrhunderts
-  * Rochlitz, Friedrich: *Allgemeine Musikalische Zeitung*, Leipzig (1798--1882) -- Gründer und erster Redakteur (1798-1818) der Zeitung, sowie Verfasser zahlreicher Berichte
-  * Rosen, Charles: *Der klassische Stil. Haydn, Mozart, Beethoven*, Kassel 1983
-  * Rummenhöller, Peter: *Die musikalische Vorklassik*, Kassel 1983 -- Panorama der Vorklassik
-  * Wendt, Amadeus: *Über den gegenwärtigen Zustand der Musik besonders in Deutschland*, Göttingen 1836
-  * Wendt, Amadeus: *Über die Hauptperioden der schönen Kunst*, Leipzig 1831
+  * Kiesewetter, Raffael Georg: *Musikgeschichte*, 1834
+  * Eggebrecht, Hans Heinrich: *Musik im Abendland*, S. 488
+  * Rummenhöller, Peter: Panorama der Vorklassik
+  * Hegel, Georg Wilhelm Friedrich: Ästhetik als Geschichtsphilosophie
 
 * **Personen**
 
-  * Bach, Carl Philipp Emanuel (1714–1788) -- Beispiel für "Vorklassik"-Problematik
-  * Beethoven, Ludwig van (1770–1827) -- dritter Komponist der Wiener Klassik
-  * Bloch, Ernst (1885–1977) -- Philosoph ("Gänsemarsch der Epochen")
-  * Cherubini, Luigi (1760–1842) -- erfolgreicher Opernkomponist der Zeit
-  * Dussek, Johann Ladislaus (1760–1812) -- durch normativen Klassikbegriff ausgegrenzter Komponist
-  * Grétry, André Ernest Modeste (1741–1813) -- erfolgreicher Opernkomponist der Zeit
-  * Gluck, Christoph Willibald (1714–1787) -- zur Klassik gezählter Komponist
-  * Graun, Carl Heinrich (1703/04–1759) -- nach Marpurg "klassischer" Komponist
-  * Hasse, Johann Adolph (1699–1783) -- möglicher "klassischer" Komponist der Opera seria
-  * Haydn, Joseph (1732–1809) -- erster Komponist der Wiener Klassik
-  * Hegel, Georg Wilhelm Friedrich (1770–1831) -- Geschichts- und Kunstphilosoph
-  * Kalliwoda, Johannes Wenceslaus (1801–1866) -- Komponist der 1. Sinfonie (1827)
-  * Kiesewetter, Raffael Georg (1773–1850) -- Musikhistoriker
-  * Marpurg, Friedrich Wilhelm (1718–1795) -- Musiktheoretiker und -kritiker
-  * Méhul, Etienne Nicolas (1763–1817) -- erfolgreicher Opernkomponist der Zeit
-  * Metastasio, Pietro (1698–1782) -- Wiener Hofpoet, Librettist
-  * Mozart, Wolfgang Amadé (1756–1791) -- zweiter Komponist der Wiener Klassik
-  * Nichelmann, Christoph (1717–1762) -- Adressat von Marpurgs Brief
-  * Paisiello, Giovanni (1740–1816) -- erfolgreicher Opernkomponist der Zeit
-  * Piccinni, Niccolò (1728–1800) -- erfolgreicher Opernkomponist der Zeit
-  * Rochlitz, Friedrich (1769–1842) -- Redakteur der Allgemeinen Musikalischen Zeitung
-  * Rosen, Charles (1927–2012) -- amerikanischer Pianist und Musikschriftsteller
-  * Telemann, Georg Philipp (1681–1767) -- nach Marpurg "klassischer" Komponist
-  * Wendt, Amadeus (1783–1836) -- Göttinger Philosophieprofessor
-
-
-
-* **Werke**
-  
-  * Beethoven, Ludwig van: *1. Sinfonie* (1799--1800) -- zum "Lieblingsstück" des Leipziger Publikums avanciert
-  * Beethoven, Ludwig van: *2. Sinfonie in D-Dur* (1800--1802) -- Beispiel aus Konzertberichten
-  * Beethoven, Ludwig van: *5. und 6. Sinfonie* (1809) -- bei Breitkopf & Härtel erschienen
-  * Graun, Carl Heinrich: *Der Tod Jesu* (1755) -- Passionskantate
-  * Haydn, Joseph: *Streichquartette op. 33* (seit 1781) -- Beginn der Hochklassik nach Rosen
-  * Kalliwoda, Johannes Wenceslaus: *1. Sinfonie* (1827) -- kritisch rezensiert in der AmZ
-  * Mozart, Wolfgang Amadé: *La clemenza di Tito* (1791) -- letzte Oper, Opera seria
-
-
-- Rosen stellte in detail- und kenntnisreichen Kapiteln einige Gattungen der drei Komponisten als idealtypisch heraus:
-
-  - Haydns Sinfonik und Streichquartette
-  - Mozarts Konzerte, Streichquintette und komische Opern
-  - Bei Beethoven vor allem die Klaviermusik
-
-- An ihnen exemplifizierte er den *›klassischen Stil‹*, dasjenige, was zum Inbegriff des *›Klassischen‹* geworden sei
-
-## Problematik der nachträglichen Idealisierung
-
-- Sicht heute: Unter ›klassische‹ Musik ist in erster Linie Instrumentalmusik zu verstehen
-- ›Klassik‹ und ›klassische‹ Musik sind erst nachträglich kodifiziert und regelrecht idealisiert
-
-- Lehrbücher haben einen ›normativen‹ Hintergrund des ›Klassischen‹ entwickelt, der in dieser Weise wohl nie existiert hat:
-
-  - Hugo Riemanns Lehrbücher am Ende des 19. Jahrhunderts
-  - Erwin Ratz in der ersten Hälfte des 20. Jahrhunderts
-
-Inzwischen ist eine gewisse Ermüdung eingetreten, was die Idealisierung dieser Musik anbelangt
-
-## Entwicklung des klassischen Stils
-
-- Charles Rosen: Zeit der Frühklassik zwischen 1750 und 1775 war »eine Periode der Überspanntheit, des Drauflosexperimentierens«[^1]
-
-- Erst in der Hochklassik hat sich ein typisch ›klassischer‹ Stil herausgebildet:
-
-  - Seit 1781 Haydns Streichquartette op. 33 erschienen waren
-
-  - Mozart als freier Künstler nach Wien aufbrach
-
-- Charakteristika des klassischen Stils[^2]:
-
-  - Gegliederter Periodenbau und ein Gefühl für Symmetrie
-  - Kontrapunktisch vertieft
-  - Motivisch-thematisch ans Thema gebunden
-  - Ausprägung der sogenannten Sonatenform
-
-- Die Sonatenform sollte man sich als ein Gebilde vorstellen:
-
-  - Mit einem tonalen Plan versehen
-  - Mit einer Reprise der Tonika
-  - Statt dabei (gemäß heutzutage verbreitetem Schulbuch-Denken) ein ›erstes‹ und ein ›zweites‹ Thema zu suchen
-
-
-[^1]: Charles Rosen: *Der klassische Stil. Haydn, Mozart, Beethoven*, Kassel 1983, S. 59.
-
-[^2]: Vgl. *14.6 Ästhetik der Hochklassik*, in: Werner Keil: *Musikgeschichte im Überlick*, S. 178f.
-
-
-## Problematik der Epocheneinteilung
-
-- Die Gewohnheit, Musikgeschichte in einem "Gänsemarsch der Epochen" (eine ironische Formulierung des Philosophen Ernst Bloch) darzustellen, ist weit verbreitet
-- In populären Darstellungen bis heute greifbar
-- Gänsemarsch für den nachbarocken Zeitraum (bspw.)
-
-  - Epoche der Vorklassik/Frühklassik ca. 1740–1780
-  - Epoche der Klassik 1780 bis um 1810
-  - Epoche der Romantik 1810–1914
-
-    - Frühromantik 1810–1830
-    - Hochromantik 1830–1850
-    - Spätromantik 1850–1890
-    - Jahrhundertwende (Fin de Siècle) 1890–1914
-
-  - Epoche der "Neuen Musik" oder der "Moderne" ab dem frühen 20. Jahrhundert bis 1950
-
-### Kritik am Epochenmodell
-
-- Dieser "Gänsemarsch" ist problematisch:
-
-  - Wenig geeignet, die Komplexität und Vielgestaltigkeit europäischer Musikgeschichte zu beschreiben
-  - Nicht geeignet, sie kategorial in den Griff zu bekommen
-  - Durch und durch historisch bedingt
-  - Beruht auf fragwürdigen Prämissen und Schwerpunktsetzungen
-
-- Ein Epochenbegriff ordnet stets Partialgeschichten in Richtung einer Universalgeschichte
-- Er klebt einem bestimmten Zeitalter ein allgemein verbindliches, universelles Etikett 'auf'
-- Das Etikett impliziert:
-
-  - Eine grundlegende musikgeschichtliche Zäsur
-  - Allgemein verbindliche Merkmalskonstanten für einen Zeitraum
-
-- Über die Probleme solcher Etikettierung möchte ich nun anhand des Begriffes Klassik handeln
-- Verschiedene Ordnungskriterien im Klassikbegriff
-
-  - Im Epochenbegriff der musikalischen Klassik fließen in unscharfer Weise verschiedene Ordnungskriterien zusammen
-  - Komponenten aus verschiedenen Ordnungsbegriffen vermischen sich
-
-## Der normative Klassikbegriff
-
-- Der Klassikbegriff ist normativ, insofern er ein Maßstabsetzendes oder sogar Historisch-Exzeptionelles bezeichnet
-- Dies entspricht einer älteren Bezeichnungstradition des Ausdrucks "Klassik"
-- Bereits in der römischen Antike ist im Bereich der Literatur die Kategorie des *"classicus scriptor"* (*"auctor"*) nachweisbar
-- Diese bezeichnet einen Vorbildautoren, dessen Oeuvre der Rang der Anciennität (des Altehrwürdigen), der Autorität (des hohen Ansehens und der Mustergültigkeit) sowie des Überzeitlichen (bleibend Gültigen) zukommt
-- In diesem Sinne wird der Ausdruck 'klassisch' noch im späten 18. Jahrhundert und bis weit ins 20. Jahrhundert hinein musikbezogen auf eine Vielzahl mustergültiger Komponisten (auch Musiktheoretiker und Ästhetiker) angewandt
-- Man spricht etwa von "Klassikern der Moderne"
-
-### Beispiel: Friedrich Wilhelm Marpurg (1760)
-
-- Friedrich Wilhelm Marpurg (1718–1795), *Kritische Briefe über die Tonkunst*, Berlin 1760
-
-  - Brief an Christoph Nichelmann (4. August 1759), S. 49
-
-- Nach Marpurgs Dafürhalten sind klassische, d.h. mustergültige, maßstabsetzende Komponisten:
-
-  - Georg Philipp Telemann (1681–1767)
-
-  - Carl Heinrich Graun (1703/04–1759)
-
-    - Komponist am Hof Friedrichs des Großen in Berlin
-    - Verfasser zahlreicher *Opere serie*
-    - Verfasser der Passionskantate *"Der Tod Jesu"*
-
-- Interessant: Zwei Komponisten, die man nach dem heute geläufigen Muster zum Spätbarock oder zur Vorklassik zählen würde
-- Diese wurden noch vor nicht allzu langer Zeit als besonders oberflächliche *Allamode*-Komponisten gehandelt
-- Überprüfen Sie einmal bei sich selbst, was Sie für ein Bild von Telemann oder Graun in sich tragen
-
-### Exkurs: Problematik der musikalischen Renaissance
-
-- Neben diesem Klassikbegriff gibt es einen weiteren, der sich auf die Klassik als die Epoche der Antike bezieht
-
-- Anders als in Architektur, bildende Kunst und Literatur fast keine Muster aus der Antike zugänglich (nur Theoretikerzeugnisse)
-
-- Diese Tatsache problematisiert die Frage einer "Renaissance" in der Musik seit dem 15./16. Jahrhundert für die Musikgeschichtsschreibung eigentümlich[^1]
-
-[^1]: Zur Problematik des Begriffs *Renaissane* siehe auch Jaques Le Goff: *Geschichte ohne Epochen? Ein Essay*, Darmstadt 2016.
-  
-  Die Äußerungen Le Goffs zur Musik sind nicht erwähnenswert, er führt jedoch eindrucksvoll vor, welche kulturhistorische Ereignisse die Existenz einer Renaissance erfordern und welche dagegen sprechen.
-
-## Entwicklung zum Epochenbegriff (1800-1835)
-
-- Die entscheidende Erweiterung und zugleich Fixierung dieses normativ-abstrakten Klassikbegriffs zum Epochenbegriff ging in der Zeit von 1800–1835 vor sich
-
-- Klassik wird danach als eine fest umgrenzte "Periode" von ca. 1780 bis 1820 gefasst
-
-- Diese bezieht sich auf ein regional begrenztes Oeuvre von drei in Wien wirkenden Komponisten:
-
-  - Joseph Haydn (in Wien 1740–1759 und 1790–1809)
-  - Wolfgang Amadé Mozart (in Wien 1781–91, zuvor mehrere Aufenthalte in Wien während seiner Reisen)
-  - Ludwig van Beethoven (in Wien 1787 und 1792–1827)
-
-- Diese Komponisten verwirklichen in bestimmten Gattungen Musik von einer neuartigen, epochemachenden Qualität:
-
-  - Die Sinfonie
-  - Das Streichquartett
-  - Das Konzert
-
-- Musik in einem "klassischen Stil", einem Stil von zeitlos gültiger, "unsterblicher", höchste Maßstäbe setzender Bedeutung
-
-### Verbindung verschiedener Ordnungskriterien
-
-- In diesem Begriff der "Wiener Klassik" verbinden sich verschiedene Ordnungskriterien:
-
-  - normativer Begriff des Klassischen
-  - regionale Eingrenzung auf Wien um 1800 (räumliches und zeitliches Kriterium)
-  - Eingrenzung auf drei Komponistenpersönlichkeiten (Haydn, Mozart, Beethoven als gestaltende Individuen und ihre Wirkung)
-  - Eine Bestimmung als Epochenbegriff
-    
-    - wertende Abgrenzung von Zeiträumen unter dem Gesichtspunkt verbindender Merkmale und historischer Zäsuren
-
-  - Ein Stilbegriff (klassischer Stil)
-  - Ein Begriff der Schule oder einer bestimmten Gruppe von Komponisten
-    
-    - gemeinsame Programmatik oder zumindest Orientierung von drei Komponisten
-
-  - Die sich dann noch dazu nur in bestimmten Gattungen realisiert
-
-### Definition: Gattungen
-
-- (Historische) Gruppen von Werken, die durch eine Bezeichnungstradition und eine Konstellation gemeinsamer Kriterien aus verschiedenen Dimensionen des musikalischen Werkes verbunden sind
-
-- Diese Dimensionen sind in der älteren Musikgeschichte bis zum 17. Jahrhundert vor allem:
-
-  - Funktion
-  - Text
-  - Satzstruktur
-
-- In der neueren Musikgeschichte:
-
-  - Besetzung
-  - Form
-
-- Diese Merkmalsbündel bilden tradierte Normen, an denen sich ein Komponist orientieren, denen er aber auch ausweichen kann
-
-
-## Amadeus Wendt und die "classische Periode" (1836)
-
-### Erste Verwendung des Begriffs
-
-- Das Jahr 1836 bezeichnet im Prozess der Etablierung des Epochenbegriffs "Klassik" insofern ein fixes Orientierungsdatum, als in diesem Jahr erstmals eine musikbezogene Abhandlung greifbar ist, die in Bezug auf Mozart, Haydn und Beethoven von einer "sogenannten classischen Periode" spricht
-
-- Die Schrift: "Über den gegenwärtigen Zustand der Musik besonders in Deutschland und wie er geworden. Eine beurtheilende Schilderung"
-
-- Verfasst und im Jahr 1836 veröffentlicht von dem Göttinger Philosophieprofessor Amadeus Wendt
-
-- Wendt zufolge ist es "unmöglich von einer musikalischen Gegenwart zu sprechen, ohne auf die sogenannte classische Periode und die Coryphäen zurückzugehen durch welche sie [d. h. die Gegenwart] vorbereitet worden ist. Hier leuchtet uns das Kleeblatt: Haydn, Mozart, Beethoven entgegen."
-
-### Wendts frühere Schrift (1831)
-
-- In einer früheren Schrift, "Über die Hauptperioden der schönen Kunst, oder die Kunst im Laufe der Weltgeschichte", Leipzig 1831, spricht Wendt bereits von einer durch Haydn, Mozart und Beethoven repräsentierten Periode der deutschen Musik
-
-- Er bezeichnet diese zwar nicht als "classisch" (diesen Begriff reserviert er hier noch für die antike Kunst und die "classische Kirchenmusik der Italiener")
-
-- Er hebt aber dafür die Rolle der Instrumentalmusik und vor allem Deutschlands hervor
-
-- Es sei eine "Periode des freyen Styls und der höchsten Blüthe deutscher Tonkunst", in welcher "die Instrumentalmusik ihre vollkommene Ausbildung gewann"
-
-### Nationalgeschichtliche Orientierung und Hegelsche Philosophie
-
-- Wendts Begriff der "classischen Periode" ist also nationalgeschichtlich orientiert
-
-- In der Schrift von 1836 konstruiert Wendt zusätzlich einen Dreischritt für die "sogenannte classische Periode", der sich an Begriffen und Kriterien der Hegelschen Geschichts- und Kunstphilosophie orientiert:
-
-  - Bei Haydn herrsche die Form über den Stoff
-
-  - Mozart verwirkliche als Mittelpunkt der klassischen Periode die völlige Durchdringung von Form und Stoff
-
-  - Bei Beethoven gewinne der Stoff das Übergewicht über die Form
-
-### Hegelsche Terminologie
-
-- In Hegels Terminologie:
-
-  - Haydn vertritt die symbolische Stufe der Kunst
-
-  - Mozart die klassische Stufe der Kunst
-
-  - Beethoven die romantische Stufe der Kunst
-
-- Mozart repräsentiert die Synthese der bei Haydn greifbaren Antithese zwischen Form und Stoff, er markiert den Höhepunkt des klassischen Stils
-
-- Bei Beethoven setzt bereits wieder ein Prozess der Desintegration ein
-
-- Hegel selbst betreibt Ästhetik als Geschichtsphilosophie: Die Geschichte der Künste hat an der Substanz des Weltgeistes in folgender Reihenfolge teil:
-
-  - (ägyptische) Architektur = "symbolisches Zeitalter"
-
-  - (griechische) Skulptur = "klassisches Zeitalter"
-
-  - (nach-antike und neuzeitliche) Malerei zusammen mit Musik und Poesie = "romantisches", christliches Zeitalter
-
-- Die Selbstverständlichkeit, mit der in dem zitierten "Gänsemarsch-Schema" auf die musikalische Klassik die musikalische Romantik folgt, hat offenbar auch mit einer populärphilosophischen Hegel-Rezeption zu tun
-
-## Formierung der Komponistentrias
-
-### Mozart als Ausgangspunkt
-
-- Es würde zu weit führen, den Weg im Detail darzustellen, der zur Formierung dieser Trias führte
-
-- Hier nur einige Bemerkungen mit einem gewissen Schwerpunkt auf Beethoven
-
-- Die Entwicklung beginnt bei Mozart, der schon kurz nach seinem Tod 1791 als "Meister über alle Meister" bezeichnet wird
-
-- Seine Streichquartette und Streichquintette werden 1798 als "der wahre Probirstein des klassischen Werthes" gepriesen
-
-### Haydn-Mozart Zweigespann (Kiesewetter)
-
-- Dann wird ein Zweigespann Haydn-Mozart konstruiert, wirkungsmächtig von Raffael Georg Kiesewetter
-
-- Kiesewetter spricht in seiner Musikgeschichte von 1834 von einer "Epoche Haydn und Mozart" (1780–1800)
-
-- Kiesewetter nennt beide Komponisten Gründer einer "Schule", die er als "deutsche Schule" bezeichnen möchte, es dann aber doch bei "Wiener Schule" belässt
-
-### Beethovens schwierige Integration
-
-- Als schwierig erwies sich die Integration der dritten Figur, Beethoven, in diese Trias
-
-- Dies vor allem wegen der Eigenprägung der Beethovenschen Sinfonik, die vor der Folie der klassischen Muster Haydn und Mozarts betrachtet wurde
-
-- Diese löste zunächst Irritationen aus
-
-### Rolle von Rochlitz und der AmZ
-
-- Frühe Konzertberichte zu Aufführungen der Sinfonien Beethovens artikulieren deutlich die Vorbehalte gegenüber dieser Musik
-
-- So etwa Friedrich Rochlitz, von 1798–1818 Redakteur (bis 1835 Mitarbeiter) der Allgemeinen Musikalischen Zeitung (auch Wendt war Mitarbeiter der AmZ)
-
-- Die AmZ erschien in Leipzig beim Verlagshaus Breitkopf & Härtel
-
-- Breitkopf & Härtel war aber auch derjenige Verlag, der in den Jahren von 1801–1813 nicht weniger als 25 Werke Beethovens im Verlagsprogramm hatte
-
-- Rochlitz wiederum war zugleich Vorstandmitglied der Gesellschaft der Gewandhauskonzerte und von daher für die Programmgestaltung dieser Konzertreihe mitverantwortlich
-
-### Verbindung von Publizistik, Repertoire und Verlag
-
-- In der Gestalt von Rochlitz wird also eine Verbindung von Publizistik, Repertoirepflege und Verlagswesen greifbar
-
-- Es war offensichtlich vor allem der publizistischen Aktivität des Verlagshauses B&H und der AmZ zusammen mit der Repertoirepflege des Leipziger Gewandhaus-Orchesters zu danken, dass die Ankopplung Beethovens an die bereits als "klassisch" durchgesetzten Komponisten Haydn und Mozart gelang
-
-- Damit gelang die Übertragung der Kategorie der Klassizität auf Beethoven
-
-### Beispiele aus der AmZ: Beethovens 2. Symphonie
-
-- Hier zwei Berichte von Rochlitz in der AmZ zur Aufführung der 2. Symphonie in D-Dur von Beethoven durch das Leipziger Gewandhaus-Orchester
-
-- Aufführungen, die stets flankiert waren von Wiedergaben der "vorzüglichsten Haydnschen und Mozartschen" Symphonien
-
-- Denen nun also noch die Beethovenschen als klassische Werke angeschlossen werden sollten
-
-#### Erster Bericht
-
-- Der erste Bericht betont, die neue Symphonie erfordere wegen ihrer außerordentlichen Schwierigkeit und Originalität von Spielern und Hörern eine dauerhafte Bemühung, wenn sie als ästhetische Ganzheit vermittelt und rezipiert werden solle
-
-#### Zweiter Bericht
-
-- Im zweiten Bericht werden die Vorbehalte, die Beethovens Musik entgegengebracht wurden, zunächst angeführt:
-
-  - Die zu große Ausdehnung
-
-  - Die überkünstliche Ausarbeitung
-
-  - Das Bizarre, Wilde und Grelle seines Stils (das in dieser Sinfonie vor allem im Finale in Erscheinung tritt)
-
-- Diese werden dann aber relativiert
-
-- Wichtig auch der Hinweis, dass die 1. Sinfonie bereits zum "Lieblingsstück" des Leipziger Publikums avanciert sei
-
-### Abschluss der Kanonisierung (um 1827)
-
-- Die Kanonisierung der Beethovenschen Sinfonik als "klassisch" und der Zusammenschluss der Sinfonik der Trias Haydn-Mozart-Beethoven zu maßstabsetzenden Realisierungen, klassischen Ausprägungen der Idee des Symphonischen ist dann um 1827 weitgehend abgeschlossen
-
-- Dies zeigt eine anonyme Rezension in der AmZ aus diesem Jahr, die sich kritisch mit der 1. Sinfonie von Johannes Wenceslaus Kalliwoda auseinandersetzt
-
-### Kommerzielle Interessen
-
-- Kommerzielle Interessen scheinen bei diesem von Leipzig aus vorangetriebenen Kanonisierungsprozess durchaus eine wesentliche Rolle gespielt zu haben
-
-- Waren doch die 1. Sinfonie Beethovens 1801, seine 5. und 6. Sinfonie 1809 bei B & H erschienen
-
-## Historiographische Probleme des Klassikbegriffs als Epochenbegriff
-
-- Seitdem ist nun also die Rede von einer Epoche der Klassik, die auch als "Wiener Schule" oder auch "Wiener Klassik" bezeichnet und von der Trias "Haydn-Mozart-Beethoven" formiert wurde
-
-- Die historiographischen Probleme, vor die eine als Epochenbegriff verstandene "Klassik" den Betrachter stellt, lassen sich folgendermaßen skizzieren:
-
-- Da der Begriff "Klassik" eine regional begrenzte und auf drei Komponisten eingeschränkte "Schule" bezeichnet und zugleich eine deutlich normative Komponente aufweist, ist seine Aufwertung zum allgemeinen Epochenbegriff schwer vertretbar:
-
-### 1. Internationale Begrenzung des klassischen Stils
-
-- Italien, Frankreich und England haben keine "musikalische Klassik" ausgeprägt
-
-- Der klassische Stil ist deshalb im internationalen Zusammenhang ein Partialstil
-
-- Versuche, das durchaus andersgeartete Schaffen französischer und italienischer Komponisten auf die Wiener Klassik hin zu orientieren, sind wenig überzeugende Anstrengungen der Internationalisierung eines national begrenzten Phänomens
-
-- Erfolgreiche und einflussreiche Opernkomponisten dieser Zeit:
-
-  - André Ernest Modeste Grétry 1741–1813
-
-  - Luigi Cherubini 1760–1842
-
-  - Etienne Nicolas Méhul 1763–1817
-
-  - Giovanni Paisiello 1740–1816
-
-  - Niccolò Piccinni 1728–1800
-
-- Man könnte diese Versuche unter einem kritischen Blickwinkel auch als Versuche nationalgeschichtlicher Vereinnahmung der europäischen Musikgeschichte durch einen exzeptionellen "deutschen" Partialstil interpretieren
-
-### 2. Problematik des Vorklassik-Begriffs
-
-- Dies hat aber auch weitreichende Konsequenzen für die Bewertung des Epochenbegriffs der Vorklassik oder Frühklassik
-
-- Frankreich, England und Italien haben um 1800 keine "Klassik" ausgeprägt, können daher also auch auf keine Vorklassik verweisen
-
-- Die Vorklassik soll, wie Hans Heinrich Eggebrecht gemeint hat, den "Humusboden" dargestellt haben (Musik im Abendland, S. 488), auf dem die Klassik erblühen konnte
-
-- Fragwürdig ist daher etwa auch der Versuch Peter Rummenhöllers, ein Panorama der Vorklassik zu entwerfen, indem er sämtliche Komponisten und musikalische Zentren aufführt und näher beschreibt, die Mozart während seiner Kunstreisen (ab 1762) besucht und kennengelernt hat, und sie pauschal unter dem Begriff "Vorklassik" subsumiert
-
-- (Lesenswert ist diese Studie gerade wegen dieser international orientierten Darstellung und trotz dieser fragwürdigen Teleologisierung)
-
-### 3. Problematische Weitungen des Klassikbegriffs
-
-- Die enge kanonische Begrenzung auf drei Komponisten und deren Schaffen in bestimmten Gattungen zu einem bestimmten Zeitraum hat im Zuge der Ausweitung zum Epochenbegriff zu verschiedenen partiellen Weitungen geführt:
-
-#### a. Übertragung des Klassikbegriffs auf andere Komponisten
-
-- Man hat etwa auch das Schaffen von Christoph Willibald Gluck, das zentriert ist auf die französische Opéra comique und die ernste italienische und französische Oper, zur Klassik gezählt
-
-#### b. Übertragung des Klassikbegriffs auf andere Gattungen
-
-- Man hat nicht nur die Instrumentalmusik der Klassiker – also vor allem Sinfonik und Streichquartett – als "klassisch" gekennzeichnet, sondern auch deren Kirchenmusik, Oratorienproduktion und Opern
-
-- Die Rede von einer klassischen Oper hat sich allerdings nie in dem Maße eingebürgert, wie man vom klassischen Streichquartett spricht
-
-- Dies liegt daran, dass hier die verschiedenen Gattungstraditionen so bestimmend sind:
-
-  - Opera seria
-
-  - Intermezzo und Opera buffa
-
-  - Opéra-comique und Singspiel
-
-- Daher spricht man eher von einem "klassischen Stil" in der Oper
-
-##### Beispiel: Mozarts "La clemenza di Tito"
-
-- Es ist problematisch etwa im Fall von Mozarts "La clemenza di Tito", seiner letzten Oper, einer Opera seria, von einer klassischen Ausprägung dieses Operntyps zu sprechen
-
-- Mozarts Oper steht am Ende der Geschichte dieses Genres, das durch den Librettisten und Wiener Hofpoeten Metastasio wesentlich geprägt worden war und dessen Höhepunkt in der 1. Hälfte des 18. Jahrhunderts liegt
-
-- Wollte man einen "klassischen" Komponisten der Opera seria nennen, dann könnte etwa ein Name wie Johann Adolph Hasse (1699–1783) fallen
-
-- Dessen in Neapel, Venedig und Dresden geschaffene Opere serie nach Texten Metastasios europaweit als Muster dieses Operntyps angesehen wurden
-
-##### Unterschiedliche Beiträge der drei Klassiker
-
-- Hinzu kommt, dass die Beiträge der drei Klassiker Haydn, Mozart, Beethoven zu bestimmten Gattungen durchaus unterschiedlich sind
-
-- Haydns Instrumentalkonzerten und Opern kommt bei weitem nicht das Gewicht zu wie Mozarts Klavierkonzerten und seinen sieben späten großen Opern
-
-### 4. Ausgrenzung von Komponisten durch normativen Klassikbegriff
-
-- Da Klassik als normativer Ordnungsbegriff das Moment des Maßstabsetzenden, des Exzeptionellen, der kompositorischen "Höchstleistung" beinhaltet, werden durch seine Verwendung Komponisten ausgegrenzt, die nicht diesem Maßstab entsprechen
-
-- Man scheut sich, einen durchaus solide und ansprechend komponierenden Zeitgenossen Mozarts wie Johann Ladislaus Dussek (1760–1812) als "klassischen Komponisten" zu bezeichnen, und verbannt ihn so in ein musikhistorisches Niemandsland
-
-### 5. Abwertung durch den Begriff "Vorklassik"
-
-- Auch die Kennzeichnung "Vorklassik" beinhaltet solch eine Abwertung
-
-- Sie bezeichnet Komponisten, die "noch nicht" das klassische Stilniveau erreicht haben, die allenfalls als "Humus" für das Spätere gedient haben
-
-#### Beispiel: Carl Philipp Emanuel Bach
-
-- Das Oeuvre etwa eines Carl Philipp Emanuel Bach (Klaviersonaten, Rondos, Fantasien, Sinfonien, Clavierkonzerte von höchster Eigenart und bedeutender kompositorischer Qualität) wird unter dem Blickwinkel der "Vorklassik" (teleologisch) als "Weg zu einem Zielpunkt" hin verstanden
-
-- Seine Werke sollten doch eigentlich als "Erfüllungen in sich selbst", denen die "Einmaligkeit des historischen Augenblicks" zu eigen ist, gedeutet und verstanden werden
-
-- Was diese historiographische Konstruktion noch abstrakter macht, ist, dass die Komponisten der sogenannten Vorklassik ja das "Ziel" gar nicht vor Augen haben konnten, auf das ihr Schaffen im nachhinein hin orientiert wird; sie waren ja keine Propheten
-
-- Die historische Rede vom "Noch nicht" ist im Zusammenhang mit Epochenbegriffen eigentümlich substanzlos und tendiert zur ideologienahen Verflachung
-
-## Alternative Orientierung und Ausblick
-
-### Was also tun?
-
-- Ich würde folgende Orientierung vorschlagen:
-
-- Trennen wir uns von der Vorstellung, dass nur das Herausragende würdig ist, historisch gewürdigt zu werden
-
-- Nicht die Frage, ob ein Komponist besser oder schlechter ist als ein anderer, ist primär von Interesse, sondern die historische Symptomatik eines Werkes in einer bestimmten musikgeschichtlichen Situation, Konstellation oder Problemstellung
-
-### Vielgestaltigkeit der europäischen Musikgeschichte
-
-- Akzentuieren wir die Vorstellung, dass europäische Musikgeschichte vor allem ein vielgestaltiges Phänomen ist, in dem gleichzeitig verschiedene Prozesse, Orientierungen, Kontinuitäten und Wandlungen präsent gewesen sind
-
-- Man könnte sich vielleicht am ehesten eines Bildes von verschiedenen Schichten und Bruchstellen bedienen, die den Gang der Musikgeschichte konturieren
-
-- Diese stehen einerseits für sich, zwischen denen aber andererseits Bindungen und Durchdringungen feststellbar sind
-
-- Solch ein Konzept akzentuiert bei der Betrachtung musikalischer Kompositionen zunächst und vor allem deren Vielgestaltigkeit, die Tatsache, dass sie je anders sind
-
-### Vorteil des alternativen Konzepts
-
-- Dieses Konzept hat auch den Vorteil, dass es nicht ein Mehr an Ordnung konstruiert oder postuliert, als sie der Musikgeschichte zu eigen ist
-
-- Denn ein weiterer wesentlicher Nachteil der Epochenbegriffe "Klassik" und "Vorklassik" liegt schlichtweg darin, dass sie eine Geordnetheit musikhistorischer Vorgänge suggerieren, die bei genauerem Zusehen nie bestanden hat
-
-- Ich möchte Sie also etwas für die Vielgestaltigkeit und die Überlagerung verschiedener historischer Prozesse unterschiedlicher Qualität sensibilisieren
-
-- Eigenarten, welche die europäische Musikgeschichte ähnlich grundlegend charakterisieren wie die obsessive Dynamik des musikgeschichtlichen Wandels
+  * Bach, Carl Philipp Emanuel (1714–1788) -- Komponist der Vorklassik, Problem der Klassifizierung
+  * Beethoven, Ludwig van (1770–1827) -- Komponist der Wiener Klassik (Integration in Trias)
+  * Bloch, Ernst (1885–1977) -- Philosoph, kritisierte »Gänsemarsch«-Modell
+  * Cherubini, Luigi (1760–1842) -- italienisch-französischer Komponist
+  * Dussek, Johann Ladislaus (1760–1812) -- Komponist, im Kanon ausgeschlossen
+  * Eggebrecht, Hans Heinrich (1919–1999) -- Musikhistoriker, »Humusboden«-Konzept
+  * Graun, Carl Heinrich (1703/04–1759) -- Komponist am Hof Friedrichs des Großen
+  * Grétry, André Ernest Modeste (1741–1813) -- französischer Opéra-comique-Komponist
+  * Hasse, Johann Adolph (1699–1783) -- »klassischer« Komponist der Opera seria
+  * Haydn, Franz Joseph (1732–1809) -- Komponist der Wiener Klassik
+  * Hegel, Georg Wilhelm Friedrich (1770–1831) -- Philosoph, Kunstphilosophie
+  * Kalliwoda, Johannes Wenceslaus -- Komponist, kritisiert 1827 in AmZ
+  * Kiesewetter, Raffael Georg (1773–1850) -- Musikhistoriker, konstruierte Haydn-Mozart-Trias
+  * Metastasio, Pietro (1698–1782) -- Librettist, prägte Opera seria
+  * Méhul, Etienne Nicolas (1763–1817) -- französischer Opéra-comique-Komponist
+  * Mozart, Wolfgang Amadé (1756–1791) -- Komponist der Wiener Klassik
+  * Paisiello, Giovanni (1740–1816) -- italienischer Opernkomponist
+  * Piccinni, Niccolò (1728–1800) -- italienischer Opernkomponist
+  * Rochlitz, Friedrich (1770–1843) -- Redakteur AmZ, Gewandhaus-Konzerte
+  * Rummenhöller, Peter -- Musikhistoriker, Panorama der Vorklassik
+  * Telemann, Georg Philipp (1681–1767) -- Komponist, von Marpurg als klassisch bezeichnet
+  * Wendt, Amadeus (1783–1836) -- Philosophieprofessor, konstituierte »klassische Periode«
+
+* **Werke und Publikationen**
+
+  * Marpurg: *Kritische Briefe über die Tonkunst* (1760) -- Benennungstradition »klassisch«
+  * Wendt: »Über die Hauptperioden der schönen Kunst« (1831) -- Frühe Periodisierung
+  * Wendt: »Über den gegenwärtigen Zustand der Musik« (1836) -- Etablierung »sogenannte classische Periode«
+  * Kiesewetter: *Musikgeschichte* (1834) -- »Epoche Haydn und Mozart«
+  * *Allgemeine Musikalische Zeitung* (AmZ, Leipzig) -- Publizistische Kanonisierung
+  * Breitkopf & Härtel -- Verlag, 25 Beethoven-Werke 1801–1813
+  * Gewandhaus-Orchester, Leipzig -- Programmgestaltung für Kanonisierung
+  * Mozart: *Streichquartette und Streichquintette* -- als »Probirstein klassischen Wertes« (1798)
+  * Beethoven: *2. Symphonie in D-Dur* -- erste Aufführung, kritisch rezipiert
+  * Mozart: *La clemenza di Tito* -- Problematisches Klassik-Beispiel (Operngenre)
+  * Hegel: Ästhetische Periodisierung (Architektur – Skulptur – Malerei/Musik/Poesie)
