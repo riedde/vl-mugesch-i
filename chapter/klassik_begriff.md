@@ -13,22 +13,24 @@ tags:     begriffsgeschichte, klassik
 
 # Klassik als Begriff
 
-## Epochenbegriffe in der Musikgeschichte: Problematik und Kritik
+## Problematik und Kritik
 
-### Das lineare Epochenschema
+**Typische populärwissenschaftliche Gliederung:**
+---
 
-- **Typische populärwissenschaftliche Gliederung:**
+- Epoche der Vorklassik/Frühklassik (ca. 1740–1780)
+- Epoche der Klassik (1780 bis um 1810)
+- Epoche der Romantik (1810–1914)
 
-  - Epoche der Vorklassik/Frühklassik (ca. 1740–1780)
-  - Epoche der Klassik (1780 bis um 1810)
-  - Epoche der Romantik (1810–1914)
-    - Frühromantik (1810–1830)
-    - Hochromantik (1830–1850)
-    - Spätromantik (1850–1890)
-    - Jahrhundertwende/Fin de Siècle (1890–1914)
-  - »Neue Musik« oder »Moderne« (frühes 20. Jahrhundert bis 1950)
+  - Frühromantik (1810–1830)
+  - Hochromantik (1830–1850)
+  - Spätromantik (1850–1890)
+  - Jahrhundertwende/Fin de Siècle (1890–1914)
 
-### Kritik am »Gänsemarsch-Modell«
+- »Neue Musik« oder »Moderne« (frühes 20. Jahrhundert bis 1950)
+
+Kritik am »Gänsemarsch-Modell«
+---
 
 - **Ernst Blochs ironische Bemerkung:** Der »Gänsemarsch« der Epochen
 - **Probleme dieser Ordnung:**
@@ -38,7 +40,8 @@ tags:     begriffsgeschichte, klassik
   - Historisch bedingt und fragwürdige Prämissen
   - Willkürliche Schwerpunktsetzungen
 
-### Funktion von Epochenbegriffen
+Funktion von Epochenbegriffen
+---
 
 - **Ordnungsprinzip:**
 
@@ -51,9 +54,10 @@ tags:     begriffsgeschichte, klassik
   - Allgemein verbindliche Merkmalskonstanten für einen Zeitraum
   - Suggeriert eine Geordnetheit, die oft nicht besteht
 
-## Der Klassikbegriff: Normative und historiographische Dimensionen
+## Normative und historiographische Dimensionen
 
-### Der normative Klassikbegriff (antike Tradition)
+Der normative Klassikbegriff (antike Tradition)
+---
 
 - **Antike Wurzeln:**
 
@@ -67,7 +71,8 @@ tags:     begriffsgeschichte, klassik
   - Mustergültig
   - Bleibend gültig
 
-### Klassik im 18./19. Jahrhundert: Mustergültige Komponisten
+Klassik im 18./19. Jahrhundert
+---
 
 - **Spätes 18. Jahrhundert bis 20. Jahrhundert:**
 
@@ -75,12 +80,16 @@ tags:     begriffsgeschichte, klassik
   - Auch: »Klassiker der Moderne«
   - Bezeichnet Musiktheoretiker und Ästhetiker
 
-#### Friedrich Wilhelm Marpurg (1718–1795): Kritische Briefe über die Tonkunst (1760)
+Kritische Briefe über die Tonkunst (1760)
+---
+
+Friedrich Wilhelm Marpurg (1718–1795)
 
 - **Klassische Komponisten nach Marpurg:**
 
   - Georg Philipp Telemann (1681–1767)
   - Carl Heinrich Graun (1703/04–1759)
+
     - Komponist am Hof Friedrichs des Großen in Berlin
     - Verfasser zahlreicher Opere serie
     - Passionskantate »Der Tod Jesu«
@@ -91,9 +100,10 @@ tags:     begriffsgeschichte, klassik
   - Früher als oberflächliche »Allamode-Komponisten« gering geschätzt
   - Marpurg sah sie als maßstabssetzend
 
-## Die Epochenkonstituierung: Von 1800–1835 zur »Wiener Klassik«
+## Epochenkonstituierung
 
-### Die Fixierung als »Periode« (1800–1835)
+Die Fixierung als »Periode« (1800–1835)
+---
 
 - **Neue Begriffsbestimmung:**
 
@@ -101,7 +111,7 @@ tags:     begriffsgeschichte, klassik
   - Beschränkung auf drei in Wien wirkende Komponisten:
 
     - Joseph Haydn (in Wien: 1740–1759, 1790–1809)
-    - Wolfgang Amadé Mozart (in Wien: 1781–1791 + mehrere Aufenthalte)
+    - Wolfgang Amadé Mozart (in Wien: 1781–1791 & mehrere Aufenthalte)
     - Ludwig van Beethoven (in Wien: 1787, 1792–1827)
 
 - **Kompositorische Leistung:**
@@ -110,7 +120,8 @@ tags:     begriffsgeschichte, klassik
   - »Klassischer Stil« von zeitlos gültiger Bedeutung
   - »Unsterbliche« Musik mit höchsten Maßstäben
 
-### Ordnungskriterien der »Wiener Klassik«
+ Ordnungskriterien der »Wiener Klassik«
+---
 
 - **Normative Dimension:** Klassisches = Maßstabsetzend
 - **Räumliche Dimension:** Regionale Eingrenzung auf Wien um 1800
@@ -120,11 +131,13 @@ tags:     begriffsgeschichte, klassik
 - **Formale Dimension:** Bestimmte Gattungen (Sinfonie, Streichquartett, Konzert)
 - **Schulbegriff:** Gemeinsame Programmatik und Orientierung
 
-## Die Etablierung der Trias: Haydn – Mozart – Beethoven
+## Die Trias: Haydn – Mozart – Beethoven
 
 ### Amadeus Wendt und die Formierung des Epochenbegriffs
 
-#### Erste Phase: »Über die Hauptperioden der schönen Kunst« (Leipzig 1831)
+Erste Phase:
+---
+»Über die Hauptperioden der schönen Kunst« (Leipzig 1831)
 
 - **Wendts Periodisierung:**
 
@@ -139,7 +152,9 @@ tags:     begriffsgeschichte, klassik
 
 - **Charakteristik:** Nationalgeschichtlich orientiert
 
-#### Zweite Phase: »Über den gegenwärtigen Zustand der Musik« (1836)
+Zweite Phase
+---
+»Über den gegenwärtigen Zustand der Musik« (1836)
 
 - **Bedeutung:** Erstmals explizit »sogenannte classische Periode« für Mozart, Haydn, Beethoven
 - **Wendts Dreischritt (nach Hegelscher Kunstphilosophie):**
@@ -150,22 +165,29 @@ tags:     begriffsgeschichte, klassik
 
 ### Die Synthese der Trias
 
-#### Phase 1: Die Kanonisierung Mozarts
+Phase 1: Die Kanonisierung Mozarts
+---
 
 - **Nach Mozarts Tod 1791:**
 
   - »Meister über alle Meister«
   - Streichquartette und Streichquintette (1798) als »wahre Probirstein des klassischen Werthes«
 
-#### Phase 2: Das Haydn-Mozart-Gespann
+Phase 2: Das Haydn-Mozart-Gespann
+---
 
 - **Raffael Georg Kiesewetter (Musikgeschichte 1834):**
 
   - Konstruiert »Epoche Haydn und Mozart« (1780–1800)
+
+    - Haydn: 6 Pariser Symphonien (Nr. 82–87), 12 Londoner Symphonien (Nr. 93–104)
+    - Mozart: Pariser Symphonie D-Dur 1778, Haffner-Smphonie D-Dur 1782, Linzer Symphonie C-Dur 1783, Prager Symphonie D-Dur 1786, 3 späte Symphonien 1788: Es-Dur, g-Moll, C-Dur (Jupiter)
+  
   - Beide als Gründer einer »Schule«
   - Bezeichnung: »deutsche Schule« (oder »Wiener Schule«)
 
-#### Phase 3: Die schwierige Integration Beethovens
+Phase 3: Die schwierige Integration Beethovens
+---
 
 - **Problem:** Eigenprägung der Beethovenschen Sinfonik
   
@@ -178,7 +200,9 @@ tags:     begriffsgeschichte, klassik
   - Mitglied der Gesellschaft der Gewandhauskonzerte
   - Verbindung von: Publizistik + Repertoirepflege + Verlagswesen
 
-### Der Kanonisierungsprozess durch Infrastruktur
+!?[Beethoven: 2. Sinfonie ∙ hr-Sinfonieorchester ∙ Andrés Orozco-Estrada](https://www.youtube.com/watch?v=ytOL_iszvAE "Beethoven: 2. Sinfonie ∙ hr-Sinfonieorchester ∙ Andrés Orozco-Estrada")
+
+### Kanonisierungsprozess
 
 - **Beteiligte Institutionen:**
 
@@ -196,12 +220,15 @@ tags:     begriffsgeschichte, klassik
 
 ## Historiographische Probleme des Klassikbegriffs
 
-### Problem 1: Europäische Partialität
+### Problem 1
+Europäische Partialität
+---
 
 - **Faktum:** Italien, Frankreich und England entwickelten keine »musikalische Klassik«
 - **Konsequenz:** Klassischer Stil ist im internationalen Zusammenhang nur Partialstil
 
-#### Nicht-Wiener Komponisten der Epoche
+Nicht-Wiener Komponisten der Epoche
+---
 
 - André Ernest Modeste Grétry (1741–1813) – französischer Opéra-comique-Komponist
 - Luigi Cherubini (1760–1842) – italienisch-französischer Komponist
@@ -209,42 +236,47 @@ tags:     begriffsgeschichte, klassik
 - Giovanni Paisiello (1740–1816) – italienischer Opernkomponist
 - Niccolò Piccinni (1728–1800) – italienischer Opernkomponist
 
-#### Kritik an der Orientierung
+Kritik an der Orientierung
+---
 
 - **Problem:** Versuche, andersgeartet schaffen französischer und italienischer Komponisten auf Wiener Klassik auszurichten = wenig überzeugend
 - **Kritische Interpretation:** Versuche der nationalgeschichtlichen Vereinnahmung europäischer Musikgeschichte durch deutschen Partialstil
 
-### Problem 2: Teleologisierung der Vorklassik
+### Problem 2
+Teleologisierung der Vorklassik
+---
 
 - **Zirkularität:** Frankreich, England, Italien haben um 1800 keine Klassik → können also auch auf keine Vorklassik verweisen
 - **»Humusboden«-Konzept:** Hans Heinrich Eggebrecht sah Vorklassik als Nährboden für Klassik (problematisch)
 
-#### Peter Rummenhöller und die Teleologisierung
+Peter Rummenhöller und die Teleologisierung
+---
 
 - **Ansatz:** Panorama der Vorklassik durch Mozarts Kunstreisen (ab 1762)
 - **Kritik:** Pauschaie Subsumption unter »Vorklassik«
 - **Vorwurf:** Teleologische Konstruktion
 
-#### Definition: Teleologie
+> Teleologie: Auffassung, nach der Ereignisse oder Entwicklungen durch bestimmte Zwecke oder ideale Endzustände im Voraus bestimmt sind und sich darauf zubewegen. Vom Ziel her gedacht.
 
-> Auffassung, nach der Ereignisse oder Entwicklungen durch bestimmte Zwecke oder ideale Endzustände im Voraus bestimmt sind und sich darauf zubewegen. Vom Ziel her gedacht.
+### Problem 3
 
-### Problem 3: Kanonische Engführung und partielle Erweiterungen
+Kanonische Engführung und partielle Erweiterungen
+---
 
-#### Erweiterung auf andere Komponisten
+**Erweiterung auf andere Komponisten**
 
 - **Beispiel:** Christoph Willibald Gluck
   - Zentriert auf französische Opéra comique
   - Ernsthafte italienische und französische Oper
   - Wird zur »Klassik« gezählt (problematisch)
 
-#### Erweiterung auf andere Gattungen
+**Erweiterung auf andere Gattungen**
 
 - **Instrumentalmusik:** Unproblematisch als »klassisch« (Sinfonie, Streichquartett)
 - **Kirchenmusik und Oratorien:** Als klassisch bezeichnet
 - **Opern:** Problematisch – niemals so eingebürgert wie »klassisches Streichquartett«
 
-##### Das Problem der klassischen Oper
+**Das Problem der klassischen Oper**
 
 - **Gattungstraditionen dominieren:**
 
@@ -261,38 +293,42 @@ tags:     begriffsgeschichte, klassik
   - Metastasio prägte dieses Genre
   - Höhepunkt lag in der 1. Hälfte des 18. Jahrhunderts
 
-##### Ein »klassischer« Komponist der Opera seria
-
-- **Kandidat: Johann Adolph Hasse (1699–1783)**
+- **Opera Seria: Johann Adolph Hasse (1699–1783)**
   - In Neapel, Venedig und Dresden tätig
   - Opere serie nach Metastasio-Texten
   - Europaweit als Musterbild dieses Genres angesehen
 
-##### Unterschiedliche Gattungsbeiträge der Trias
 
-- **Haydn:** Instrumentalkonzerte und Opern von geringerem Gewicht
-- **Mozart:** Klavierkonzerte und sieben späte große Opern von höherem Gewicht
-- **Beethoven:** Fokus auf Sinfonie
+- Unterschiedliche Gattungsbeiträge der Trias
 
-### Problem 4: Exklusivität und Ausgrenzung
+  - **Haydn:** Instrumentalkonzerte und Opern von geringerem Gewicht
+  - **Mozart:** Klavierkonzerte und sieben späte große Opern von höherem Gewicht
+  - **Beethoven:** Fokus auf Sinfonie
+
+### Problem 4
+Exklusivität und Ausgrenzung
+---
 
 - **Klassik als normativer Begriff:** Beinhaltet Maßstabsetzung, Exzeptionalität, kompositorische »Höchstleistung«
 - **Ausgrenzungseffekt:** Komponisten außerhalb dieses Kanons werden ausgeschlossen
 
-#### Beispiel: Johann Ladislaus Dussek (1760–1812)
+Beispiel: Johann Ladislaus Dussek (1760–1812)
+---
 
 - **Problem:** Solider, ansprechend komponierender Mozarts-Zeitgenosse
 - **Stigma:** Nicht »klassischer Komponist«
 - **Folge:** Verbannter in »musikhistorisches Niemandsland«
 
-### Problem 5: Die Abwertung durch »Vorklassik«
+### Problem 5
+Die Abwertung durch »Vorklassik«
+---
 
-#### Semantische Abwertung
+**Semantische Abwertung**
 
 - **»Vorklassik« bedeutet:** »Noch nicht« das klassische Stilniveau erreicht
 - **Implikation:** Bestenfalls »Humus« für Späteres
 
-#### Carl Philipp Emanuel Bach: Ein Exemplum
+***Carl Philipp Emanuel Bach: Ein Exemplum***
 
 - **Werke (hohe Qualität):**
 
@@ -308,20 +344,17 @@ tags:     begriffsgeschichte, klassik
   - Sollte aber verstanden werden als »Erfüllung in sich selbst«
   - Mit »Einmaligkeit des historischen Augenblicks« begabt
 
-#### Das Paradoxon der Vorklassik
+**Das Paradoxon der Vorklassik**
 
 - **Absurdität:** Komponisten der Vorklassik hatten das »Ziel« gar nicht vor Augen
 - **Sie waren keine Propheten**
 - **Die historische Rede vom »Noch nicht« ist substanzlos**
 
-## Bewusster Umgang mit Epochenbegriffen
+## Umgang mit Epochenbegriffen
 
-### Wenn Klassik verwendet wird, dann bewusst
+Wenn Der Begriff „Klassik“ verwendet wird, dann bewusst bzw. mit kritischem Bewusstsein
 
-- **Erlaubt:** Ja, manchmal auch nötig
-- **Aber:** Mit kritischem Bewusstsein
-
-### Umdenken: Was ist historisch würdig?
+**Umdenken: Was ist historisch würdig?**
 
 - **Nicht:** Die Frage, ob ein Komponist »besser« oder »schlechter« ist
 - **Sondern:** Die **historische Symptomatik** eines Werkes
@@ -329,7 +362,7 @@ tags:     begriffsgeschichte, klassik
   - In einer bestimmten Konstellation
   - In einer bestimmten Problemstellung
 
-### Europäische Musikgeschichte als Vielgestaltigkeit
+**Europäische Musikgeschichte als Vielgestaltigkeit**
 
 - **Grundcharakteristik:**
 
@@ -344,7 +377,7 @@ tags:     begriffsgeschichte, klassik
   - Macht Werke interessanter
   - Vermeidet künstliche Ordnungskonstruktion
 
-### Die Irreführung durch »Ordnung«
+**Die Irreführung durch »Ordnung«**
 
 - **Nachteil der Epochenbegriffe »Klassik« und »Vorklassik«:**
 
@@ -352,7 +385,7 @@ tags:     begriffsgeschichte, klassik
   - Diese Geordnetheit hat nie existiert
   - Führt zu Teleologisierung
 
-### Sensibilisierung für Komplexität
+**Sensibilisierung für Komplexität**
 
 - **Ziel:** Bewusstsein für:
   - Vielgestaltigkeit
