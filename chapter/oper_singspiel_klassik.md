@@ -279,6 +279,10 @@ Tätigkeiten und Werke in Paris
   - Von Romantikern geliebt und glorifiziert
   - **Glucks Fokus:** Dramatisch wirkungsvoller, das Publikum erschütternder Effekt
 
+Aufführung (2024)
+---
+[Wiener Fassung](https://www.youtube.com/watch?v=6RUqqzznL0E), Beginn von [Akt II](https://www.youtube.com/watch?v=6RUqqzznL0E&list=RD6RUqqzznL0E&index=1&t=1470s)): Orpheus' Eintritt in die Unterwelt.
+
 ## Das Singspiel
 
 **Entstehung und Charakteristika**
@@ -403,7 +407,30 @@ Tätigkeiten und Werke in Paris
   - **Musikalische Erfindung:** Einfach-erhabene, sakral wirkende Musik
 
 - Die Königin der Nacht
+
   - **Typus:** Virtuose Sopranpartie mit extremen Anforderungen
+  - Die Zauberflöte, Nr. 14 Aria, NMA II/5/19, S. 224
+  - > Der Hölle Rache kocht in meinem Herzen,
+    >
+    > Tod und Verzweiflung flammet um mich her!
+    >
+    > Fühlt nicht durch dich Sarastro Todesschmerzen,
+    >
+    > So bist du meine Tochter nimmermehr.
+    >
+    > So bist du, nein! meine Tochter nimmermehr.
+    >
+    > Aaaaah...
+    >
+    > meine Tochter nimmermehr.
+    >
+    > Aaaaah...
+    >
+    > So bist meine Tochter nimmermehr.
+    >
+    > \[...\]
+  
+  - [](https://www.youtube.com/watch?v=YuBeBjqKSGQ) (Diana Damrau als *Königin der Nacht*, The Royal Opera, London ca. 2017)
 
 **Bedeutung für die Operngeschichte**
 
@@ -613,13 +640,13 @@ Zeit sich zu erinnern! Hier sind vier Wissensfragen (Multiple-Choice, 1–3 Antw
 [[X]] Bürgerliches Milieu statt aristokratische Stoffe
 [[ ]] Mythologische Stoffe
 
-**Charakterisieren Sie Glucks ästhetische Reform der Oper anhand eines Beispiels (z.B. »Orfeo ed Euridice«).**
+**Erläutern Sie Glucks ästhetische Reform der Oper anhand eines Beispiels (z.B. »Orfeo ed Euridice«).**
 
-*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa einer Seite beantworten können*
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 2–3 Seiten beantworten können*
 
-**Erläutern Sie, wie Mozart den »anrüchigen« Don-Giovanni-Stoff zu einem Kunstwerk ersten Ranges erhoben hat.**
+**Stellen Sie die Eckpunkte der Handlung von Mozarts *Don Giovanni* dar und erläutern Sie, wie Mozart mit diesem Stoff umgeht.**
 
-*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 1–2 Seiten beantworten können.*
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa (2 oder 3)–4 Seiten beantworten können.*
 
 ## Übersichten
 

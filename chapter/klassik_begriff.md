@@ -403,39 +403,36 @@ Zeit sich zu erinnern! Hier sind vier Wissensfragen (Multiple-Choice, 1–3 Antw
 [[X]] Ungeeignet für die Komplexität und Vielgestaltigkeit europäischer Musikgeschichte
 [[X]] Basiert auf fragwürdigen Prämissen und willkürlicher Schwerpunktsetzung
 [[ ]] Enthält zu viele Differenzierungen
-[[X]] Suggeriert eine Geordnetheit, die nicht existiert
+[[X]] Suggeriert eine Geordnetheit (Abfolge), die nicht existiert
 
 **Welche Ordnungskriterien verbinden sich im Klassikbegriff der »Wiener Klassik«?**
 
 [[X]] Normativ-wertender Begriff des Klassischen
-[[X]] Regionale Eingrenzung auf Wien um 1800
-[[X]] Personalistische Beschränkung auf drei Komponisten (Haydn, Mozart, Beethoven)
-[[ ]] Alle europäischen Komponisten der Epoche
+[[ ]] Regionale Eingrenzung auf Salzburg um 1800
 [[X]] Stilbegriff (klassischer Stil)
 [[X]] Beschränkung auf bestimmte Gattungen
 
 **Wie wurde Beethoven in die Trias Haydn-Mozart-Beethoven integriert?**
 
-[[X]] Durch Infrastruktur: Verlage, Zeitschriften, Konzerthallen
-[[X]] Friedrich Rochlitz und die Allgemeine Musikalische Zeitung spielten Schlüsselrolle
-[[X]] Schrittweise Programmierung: Beethovens Sinfonien nach klassischen Werken aufführen
 [[ ]] Sofortige Akzeptanz nach seinen ersten Kompositionen
+[[X]] Friedrich Rochlitz und die Allgemeine Musikalische Zeitung (AmZ) spielten Schlüsselrolle
+[[X]] Durch Infrastruktur: Verlage, Zeitschriften, Konzerthallen
+[[X]] Konzertpolitik: Beethovens Sinfonien wurden in Leipzig mit 'klassischen' Werken von Haydn/Mozart zusammen aufgeführt
 
 **Welche historiographischen Probleme entstehen durch die Kanonisierung der »Wiener Klassik«?**
 
-[[X]] Frankreich, Italien, England entwickelten keine »klassische« Musik – Partialstil wird universalisiert
-[[X]] Teleologisierung der »Vorklassik« als bloßer »Humusboden«
-[[X]] Ausgrenzung von Komponisten wie Dussek, die nicht dem Kanon entsprechen
-[[X]] Abwertung durch »Noch nicht« – Komponisten werden nur als Vorstufe verstanden
-[[ ]] Zu viele Komponisten werden eingeschlossen
+[[X]] Die »Vorklassik« wird zur defizitären Vorstufe degradiert
+[[X]] Ausgrenzung von Komponisten der "2. und 3. Reihe"
+[[X]] Alle Wiener Kompositionen werden in das Zentrum des Interesses gerückt
+[[X]] Zu viele Komponisten werden ausgeschlossen
 
-**Erläutern Sie die historiographische Problematik, Carl Philipp Emanuel Bach als »Vorklassik-Komponisten« zu klassifizieren. Beziehen Sie sich auf die Konzepte »Teleologie« und »Erfüllung in sich selbst«.**
+**»Carl Philipp Emanuel Bach ist ein Komponist der Vorklassik«. Welche Problematik bringt diese Klassifikation mit sich? Erläutern Sie.**
 
-*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa einer Seite beantworten können – mit Fokus auf die Teleologisierung, die Einzigartigkeit seines Schaffens und die Problematik des »Noch-nicht«-Modells.*
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 2-3 Seiten beantworten können.*
 
-**Erörtern Sie, warum die Auswertung des regionalen und komposistischen eng begrenzten Klassikbegriffs zum allgemeinen Epochenbegriff historiographisch schwer vertretbar ist. Gehen Sie auf die europäische Partialität und die Konsequenzen für das Verständnis von »Vorklassik« ein.**
+**Erörtern Sie, warum eine Ausweitung des regionalen und komposistischen eng begrenzten Klassikbegriffs zum allgemeinen Epochenbegriff historiographisch schwer vertretbar ist. (Tipp: Deutschland vs. England, Frankreich, Italien).**
 
-*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 1–2 Seiten beantworten können – mit Referenzen auf nicht-wienerische Komponisten und das Konzept des »Partialstils«.*
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 2–4 Seiten beantworten können.*
 
 ## Übersichten
 

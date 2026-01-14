@@ -26,7 +26,7 @@ link:     ./style.css
 | 9  | 17.12.2025 | [Georg Friedrich Händel](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/haendel_georg_friedrich.md) / [Die Passion](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/passion_barock.md) |
 | -  | _Weihnachtspause_ | |
 | 10 | 07.01.2026 | Der Begriff ["Klassik"](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/klassik_begriff.md) / [Oper und Singspiel](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/oper_singspiel_klassik.md) |
-| 11 | 14.01.2026 | ["Schule"](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/schulen_mannheim_berlin.md) / [Streichquartett (Haydn)]() |
+| 11 | 14.01.2026 | [Schule | Empfindsamkeit | Streichquartett (Haydn)](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/schulen_mannheim_berlin.md) |
 | 12 | 21.01.2026 | [Kammermusik (Mozart)](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/kammermusik_klassik.md) |
 | 13 | 28.01.2026 | [Zur Symphonik Beethovens](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/beethoven_ludwig_van.md) |
 | 14 | 04.02.2026 | Offene Fragestunde zur Klausur oder: [Das Klavierlied](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/klavierlied.md) / [Charakterstücke](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/charakterstuecke.md) |
@@ -48,6 +48,4 @@ Klausurrelevante Themenblöcke:
 - [Georg Friedrich Händel](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/haendel_georg_friedrich.md)
 - [Klassik als Begriff](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/klassik_begriff.md)
 - [Oper und Singspiel](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/oper_singspiel_klassik.md)
-- [Der Begriff der Schule](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/schulen_mannheim_berlin.md)
-- [Streichquartett (Haydn)](#)
-<!-- - [Kammermusik (Mozart)](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/kammermusik_klassik.md)-->
+- [Schule | Empfindsamkeit | Streichquartett (Haydn)](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-mugesch-i/refs/heads/production/chapter/schulen_mannheim_berlin.md)
