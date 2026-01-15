@@ -607,7 +607,7 @@ Aufführung (2024)
 
     - Bewunderung für Mozarts Musik
 
-  > »Wie, hör ich sagen, in Berlin sollte so etwas auf die öffentliche Bühne kommen? [. . .] Dort sollte eine solche Mißgeburt menschlicher Erfindung sich hinschleichen? [. . .] Gesprochen wird nur wenig; den größten Theil des Textes beherrscht der Gesang; und wenn je eine Nation auf einen ihrer Mitgenossen stolz seyn konnte, so sey es Deutschland auf Mozart, dem Musikverfasser dieses Singspiels – Nie, gewiss nie [. . .] erreichte die Tonkunst eine höhere Stufe! [. . .] [Ich] hörte ein Singschauspiel, in welchem nach meinen Begriffen, das Auge gesättigt, das Ohr bezaubert, die Vernunft gekränkt, die Sittsamkeit beleidigt werden, und das Laster Tugend und Gefühl mit Füßen tritt – –«
+  > "Wie, hör ich sagen, in Berlin sollte so etwas auf die öffentliche Bühne kommen? \[…\] Dort sollte eine solche Mißgeburt menschlicher Erfindung sich hinschleichen? \[…\] Gesprochen wird nur wenig; den größten Theil des Textes beherrscht der Gesang; und wenn je eine Nation auf einen ihrer Mitgenossen stolz seyn konnte, so sey es Deutschland auf Mozart, dem Musikverfasser dieses Singspiels – Nie, gewiss nie \[…\] erreichte die Tonkunst eine höhere Stufe! \[…\] \[Ich\] hörte ein Singschauspiel, in welchem nach meinen Begriffen, das Auge gesättigt, das Ohr bezaubert, die Vernunft gekränkt, die Sittsamkeit beleidigt werden, und das Laster Tugend und Gefühl mit Füßen tritt – –"
 
 ## Quiz und Reflexion
 Zeit sich zu erinnern! Hier sind vier Wissensfragen (Multiple-Choice, 1–3 Antworten sind jeweils richtig) und zwei Verständnisfragen. Solche Fragen sollten nun beantworten werden können.
@@ -640,7 +640,7 @@ Zeit sich zu erinnern! Hier sind vier Wissensfragen (Multiple-Choice, 1–3 Antw
 [[X]] Bürgerliches Milieu statt aristokratische Stoffe
 [[ ]] Mythologische Stoffe
 
-**Erläutern Sie Glucks ästhetische Reform der Oper anhand eines Beispiels (z.B. »Orfeo ed Euridice«).**
+**Erläutern Sie Glucks ästhetische Reform der Oper anhand eines Beispiels (z.B. *Orfeo ed Euridice*).**
 
 *Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 2–3 Seiten beantworten können*
 

@@ -421,10 +421,10 @@ Zeit sich zu erinnern! Hier sind vier Wissensfragen (Multiple-Choice, 1–3 Antw
 
 **Welche historiographischen Probleme entstehen durch die Kanonisierung der »Wiener Klassik«?**
 
-[[X]] Die »Vorklassik« wird zur defizitären Vorstufe degradiert
+[[X]] Die "Vorklassik" wird zur defizitären Vorstufe degradiert
 [[X]] Ausgrenzung von Komponisten der "2. und 3. Reihe"
-[[X]] Alle Wiener Kompositionen werden in das Zentrum des Interesses gerückt
-[[X]] Zu viele Komponisten werden ausgeschlossen
+[[ ]] Alle Wiener Kompositionen werden in das Zentrum des Interesses gerückt
+[[ ]] Die Klassik in Frankreich und Italien wird nicht berücksichtigt
 
 **»Carl Philipp Emanuel Bach ist ein Komponist der Vorklassik«. Welche Problematik bringt diese Klassifikation mit sich? Erläutern Sie.**
 
