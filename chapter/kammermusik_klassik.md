@@ -466,3 +466,95 @@ Vergleich mit Haydns thematischer Arbeit
 > – Werner Keil: Musikgeschichte im Überblick, S. 178
 
 !?["Mozart - Klavierkonzert Nr. 23 | Christopher Park | Christoph Eschenbach | SWR Symphonieorchester"](https://www.youtube.com/watch?v=1R3bq1u-mbs "Mozart - Klavierkonzert Nr. 23 | Christopher Park | Christoph Eschenbach | SWR Symphonieorchester. Langsamer Satz 11:33–18:54")
+
+## Quiz und Reflexion
+Zeit sich zu erinnern! Hier sind vier Wissensfragen (Multiple-Choice, 1–3 Antworten sind jeweils richtig) und zwei Verständnisfragen. Solche Fragen sollten nun beantworten werden können.
+
+**Welche Rolle spielte Baron Gottfried van Swieten für Mozarts künstlerische Entwicklung?**
+
+[[X]] Er provozierte den Kontakt zur Musik von Johann Sebastian Bach
+[[ ]] Er war Mozarts Kompositionslehrer
+[[ ]] Er unterstütze Mozart lange Jahre finanziell
+[[X]] Er beauftragte Mozart mit Fugen-Arrangements für Streicherbesetzung
+
+**Was versteht man unter Mozarts 'galant-gelehrtem' Stil?**
+
+[[ ]] Ein ausschließlich an französischen Werken orientierter Stil
+[[ ]] Ein ausschließlich an italienischen Werken orientierter Stil
+[[X]] Eine Synthese aus älteren Satztechniken und freier Schreibart
+[[ ]] Ein Stil, der nur in seinen frühen Werken auftritt
+
+**Welche Besonderheiten kennzeichnen Mozarts Haydn-Quartette?**
+
+[[ ]] Sie sind auf Themen Joseph Haydns komponiert
+[[X]] Sie sind als Gruppe konzipiert (z.B. alternierende Mittelsätze)
+[[ ]] Sie wurden überwiegend in Moll komponiert
+[[X]] Sie weisen eine große Vielfalt auf (z.B. Tonarten und Taktarten)
+
+**Was sind charakteristische Merkmale der Mozatschen Quintette?**
+
+[[X]] Sie verdoppeln die Bratsche
+[[ ]] Es tritt immer eine Hauptstimme hervor
+[[X]] Sie sind für unterschiedliche Besetzungen komponiert
+[[ ]] Quintette haben immer fünf Violinen
+
+**Warum komponiert Mozart in den Jahren 1781–1785 eine Reihe von Streichquartetten? Erläutern Sie den Anlass, Vorläufer und die Besonderheiten an der Konzeption dieser Streichquartette.**
+
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 2–3 Seiten beantworten können*
+
+**Beschreiben Sie Mozarts Leistungen für die Gattung *Klavierkonzert*.**
+
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 2–3 Seiten beantworten können.*
+
+## Übersichten
+
+Alles auf einen Blick.
+
+Literatur
+---
+
+* Keil, Werner: *Musikgeschichte im Überblick*, 3. Auflage, Paderborn 2018
+
+Personen
+---
+
+* Bach, Johann Sebastian (1685–1750) -- Komponist
+* Einstein, Alfred (1880–1952) -- Musikhistoriker
+* Händel, Georg Friedrich (1685–1759) -- Komponist
+* Haydn, Joseph (1732–1809) -- Komponist, Freund Mozarts
+* Leutgeb, Joseph -- Hornvirtuose
+* Momigny, Jérôme-Joseph de -- Musiktheoretiker
+* Mozart, Constanze -- Ehefrau Wolfgang Amadés
+* Mozart, Leopold (1719–1787) -- Vater Wolfgang Amadés
+* Mozart, Wolfgang Amadé (1756–1791) -- Komponist
+* Schubert, Franz (1797–1828) -- Komponist (Vergleich)
+* Schiller, Friedrich (1759–1805) -- Dichter und Philosoph
+* Stadler, Anton -- Klarinettist und Bassetthornspieler 
+* Swieten, Baron Gottfried van (1730–1803) -- Musikliebhaber, Diplomat
+
+Werke
+---
+
+* Wolfgang Amadé Mozart
+
+  * Streichquartett G-Dur ([KV 387](https://www.youtube.com/watch?v=KA7k0qQ9l_0))
+  * Streichquartett d-Moll ([KV 421](https://www.youtube.com/watch?v=QLHDRzv2VzQ))
+  * Streichquartett Es-Dur ([KV 428](https://www.youtube.com/watch?v=QqPHGcW7JEw))
+  * Streichquartett B-Dur ([KV 458](https://www.youtube.com/watch?v=DYriC3gm2yI))
+  * Streichquartett A-Dur ([KV 464](https://www.youtube.com/watch?v=tbZLN_Uc87A))
+  * Streichquartett C-Dur ([KV 465](https://www.youtube.com/watch?v=f3oK4XVMARs)) -- "Dissonanzen-Quartett"
+  * Streichquintett C-Dur (KV 515)
+  * Streichquintett g-Moll (KV 516)
+  * Quintett Es-Dur (KV 452) -- Klavier und vier Bläser
+  * Hornquintett Es-Dur (KV 407) -- für Joseph Leutgeb
+  * Klarinettenquintett A-Dur (KV 581) -- für Anton Stadler
+  * Sinfonie Nr. 39 Es-Dur ([KV 543](https://www.youtube.com/watch?v=fAiF1PNlQ50))
+  * Sinfonie Nr. 40 g-Moll ([KV 550](https://www.youtube.com/watch?v=QyQ-POuTNn8))
+  * Sinfonie Nr. 41 C-Dur ([KV 551](https://www.youtube.com/watch?v=yZpFrydm6G4)) -- "Jupiter-Sinfonie"
+  * Klavierkonzert A-Dur ([KV 488](https://www.youtube.com/watch?v=1R3bq1u-mbs)
+
+* Joseph Haydn
+
+  * Sechs Streichquartette op. 33
+  * Streichquartett C-Dur, op. 33 Nr. 3 (Hob. III: 39) -- "Vogelquartett"
+
