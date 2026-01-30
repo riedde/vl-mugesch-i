@@ -627,7 +627,7 @@ Zeit sich zu erinnern! Hier sind ein paar Wissensfragen (Multiple-Choice, 1--3 A
 [[X]] Triosonaten-Besetzung (zwei Oberstimmen + Basso continuo)
 [[ ]] Der Kammerchor
 
-**Wählen Sie eine der folgenden Gattungen aus und beschreiben Sie deren charakteristische Merkmale (17./18. Jhd.).**
+**Suite, Sonate, Konzert – Wählen Sie eine Gattung aus und beschreiben Sie deren charakteristische Merkmale (17./18. Jhd.).**
 
 *Sie sollten diese Aufgabe mit einem zusammenhängenden Text von etwa 2–3 Seiten beantworten können.*
 
