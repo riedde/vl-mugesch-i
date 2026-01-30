@@ -424,12 +424,12 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 [[X]] Begriffssystem: Tonika, Subdominante, Dominante
 [[ ]] Ablehnung aller italienischen Harmonik-Prinzipien
 
-**Welche der vier französischen "Querellen" behandelten folgende Themen?**
+**Welche Themenkomplexe waren auch Inhalt einer französischen "Querelle"?**
 
-[[ ]] Erste Querelle: Monodie vs. Polyphonie
-[[X]] Dritte Querelle: Lullisten vs. Rameauneurs
-[[X]] Querelle entre les anciens et les modernes: Vergleich Antike vs. Moderne
-[[X]] Querelle des bouffons: französische Oper vs. italienische opera buffa
+[[ ]] Monodie vs. Polyphonie
+[[X]] Lullisten vs. Rameauneurs
+[[X]] Querelle entre les anciens et les modernes (Antike vs. Moderne)
+[[X]] Querelle des bouffons (französische Oper vs. italienische *opera buffa*)
 
 **Was kennzeichnet Lullys "Tragédie en musique"?**
 
