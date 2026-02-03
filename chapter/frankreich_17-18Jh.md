@@ -428,8 +428,8 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 
 [[ ]] Monodie vs. Polyphonie
 [[X]] Lullisten vs. Rameauneurs
-[[X]] Querelle entre les anciens et les modernes (Antike vs. Moderne)
-[[X]] Querelle des bouffons (französische Oper vs. italienische *opera buffa*)
+[[X]] Antike vs. Moderne
+[[X]] Französische Oper vs. italienische *opera buffa*
 
 **Was kennzeichnet Lullys "Tragédie en musique"?**
 
@@ -440,10 +440,11 @@ Zeit sich zu erinnern! Hier sind drei Wissensfragen (Multiple-Choice, 1-3 Antwor
 
 **Welche programmatischen Innovationen entwickelten französische Komponisten?**
 
-[[X]] Couperin: Charakterstücke mit Affekt-Farb-Zuordnungen ("Les Folies françoises")
-[[X]] Marais: Deskriptive Gambenmusik ("Le Tableau de l'operation de la Taille")
-[[ ]] Rameau: Reine Instrumentalmusik ohne programmatische Bezüge
+[[X]] Charakterstücke mit Affekt-Farb-Zuordnungen
+[[X]] Deskriptive Gambenmusik
+[[ ]] Reine Instrumentalmusik ohne programmatische Bezüge (Rameau)
 [[X]] Allmähliche Verwendung programmatischer Titel für reine Tänzsätze
+[[?]] Beispielwerke: *Les Folies françoises* (Couperin), *Le Tableau de l'operation de la Taille* (Marais)
 
 **Erläutern Sie die Bedeutung der französischen "Querelles" für die Entwicklung einer eigenständigen französischen Musikästhetik. Gehen Sie dabei auf mindestens zwei verschiedene Querellen ein.**
 
