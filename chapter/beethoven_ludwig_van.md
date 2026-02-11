@@ -215,3 +215,32 @@ Dass die 3. Symphonie mit weltanschaulichen Gehalten aufgeladen sei, wurde und w
   - Peter Schleuning: Symphonie als Darstellung einer "prometheischen Menschwerdung" mit der Vorstellung der "neuen Menschwerdung Beethovens" verbunden. 
 
 - **Idee des Heroischen** kann und sollte (aus heutiger Perspektive) als zeitgebunden betrachtet werden.
+
+## Quiz und Reflexion
+
+Zeit sich zu erinnern! Hier sind vier Wissensfragen (Multiple-Choice, 1-3 Antworten sind jeweils richtig) und eine Verständnisfrage. Solche Fragen sollten nun beantworten werden können.
+
+**Welche Merkmale charakterisieren den Sonatensatz nach Beethoven in der Eroica?**
+
+[[X]] Der Prozess ist zielgerichtet und bestimmt die Struktur des gesamten Werkes
+[[ ]] Der Sonatensatz folgt strikt den tradierten Formvorschriften des 18. Jahrhunderts
+[[X]] Die Idee des Monumentalen und der "großen Form" prägt den Satz
+[[X]] Die "thematische Konfiguration" (Dalhaus) ersetzt den traditionellen Themenbegriff
+
+**Welche Aussagen zur ursprünglichen Betitelung und Bedeutung der 3. Symphonie sind zutreffend?**
+
+[[X]] Die Symphonie war ursprünglich mit "Bonaparte" betitelt
+[[ ]] Beethoven erlielt den Auftrag eine Symphonie für Napoleons Könungszeremonie zu komponieren
+[[X]] Die Kaiserkrönung Napoleons (1804) führte zur Tilgung des Titels
+[[ ]] Die Symphonie war zunächst Eros gewidmet
+
+**Welche traditionellen Formate des symphonischen Finales werden durch Beethovens Eroica abgelöst?**
+
+[[X]] Rondo
+[[X]] Variationensatz
+[[ ]] Freie apotheotische Struktur
+[[X]] Sonatensatz
+
+**Erläutern Sie, wie die 3. Symphonie "Eroica" sowohl als autonomes Kunstwerk als auch als Ideenkunstwerk mit weltanschaulichen Gehalten zu verstehen ist.**
+
+*Sie sollten diese Aufgabe mit einem zusammenhängenden Text von ca. 2 Seiten beantworten können.*
