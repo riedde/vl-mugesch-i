@@ -22,11 +22,11 @@ link:     ./style.css
  <!-- style="width: 40%;" -->
 ![Porträt von Dennis Ried](https://www.campus-halensis.de/site/assets/files/216410/dscf3783.-3zu2.1000x0.jpg "Foto: Maike Glöckner, https://www.campus-halensis.de/artikel/dennis-ried/")
 
-* 2010–2017 : Germanistik B.A.
+* 2010–2014 : Germanistik B.A.
 
   * Karlsruher Institut für Technologie (KIT)
 
-* 2017–2019 : Musikwissenschaft B.A./M.A.
+* 2014–2017 : Musikwissenschaft B.A./M.A.
 
   * Hochschule für Musik Karlsruhe
 
@@ -40,7 +40,7 @@ link:     ./style.css
   * Universität Paderborn
   * Hans Werner Henze: Digitale Briefedition
 
-* 2023: Promotion an der Hochschule für Musik Karlsruhe
+* 2017–2023: Promotionsstudium an der Hochschule für Musik Karlsruhe
 * 2024: Ruf (W1) der Martin-Luther-Universität Halle-Wittenberg
 * 2025–: Juniorprofessur für Musikwissenschaft mit Schwerpunkt _Musikedition und Digital Humanities_
 

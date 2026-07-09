@@ -631,7 +631,7 @@ Zeit sich zu erinnern! Hier sind vier Wissensfragen (Multiple-Choice, 1–3 Antw
 [[X]] Orchesterbegleitete Rezitative
 [[X]] Längere Szenenkomplexe statt starrer Rezitativ-Arie-Abfolge
 [[ ]] Virtuose Kastraten-Arien im Mittelpunkt der Handlung
-[[ ]] Historische statt Mythologische Stoffe
+[[ ]] Vermehrte Verwendung historischer Stoffe
 
 **Welche Merkmale unterscheiden das deutsche Singspiel von der italienischen Opera buffa?**
 

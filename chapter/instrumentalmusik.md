@@ -603,7 +603,7 @@ Zeit sich zu erinnern! Hier sind ein paar Wissensfragen (Multiple-Choice, 1--3 A
 
 [[X]] Er legte ein Modell vor, das als mustergültig angenommen wurde
 [[ ]] Er erfand der Instrumentalmusik neu
-[[X]] Er hinterlies sechzehn Werksammlungen, jede aus zwölf Sonaten bestehend
+[[X]] Er hinterlies sechs Werksammlungen, jede aus zwölf Sonaten bestehend
 [[ ]] Er komponierte ausschließlich Triosonaten
 
 **Was kann der Begriff "concertare" in der Renaissance alles bezeichnen?**
